@@ -1,8 +1,15 @@
 {
   "country": "Syria",
-  "last_updated": "2026-03-30T14:54:30.120372+00:00",
-  "story_count": 18,
+  "last_updated": "2026-03-31T00:04:32.109615+00:00",
+  "story_count": 21,
   "stories": [
+    {
+      "title": "Sharaa: Syria’s Geography Positions It as a Future Hub for Europe’s Energy Supply Chains",
+      "source": "Syrian Observer",
+      "url": "https://syrianobserver.com/foreign-actors/sharaa-syrias-geography-positions-it-as-a-future-hub-for-europes-energy-supply-chains.html",
+      "published_date": "2026-03-30T21:00:57+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Germany’s FM tells President al-Sharaa ‘We stand with Syria’",
       "source": "Al Jazeera",
@@ -22,20 +29,6 @@
       "source": "Syrian Observer",
       "url": "https://syrianobserver.com/foreign-actors/canada-maintains-position-no-immediate-plans-to-reopen-embassy-in-damascus.html",
       "published_date": "2026-03-26T21:00:08+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "A Presidential Fiscal Proclamation Tested by Economic Reality",
-      "source": "Syrian Observer",
-      "url": "https://syrianobserver.com/society/a-presidential-fiscal-proclamation-tested-by-economic-reality.html",
-      "published_date": "2026-03-23T21:01:43+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Selective Law and Constitutional Neglect in the Administrative Transition",
-      "source": "Syrian Observer",
-      "url": "https://syrianobserver.com/syrian-actors/selective-law-and-constitutional-neglect-in-the-administrative-transition.html",
-      "published_date": "2026-03-23T21:00:36+00:00",
       "category": "Diplomacy"
     },
     {
@@ -95,6 +88,13 @@
       "category": "Military"
     },
     {
+      "title": "In Berlin, Syria’s Sharaa Seeks Investment, Stability, and a New Role in Europe’s Energy Future",
+      "source": "Syrian Observer",
+      "url": "https://syrianobserver.com/syrian-actors/in-berlin-syrias-sharaa-seeks-investment-stability-and-a-new-role-in-europes-energy-future.html",
+      "published_date": "2026-03-30T21:00:38+00:00",
+      "category": "Energy"
+    },
+    {
       "title": "Why does the US have Iran's Kharg Island in its sights?",
       "source": "BBC News",
       "url": "https://www.bbc.com/news/articles/c8jxzlwvd8ro?at_medium=RSS&at_campaign=rss",
@@ -102,11 +102,32 @@
       "category": "Energy"
     },
     {
+      "title": "UN Report Warns of Sharp Rise in Living Costs as Syrian Pound Continues to Decline",
+      "source": "Syrian Observer",
+      "url": "https://syrianobserver.com/society/un-report-warns-of-sharp-rise-in-living-costs-as-syrian-pound-continues-to-decline.html",
+      "published_date": "2026-03-30T21:00:12+00:00",
+      "category": "Economy"
+    },
+    {
       "title": "Hassakeh Deluged: 120 Families Evacuated, Over 300 Homes and Hundreds of Agricultural Hectares Affected",
       "source": "Syrian Observer",
       "url": "https://syrianobserver.com/syrian-actors/hassakeh-deluged-120-families-evacuated-over-300-homes-and-hundreds-of-agricultural-hectares-affected.html",
       "published_date": "2026-03-25T21:00:03+00:00",
       "category": "Economy"
+    },
+    {
+      "title": "‘Dangerous escalation’: World reacts to Israel passing death penalty law",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/3/30/dangerous-escalation-world-reacts-to-israel-passing-death-penalty-law?traffic_source=rss",
+      "published_date": "2026-03-30T21:29:12+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Most Syrian refugees in Germany expected to return home in three years, Merz says",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cy41vqx4pdzo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-03-30T20:07:17+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Syria’s al-Sharaa visits Germany to talk reconstruction, return of refugees",
