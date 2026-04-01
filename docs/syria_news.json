@@ -1,6 +1,6 @@
 {
   "country": "Syria",
-  "last_updated": "2026-04-01T00:03:27.825424+00:00",
+  "last_updated": "2026-04-01T14:56:03.293788+00:00",
   "story_count": 27,
   "stories": [
     {
@@ -60,6 +60,13 @@
       "category": "Diplomacy"
     },
     {
+      "title": "Israel kills 7 people in Beirut, Hezbollah fights invasion in south Lebanon",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/4/1/israeli-strikes-on-beirut-kill-7-hezbollah-fights-back-in-southern-lebanon?traffic_source=rss",
+      "published_date": "2026-04-01T10:05:17+00:00",
+      "category": "Military"
+    },
+    {
       "title": "Land Day in Gaza: Between memory and the fight for what remains",
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/features/2026/3/30/land-day-in-gaza-between-memory-and-the-fight-for-what-remains?traffic_source=rss",
@@ -99,20 +106,6 @@
       "source": "Syrian Observer",
       "url": "https://syrianobserver.com/syrian-actors/relative-of-bashar-al-assad-convicted-for-cocaine-and-arms-trafficking-to-colombian-terrorists.html",
       "published_date": "2026-03-25T21:00:42+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Missile Strike from Iraq Sparks New Tensions in Hassakeh",
-      "source": "Syrian Observer",
-      "url": "https://syrianobserver.com/foreign-actors/missile-strike-from-iraq-sparks-new-tensions-in-hassakeh.html",
-      "published_date": "2026-03-25T09:41:07+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "The Proclamations of Sheikh al-Hijri: Embracing Strategic Shifts and the Pursuit of Self-Determination",
-      "source": "Syrian Observer",
-      "url": "https://syrianobserver.com/syrian-actors/the-proclamations-of-sheikh-al-hijri-embracing-strategic-shifts-and-the-pursuit-of-self-determination.html",
-      "published_date": "2026-03-25T07:36:37+00:00",
       "category": "Military"
     },
     {
@@ -156,6 +149,13 @@
       "url": "https://syrianobserver.com/syrian-actors/hassakeh-deluged-120-families-evacuated-over-300-homes-and-hundreds-of-agricultural-hectares-affected.html",
       "published_date": "2026-03-25T21:00:03+00:00",
       "category": "Economy"
+    },
+    {
+      "title": "UK finds pro-Palestine protest organisers guilty of breaching police rules",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/4/1/pro-palestine-civil-leaders-convicted-for-breaching-protest-rules-in-london?traffic_source=rss",
+      "published_date": "2026-04-01T12:27:20+00:00",
+      "category": "Local Events"
     },
     {
       "title": "‘Dangerous escalation’: World reacts to Israel passing death penalty law",
