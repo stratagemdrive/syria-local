@@ -1,6 +1,6 @@
 {
   "country": "Syria",
-  "last_updated": "2026-04-02T00:01:13.074860+00:00",
+  "last_updated": "2026-04-02T14:42:18.656833+00:00",
   "story_count": 29,
   "stories": [
     {
@@ -67,6 +67,13 @@
       "category": "Diplomacy"
     },
     {
+      "title": "Burkina Faso military, allies committing ‘horrific’ civilian abuses: HRW",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/4/2/burkina-faso-military-allies-committing-horrific-civilian-abuses-hrw?traffic_source=rss",
+      "published_date": "2026-04-02T13:53:23+00:00",
+      "category": "Military"
+    },
+    {
       "title": "Israel kills 7 people in Beirut, Hezbollah fights invasion in south Lebanon",
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/news/2026/4/1/israeli-strikes-on-beirut-kill-7-hezbollah-fights-back-in-southern-lebanon?traffic_source=rss",
@@ -113,13 +120,6 @@
       "source": "Syrian Observer",
       "url": "https://syrianobserver.com/syrian-actors/in-berlin-syrias-sharaa-seeks-investment-stability-and-a-new-role-in-europes-energy-future.html",
       "published_date": "2026-03-30T21:00:38+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Why does the US have Iran's Kharg Island in its sights?",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c8jxzlwvd8ro?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-03-26T14:03:39+00:00",
       "category": "Energy"
     },
     {
