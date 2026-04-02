@@ -1,8 +1,15 @@
 {
   "country": "Syria",
-  "last_updated": "2026-04-01T14:56:03.293788+00:00",
-  "story_count": 27,
+  "last_updated": "2026-04-02T00:01:13.074860+00:00",
+  "story_count": 29,
   "stories": [
+    {
+      "title": "A Year On: Is Syria’s Transitional Government Building a State or Losing Its Footing?",
+      "source": "Syrian Observer",
+      "url": "https://syrianobserver.com/syrian-actors/a-year-on-is-syrias-transitional-government-building-a-state-or-losing-its-footing.html",
+      "published_date": "2026-04-01T16:47:37+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Iran ambassador refuses to leave Lebanon despite expulsion order",
       "source": "Al Jazeera",
@@ -95,20 +102,6 @@
       "category": "Military"
     },
     {
-      "title": "Fidan Engages Shibani on the Conflict’s Trajectory and Regional De-escalation Efforts",
-      "source": "Syrian Observer",
-      "url": "https://syrianobserver.com/foreign-actors/fidan-engages-shibani-on-the-conflicts-trajectory-and-regional-de-escalation-efforts.html",
-      "published_date": "2026-03-25T21:00:49+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Relative of Bashar al-Assad Convicted for Cocaine and Arms Trafficking to Colombian Terrorists",
-      "source": "Syrian Observer",
-      "url": "https://syrianobserver.com/syrian-actors/relative-of-bashar-al-assad-convicted-for-cocaine-and-arms-trafficking-to-colombian-terrorists.html",
-      "published_date": "2026-03-25T21:00:42+00:00",
-      "category": "Military"
-    },
-    {
       "title": "Syria Positions Itself as the Safe Artery for East-West Energy Flows",
       "source": "Syrian Observer",
       "url": "https://syrianobserver.com/syrian-actors/syria-positions-itself-as-the-safe-artery-for-east-west-energy-flows.html",
@@ -130,6 +123,13 @@
       "category": "Energy"
     },
     {
+      "title": "President Sharaa: Syria Is Among the Best Investment Opportunities in the World",
+      "source": "Syrian Observer",
+      "url": "https://syrianobserver.com/society/president-sharaa-syria-is-among-the-best-investment-opportunities-in-the-world.html",
+      "published_date": "2026-04-01T21:00:50+00:00",
+      "category": "Economy"
+    },
+    {
       "title": "Damascus and London: An Economic Harvest from a Long-Standing Path of Support",
       "source": "Syrian Observer",
       "url": "https://syrianobserver.com/foreign-actors/damascus-and-london-an-economic-harvest-from-a-long-standing-path-of-support.html",
@@ -144,11 +144,25 @@
       "category": "Economy"
     },
     {
-      "title": "Hassakeh Deluged: 120 Families Evacuated, Over 300 Homes and Hundreds of Agricultural Hectares Affected",
+      "title": "Renowned Rights defender Joumana Seif Resigns from the Transitional Justice Commission",
       "source": "Syrian Observer",
-      "url": "https://syrianobserver.com/syrian-actors/hassakeh-deluged-120-families-evacuated-over-300-homes-and-hundreds-of-agricultural-hectares-affected.html",
-      "published_date": "2026-03-25T21:00:03+00:00",
-      "category": "Economy"
+      "url": "https://syrianobserver.com/syrian-actors/renowned-rights-defender-joumana-seif-resigns-from-the-transitional-justice-commission.html",
+      "published_date": "2026-04-01T21:00:56+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "EU Outlines Three Priorities to Support Syria’s Transition",
+      "source": "Syrian Observer",
+      "url": "https://syrianobserver.com/foreign-actors/eu-outlines-three-priorities-to-support-syrias-transition.html",
+      "published_date": "2026-04-01T21:00:24+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Red lines and death threats: Freedom of expression wanes in Suwayda",
+      "source": "Syria Direct",
+      "url": "https://syriadirect.org/red-lines-and-death-threats-freedom-of-expression-wanes-in-suwayda/",
+      "published_date": "2026-04-01T18:03:28+00:00",
+      "category": "Local Events"
     },
     {
       "title": "UK finds pro-Palestine protest organisers guilty of breaching police rules",
