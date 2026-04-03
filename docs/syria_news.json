@@ -1,7 +1,7 @@
 {
   "country": "Syria",
-  "last_updated": "2026-04-02T14:42:18.656833+00:00",
-  "story_count": 29,
+  "last_updated": "2026-04-03T00:03:24.925067+00:00",
+  "story_count": 31,
   "stories": [
     {
       "title": "A Year On: Is Syria’s Transitional Government Building a State or Losing Its Footing?",
@@ -57,13 +57,6 @@
       "source": "Syrian Observer",
       "url": "https://syrianobserver.com/syrian-actors/a-year-on-syrias-transitional-government-between-consolidation-and-drift.html",
       "published_date": "2026-03-29T21:00:35+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Canada Maintains Position: No Immediate Plans to Reopen Embassy in Damascus",
-      "source": "Syrian Observer",
-      "url": "https://syrianobserver.com/foreign-actors/canada-maintains-position-no-immediate-plans-to-reopen-embassy-in-damascus.html",
-      "published_date": "2026-03-26T21:00:08+00:00",
       "category": "Diplomacy"
     },
     {
@@ -123,6 +116,20 @@
       "category": "Energy"
     },
     {
+      "title": "Why does the US have Iran's Kharg Island in its sights?",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c8jxzlwvd8ro?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-03-30T12:11:07+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "The New Wage Decree: Economic Lift or Inflationary Trap?",
+      "source": "Syrian Observer",
+      "url": "https://syrianobserver.com/syrian-actors/the-new-wage-decree-economic-lift-or-inflationary-trap.html",
+      "published_date": "2026-04-02T23:15:12+00:00",
+      "category": "Economy"
+    },
+    {
       "title": "President Sharaa: Syria Is Among the Best Investment Opportunities in the World",
       "source": "Syrian Observer",
       "url": "https://syrianobserver.com/society/president-sharaa-syria-is-among-the-best-investment-opportunities-in-the-world.html",
@@ -142,6 +149,20 @@
       "url": "https://syrianobserver.com/society/un-report-warns-of-sharp-rise-in-living-costs-as-syrian-pound-continues-to-decline.html",
       "published_date": "2026-03-30T21:00:12+00:00",
       "category": "Economy"
+    },
+    {
+      "title": "Between Jurisprudence and Policy: The Prospect of Repatriating Syrian Refugees from Germany",
+      "source": "Syrian Observer",
+      "url": "https://syrianobserver.com/refugees/between-jurisprudence-and-policy-the-prospect-of-repatriating-syrian-refugees-from-germany.html",
+      "published_date": "2026-04-02T23:13:41+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Slogans and Sentiment: The Displacement of Politics in Syria",
+      "source": "Syrian Observer",
+      "url": "https://syrianobserver.com/syrian-actors/slogans-and-sentiment-the-displacement-of-politics-in-syria.html",
+      "published_date": "2026-04-02T23:11:42+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Renowned Rights defender Joumana Seif Resigns from the Transitional Justice Commission",
@@ -197,13 +218,6 @@
       "source": "Syrian Observer",
       "url": "https://syrianobserver.com/syrian-actors/un-inquiry-finds-grave-violations-against-alawite-civilians-in-syrias-coastal-region.html",
       "published_date": "2026-03-29T21:00:23+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Suweida: National Guard Detains Residents After Refusal to Raise Israeli Flag",
-      "source": "Syrian Observer",
-      "url": "https://syrianobserver.com/syrian-actors/suweida-national-guard-detains-residents-after-refusal-to-raise-israeli-flag.html",
-      "published_date": "2026-03-26T21:00:35+00:00",
       "category": "Local Events"
     }
   ]
