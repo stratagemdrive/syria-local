@@ -1,6 +1,6 @@
 {
   "country": "Syria",
-  "last_updated": "2026-04-03T12:06:15.765041+00:00",
+  "last_updated": "2026-04-04T00:01:10.812111+00:00",
   "story_count": 30,
   "stories": [
     {
@@ -88,13 +88,6 @@
       "category": "Military"
     },
     {
-      "title": "UN human rights chief calls on US to conclude probe into Iran school strike",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c75kzk3lgl5o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-03-27T13:25:57+00:00",
-      "category": "Military"
-    },
-    {
       "title": "Syria Positions Itself as the Safe Artery for East-West Energy Flows",
       "source": "Syrian Observer",
       "url": "https://syrianobserver.com/syrian-actors/syria-positions-itself-as-the-safe-artery-for-east-west-energy-flows.html",
@@ -142,6 +135,13 @@
       "url": "https://syrianobserver.com/society/un-report-warns-of-sharp-rise-in-living-costs-as-syrian-pound-continues-to-decline.html",
       "published_date": "2026-03-30T21:00:12+00:00",
       "category": "Economy"
+    },
+    {
+      "title": "Two dozen Democrat-led states sue Trump over mail-in ballot limits",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/4/3/two-dozen-democrat-led-states-sue-trump-over-mail-in-ballot-limits?traffic_source=rss",
+      "published_date": "2026-04-03T19:28:35+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Between Jurisprudence and Policy: The Prospect of Repatriating Syrian Refugees from Germany",
