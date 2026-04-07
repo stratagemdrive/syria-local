@@ -1,7 +1,7 @@
 {
   "country": "Syria",
-  "last_updated": "2026-04-06T14:16:46.242587+00:00",
-  "story_count": 28,
+  "last_updated": "2026-04-07T00:04:54.336618+00:00",
+  "story_count": 25,
   "stories": [
     {
       "title": "A Diplomatic Convergence in Damascus: Presidents Sharaa and Zelensky Meet with Fidan",
@@ -60,11 +60,11 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Sharaa: Syria’s Geography Positions It as a Future Hub for Europe’s Energy Supply Chains",
-      "source": "Syrian Observer",
-      "url": "https://syrianobserver.com/foreign-actors/sharaa-syrias-geography-positions-it-as-a-future-hub-for-europes-energy-supply-chains.html",
-      "published_date": "2026-03-30T21:00:57+00:00",
-      "category": "Diplomacy"
+      "title": "Ten killed in Israeli strikes and clashes between Hamas and militia in Gaza, local sources say",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c77md512n71o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-04-06T19:11:20+00:00",
+      "category": "Military"
     },
     {
       "title": "Burkina Faso military, allies committing ‘horrific’ civilian abuses: HRW",
@@ -81,17 +81,17 @@
       "category": "Military"
     },
     {
+      "title": "Cairo faces darker nights as global energy prices continue to soar",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/6/cairo-faces-darker-nights-as-global-energy-prices-continue-to-soar?traffic_source=rss",
+      "published_date": "2026-04-06T17:46:59+00:00",
+      "category": "Energy"
+    },
+    {
       "title": "Syria Positions Itself as the Safe Artery for East-West Energy Flows",
       "source": "Syrian Observer",
       "url": "https://syrianobserver.com/syrian-actors/syria-positions-itself-as-the-safe-artery-for-east-west-energy-flows.html",
       "published_date": "2026-03-31T21:00:09+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "In Berlin, Syria’s Sharaa Seeks Investment, Stability, and a New Role in Europe’s Energy Future",
-      "source": "Syrian Observer",
-      "url": "https://syrianobserver.com/syrian-actors/in-berlin-syrias-sharaa-seeks-investment-stability-and-a-new-role-in-europes-energy-future.html",
-      "published_date": "2026-03-30T21:00:38+00:00",
       "category": "Energy"
     },
     {
@@ -113,13 +113,6 @@
       "source": "Syrian Observer",
       "url": "https://syrianobserver.com/foreign-actors/damascus-and-london-an-economic-harvest-from-a-long-standing-path-of-support.html",
       "published_date": "2026-03-31T21:00:17+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "UN Report Warns of Sharp Rise in Living Costs as Syrian Pound Continues to Decline",
-      "source": "Syrian Observer",
-      "url": "https://syrianobserver.com/society/un-report-warns-of-sharp-rise-in-living-costs-as-syrian-pound-continues-to-decline.html",
-      "published_date": "2026-03-30T21:00:12+00:00",
       "category": "Economy"
     },
     {
@@ -183,20 +176,6 @@
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/news/2026/4/1/pro-palestine-civil-leaders-convicted-for-breaching-protest-rules-in-london?traffic_source=rss",
       "published_date": "2026-04-01T12:27:20+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "‘Dangerous escalation’: World reacts to Israel passing death penalty law",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/3/30/dangerous-escalation-world-reacts-to-israel-passing-death-penalty-law?traffic_source=rss",
-      "published_date": "2026-03-30T21:29:12+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Most Syrian refugees in Germany expected to return home in three years, Merz says",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cy41vqx4pdzo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-03-30T20:07:17+00:00",
       "category": "Local Events"
     }
   ]
