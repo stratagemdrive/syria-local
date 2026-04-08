@@ -1,7 +1,7 @@
 {
   "country": "Syria",
-  "last_updated": "2026-04-08T05:31:09.603150+00:00",
-  "story_count": 22,
+  "last_updated": "2026-04-08T14:59:46.074957+00:00",
+  "story_count": 20,
   "stories": [
     {
       "title": "Syria Strengthens Regional Ties: Diplomatic Solidarity with Lebanon, Jordan, and the UAE",
@@ -64,13 +64,6 @@
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/news/2026/4/2/burkina-faso-military-allies-committing-horrific-civilian-abuses-hrw?traffic_source=rss",
       "published_date": "2026-04-02T13:53:23+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Israel kills 7 people in Beirut, Hezbollah fights invasion in south Lebanon",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/4/1/israeli-strikes-on-beirut-kill-7-hezbollah-fights-back-in-southern-lebanon?traffic_source=rss",
-      "published_date": "2026-04-01T10:05:17+00:00",
       "category": "Military"
     },
     {
@@ -148,13 +141,6 @@
       "source": "Syria Direct",
       "url": "https://syriadirect.org/red-lines-and-death-threats-freedom-of-expression-wanes-in-suwayda/",
       "published_date": "2026-04-01T18:03:28+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "UK finds pro-Palestine protest organisers guilty of breaching police rules",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/4/1/pro-palestine-civil-leaders-convicted-for-breaching-protest-rules-in-london?traffic_source=rss",
-      "published_date": "2026-04-01T12:27:20+00:00",
       "category": "Local Events"
     }
   ]
