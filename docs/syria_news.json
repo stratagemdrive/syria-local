@@ -1,8 +1,29 @@
 {
   "country": "Syria",
-  "last_updated": "2026-04-07T14:58:23.814314+00:00",
-  "story_count": 25,
+  "last_updated": "2026-04-08T05:31:09.603150+00:00",
+  "story_count": 22,
   "stories": [
+    {
+      "title": "Syria Strengthens Regional Ties: Diplomatic Solidarity with Lebanon, Jordan, and the UAE",
+      "source": "Syrian Observer",
+      "url": "https://syrianobserver.com/foreign-actors/syria-strengthens-regional-ties-diplomatic-solidarity-with-lebanon-jordan-and-the-uae.html",
+      "published_date": "2026-04-06T21:00:56+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "President Sharaa: Zelensky’s Visit Marks Syria’s Expanding International Horizons",
+      "source": "Syrian Observer",
+      "url": "https://syrianobserver.com/foreign-actors/president-sharaa-zelenskys-visit-marks-syrias-expanding-international-horizons.html",
+      "published_date": "2026-04-06T21:00:54+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Damascus: Authorities Apprehend Suspects in the Incursion upon the UAE Embassy",
+      "source": "Syrian Observer",
+      "url": "https://syrianobserver.com/syrian-actors/damascus-authorities-apprehend-suspects-in-the-incursion-upon-the-uae-embassy.html",
+      "published_date": "2026-04-06T21:00:16+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "A Diplomatic Convergence in Damascus: Presidents Sharaa and Zelensky Meet with Fidan",
       "source": "Syrian Observer",
@@ -29,34 +50,6 @@
       "source": "Syrian Observer",
       "url": "https://syrianobserver.com/syrian-actors/a-year-on-is-syrias-transitional-government-building-a-state-or-losing-its-footing.html",
       "published_date": "2026-04-01T16:47:37+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Iran ambassador refuses to leave Lebanon despite expulsion order",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/3/31/iran-ambassador-refuses-to-leave-lebanon-despite-expulsion-order?traffic_source=rss",
-      "published_date": "2026-03-31T21:43:35+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Diplomatic Friction: Berlin’s Divisive Reception of Ahmad al-Sharaa",
-      "source": "Syrian Observer",
-      "url": "https://syrianobserver.com/foreign-actors/diplomatic-friction-berlins-divisive-reception-of-ahmad-al-sharaa.html",
-      "published_date": "2026-03-31T21:00:01+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Analysis: Hezbollah backs Iran ambassador as conflict deepens Lebanon rifts",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/3/31/analysis-hezbollah-backs-iran-ambassador-as-conflict-deepens-lebanon-rifts?traffic_source=rss",
-      "published_date": "2026-03-31T19:37:35+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Merz criticised after calling for Syrians in Germany to ‘go back’ home",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/mar/31/friedrich-merz-criticised-syrians-germany-return",
-      "published_date": "2026-03-31T17:24:54+00:00",
       "category": "Diplomacy"
     },
     {
@@ -88,13 +81,6 @@
       "category": "Energy"
     },
     {
-      "title": "Syria Positions Itself as the Safe Artery for East-West Energy Flows",
-      "source": "Syrian Observer",
-      "url": "https://syrianobserver.com/syrian-actors/syria-positions-itself-as-the-safe-artery-for-east-west-energy-flows.html",
-      "published_date": "2026-03-31T21:00:09+00:00",
-      "category": "Energy"
-    },
-    {
       "title": "The New Wage Decree: Economic Lift or Inflationary Trap?",
       "source": "Syrian Observer",
       "url": "https://syrianobserver.com/syrian-actors/the-new-wage-decree-economic-lift-or-inflationary-trap.html",
@@ -106,13 +92,6 @@
       "source": "Syrian Observer",
       "url": "https://syrianobserver.com/society/president-sharaa-syria-is-among-the-best-investment-opportunities-in-the-world.html",
       "published_date": "2026-04-01T21:00:50+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Damascus and London: An Economic Harvest from a Long-Standing Path of Support",
-      "source": "Syrian Observer",
-      "url": "https://syrianobserver.com/foreign-actors/damascus-and-london-an-economic-harvest-from-a-long-standing-path-of-support.html",
-      "published_date": "2026-03-31T21:00:17+00:00",
       "category": "Economy"
     },
     {
