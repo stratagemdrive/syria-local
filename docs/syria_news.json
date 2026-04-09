@@ -1,6 +1,6 @@
 {
   "country": "Syria",
-  "last_updated": "2026-04-09T00:03:33.225802+00:00",
+  "last_updated": "2026-04-09T16:07:10.064087+00:00",
   "story_count": 17,
   "stories": [
     {
@@ -53,17 +53,17 @@
       "category": "Diplomacy"
     },
     {
+      "title": "Al Jazeera condemns killing of journalist in Israeli strike in Gaza",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cg40nqzvwq2o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-04-09T11:39:56+00:00",
+      "category": "Military"
+    },
+    {
       "title": "Ten killed in Israeli strikes and clashes between Hamas and militia in Gaza, local sources say",
       "source": "BBC News",
       "url": "https://www.bbc.com/news/articles/c77md512n71o?at_medium=RSS&at_campaign=rss",
       "published_date": "2026-04-06T19:11:20+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Burkina Faso military, allies committing ‘horrific’ civilian abuses: HRW",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/4/2/burkina-faso-military-allies-committing-horrific-civilian-abuses-hrw?traffic_source=rss",
-      "published_date": "2026-04-02T13:53:23+00:00",
       "category": "Military"
     },
     {
