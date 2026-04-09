@@ -1,8 +1,15 @@
 {
   "country": "Syria",
-  "last_updated": "2026-04-08T14:59:46.074957+00:00",
-  "story_count": 20,
+  "last_updated": "2026-04-09T00:03:33.225802+00:00",
+  "story_count": 17,
   "stories": [
+    {
+      "title": "Ecuador recalls its ambassador from Colombia over Jorge Glas comments",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/4/8/ecuador-recalls-its-ambassador-from-colombia-over-jorge-glas-comments?traffic_source=rss",
+      "published_date": "2026-04-08T17:50:31+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Syria Strengthens Regional Ties: Diplomatic Solidarity with Lebanon, Jordan, and the UAE",
       "source": "Syrian Observer",
@@ -46,13 +53,6 @@
       "category": "Diplomacy"
     },
     {
-      "title": "A Year On: Is Syria’s Transitional Government Building a State or Losing Its Footing?",
-      "source": "Syrian Observer",
-      "url": "https://syrianobserver.com/syrian-actors/a-year-on-is-syrias-transitional-government-building-a-state-or-losing-its-footing.html",
-      "published_date": "2026-04-01T16:47:37+00:00",
-      "category": "Diplomacy"
-    },
-    {
       "title": "Ten killed in Israeli strikes and clashes between Hamas and militia in Gaza, local sources say",
       "source": "BBC News",
       "url": "https://www.bbc.com/news/articles/c77md512n71o?at_medium=RSS&at_campaign=rss",
@@ -81,11 +81,11 @@
       "category": "Economy"
     },
     {
-      "title": "President Sharaa: Syria Is Among the Best Investment Opportunities in the World",
+      "title": "The General Authority for Civil Aviation Announces the Reopening of All Air Corridors",
       "source": "Syrian Observer",
-      "url": "https://syrianobserver.com/society/president-sharaa-syria-is-among-the-best-investment-opportunities-in-the-world.html",
-      "published_date": "2026-04-01T21:00:50+00:00",
-      "category": "Economy"
+      "url": "https://syrianobserver.com/society/the-general-authority-for-civil-aviation-announces-the-reopening-of-all-air-corridors.html",
+      "published_date": "2026-04-08T21:00:02+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Damascus Firmly Rejects Investigative Claims on Alleged Abductions",
@@ -120,27 +120,6 @@
       "source": "Syrian Observer",
       "url": "https://syrianobserver.com/syrian-actors/slogans-and-sentiment-the-displacement-of-politics-in-syria.html",
       "published_date": "2026-04-02T23:11:42+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Renowned Rights defender Joumana Seif Resigns from the Transitional Justice Commission",
-      "source": "Syrian Observer",
-      "url": "https://syrianobserver.com/syrian-actors/renowned-rights-defender-joumana-seif-resigns-from-the-transitional-justice-commission.html",
-      "published_date": "2026-04-01T21:00:56+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "EU Outlines Three Priorities to Support Syria’s Transition",
-      "source": "Syrian Observer",
-      "url": "https://syrianobserver.com/foreign-actors/eu-outlines-three-priorities-to-support-syrias-transition.html",
-      "published_date": "2026-04-01T21:00:24+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Red lines and death threats: Freedom of expression wanes in Suwayda",
-      "source": "Syria Direct",
-      "url": "https://syriadirect.org/red-lines-and-death-threats-freedom-of-expression-wanes-in-suwayda/",
-      "published_date": "2026-04-01T18:03:28+00:00",
       "category": "Local Events"
     }
   ]
