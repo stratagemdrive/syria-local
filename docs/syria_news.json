@@ -1,8 +1,15 @@
 {
   "country": "Syria",
-  "last_updated": "2026-04-09T16:07:10.064087+00:00",
-  "story_count": 17,
+  "last_updated": "2026-04-10T06:08:53.843914+00:00",
+  "story_count": 15,
   "stories": [
+    {
+      "title": "Denied for decades, Syria’s stateless Kurds edge towards recognition",
+      "source": "Syria Direct",
+      "url": "https://syriadirect.org/denied-for-decades-syrias-stateless-kurds-edge-towards-recognition/",
+      "published_date": "2026-04-09T17:53:09+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Ecuador recalls its ambassador from Colombia over Jorge Glas comments",
       "source": "Al Jazeera",
@@ -74,13 +81,6 @@
       "category": "Energy"
     },
     {
-      "title": "The New Wage Decree: Economic Lift or Inflationary Trap?",
-      "source": "Syrian Observer",
-      "url": "https://syrianobserver.com/syrian-actors/the-new-wage-decree-economic-lift-or-inflationary-trap.html",
-      "published_date": "2026-04-02T23:15:12+00:00",
-      "category": "Economy"
-    },
-    {
       "title": "The General Authority for Civil Aviation Announces the Reopening of All Air Corridors",
       "source": "Syrian Observer",
       "url": "https://syrianobserver.com/society/the-general-authority-for-civil-aviation-announces-the-reopening-of-all-air-corridors.html",
@@ -106,20 +106,6 @@
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/news/2026/4/3/two-dozen-democrat-led-states-sue-trump-over-mail-in-ballot-limits?traffic_source=rss",
       "published_date": "2026-04-03T19:28:35+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Between Jurisprudence and Policy: The Prospect of Repatriating Syrian Refugees from Germany",
-      "source": "Syrian Observer",
-      "url": "https://syrianobserver.com/refugees/between-jurisprudence-and-policy-the-prospect-of-repatriating-syrian-refugees-from-germany.html",
-      "published_date": "2026-04-02T23:13:41+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Slogans and Sentiment: The Displacement of Politics in Syria",
-      "source": "Syrian Observer",
-      "url": "https://syrianobserver.com/syrian-actors/slogans-and-sentiment-the-displacement-of-politics-in-syria.html",
-      "published_date": "2026-04-02T23:11:42+00:00",
       "category": "Local Events"
     }
   ]
