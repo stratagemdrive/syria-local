@@ -1,7 +1,7 @@
 {
   "country": "Syria",
-  "last_updated": "2026-04-10T06:08:53.843914+00:00",
-  "story_count": 15,
+  "last_updated": "2026-04-10T14:36:10.774395+00:00",
+  "story_count": 18,
   "stories": [
     {
       "title": "Denied for decades, Syria’s stateless Kurds edge towards recognition",
@@ -60,6 +60,13 @@
       "category": "Diplomacy"
     },
     {
+      "title": "Chief of the General Staff Holds Telephone Discussion with French Military Leadership",
+      "source": "Syrian Observer",
+      "url": "https://syrianobserver.com/security/chief-of-the-general-staff-holds-telephone-discussion-with-french-military-leadership.html",
+      "published_date": "2026-04-09T21:00:11+00:00",
+      "category": "Military"
+    },
+    {
       "title": "Al Jazeera condemns killing of journalist in Israeli strike in Gaza",
       "source": "BBC News",
       "url": "https://www.bbc.com/news/articles/cg40nqzvwq2o?at_medium=RSS&at_campaign=rss",
@@ -79,6 +86,20 @@
       "url": "https://www.aljazeera.com/video/newsfeed/2026/4/6/cairo-faces-darker-nights-as-global-energy-prices-continue-to-soar?traffic_source=rss",
       "published_date": "2026-04-06T17:46:59+00:00",
       "category": "Energy"
+    },
+    {
+      "title": "The Eroding Lira and a Scorched Market: Syria’s Search for Monetary Recovery",
+      "source": "Syrian Observer",
+      "url": "https://syrianobserver.com/syrian-actors/the-eroding-lira-and-a-scorched-market-syrias-search-for-monetary-recovery.html",
+      "published_date": "2026-04-09T21:00:03+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Syria’s Official Response to the Abduction of Alawite Women Is No Response at All",
+      "source": "Syrian Observer",
+      "url": "https://syrianobserver.com/syrian-actors/syrias-official-response-to-the-abduction-of-alawite-women-is-no-response-at-all.html",
+      "published_date": "2026-04-09T21:00:17+00:00",
+      "category": "Local Events"
     },
     {
       "title": "The General Authority for Civil Aviation Announces the Reopening of All Air Corridors",
