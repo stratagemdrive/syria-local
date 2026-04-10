@@ -1,6 +1,6 @@
 {
   "country": "Syria",
-  "last_updated": "2026-04-10T14:36:10.774395+00:00",
+  "last_updated": "2026-04-10T23:24:04.153740+00:00",
   "story_count": 18,
   "stories": [
     {
@@ -95,6 +95,13 @@
       "category": "Economy"
     },
     {
+      "title": "Restructuring Governance in Suweida: Sheikh Hijri Dissolves the “High Legal Committee”",
+      "source": "Syrian Observer",
+      "url": "https://syrianobserver.com/syrian-actors/restructuring-governance-in-suweida-sheikh-hijri-dissolves-the-high-legal-committee.html",
+      "published_date": "2026-04-10T21:00:18+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "Syria’s Official Response to the Abduction of Alawite Women Is No Response at All",
       "source": "Syrian Observer",
       "url": "https://syrianobserver.com/syrian-actors/syrias-official-response-to-the-abduction-of-alawite-women-is-no-response-at-all.html",
@@ -120,13 +127,6 @@
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/news/2026/4/5/ukraine-syria-agree-to-exchange-military-and-security-experience?traffic_source=rss",
       "published_date": "2026-04-05T20:48:27+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Two dozen Democrat-led states sue Trump over mail-in ballot limits",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/4/3/two-dozen-democrat-led-states-sue-trump-over-mail-in-ballot-limits?traffic_source=rss",
-      "published_date": "2026-04-03T19:28:35+00:00",
       "category": "Local Events"
     }
   ]
