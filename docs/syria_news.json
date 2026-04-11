@@ -1,8 +1,15 @@
 {
   "country": "Syria",
-  "last_updated": "2026-04-10T23:24:04.153740+00:00",
-  "story_count": 18,
+  "last_updated": "2026-04-11T11:26:03.444189+00:00",
+  "story_count": 19,
   "stories": [
+    {
+      "title": "Pakistan ambassador speaks to Al Jazeera on eve of US-Iran talks",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/11/pakistan-ambassador-speaks-to-al-jazeera-on-eve-of-us-iran-talks?traffic_source=rss",
+      "published_date": "2026-04-11T04:15:59+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Denied for decades, Syria’s stateless Kurds edge towards recognition",
       "source": "Syria Direct",
