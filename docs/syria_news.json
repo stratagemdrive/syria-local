@@ -1,7 +1,7 @@
 {
   "country": "Syria",
-  "last_updated": "2026-04-12T11:29:32.778202+00:00",
-  "story_count": 19,
+  "last_updated": "2026-04-12T23:22:35.812371+00:00",
+  "story_count": 18,
   "stories": [
     {
       "title": "Pakistan ambassador speaks to Al Jazeera on eve of US-Iran talks",
@@ -46,25 +46,11 @@
       "category": "Diplomacy"
     },
     {
-      "title": "A Diplomatic Convergence in Damascus: Presidents Sharaa and Zelensky Meet with Fidan",
+      "title": "Interior Ministry Discloses Details of Damascus Operation and Confirms the Intended Target",
       "source": "Syrian Observer",
-      "url": "https://syrianobserver.com/foreign-actors/a-diplomatic-convergence-in-damascus-presidents-sharaa-and-zelensky-meet-with-fidan.html",
-      "published_date": "2026-04-05T21:02:17+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "A French Imprint in Suweida: Is Paris Cultivating a Role in Southern Syrian Governance?",
-      "source": "Syrian Observer",
-      "url": "https://syrianobserver.com/foreign-actors/a-french-imprint-in-suweida-is-paris-cultivating-a-role-in-southern-syrian-governance.html",
-      "published_date": "2026-04-05T21:00:11+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Hamas armed wing rejects disarmament while Israel continues attacks",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/5/hamas-armed-wing-rejects-disarmament-while-israel-continues-attacks?traffic_source=rss",
-      "published_date": "2026-04-05T20:03:50+00:00",
-      "category": "Diplomacy"
+      "url": "https://syrianobserver.com/syrian-actors/interior-ministry-discloses-details-of-damascus-operation-and-confirms-the-intended-target.html",
+      "published_date": "2026-04-12T21:01:19+00:00",
+      "category": "Military"
     },
     {
       "title": "Chief of the General Staff Holds Telephone Discussion with French Military Leadership",
@@ -95,11 +81,32 @@
       "category": "Energy"
     },
     {
+      "title": "Analyst Warns of a ‘Humanitarian Catastrophe’ as Syria Considers Privatizing Health and Education",
+      "source": "Syrian Observer",
+      "url": "https://syrianobserver.com/society/analyst-warns-of-a-humanitarian-catastrophe-as-syria-considers-privatizing-health-and-education.html",
+      "published_date": "2026-04-12T21:01:09+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Sovereign Erosion: The Institutional Capture of Syria’s Oil Sector",
+      "source": "Syrian Observer",
+      "url": "https://syrianobserver.com/society/sovereign-erosion-the-institutional-capture-of-syrias-oil-sector.html",
+      "published_date": "2026-04-12T21:00:53+00:00",
+      "category": "Economy"
+    },
+    {
       "title": "The Eroding Lira and a Scorched Market: Syria’s Search for Monetary Recovery",
       "source": "Syrian Observer",
       "url": "https://syrianobserver.com/syrian-actors/the-eroding-lira-and-a-scorched-market-syrias-search-for-monetary-recovery.html",
       "published_date": "2026-04-09T21:00:03+00:00",
       "category": "Economy"
+    },
+    {
+      "title": "Dispossession and Pillage Behind the Veil of “Secret Orders”: The Seizure of Al-Hawrani Hospital in Hama",
+      "source": "Syrian Observer",
+      "url": "https://syrianobserver.com/society/dispossession-and-pillage-behind-the-veil-of-secret-orders-the-seizure-of-al-hawrani-hospital-in-hama.html",
+      "published_date": "2026-04-12T21:00:44+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Restructuring Governance in Suweida: Sheikh Hijri Dissolves the “High Legal Committee”",
@@ -120,20 +127,6 @@
       "source": "Syrian Observer",
       "url": "https://syrianobserver.com/society/the-general-authority-for-civil-aviation-announces-the-reopening-of-all-air-corridors.html",
       "published_date": "2026-04-08T21:00:02+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Damascus Firmly Rejects Investigative Claims on Alleged Abductions",
-      "source": "Syrian Observer",
-      "url": "https://syrianobserver.com/syrian-actors/damascus-firmly-rejects-investigative-claims-on-alleged-abductions.html",
-      "published_date": "2026-04-05T21:00:17+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Ukraine and Syria to cooperate on security, Zelenskyy says",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/4/5/ukraine-syria-agree-to-exchange-military-and-security-experience?traffic_source=rss",
-      "published_date": "2026-04-05T20:48:27+00:00",
       "category": "Local Events"
     }
   ]
