@@ -1,8 +1,15 @@
 {
   "country": "Syria",
-  "last_updated": "2026-04-13T11:59:57.845137+00:00",
-  "story_count": 18,
+  "last_updated": "2026-04-13T23:32:33.760919+00:00",
+  "story_count": 21,
   "stories": [
+    {
+      "title": "Rights Report Alleges Arbitrary Arrests and Abuse of Kurds During Aleppo Escalation",
+      "source": "Syrian Observer",
+      "url": "https://syrianobserver.com/uncategorized/rights-report-alleges-arbitrary-arrests-and-abuse-of-kurds-during-aleppo-escalation.html",
+      "published_date": "2026-04-13T21:00:54+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Pakistan ambassador speaks to Al Jazeera on eve of US-Iran talks",
       "source": "Al Jazeera",
@@ -25,25 +32,32 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Syria Strengthens Regional Ties: Diplomatic Solidarity with Lebanon, Jordan, and the UAE",
+      "title": "French Court Convicts Lafarge and Syrian Intermediaries for Financing ISIS",
       "source": "Syrian Observer",
-      "url": "https://syrianobserver.com/foreign-actors/syria-strengthens-regional-ties-diplomatic-solidarity-with-lebanon-jordan-and-the-uae.html",
-      "published_date": "2026-04-06T21:00:56+00:00",
-      "category": "Diplomacy"
+      "url": "https://syrianobserver.com/foreign-actors/french-court-convicts-lafarge-and-syrian-intermediaries-for-financing-isis.html",
+      "published_date": "2026-04-13T21:00:32+00:00",
+      "category": "Military"
     },
     {
-      "title": "President Sharaa: Zelensky’s Visit Marks Syria’s Expanding International Horizons",
-      "source": "Syrian Observer",
-      "url": "https://syrianobserver.com/foreign-actors/president-sharaa-zelenskys-visit-marks-syrias-expanding-international-horizons.html",
-      "published_date": "2026-04-06T21:00:54+00:00",
-      "category": "Diplomacy"
+      "title": "French court rules cement giant Lafarge guilty of funding Syria ‘terrorism’",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/4/13/french-court-rules-cement-giant-lafarge-guilty-of-funding-syrian-terrorism?traffic_source=rss",
+      "published_date": "2026-04-13T18:52:20+00:00",
+      "category": "Military"
     },
     {
-      "title": "Damascus: Authorities Apprehend Suspects in the Incursion upon the UAE Embassy",
-      "source": "Syrian Observer",
-      "url": "https://syrianobserver.com/syrian-actors/damascus-authorities-apprehend-suspects-in-the-incursion-upon-the-uae-embassy.html",
-      "published_date": "2026-04-06T21:00:16+00:00",
-      "category": "Diplomacy"
+      "title": "French cement maker convicted of financing terror groups to keep its Syria plant working",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/apr/13/french-cement-maker-lafarge-convicted-financing-terror-groups-syria",
+      "published_date": "2026-04-13T15:20:08+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "French cement giant guilty of financing IS and other militant groups in Syria",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/crl1441816po?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-04-13T14:15:50+00:00",
+      "category": "Military"
     },
     {
       "title": "Interior Ministry Discloses Details of Damascus Operation and Confirms the Intended Target",
@@ -67,20 +81,6 @@
       "category": "Military"
     },
     {
-      "title": "Ten killed in Israeli strikes and clashes between Hamas and militia in Gaza, local sources say",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c77md512n71o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-04-06T19:11:20+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Cairo faces darker nights as global energy prices continue to soar",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/6/cairo-faces-darker-nights-as-global-energy-prices-continue-to-soar?traffic_source=rss",
-      "published_date": "2026-04-06T17:46:59+00:00",
-      "category": "Energy"
-    },
-    {
       "title": "Analyst Warns of a ‘Humanitarian Catastrophe’ as Syria Considers Privatizing Health and Education",
       "source": "Syrian Observer",
       "url": "https://syrianobserver.com/society/analyst-warns-of-a-humanitarian-catastrophe-as-syria-considers-privatizing-health-and-education.html",
@@ -100,6 +100,27 @@
       "url": "https://syrianobserver.com/syrian-actors/the-eroding-lira-and-a-scorched-market-syrias-search-for-monetary-recovery.html",
       "published_date": "2026-04-09T21:00:03+00:00",
       "category": "Economy"
+    },
+    {
+      "title": "French cement giant Lafarge guilty of financing ISIL in Syria",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/13/french-cement-giant-lafarge-guilty-of-financing-isil-in-syria?traffic_source=rss",
+      "published_date": "2026-04-13T21:35:30+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Syrian Kurds Naturalised as “Arabs”: Administrative Error or Systematic Policy?",
+      "source": "Syrian Observer",
+      "url": "https://syrianobserver.com/syrian-actors/syrian-kurds-naturalised-as-arabs-administrative-error-or-systematic-policy.html",
+      "published_date": "2026-04-13T21:00:27+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Why Does Israel Reject Rapprochement with Damascus Despite the Shifting Equation?",
+      "source": "Syrian Observer",
+      "url": "https://syrianobserver.com/foreign-actors/why-does-israel-reject-rapprochement-with-damascus-despite-the-shifting-equation.html",
+      "published_date": "2026-04-13T21:00:03+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Dispossession and Pillage Behind the Veil of “Secret Orders”: The Seizure of Al-Hawrani Hospital in Hama",
