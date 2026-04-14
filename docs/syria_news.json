@@ -1,8 +1,15 @@
 {
   "country": "Syria",
-  "last_updated": "2026-04-14T11:54:34.294097+00:00",
-  "story_count": 21,
+  "last_updated": "2026-04-14T23:33:33.716504+00:00",
+  "story_count": 24,
   "stories": [
+    {
+      "title": "Israeli ambassador: Lebanon wants to be liberated from Hezbollah",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/14/israeli-ambassador-lebanon-wants-to-be-liberated-from-hezbollah?traffic_source=rss",
+      "published_date": "2026-04-14T18:56:28+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Rights Report Alleges Arbitrary Arrests and Abuse of Kurds During Aleppo Escalation",
       "source": "Syrian Observer",
@@ -100,6 +107,20 @@
       "url": "https://syrianobserver.com/syrian-actors/the-eroding-lira-and-a-scorched-market-syrias-search-for-monetary-recovery.html",
       "published_date": "2026-04-09T21:00:03+00:00",
       "category": "Economy"
+    },
+    {
+      "title": "Canada faces calls to rescind planned cuts to refugee healthcare scheme",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/4/14/canada-faces-calls-to-rescind-planned-cuts-to-refugee-healthcare-scheme?traffic_source=rss",
+      "published_date": "2026-04-14T21:02:23+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "US appeals court blocks contempt case over Trump deportation flights",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/4/14/us-appeals-court-blocks-contempt-case-over-trump-deportation-flights?traffic_source=rss",
+      "published_date": "2026-04-14T20:21:21+00:00",
+      "category": "Local Events"
     },
     {
       "title": "French cement giant Lafarge guilty of financing ISIL in Syria",
