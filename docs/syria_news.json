@@ -1,8 +1,15 @@
 {
   "country": "Syria",
-  "last_updated": "2026-04-15T11:52:35.473489+00:00",
-  "story_count": 28,
+  "last_updated": "2026-04-15T23:31:56.066807+00:00",
+  "story_count": 31,
   "stories": [
+    {
+      "title": "Israel appoints first ambassador to Somaliland",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/4/15/israel-appoints-first-ambassador-to-somaliland?traffic_source=rss",
+      "published_date": "2026-04-15T21:05:27+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "What you need to know about Israel’s ambassador to the US",
       "source": "Al Jazeera",
@@ -46,11 +53,11 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Ecuador recalls its ambassador from Colombia over Jorge Glas comments",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/4/8/ecuador-recalls-its-ambassador-from-colombia-over-jorge-glas-comments?traffic_source=rss",
-      "published_date": "2026-04-08T17:50:31+00:00",
-      "category": "Diplomacy"
+      "title": "“Triple Shock” and the Syrian Economy: Can Damascus Withstand the New Wave of Global Pressure?",
+      "source": "Syrian Observer",
+      "url": "https://syrianobserver.com/society/triple-shock-and-the-syrian-economy-can-damascus-withstand-the-new-wave-of-global-pressure.html",
+      "published_date": "2026-04-15T21:00:22+00:00",
+      "category": "Military"
     },
     {
       "title": "Top Air Force Officer Ayman Yasmina Arrested After Years of Allegations",
@@ -109,6 +116,13 @@
       "category": "Military"
     },
     {
+      "title": "Stability Breaks Records: What the Forty-Two Percent Drop in Syrian Oil Imports Really Means",
+      "source": "Syrian Observer",
+      "url": "https://syrianobserver.com/society/stability-breaks-records-what-the-forty-two-percent-drop-in-syrian-oil-imports-really-means.html",
+      "published_date": "2026-04-15T21:00:03+00:00",
+      "category": "Energy"
+    },
+    {
       "title": "Analyst Warns of a ‘Humanitarian Catastrophe’ as Syria Considers Privatizing Health and Education",
       "source": "Syrian Observer",
       "url": "https://syrianobserver.com/society/analyst-warns-of-a-humanitarian-catastrophe-as-syria-considers-privatizing-health-and-education.html",
@@ -128,6 +142,20 @@
       "url": "https://syrianobserver.com/syrian-actors/the-eroding-lira-and-a-scorched-market-syrias-search-for-monetary-recovery.html",
       "published_date": "2026-04-09T21:00:03+00:00",
       "category": "Economy"
+    },
+    {
+      "title": "Kabawat Meets Families of Missing Children as Investigations Advance",
+      "source": "Syrian Observer",
+      "url": "https://syrianobserver.com/syrian-actors/kabawat-meets-families-of-missing-children-as-investigations-advance.html",
+      "published_date": "2026-04-15T21:00:48+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Arab Barghouti says rights groups must do more for Palestinian prisoners",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/15/arab-barghouti-says-rights-groups-must-do-more-for-palestinian-prisoners?traffic_source=rss",
+      "published_date": "2026-04-15T18:44:13+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Abducted at Dawn: The Unanswered Fate of Qadam’s Missing Men",
@@ -190,13 +218,6 @@
       "source": "Syrian Observer",
       "url": "https://syrianobserver.com/syrian-actors/syrias-official-response-to-the-abduction-of-alawite-women-is-no-response-at-all.html",
       "published_date": "2026-04-09T21:00:17+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "The General Authority for Civil Aviation Announces the Reopening of All Air Corridors",
-      "source": "Syrian Observer",
-      "url": "https://syrianobserver.com/society/the-general-authority-for-civil-aviation-announces-the-reopening-of-all-air-corridors.html",
-      "published_date": "2026-04-08T21:00:02+00:00",
       "category": "Local Events"
     }
   ]
