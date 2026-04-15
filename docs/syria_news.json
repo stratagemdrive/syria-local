@@ -1,8 +1,22 @@
 {
   "country": "Syria",
-  "last_updated": "2026-04-14T23:33:33.716504+00:00",
-  "story_count": 24,
+  "last_updated": "2026-04-15T11:52:35.473489+00:00",
+  "story_count": 28,
   "stories": [
+    {
+      "title": "What you need to know about Israel’s ambassador to the US",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/15/what-you-need-to-know-about-israels-ambassador-to-the-us?traffic_source=rss",
+      "published_date": "2026-04-15T10:10:56+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "South Africa appoints former apartheid-era negotiator as US ambassador",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/4/15/south-africa-appoints-former-apartheid-era-negotiator-as-us-ambassador?traffic_source=rss",
+      "published_date": "2026-04-15T04:26:38+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Israeli ambassador: Lebanon wants to be liberated from Hezbollah",
       "source": "Al Jazeera",
@@ -37,6 +51,13 @@
       "url": "https://www.aljazeera.com/news/2026/4/8/ecuador-recalls-its-ambassador-from-colombia-over-jorge-glas-comments?traffic_source=rss",
       "published_date": "2026-04-08T17:50:31+00:00",
       "category": "Diplomacy"
+    },
+    {
+      "title": "Top Air Force Officer Ayman Yasmina Arrested After Years of Allegations",
+      "source": "Syrian Observer",
+      "url": "https://syrianobserver.com/syrian-actors/top-air-force-officer-ayman-yasmina-arrested-after-years-of-allegations.html",
+      "published_date": "2026-04-14T21:00:32+00:00",
+      "category": "Military"
     },
     {
       "title": "French Court Convicts Lafarge and Syrian Intermediaries for Financing ISIS",
@@ -107,6 +128,13 @@
       "url": "https://syrianobserver.com/syrian-actors/the-eroding-lira-and-a-scorched-market-syrias-search-for-monetary-recovery.html",
       "published_date": "2026-04-09T21:00:03+00:00",
       "category": "Economy"
+    },
+    {
+      "title": "Abducted at Dawn: The Unanswered Fate of Qadam’s Missing Men",
+      "source": "Syrian Observer",
+      "url": "https://syrianobserver.com/syrian-actors/abducted-at-dawn-the-unanswered-fate-of-qadams-missing-men.html",
+      "published_date": "2026-04-15T08:02:01+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Canada faces calls to rescind planned cuts to refugee healthcare scheme",
