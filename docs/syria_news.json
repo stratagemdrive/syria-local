@@ -1,6 +1,6 @@
 {
   "country": "Syria",
-  "last_updated": "2026-04-15T23:31:56.066807+00:00",
+  "last_updated": "2026-04-16T11:55:47.890593+00:00",
   "story_count": 31,
   "stories": [
     {
@@ -51,6 +51,13 @@
       "url": "https://syriadirect.org/denied-for-decades-syrias-stateless-kurds-edge-towards-recognition/",
       "published_date": "2026-04-09T17:53:09+00:00",
       "category": "Diplomacy"
+    },
+    {
+      "title": "US military kills three in new Eastern Pacific boat strike",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/4/16/us-military-kills-three-in-new-eastern-pacific-boat-strike?traffic_source=rss",
+      "published_date": "2026-04-16T06:34:58+00:00",
+      "category": "Military"
     },
     {
       "title": "“Triple Shock” and the Syrian Economy: Can Damascus Withstand the New Wave of Global Pressure?",
@@ -106,13 +113,6 @@
       "source": "Syrian Observer",
       "url": "https://syrianobserver.com/security/chief-of-the-general-staff-holds-telephone-discussion-with-french-military-leadership.html",
       "published_date": "2026-04-09T21:00:11+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Al Jazeera condemns killing of journalist in Israeli strike in Gaza",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cg40nqzvwq2o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-04-09T11:39:56+00:00",
       "category": "Military"
     },
     {
