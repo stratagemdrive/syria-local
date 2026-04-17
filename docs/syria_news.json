@@ -1,7 +1,7 @@
 {
   "country": "Syria",
-  "last_updated": "2026-04-16T23:30:22.237520+00:00",
-  "story_count": 28,
+  "last_updated": "2026-04-17T11:45:25.888564+00:00",
+  "story_count": 35,
   "stories": [
     {
       "title": "Israel appoints first ambassador to Somaliland",
@@ -44,6 +44,20 @@
       "url": "https://www.aljazeera.com/video/newsfeed/2026/4/11/pakistan-ambassador-speaks-to-al-jazeera-on-eve-of-us-iran-talks?traffic_source=rss",
       "published_date": "2026-04-11T04:15:59+00:00",
       "category": "Diplomacy"
+    },
+    {
+      "title": "US troops complete their withdrawal from key air base in Syria",
+      "source": "Syrian Observer",
+      "url": "https://syrianobserver.com/youtube/us-troops-complete-their-withdrawal-from-key-air-base-in-syria.html",
+      "published_date": "2026-04-17T07:04:14+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "U.S. Forces Complete Withdrawal from Qasrak Base in Hassakeh as Handover to Syrian Army Nears",
+      "source": "Syrian Observer",
+      "url": "https://syrianobserver.com/foreign-actors/u-s-forces-complete-withdrawal-from-qasrak-base-in-hasakah-as-handover-to-syrian-army-nears.html",
+      "published_date": "2026-04-16T21:00:46+00:00",
+      "category": "Military"
     },
     {
       "title": "Senate vote on arms sale shows ‘massive cracks’ in US support for Israel",
@@ -116,6 +130,27 @@
       "category": "Energy"
     },
     {
+      "title": "Syrian Delegation in Washington Discusses Recovery and Financial Integration with the U.S. Treasury",
+      "source": "Syrian Observer",
+      "url": "https://syrianobserver.com/society/syrian-delegation-in-washington-discusses-recovery-and-financial-integration-with-the-u-s-treasury.html",
+      "published_date": "2026-04-16T21:00:35+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "The Syrian Pound Emerges Among the World’s Worst-Performing Currencies",
+      "source": "Syrian Observer",
+      "url": "https://syrianobserver.com/society/the-syrian-pound-emerges-among-the-worlds-worst-performing-currencies.html",
+      "published_date": "2026-04-16T21:00:26+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Law and Dignity Sit-in in Damascus: Ten Demands for Political and Economic Reform",
+      "source": "Syrian Observer",
+      "url": "https://syrianobserver.com/syrian-actors/law-and-dignity-sit-in-in-damascus-ten-demands-for-political-and-economic-reform.html",
+      "published_date": "2026-04-16T21:00:03+00:00",
+      "category": "Economy"
+    },
+    {
       "title": "Analyst Warns of a ‘Humanitarian Catastrophe’ as Syria Considers Privatizing Health and Education",
       "source": "Syrian Observer",
       "url": "https://syrianobserver.com/society/analyst-warns-of-a-humanitarian-catastrophe-as-syria-considers-privatizing-health-and-education.html",
@@ -128,6 +163,20 @@
       "url": "https://syrianobserver.com/society/sovereign-erosion-the-institutional-capture-of-syrias-oil-sector.html",
       "published_date": "2026-04-12T21:00:53+00:00",
       "category": "Economy"
+    },
+    {
+      "title": "Burkina Faso dissolves more than 100 NGOs and civil society groups",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/4/17/burkina-faso-dissolves-more-than-100-ngos-and-civil-society-groups?traffic_source=rss",
+      "published_date": "2026-04-17T06:38:57+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "A Constructive Dialogue on the Future of Transitional Justice in Syria",
+      "source": "Syrian Observer",
+      "url": "https://syrianobserver.com/syrian-actors/a-constructive-dialogue-on-the-future-of-transitional-justice-in-syria.html",
+      "published_date": "2026-04-16T21:01:01+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Kabawat Meets Families of Missing Children as Investigations Advance",
