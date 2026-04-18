@@ -1,6 +1,6 @@
 {
   "country": "Syria",
-  "last_updated": "2026-04-17T23:28:40.616881+00:00",
+  "last_updated": "2026-04-18T11:29:45.642540+00:00",
   "story_count": 34,
   "stories": [
     {
@@ -36,13 +36,6 @@
       "source": "Syrian Observer",
       "url": "https://syrianobserver.com/uncategorized/rights-report-alleges-arbitrary-arrests-and-abuse-of-kurds-during-aleppo-escalation.html",
       "published_date": "2026-04-13T21:00:54+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Pakistan ambassador speaks to Al Jazeera on eve of US-Iran talks",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/11/pakistan-ambassador-speaks-to-al-jazeera-on-eve-of-us-iran-talks?traffic_source=rss",
-      "published_date": "2026-04-11T04:15:59+00:00",
       "category": "Diplomacy"
     },
     {
@@ -163,6 +156,13 @@
       "url": "https://syrianobserver.com/society/sovereign-erosion-the-institutional-capture-of-syrias-oil-sector.html",
       "published_date": "2026-04-12T21:00:53+00:00",
       "category": "Economy"
+    },
+    {
+      "title": "Watch: Fuel truck leaves trail of fire on road in Syria",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/videos/czd7e3yqd7do?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-04-18T00:20:56+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Burkina Faso dissolves more than 100 NGOs and civil society groups",
