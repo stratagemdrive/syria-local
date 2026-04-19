@@ -1,8 +1,22 @@
 {
   "country": "Syria",
-  "last_updated": "2026-04-19T11:30:45.138732+00:00",
-  "story_count": 34,
+  "last_updated": "2026-04-19T23:25:17.978666+00:00",
+  "story_count": 32,
   "stories": [
+    {
+      "title": "From Antalya, Sharaa Pitches a New Syria: Neutral, Investable, and Open to a Security Deal with Israel",
+      "source": "Syrian Observer",
+      "url": "https://syrianobserver.com/syrian-actors/from-antalya-sharaa-pitches-a-new-syria-neutral-investable-and-open-to-a-security-deal-with-israel.html",
+      "published_date": "2026-04-19T21:00:53+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Exceptional Salaries for HTS-Linked Employees in al-Sharaa’s Government: How Public Spending Was Captured",
+      "source": "Syrian Observer",
+      "url": "https://syrianobserver.com/society/exceptional-salaries-for-hts-linked-employees-in-al-sharaas-government-how-public-spending-was-captured.html",
+      "published_date": "2026-04-19T21:00:28+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Israel appoints first ambassador to Somaliland",
       "source": "Al Jazeera",
@@ -109,13 +123,6 @@
       "category": "Military"
     },
     {
-      "title": "Interior Ministry Discloses Details of Damascus Operation and Confirms the Intended Target",
-      "source": "Syrian Observer",
-      "url": "https://syrianobserver.com/syrian-actors/interior-ministry-discloses-details-of-damascus-operation-and-confirms-the-intended-target.html",
-      "published_date": "2026-04-12T21:01:19+00:00",
-      "category": "Military"
-    },
-    {
       "title": "Stability Breaks Records: What the Forty-Two Percent Drop in Syrian Oil Imports Really Means",
       "source": "Syrian Observer",
       "url": "https://syrianobserver.com/society/stability-breaks-records-what-the-forty-two-percent-drop-in-syrian-oil-imports-really-means.html",
@@ -141,20 +148,6 @@
       "source": "Syrian Observer",
       "url": "https://syrianobserver.com/syrian-actors/law-and-dignity-sit-in-in-damascus-ten-demands-for-political-and-economic-reform.html",
       "published_date": "2026-04-16T21:00:03+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Analyst Warns of a ‘Humanitarian Catastrophe’ as Syria Considers Privatizing Health and Education",
-      "source": "Syrian Observer",
-      "url": "https://syrianobserver.com/society/analyst-warns-of-a-humanitarian-catastrophe-as-syria-considers-privatizing-health-and-education.html",
-      "published_date": "2026-04-12T21:01:09+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Sovereign Erosion: The Institutional Capture of Syria’s Oil Sector",
-      "source": "Syrian Observer",
-      "url": "https://syrianobserver.com/society/sovereign-erosion-the-institutional-capture-of-syrias-oil-sector.html",
-      "published_date": "2026-04-12T21:00:53+00:00",
       "category": "Economy"
     },
     {
@@ -232,13 +225,6 @@
       "source": "Syrian Observer",
       "url": "https://syrianobserver.com/foreign-actors/why-does-israel-reject-rapprochement-with-damascus-despite-the-shifting-equation.html",
       "published_date": "2026-04-13T21:00:03+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Dispossession and Pillage Behind the Veil of “Secret Orders”: The Seizure of Al-Hawrani Hospital in Hama",
-      "source": "Syrian Observer",
-      "url": "https://syrianobserver.com/society/dispossession-and-pillage-behind-the-veil-of-secret-orders-the-seizure-of-al-hawrani-hospital-in-hama.html",
-      "published_date": "2026-04-12T21:00:44+00:00",
       "category": "Local Events"
     }
   ]
