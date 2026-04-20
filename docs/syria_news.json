@@ -1,8 +1,22 @@
 {
   "country": "Syria",
-  "last_updated": "2026-04-20T12:00:56.860514+00:00",
-  "story_count": 32,
+  "last_updated": "2026-04-20T23:31:49.429886+00:00",
+  "story_count": 30,
   "stories": [
+    {
+      "title": "Lebanon Rejects Any Hezbollah Involvement in Syria",
+      "source": "Syrian Observer",
+      "url": "https://syrianobserver.com/foreign-actors/lebanon-rejects-any-hezbollah-involvement-in-syria.html",
+      "published_date": "2026-04-20T21:00:03+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Germany summons Russian ambassador, citing ‘direct threats’",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/4/20/germany-summons-russian-ambassador-citing-direct-threats?traffic_source=rss",
+      "published_date": "2026-04-20T17:55:28+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "From Antalya, Sharaa Pitches a New Syria: Neutral, Investable, and Open to a Security Deal with Israel",
       "source": "Syrian Observer",
@@ -46,11 +60,18 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Rights Report Alleges Arbitrary Arrests and Abuse of Kurds During Aleppo Escalation",
+      "title": "Syria and the European Union Begin High-Level Political Dialogue as Both Sides Move to Rebuild Trade and Security Ties",
       "source": "Syrian Observer",
-      "url": "https://syrianobserver.com/uncategorized/rights-report-alleges-arbitrary-arrests-and-abuse-of-kurds-during-aleppo-escalation.html",
-      "published_date": "2026-04-13T21:00:54+00:00",
-      "category": "Diplomacy"
+      "url": "https://syrianobserver.com/syrian-actors/syria-and-the-european-union-begin-high-level-political-dialogue-as-both-sides-move-to-rebuild-trade-and-security-ties.html",
+      "published_date": "2026-04-20T21:02:46+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Outrage over Israeli soldier's vandalism of Jesus statue in Lebanon",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cpd575n1znzo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-04-20T18:57:25+00:00",
+      "category": "Military"
     },
     {
       "title": "US troops complete their withdrawal from key air base in Syria",
@@ -95,39 +116,18 @@
       "category": "Military"
     },
     {
-      "title": "French Court Convicts Lafarge and Syrian Intermediaries for Financing ISIS",
-      "source": "Syrian Observer",
-      "url": "https://syrianobserver.com/foreign-actors/french-court-convicts-lafarge-and-syrian-intermediaries-for-financing-isis.html",
-      "published_date": "2026-04-13T21:00:32+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "French court rules cement giant Lafarge guilty of funding Syria ‘terrorism’",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/4/13/french-court-rules-cement-giant-lafarge-guilty-of-funding-syrian-terrorism?traffic_source=rss",
-      "published_date": "2026-04-13T18:52:20+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "French cement maker convicted of financing terror groups to keep its Syria plant working",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/apr/13/french-cement-maker-lafarge-convicted-financing-terror-groups-syria",
-      "published_date": "2026-04-13T15:20:08+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "French cement giant guilty of financing IS and other militant groups in Syria",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/crl1441816po?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-04-13T14:15:50+00:00",
-      "category": "Military"
-    },
-    {
       "title": "Stability Breaks Records: What the Forty-Two Percent Drop in Syrian Oil Imports Really Means",
       "source": "Syrian Observer",
       "url": "https://syrianobserver.com/society/stability-breaks-records-what-the-forty-two-percent-drop-in-syrian-oil-imports-really-means.html",
       "published_date": "2026-04-15T21:00:03+00:00",
       "category": "Energy"
+    },
+    {
+      "title": "Reconstruction plan for eastern Damascus neighborhoods alarms residents",
+      "source": "Syria Direct",
+      "url": "https://syriadirect.org/reconstruction-plan-for-eastern-damascus-neighborhoods-alarms-residents/",
+      "published_date": "2026-04-20T18:42:34+00:00",
+      "category": "Economy"
     },
     {
       "title": "Syrian Delegation in Washington Discusses Recovery and Financial Integration with the U.S. Treasury",
@@ -149,6 +149,13 @@
       "url": "https://syrianobserver.com/syrian-actors/law-and-dignity-sit-in-in-damascus-ten-demands-for-political-and-economic-reform.html",
       "published_date": "2026-04-16T21:00:03+00:00",
       "category": "Economy"
+    },
+    {
+      "title": "Ilham Ahmed Outlines Damascus Meeting and the Next Phase of Integration",
+      "source": "Syrian Observer",
+      "url": "https://syrianobserver.com/syrian-actors/ilham-ahmed-outlines-damascus-meeting-and-the-next-phase-of-integration.html",
+      "published_date": "2026-04-20T21:00:52+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Watch: Fuel truck leaves trail of fire on road in Syria",
@@ -204,27 +211,6 @@
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/news/2026/4/14/us-appeals-court-blocks-contempt-case-over-trump-deportation-flights?traffic_source=rss",
       "published_date": "2026-04-14T20:21:21+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "French cement giant Lafarge guilty of financing ISIL in Syria",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/13/french-cement-giant-lafarge-guilty-of-financing-isil-in-syria?traffic_source=rss",
-      "published_date": "2026-04-13T21:35:30+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Syrian Kurds Naturalised as “Arabs”: Administrative Error or Systematic Policy?",
-      "source": "Syrian Observer",
-      "url": "https://syrianobserver.com/syrian-actors/syrian-kurds-naturalised-as-arabs-administrative-error-or-systematic-policy.html",
-      "published_date": "2026-04-13T21:00:27+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Why Does Israel Reject Rapprochement with Damascus Despite the Shifting Equation?",
-      "source": "Syrian Observer",
-      "url": "https://syrianobserver.com/foreign-actors/why-does-israel-reject-rapprochement-with-damascus-despite-the-shifting-equation.html",
-      "published_date": "2026-04-13T21:00:03+00:00",
       "category": "Local Events"
     }
   ]
