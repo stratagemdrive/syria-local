@@ -1,8 +1,15 @@
 {
   "country": "Syria",
-  "last_updated": "2026-04-20T23:31:49.429886+00:00",
-  "story_count": 30,
+  "last_updated": "2026-04-21T11:57:18.359126+00:00",
+  "story_count": 31,
   "stories": [
+    {
+      "title": "Spain, Slovenia, Ireland push EU to debate Israel pact suspension",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/4/21/spain-slovenia-ireland-push-eu-to-debate-israel-pact-suspension?traffic_source=rss",
+      "published_date": "2026-04-21T09:32:43+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Lebanon Rejects Any Hezbollah Involvement in Syria",
       "source": "Syrian Observer",
