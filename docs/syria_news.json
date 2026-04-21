@@ -1,8 +1,22 @@
 {
   "country": "Syria",
-  "last_updated": "2026-04-21T11:57:18.359126+00:00",
-  "story_count": 31,
+  "last_updated": "2026-04-21T23:25:42.861698+00:00",
+  "story_count": 33,
   "stories": [
+    {
+      "title": "How Syrian Billionaires Leveraged the Trump Brand to Reshape Washington’s Syria Policy",
+      "source": "Syrian Observer",
+      "url": "https://syrianobserver.com/society/how-syrian-billionaires-leveraged-the-trump-brand-to-reshape-washingtons-syria-policy.html",
+      "published_date": "2026-04-21T21:00:42+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "President Sharaa Arrives in Saudi Arabia, Opening His Gulf Tour",
+      "source": "Syrian Observer",
+      "url": "https://syrianobserver.com/foreign-actors/president-sharaa-arrives-in-saudi-arabia-opening-his-gulf-tour.html",
+      "published_date": "2026-04-21T21:00:38+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Spain, Slovenia, Ireland push EU to debate Israel pact suspension",
       "source": "Al Jazeera",
@@ -60,11 +74,18 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Israeli ambassador: Lebanon wants to be liberated from Hezbollah",
+      "title": "Damascus Under Pressure: Security, Power, and the Shadow of Regional Proxies",
+      "source": "Syrian Observer",
+      "url": "https://syrianobserver.com/uncategorized/damascus-under-pressure-security-power-and-the-shadow-of-regional-proxies.html",
+      "published_date": "2026-04-21T21:00:04+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "The US exit from Syria, explained",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/14/israeli-ambassador-lebanon-wants-to-be-liberated-from-hezbollah?traffic_source=rss",
-      "published_date": "2026-04-14T18:56:28+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/video/the-take-2/2026/4/21/aje-onl-aj_tt_syr_uswithdrawal_full_v1-210426?traffic_source=rss",
+      "published_date": "2026-04-21T17:53:54+00:00",
+      "category": "Military"
     },
     {
       "title": "Syria and the European Union Begin High-Level Political Dialogue as Both Sides Move to Rebuild Trade and Security Ties",
@@ -116,18 +137,18 @@
       "category": "Military"
     },
     {
-      "title": "Top Air Force Officer Ayman Yasmina Arrested After Years of Allegations",
-      "source": "Syrian Observer",
-      "url": "https://syrianobserver.com/syrian-actors/top-air-force-officer-ayman-yasmina-arrested-after-years-of-allegations.html",
-      "published_date": "2026-04-14T21:00:32+00:00",
-      "category": "Military"
-    },
-    {
       "title": "Stability Breaks Records: What the Forty-Two Percent Drop in Syrian Oil Imports Really Means",
       "source": "Syrian Observer",
       "url": "https://syrianobserver.com/society/stability-breaks-records-what-the-forty-two-percent-drop-in-syrian-oil-imports-really-means.html",
       "published_date": "2026-04-15T21:00:03+00:00",
       "category": "Energy"
+    },
+    {
+      "title": "Peaceful Damascus Sit-In Disrupted by Attacks, Rights Group Says",
+      "source": "Syrian Observer",
+      "url": "https://syrianobserver.com/syrian-actors/peaceful-damascus-sit-in-disrupted-by-attacks-rights-group-says.html",
+      "published_date": "2026-04-21T21:00:22+00:00",
+      "category": "Economy"
     },
     {
       "title": "Reconstruction plan for eastern Damascus neighborhoods alarms residents",
@@ -156,6 +177,13 @@
       "url": "https://syrianobserver.com/syrian-actors/law-and-dignity-sit-in-in-damascus-ten-demands-for-political-and-economic-reform.html",
       "published_date": "2026-04-16T21:00:03+00:00",
       "category": "Economy"
+    },
+    {
+      "title": "EU court rules Hungary’s LGBTQ law violates human rights",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/4/21/eu-court-rules-hungarys-lgbtq-law-violates-human-rights?traffic_source=rss",
+      "published_date": "2026-04-21T16:36:44+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Ilham Ahmed Outlines Damascus Meeting and the Next Phase of Integration",
@@ -204,20 +232,6 @@
       "source": "Syrian Observer",
       "url": "https://syrianobserver.com/syrian-actors/abducted-at-dawn-the-unanswered-fate-of-qadams-missing-men.html",
       "published_date": "2026-04-15T08:02:01+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Canada faces calls to rescind planned cuts to refugee healthcare scheme",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/4/14/canada-faces-calls-to-rescind-planned-cuts-to-refugee-healthcare-scheme?traffic_source=rss",
-      "published_date": "2026-04-14T21:02:23+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "US appeals court blocks contempt case over Trump deportation flights",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/4/14/us-appeals-court-blocks-contempt-case-over-trump-deportation-flights?traffic_source=rss",
-      "published_date": "2026-04-14T20:21:21+00:00",
       "category": "Local Events"
     }
   ]
