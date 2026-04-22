@@ -1,7 +1,7 @@
 {
   "country": "Syria",
-  "last_updated": "2026-04-22T11:56:19.733731+00:00",
-  "story_count": 32,
+  "last_updated": "2026-04-22T23:36:09.959504+00:00",
+  "story_count": 31,
   "stories": [
     {
       "title": "Iran’s UN ambassador responds to US ceasefire extension",
@@ -60,11 +60,11 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Israel appoints first ambassador to Somaliland",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/4/15/israel-appoints-first-ambassador-to-somaliland?traffic_source=rss",
-      "published_date": "2026-04-15T21:05:27+00:00",
-      "category": "Diplomacy"
+      "title": "Dwindling Asylum Prospects for Syrians in Europe as Rejection Rates Surge for Minority Groups",
+      "source": "Syrian Observer",
+      "url": "https://syrianobserver.com/refugees/dwindling-asylum-prospects-for-syrians-in-europe-as-rejection-rates-surge-for-minority-groups.html",
+      "published_date": "2026-04-22T21:00:36+00:00",
+      "category": "Military"
     },
     {
       "title": "UAE-backed Colombian mercenaries provided support to Sudan paramilitary, report says",
@@ -130,18 +130,11 @@
       "category": "Military"
     },
     {
-      "title": "“Triple Shock” and the Syrian Economy: Can Damascus Withstand the New Wave of Global Pressure?",
+      "title": "Marketing Alternatives to Hormuz, With Barrack at His Side Sharaa in Saudi Arabia: Where Are the Investments?",
       "source": "Syrian Observer",
-      "url": "https://syrianobserver.com/society/triple-shock-and-the-syrian-economy-can-damascus-withstand-the-new-wave-of-global-pressure.html",
-      "published_date": "2026-04-15T21:00:22+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Stability Breaks Records: What the Forty-Two Percent Drop in Syrian Oil Imports Really Means",
-      "source": "Syrian Observer",
-      "url": "https://syrianobserver.com/society/stability-breaks-records-what-the-forty-two-percent-drop-in-syrian-oil-imports-really-means.html",
-      "published_date": "2026-04-15T21:00:03+00:00",
-      "category": "Energy"
+      "url": "https://syrianobserver.com/foreign-actors/marketing-alternatives-to-hormuz-with-barrack-at-his-side-sharaa-in-saudi-arabia-where-are-the-investments.html",
+      "published_date": "2026-04-22T21:00:55+00:00",
+      "category": "Economy"
     },
     {
       "title": "Peaceful Damascus Sit-In Disrupted by Attacks, Rights Group Says",
@@ -179,6 +172,20 @@
       "category": "Economy"
     },
     {
+      "title": "South American migrants deported to DRC say facing pressure to return home",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/4/22/south-american-migrants-deported-to-drc-say-facing-pressure-to-return-home?traffic_source=rss",
+      "published_date": "2026-04-22T23:19:02+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Dozens Infected with Hepatitis Amid Official Negligence",
+      "source": "Syrian Observer",
+      "url": "https://syrianobserver.com/syrian-actors/dozens-infected-with-hepatitis-amid-official-negligence.html",
+      "published_date": "2026-04-22T21:00:05+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "EU court rules Hungary’s LGBTQ law violates human rights",
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/news/2026/4/21/eu-court-rules-hungarys-lgbtq-law-violates-human-rights?traffic_source=rss",
@@ -211,20 +218,6 @@
       "source": "Syrian Observer",
       "url": "https://syrianobserver.com/syrian-actors/a-constructive-dialogue-on-the-future-of-transitional-justice-in-syria.html",
       "published_date": "2026-04-16T21:01:01+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Kabawat Meets Families of Missing Children as Investigations Advance",
-      "source": "Syrian Observer",
-      "url": "https://syrianobserver.com/syrian-actors/kabawat-meets-families-of-missing-children-as-investigations-advance.html",
-      "published_date": "2026-04-15T21:00:48+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Arab Barghouti says rights groups must do more for Palestinian prisoners",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/15/arab-barghouti-says-rights-groups-must-do-more-for-palestinian-prisoners?traffic_source=rss",
-      "published_date": "2026-04-15T18:44:13+00:00",
       "category": "Local Events"
     }
   ]
