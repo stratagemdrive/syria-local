@@ -1,8 +1,15 @@
 {
   "country": "Syria",
-  "last_updated": "2026-04-21T23:25:42.861698+00:00",
-  "story_count": 33,
+  "last_updated": "2026-04-22T11:56:19.733731+00:00",
+  "story_count": 32,
   "stories": [
+    {
+      "title": "Iran’s UN ambassador responds to US ceasefire extension",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/22/irans-un-ambassador-responds-to-us-ceasefire-extension?traffic_source=rss",
+      "published_date": "2026-04-22T07:33:42+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "How Syrian Billionaires Leveraged the Trump Brand to Reshape Washington’s Syria Policy",
       "source": "Syrian Observer",
@@ -60,18 +67,11 @@
       "category": "Diplomacy"
     },
     {
-      "title": "What you need to know about Israel’s ambassador to the US",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/15/what-you-need-to-know-about-israels-ambassador-to-the-us?traffic_source=rss",
-      "published_date": "2026-04-15T10:10:56+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "South Africa appoints former apartheid-era negotiator as US ambassador",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/4/15/south-africa-appoints-former-apartheid-era-negotiator-as-us-ambassador?traffic_source=rss",
-      "published_date": "2026-04-15T04:26:38+00:00",
-      "category": "Diplomacy"
+      "title": "UAE-backed Colombian mercenaries provided support to Sudan paramilitary, report says",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cn4vk13wgwwo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-04-22T04:01:50+00:00",
+      "category": "Military"
     },
     {
       "title": "Damascus Under Pressure: Security, Power, and the Shadow of Regional Proxies",
@@ -225,13 +225,6 @@
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/4/15/arab-barghouti-says-rights-groups-must-do-more-for-palestinian-prisoners?traffic_source=rss",
       "published_date": "2026-04-15T18:44:13+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Abducted at Dawn: The Unanswered Fate of Qadam’s Missing Men",
-      "source": "Syrian Observer",
-      "url": "https://syrianobserver.com/syrian-actors/abducted-at-dawn-the-unanswered-fate-of-qadams-missing-men.html",
-      "published_date": "2026-04-15T08:02:01+00:00",
       "category": "Local Events"
     }
   ]
