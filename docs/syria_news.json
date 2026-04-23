@@ -1,8 +1,15 @@
 {
   "country": "Syria",
-  "last_updated": "2026-04-22T23:36:09.959504+00:00",
-  "story_count": 31,
+  "last_updated": "2026-04-23T11:57:08.884217+00:00",
+  "story_count": 32,
   "stories": [
+    {
+      "title": "Israeli strike kills five in Gaza, including three children",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/4/23/israeli-strike-kills-five-in-gaza-including-three-children?traffic_source=rss",
+      "published_date": "2026-04-23T07:53:15+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Iran’s UN ambassador responds to US ceasefire extension",
       "source": "Al Jazeera",
@@ -123,11 +130,11 @@
       "category": "Military"
     },
     {
-      "title": "US military kills three in new Eastern Pacific boat strike",
+      "title": "Lufthansa cuts 20,000 flights as Iran war causes jet fuel shortage",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/4/16/us-military-kills-three-in-new-eastern-pacific-boat-strike?traffic_source=rss",
-      "published_date": "2026-04-16T06:34:58+00:00",
-      "category": "Military"
+      "url": "https://www.aljazeera.com/news/2026/4/23/lufthansa-cuts-20000-flights-as-iran-war-causes-jet-fuel-shortage?traffic_source=rss",
+      "published_date": "2026-04-23T10:29:22+00:00",
+      "category": "Energy"
     },
     {
       "title": "Marketing Alternatives to Hormuz, With Barrack at His Side Sharaa in Saudi Arabia: Where Are the Investments?",
