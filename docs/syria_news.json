@@ -1,8 +1,15 @@
 {
   "country": "Syria",
-  "last_updated": "2026-04-24T11:54:20.138613+00:00",
-  "story_count": 31,
+  "last_updated": "2026-04-24T23:29:50.596078+00:00",
+  "story_count": 32,
   "stories": [
+    {
+      "title": "Israel kills at least 12 Palestinians in Gaza amid ‘ceasefire’",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/4/24/israel-kills-at-least-12-palestinians-in-gaza-amid-ceasefire?traffic_source=rss",
+      "published_date": "2026-04-24T21:42:22+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "President Ahmad al-Sharaa Performs Ceremonial First Basketball Shots",
       "source": "Syrian Observer",
