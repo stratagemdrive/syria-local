@@ -1,8 +1,15 @@
 {
   "country": "Syria",
-  "last_updated": "2026-04-23T23:34:03.517840+00:00",
-  "story_count": 30,
+  "last_updated": "2026-04-24T11:54:20.138613+00:00",
+  "story_count": 31,
   "stories": [
+    {
+      "title": "President Ahmad al-Sharaa Performs Ceremonial First Basketball Shots",
+      "source": "Syrian Observer",
+      "url": "https://syrianobserver.com/youtube/president-ahmad-al-sharaa-performs-ceremonial-first-basketball-shots.html",
+      "published_date": "2026-04-24T05:50:43+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Security Council Affirms Unified Support for Syria and Strengthened Humanitarian Action in 2026",
       "source": "Syrian Observer",
@@ -74,6 +81,13 @@
       "category": "Diplomacy"
     },
     {
+      "title": "Key suspect in notorious Tadamon massacre during Syria civil war arrested",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cvglxgq1p2jo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-04-24T10:41:32+00:00",
+      "category": "Military"
+    },
+    {
       "title": "Dutch Prosecutors Seek Maximum Sentence for Former Syrian Militia Commander",
       "source": "Syrian Observer",
       "url": "https://syrianobserver.com/syrian-actors/dutch-prosecutors-seek-maximum-sentence-for-former-syrian-militia-commander.html",
@@ -123,13 +137,6 @@
       "category": "Military"
     },
     {
-      "title": "US troops complete their withdrawal from key air base in Syria",
-      "source": "Syrian Observer",
-      "url": "https://syrianobserver.com/youtube/us-troops-complete-their-withdrawal-from-key-air-base-in-syria.html",
-      "published_date": "2026-04-17T07:04:14+00:00",
-      "category": "Military"
-    },
-    {
       "title": "Lufthansa cuts 20,000 flights as Iran war causes jet fuel shortage",
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/news/2026/4/23/lufthansa-cuts-20000-flights-as-iran-war-causes-jet-fuel-shortage?traffic_source=rss",
@@ -156,6 +163,13 @@
       "url": "https://syriadirect.org/reconstruction-plan-for-eastern-damascus-neighborhoods-alarms-residents/",
       "published_date": "2026-04-20T18:42:34+00:00",
       "category": "Economy"
+    },
+    {
+      "title": "Syria arrests suspected leader of Tadamon massacre",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/apr/24/syria-arrests-suspected-leader-of-tadamon-massacre",
+      "published_date": "2026-04-24T09:53:25+00:00",
+      "category": "Local Events"
     },
     {
       "title": "President Sharaa Welcomes Issam Buwaydani to Damascus After Release from the UAE",
@@ -204,13 +218,6 @@
       "source": "BBC News",
       "url": "https://www.bbc.com/news/videos/czd7e3yqd7do?at_medium=RSS&at_campaign=rss",
       "published_date": "2026-04-18T00:20:56+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Burkina Faso dissolves more than 100 NGOs and civil society groups",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/4/17/burkina-faso-dissolves-more-than-100-ngos-and-civil-society-groups?traffic_source=rss",
-      "published_date": "2026-04-17T06:38:57+00:00",
       "category": "Local Events"
     }
   ]
