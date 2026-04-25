@@ -1,8 +1,15 @@
 {
   "country": "Syria",
-  "last_updated": "2026-04-25T11:34:31.056354+00:00",
-  "story_count": 33,
+  "last_updated": "2026-04-25T23:26:26.801106+00:00",
+  "story_count": 36,
   "stories": [
+    {
+      "title": "Flights resume at Tehran airport as US-Iran ceasefire holds",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/25/flights-resume-at-tehran-airport-as-us-iran-ceasefire-holds?traffic_source=rss",
+      "published_date": "2026-04-25T12:23:27+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Israel kills at least 12 Palestinians in Gaza amid ‘ceasefire’",
       "source": "Al Jazeera",
@@ -86,6 +93,20 @@
       "url": "https://syrianobserver.com/society/exceptional-salaries-for-hts-linked-employees-in-al-sharaas-government-how-public-spending-was-captured.html",
       "published_date": "2026-04-19T21:00:28+00:00",
       "category": "Diplomacy"
+    },
+    {
+      "title": "US to allow Venezuelan government to cover Maduro’s lawyer fees",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/4/25/us-to-allow-venezuelan-government-to-cover-maduros-lawyer-fees?traffic_source=rss",
+      "published_date": "2026-04-25T16:21:24+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Iran resumes commercial flights from Tehran airport",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/4/25/iran-resumes-commercial-flights-from-tehran-airport?traffic_source=rss",
+      "published_date": "2026-04-25T11:58:53+00:00",
+      "category": "Military"
     },
     {
       "title": "Key suspect in notorious Tadamon massacre during Syria civil war arrested",
