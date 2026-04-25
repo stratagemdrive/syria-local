@@ -1,7 +1,7 @@
 {
   "country": "Syria",
-  "last_updated": "2026-04-24T23:29:50.596078+00:00",
-  "story_count": 32,
+  "last_updated": "2026-04-25T11:34:31.056354+00:00",
+  "story_count": 33,
   "stories": [
     {
       "title": "Israel kills at least 12 Palestinians in Gaza amid ‘ceasefire’",
@@ -172,6 +172,20 @@
       "category": "Economy"
     },
     {
+      "title": "Palestinians in West Bank and some in Gaza vote in local elections",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cn4vej3x0wxo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-04-25T10:52:27+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Australian women and children leave Syrian detention camp for Damascus – and potentially home",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/australia-news/2026/apr/25/australian-women-and-children-leave-syrian-detention-camp-for-damascus-and-potentially-home",
+      "published_date": "2026-04-25T01:02:16+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "Syria arrests suspected leader of Tadamon massacre",
       "source": "The Guardian",
       "url": "https://www.theguardian.com/world/2026/apr/24/syria-arrests-suspected-leader-of-tadamon-massacre",
@@ -218,13 +232,6 @@
       "source": "Syrian Observer",
       "url": "https://syrianobserver.com/syrian-actors/ilham-ahmed-outlines-damascus-meeting-and-the-next-phase-of-integration.html",
       "published_date": "2026-04-20T21:00:52+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Watch: Fuel truck leaves trail of fire on road in Syria",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/videos/czd7e3yqd7do?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-04-18T00:20:56+00:00",
       "category": "Local Events"
     }
   ]
