@@ -1,8 +1,15 @@
 {
   "country": "Syria",
-  "last_updated": "2026-04-26T11:35:10.568280+00:00",
-  "story_count": 36,
+  "last_updated": "2026-04-26T23:27:59.419210+00:00",
+  "story_count": 40,
   "stories": [
+    {
+      "title": "Sharaa Mediates Boweidani’s Release from the UAE and Receives Him in Damascus and Douma",
+      "source": "Syrian Observer",
+      "url": "https://syrianobserver.com/syrian-actors/sharaa-mediates-boweidanis-release-from-the-uae-and-receives-him-in-damascus-and-douma.html",
+      "published_date": "2026-04-26T21:00:47+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Flights resume at Tehran airport as US-Iran ceasefire holds",
       "source": "Al Jazeera",
@@ -81,18 +88,11 @@
       "category": "Diplomacy"
     },
     {
-      "title": "From Antalya, Sharaa Pitches a New Syria: Neutral, Investable, and Open to a Security Deal with Israel",
-      "source": "Syrian Observer",
-      "url": "https://syrianobserver.com/syrian-actors/from-antalya-sharaa-pitches-a-new-syria-neutral-investable-and-open-to-a-security-deal-with-israel.html",
-      "published_date": "2026-04-19T21:00:53+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Exceptional Salaries for HTS-Linked Employees in al-Sharaa’s Government: How Public Spending Was Captured",
-      "source": "Syrian Observer",
-      "url": "https://syrianobserver.com/society/exceptional-salaries-for-hts-linked-employees-in-al-sharaas-government-how-public-spending-was-captured.html",
-      "published_date": "2026-04-19T21:00:28+00:00",
-      "category": "Diplomacy"
+      "title": "What lies ahead for Gaza after ceasefires in Iran and Lebanon?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/4/26/what-lies-ahead-for-gaza-after-ceasefires-in-iran-and-lebanon?traffic_source=rss",
+      "published_date": "2026-04-26T13:20:08+00:00",
+      "category": "Military"
     },
     {
       "title": "US to allow Venezuelan government to cover Maduro’s lawyer fees",
@@ -191,6 +191,34 @@
       "url": "https://syriadirect.org/reconstruction-plan-for-eastern-damascus-neighborhoods-alarms-residents/",
       "published_date": "2026-04-20T18:42:34+00:00",
       "category": "Economy"
+    },
+    {
+      "title": "Syria Opens Trial of Atef Najib in Landmark Transitional Justice Case",
+      "source": "Syrian Observer",
+      "url": "https://syrianobserver.com/syrian-actors/syria-opens-trial-of-atef-najib-in-landmark-transitional-justice-case.html",
+      "published_date": "2026-04-26T21:00:46+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Sharaa Meets Jumblatt at the People’s Palace in Damascus",
+      "source": "Syrian Observer",
+      "url": "https://syrianobserver.com/syrian-actors/sharaa-meets-jumblatt-at-the-peoples-palace-in-damascus.html",
+      "published_date": "2026-04-26T21:00:08+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "First trial of Assad-era Syrian official starts in Damascus",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/26/first-trial-of-assad-era-syrian-official-starts-in-damascus?traffic_source=rss",
+      "published_date": "2026-04-26T17:49:30+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Syria puts first Assad-era official on trial in Damascus",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/4/26/syria-puts-al-assad-era-officials-on?traffic_source=rss",
+      "published_date": "2026-04-26T12:31:50+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Palestinians in West Bank and some in Gaza vote in local elections",
