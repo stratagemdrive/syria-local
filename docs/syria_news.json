@@ -1,7 +1,7 @@
 {
   "country": "Syria",
-  "last_updated": "2026-04-27T12:18:05.620897+00:00",
-  "story_count": 40,
+  "last_updated": "2026-04-27T23:40:23.405535+00:00",
+  "story_count": 34,
   "stories": [
     {
       "title": "Sharaa Mediates Boweidani’s Release from the UAE and Receives Him in Damascus and Douma",
@@ -74,20 +74,6 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Lebanon Rejects Any Hezbollah Involvement in Syria",
-      "source": "Syrian Observer",
-      "url": "https://syrianobserver.com/foreign-actors/lebanon-rejects-any-hezbollah-involvement-in-syria.html",
-      "published_date": "2026-04-20T21:00:03+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Germany summons Russian ambassador, citing ‘direct threats’",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/4/20/germany-summons-russian-ambassador-citing-direct-threats?traffic_source=rss",
-      "published_date": "2026-04-20T17:55:28+00:00",
-      "category": "Diplomacy"
-    },
-    {
       "title": "What lies ahead for Gaza after ceasefires in Iran and Lebanon?",
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/news/2026/4/26/what-lies-ahead-for-gaza-after-ceasefires-in-iran-and-lebanon?traffic_source=rss",
@@ -151,20 +137,6 @@
       "category": "Military"
     },
     {
-      "title": "Syria and the European Union Begin High-Level Political Dialogue as Both Sides Move to Rebuild Trade and Security Ties",
-      "source": "Syrian Observer",
-      "url": "https://syrianobserver.com/syrian-actors/syria-and-the-european-union-begin-high-level-political-dialogue-as-both-sides-move-to-rebuild-trade-and-security-ties.html",
-      "published_date": "2026-04-20T21:02:46+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Outrage over Israeli soldier's vandalism of Jesus statue in Lebanon",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cpd575n1znzo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-04-20T18:57:25+00:00",
-      "category": "Military"
-    },
-    {
       "title": "Lufthansa cuts 20,000 flights as Iran war causes jet fuel shortage",
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/news/2026/4/23/lufthansa-cuts-20000-flights-as-iran-war-causes-jet-fuel-shortage?traffic_source=rss",
@@ -183,13 +155,6 @@
       "source": "Syrian Observer",
       "url": "https://syrianobserver.com/syrian-actors/peaceful-damascus-sit-in-disrupted-by-attacks-rights-group-says.html",
       "published_date": "2026-04-21T21:00:22+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Reconstruction plan for eastern Damascus neighborhoods alarms residents",
-      "source": "Syria Direct",
-      "url": "https://syriadirect.org/reconstruction-plan-for-eastern-damascus-neighborhoods-alarms-residents/",
-      "published_date": "2026-04-20T18:42:34+00:00",
       "category": "Economy"
     },
     {
@@ -274,13 +239,6 @@
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/news/2026/4/21/eu-court-rules-hungarys-lgbtq-law-violates-human-rights?traffic_source=rss",
       "published_date": "2026-04-21T16:36:44+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Ilham Ahmed Outlines Damascus Meeting and the Next Phase of Integration",
-      "source": "Syrian Observer",
-      "url": "https://syrianobserver.com/syrian-actors/ilham-ahmed-outlines-damascus-meeting-and-the-next-phase-of-integration.html",
-      "published_date": "2026-04-20T21:00:52+00:00",
       "category": "Local Events"
     }
   ]
