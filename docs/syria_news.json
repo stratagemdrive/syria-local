@@ -1,8 +1,22 @@
 {
   "country": "Syria",
-  "last_updated": "2026-04-27T23:40:23.405535+00:00",
-  "story_count": 34,
+  "last_updated": "2026-04-28T12:21:56.489126+00:00",
+  "story_count": 38,
   "stories": [
+    {
+      "title": "Ukraine summons Israeli ambassador over ‘stolen’ grain shipments",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/4/28/ukraine-summons-israeli-ambassador-over-stolen-grain-shipments?traffic_source=rss",
+      "published_date": "2026-04-28T07:34:11+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "UN Envoy Meets Syria’s Interior Minister as Damascus Opens Landmark Trials of Former Regime Figures",
+      "source": "Syrian Observer",
+      "url": "https://syrianobserver.com/syrian-actors/un-envoy-meets-syrias-interior-minister-as-damascus-opens-landmark-trials-of-former-regime-figures.html",
+      "published_date": "2026-04-27T21:00:39+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Sharaa Mediates Boweidani’s Release from the UAE and Receives Him in Damascus and Douma",
       "source": "Syrian Observer",
@@ -64,13 +78,6 @@
       "source": "Syrian Observer",
       "url": "https://syrianobserver.com/foreign-actors/president-sharaa-arrives-in-saudi-arabia-opening-his-gulf-tour.html",
       "published_date": "2026-04-21T21:00:38+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Spain, Slovenia, Ireland push EU to debate Israel pact suspension",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/4/21/spain-slovenia-ireland-push-eu-to-debate-israel-pact-suspension?traffic_source=rss",
-      "published_date": "2026-04-21T09:32:43+00:00",
       "category": "Diplomacy"
     },
     {
@@ -144,6 +151,13 @@
       "category": "Energy"
     },
     {
+      "title": "Syria’s Vanishing Budget Surplus Raises Questions Over Fiscal Transparency",
+      "source": "Syrian Observer",
+      "url": "https://syrianobserver.com/syrian-actors/syrias-vanishing-budget-surplus-raises-questions-over-fiscal-transparency.html",
+      "published_date": "2026-04-27T21:00:00+00:00",
+      "category": "Economy"
+    },
+    {
       "title": "Marketing Alternatives to Hormuz, With Barrack at His Side Sharaa in Saudi Arabia: Where Are the Investments?",
       "source": "Syrian Observer",
       "url": "https://syrianobserver.com/foreign-actors/marketing-alternatives-to-hormuz-with-barrack-at-his-side-sharaa-in-saudi-arabia-where-are-the-investments.html",
@@ -156,6 +170,20 @@
       "url": "https://syrianobserver.com/syrian-actors/peaceful-damascus-sit-in-disrupted-by-attacks-rights-group-says.html",
       "published_date": "2026-04-21T21:00:22+00:00",
       "category": "Economy"
+    },
+    {
+      "title": "Damascus Child Begging Campaign Traps Children in a Revolving Door",
+      "source": "Syrian Observer",
+      "url": "https://syrianobserver.com/syrian-actors/damascus-child-begging-campaign-traps-children-in-a-revolving-door.html",
+      "published_date": "2026-04-27T21:00:21+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Syrian Civil Society Urges Broader, Victim-Centered Transitional Justice Framework",
+      "source": "Syrian Observer",
+      "url": "https://syrianobserver.com/syrian-actors/syrian-civil-society-urges-broader-victim-centered-transitional-justice-framework.html",
+      "published_date": "2026-04-27T21:00:04+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Syria Opens Trial of Atef Najib in Landmark Transitional Justice Case",
