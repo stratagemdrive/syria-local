@@ -1,8 +1,22 @@
 {
   "country": "Syria",
-  "last_updated": "2026-04-28T12:21:56.489126+00:00",
-  "story_count": 38,
+  "last_updated": "2026-04-28T23:42:48.752527+00:00",
+  "story_count": 39,
   "stories": [
+    {
+      "title": "Syria Keeps Its Distance from Regional Wars as U.S.-Mediated Talks with Israel Continue",
+      "source": "Syrian Observer",
+      "url": "https://syrianobserver.com/foreign-actors/syria-keeps-its-distance-from-regional-wars-as-u-s-mediated-talks-with-israel-continue.html",
+      "published_date": "2026-04-28T21:00:43+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "America's special relationship 'probably Israel', says UK ambassador to US",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c1l25qd43nro?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-04-28T18:53:55+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Ukraine summons Israeli ambassador over ‘stolen’ grain shipments",
       "source": "Al Jazeera",
@@ -67,18 +81,11 @@
       "category": "Diplomacy"
     },
     {
-      "title": "How Syrian Billionaires Leveraged the Trump Brand to Reshape Washington’s Syria Policy",
+      "title": "Syria’s First Post-Assad Trials Ignite a Deep Debate Over Justice and Accountability",
       "source": "Syrian Observer",
-      "url": "https://syrianobserver.com/society/how-syrian-billionaires-leveraged-the-trump-brand-to-reshape-washingtons-syria-policy.html",
-      "published_date": "2026-04-21T21:00:42+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "President Sharaa Arrives in Saudi Arabia, Opening His Gulf Tour",
-      "source": "Syrian Observer",
-      "url": "https://syrianobserver.com/foreign-actors/president-sharaa-arrives-in-saudi-arabia-opening-his-gulf-tour.html",
-      "published_date": "2026-04-21T21:00:38+00:00",
-      "category": "Diplomacy"
+      "url": "https://syrianobserver.com/syrian-actors/syrias-first-post-assad-trials-ignite-a-deep-debate-over-justice-and-accountability.html",
+      "published_date": "2026-04-28T21:01:47+00:00",
+      "category": "Military"
     },
     {
       "title": "What lies ahead for Gaza after ceasefires in Iran and Lebanon?",
@@ -130,25 +137,18 @@
       "category": "Military"
     },
     {
-      "title": "Damascus Under Pressure: Security, Power, and the Shadow of Regional Proxies",
-      "source": "Syrian Observer",
-      "url": "https://syrianobserver.com/uncategorized/damascus-under-pressure-security-power-and-the-shadow-of-regional-proxies.html",
-      "published_date": "2026-04-21T21:00:04+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "The US exit from Syria, explained",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/the-take-2/2026/4/21/aje-onl-aj_tt_syr_uswithdrawal_full_v1-210426?traffic_source=rss",
-      "published_date": "2026-04-21T17:53:54+00:00",
-      "category": "Military"
-    },
-    {
       "title": "Lufthansa cuts 20,000 flights as Iran war causes jet fuel shortage",
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/news/2026/4/23/lufthansa-cuts-20000-flights-as-iran-war-causes-jet-fuel-shortage?traffic_source=rss",
       "published_date": "2026-04-23T10:29:22+00:00",
       "category": "Energy"
+    },
+    {
+      "title": "Syrian–French Talks Explore Ways to Strengthen Economic and Financial Cooperation",
+      "source": "Syrian Observer",
+      "url": "https://syrianobserver.com/syrian-actors/syrian-french-talks-explore-ways-to-strengthen-economic-and-financial-cooperation.html",
+      "published_date": "2026-04-28T21:00:01+00:00",
+      "category": "Economy"
     },
     {
       "title": "Syria’s Vanishing Budget Surplus Raises Questions Over Fiscal Transparency",
@@ -165,11 +165,25 @@
       "category": "Economy"
     },
     {
-      "title": "Peaceful Damascus Sit-In Disrupted by Attacks, Rights Group Says",
+      "title": "New Documentation Confirms 466 Dead and 200 Missing in Northern Syria Battles Earlier This Year",
       "source": "Syrian Observer",
-      "url": "https://syrianobserver.com/syrian-actors/peaceful-damascus-sit-in-disrupted-by-attacks-rights-group-says.html",
-      "published_date": "2026-04-21T21:00:22+00:00",
-      "category": "Economy"
+      "url": "https://syrianobserver.com/syrian-actors/new-documentation-confirms-466-dead-and-200-missing-in-northern-syria-battles-earlier-this-year.html",
+      "published_date": "2026-04-28T21:00:47+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "By Order of Sharaa: 54 Aleppo Judges Referred to the Supreme Judicial Council for Investigation",
+      "source": "Syrian Observer",
+      "url": "https://syrianobserver.com/syrian-actors/by-order-of-sharaa-54-aleppo-judges-referred-to-the-supreme-judicial-council-for-investigation.html",
+      "published_date": "2026-04-28T21:00:32+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "From exile to judge: Symbolism in Syria’s trial of Assad, former officials",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/features/2026/4/28/from-exile-to-judge-symbolism-in-syrias-trial-of-assad-former-officials?traffic_source=rss",
+      "published_date": "2026-04-28T17:49:59+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Damascus Child Begging Campaign Traps Children in a Revolving Door",
@@ -260,13 +274,6 @@
       "source": "Syrian Observer",
       "url": "https://syrianobserver.com/syrian-actors/dozens-infected-with-hepatitis-amid-official-negligence.html",
       "published_date": "2026-04-22T21:00:05+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "EU court rules Hungary’s LGBTQ law violates human rights",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/4/21/eu-court-rules-hungarys-lgbtq-law-violates-human-rights?traffic_source=rss",
-      "published_date": "2026-04-21T16:36:44+00:00",
       "category": "Local Events"
     }
   ]
