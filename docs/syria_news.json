@@ -1,7 +1,7 @@
 {
   "country": "Syria",
-  "last_updated": "2026-04-29T12:13:53.939307+00:00",
-  "story_count": 38,
+  "last_updated": "2026-04-29T23:41:55.351153+00:00",
+  "story_count": 35,
   "stories": [
     {
       "title": "Syria Keeps Its Distance from Regional Wars as U.S.-Mediated Talks with Israel Continue",
@@ -123,13 +123,6 @@
       "category": "Military"
     },
     {
-      "title": "Dwindling Asylum Prospects for Syrians in Europe as Rejection Rates Surge for Minority Groups",
-      "source": "Syrian Observer",
-      "url": "https://syrianobserver.com/refugees/dwindling-asylum-prospects-for-syrians-in-europe-as-rejection-rates-surge-for-minority-groups.html",
-      "published_date": "2026-04-22T21:00:36+00:00",
-      "category": "Military"
-    },
-    {
       "title": "Lufthansa cuts 20,000 flights as Iran war causes jet fuel shortage",
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/news/2026/4/23/lufthansa-cuts-20000-flights-as-iran-war-causes-jet-fuel-shortage?traffic_source=rss",
@@ -151,11 +144,11 @@
       "category": "Economy"
     },
     {
-      "title": "Marketing Alternatives to Hormuz, With Barrack at His Side Sharaa in Saudi Arabia: Where Are the Investments?",
-      "source": "Syrian Observer",
-      "url": "https://syrianobserver.com/foreign-actors/marketing-alternatives-to-hormuz-with-barrack-at-his-side-sharaa-in-saudi-arabia-where-are-the-investments.html",
-      "published_date": "2026-04-22T21:00:55+00:00",
-      "category": "Economy"
+      "title": "Syria trial seen as first step on long road for Assad's victims",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cn5pzw4gn1no?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-04-29T20:11:04+00:00",
+      "category": "Local Events"
     },
     {
       "title": "New Documentation Confirms 466 Dead and 200 Missing in Northern Syria Battles Earlier This Year",
@@ -253,20 +246,6 @@
       "source": "Syrian Observer",
       "url": "https://syrianobserver.com/syrian-actors/public-trial-of-atef-najib-to-open-sunday-before-the-fourth-criminal-court.html",
       "published_date": "2026-04-23T21:00:34+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "South American migrants deported to DRC say facing pressure to return home",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/4/22/south-american-migrants-deported-to-drc-say-facing-pressure-to-return-home?traffic_source=rss",
-      "published_date": "2026-04-22T23:19:02+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Dozens Infected with Hepatitis Amid Official Negligence",
-      "source": "Syrian Observer",
-      "url": "https://syrianobserver.com/syrian-actors/dozens-infected-with-hepatitis-amid-official-negligence.html",
-      "published_date": "2026-04-22T21:00:05+00:00",
       "category": "Local Events"
     }
   ]
