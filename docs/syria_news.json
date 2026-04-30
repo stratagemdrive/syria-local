@@ -1,8 +1,15 @@
 {
   "country": "Syria",
-  "last_updated": "2026-04-30T12:11:19.265213+00:00",
-  "story_count": 40,
+  "last_updated": "2026-04-30T23:39:50.895803+00:00",
+  "story_count": 38,
   "stories": [
+    {
+      "title": "Suwayda’s students caught up in the struggle with Damascus",
+      "source": "Syria Direct",
+      "url": "https://syriadirect.org/suwaydas-students-caught-up-in-the-struggle-with-damascus/",
+      "published_date": "2026-04-30T15:13:22+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Between Amjad Youssef and Samir Kaakeh: Justice and Politics in Syria",
       "source": "Syrian Observer",
@@ -64,13 +71,6 @@
       "source": "Syrian Observer",
       "url": "https://syrianobserver.com/youtube/president-ahmad-al-sharaa-performs-ceremonial-first-basketball-shots.html",
       "published_date": "2026-04-24T05:50:43+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Security Council Affirms Unified Support for Syria and Strengthened Humanitarian Action in 2026",
-      "source": "Syrian Observer",
-      "url": "https://syrianobserver.com/syrian-actors/security-council-affirms-unified-support-for-syria-and-strengthened-humanitarian-action-in-2026.html",
-      "published_date": "2026-04-23T21:00:21+00:00",
       "category": "Diplomacy"
     },
     {
@@ -137,13 +137,6 @@
       "category": "Military"
     },
     {
-      "title": "Dutch Prosecutors Seek Maximum Sentence for Former Syrian Militia Commander",
-      "source": "Syrian Observer",
-      "url": "https://syrianobserver.com/syrian-actors/dutch-prosecutors-seek-maximum-sentence-for-former-syrian-militia-commander.html",
-      "published_date": "2026-04-23T21:00:27+00:00",
-      "category": "Military"
-    },
-    {
       "title": "Syrian–French Talks Explore Ways to Strengthen Economic and Financial Cooperation",
       "source": "Syrian Observer",
       "url": "https://syrianobserver.com/syrian-actors/syrian-french-talks-explore-ways-to-strengthen-economic-and-financial-cooperation.html",
@@ -156,6 +149,13 @@
       "url": "https://syrianobserver.com/syrian-actors/syrias-vanishing-budget-surplus-raises-questions-over-fiscal-transparency.html",
       "published_date": "2026-04-27T21:00:00+00:00",
       "category": "Economy"
+    },
+    {
+      "title": "Israel rights group petitions top court to order release of 14 Gaza doctors",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/4/30/israel-rights-group-petitions-top-court-to-order-release-of-14-gaza-doctors?traffic_source=rss",
+      "published_date": "2026-04-30T17:35:32+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Trump administration urges countries to help citizens stuck in Syria as Australia maintains hardline stance",
@@ -267,20 +267,6 @@
       "source": "The Guardian",
       "url": "https://www.theguardian.com/world/2026/apr/24/syria-arrests-suspected-leader-of-tadamon-massacre",
       "published_date": "2026-04-24T09:53:25+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "President Sharaa Welcomes Issam Buwaydani to Damascus After Release from the UAE",
-      "source": "Syrian Observer",
-      "url": "https://syrianobserver.com/foreign-actors/president-sharaa-welcomes-issam-buwaydani-to-damascus-after-release-from-the-uae.html",
-      "published_date": "2026-04-23T21:00:50+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Public Trial of Atef Najib to Open Sunday Before the Fourth Criminal Court",
-      "source": "Syrian Observer",
-      "url": "https://syrianobserver.com/syrian-actors/public-trial-of-atef-najib-to-open-sunday-before-the-fourth-criminal-court.html",
-      "published_date": "2026-04-23T21:00:34+00:00",
       "category": "Local Events"
     }
   ]
