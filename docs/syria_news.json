@@ -1,8 +1,15 @@
 {
   "country": "Syria",
-  "last_updated": "2026-04-29T23:41:55.351153+00:00",
-  "story_count": 35,
+  "last_updated": "2026-04-30T12:11:19.265213+00:00",
+  "story_count": 40,
   "stories": [
+    {
+      "title": "Between Amjad Youssef and Samir Kaakeh: Justice and Politics in Syria",
+      "source": "Syrian Observer",
+      "url": "https://syrianobserver.com/syrian-actors/between-amjad-youssef-and-samir-kaakeh-justice-and-politics-in-syria.html",
+      "published_date": "2026-04-29T21:00:53+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Syria Keeps Its Distance from Regional Wars as U.S.-Mediated Talks with Israel Continue",
       "source": "Syrian Observer",
@@ -67,11 +74,25 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Israeli strike kills five in Gaza, including three children",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/4/23/israeli-strike-kills-five-in-gaza-including-three-children?traffic_source=rss",
-      "published_date": "2026-04-23T07:53:15+00:00",
-      "category": "Diplomacy"
+      "title": "Syrian commission prepares war crimes case against notorious Assad official",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/apr/30/fadi-saqr-tadamon-damascus-syria",
+      "published_date": "2026-04-30T06:00:11+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "ISIS Claims Responsibility for Assassination in Rural Aleppo Amid Rising Insecurity",
+      "source": "Syrian Observer",
+      "url": "https://syrianobserver.com/security/isis-claims-responsibility-for-assassination-in-rural-aleppo-amid-rising-insecurity.html",
+      "published_date": "2026-04-29T21:01:27+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Human Rights Watch: Occupation Plan to Transfer Thousands of Settlers to the Occupied Golan is a “War Crime”",
+      "source": "Syrian Observer",
+      "url": "https://syrianobserver.com/foreign-actors/human-rights-watch-occupation-plan-to-transfer-thousands-of-settlers-to-the-occupied-golan-is-a-war-crime.html",
+      "published_date": "2026-04-29T21:00:00+00:00",
+      "category": "Military"
     },
     {
       "title": "US supreme court to hear whether protected status of Haitians and Syrians can be revoked",
@@ -123,13 +144,6 @@
       "category": "Military"
     },
     {
-      "title": "Lufthansa cuts 20,000 flights as Iran war causes jet fuel shortage",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/4/23/lufthansa-cuts-20000-flights-as-iran-war-causes-jet-fuel-shortage?traffic_source=rss",
-      "published_date": "2026-04-23T10:29:22+00:00",
-      "category": "Energy"
-    },
-    {
       "title": "Syrian–French Talks Explore Ways to Strengthen Economic and Financial Cooperation",
       "source": "Syrian Observer",
       "url": "https://syrianobserver.com/syrian-actors/syrian-french-talks-explore-ways-to-strengthen-economic-and-financial-cooperation.html",
@@ -142,6 +156,27 @@
       "url": "https://syrianobserver.com/syrian-actors/syrias-vanishing-budget-surplus-raises-questions-over-fiscal-transparency.html",
       "published_date": "2026-04-27T21:00:00+00:00",
       "category": "Economy"
+    },
+    {
+      "title": "Trump administration urges countries to help citizens stuck in Syria as Australia maintains hardline stance",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/australia-news/2026/apr/30/syria-australian-citizens-repatriation-us-trump",
+      "published_date": "2026-04-30T07:13:04+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Iraq’s New PM-Designate: What Ali al-Zaydi Means for Baghdad—and for Syria",
+      "source": "Syrian Observer",
+      "url": "https://syrianobserver.com/uncategorized/iraqs-new-pm-designate-what-ali-al-zaydi-means-for-baghdad-and-for-syria.html",
+      "published_date": "2026-04-29T21:00:59+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Suspension of Trading in Damascus Securities Exchange Companies Pressures Confidence and Liquidity",
+      "source": "Syrian Observer",
+      "url": "https://syrianobserver.com/syrian-actors/suspension-of-trading-in-damascus-securities-exchange-companies-pressures-confidence-and-liquidity.html",
+      "published_date": "2026-04-29T21:00:29+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Syria trial seen as first step on long road for Assad's victims",
