@@ -1,6 +1,6 @@
 {
   "country": "Syria",
-  "last_updated": "2026-05-01T11:54:24.215053+00:00",
+  "last_updated": "2026-05-01T23:39:45.895009+00:00",
   "story_count": 36,
   "stories": [
     {
@@ -57,13 +57,6 @@
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/4/25/flights-resume-at-tehran-airport-as-us-iran-ceasefire-holds?traffic_source=rss",
       "published_date": "2026-04-25T12:23:27+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Israel kills at least 12 Palestinians in Gaza amid ‘ceasefire’",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/4/24/israel-kills-at-least-12-palestinians-in-gaza-amid-ceasefire?traffic_source=rss",
-      "published_date": "2026-04-24T21:42:22+00:00",
       "category": "Diplomacy"
     },
     {
@@ -128,6 +121,13 @@
       "url": "https://www.aljazeera.com/news/2026/4/25/iran-resumes-commercial-flights-from-tehran-airport?traffic_source=rss",
       "published_date": "2026-04-25T11:58:53+00:00",
       "category": "Military"
+    },
+    {
+      "title": "May Day rallies sweep US, demanding reforms for working-class rights",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/economy/2026/5/1/may-day-rallies-sweep-us-demanding-reforms-for-working-class-rights?traffic_source=rss",
+      "published_date": "2026-05-01T20:57:11+00:00",
+      "category": "Economy"
     },
     {
       "title": "Syrian–French Talks Explore Ways to Strengthen Economic and Financial Cooperation",
