@@ -1,7 +1,7 @@
 {
   "country": "Syria",
-  "last_updated": "2026-05-02T11:39:56.064552+00:00",
-  "story_count": 37,
+  "last_updated": "2026-05-02T23:31:40.929795+00:00",
+  "story_count": 35,
   "stories": [
     {
       "title": "China’s UN Envoy: Hormuz closure will dominate Trump-Xi talks",
@@ -57,13 +57,6 @@
       "source": "Syrian Observer",
       "url": "https://syrianobserver.com/syrian-actors/sharaa-mediates-boweidanis-release-from-the-uae-and-receives-him-in-damascus-and-douma.html",
       "published_date": "2026-04-26T21:00:47+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Flights resume at Tehran airport as US-Iran ceasefire holds",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/25/flights-resume-at-tehran-airport-as-us-iran-ceasefire-holds?traffic_source=rss",
-      "published_date": "2026-04-25T12:23:27+00:00",
       "category": "Diplomacy"
     },
     {
@@ -123,18 +116,11 @@
       "category": "Military"
     },
     {
-      "title": "US to allow Venezuelan government to cover Maduro’s lawyer fees",
+      "title": "Syria becomes alternative energy corridor for oil as Hormuz effectively blo",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/4/25/us-to-allow-venezuelan-government-to-cover-maduros-lawyer-fees?traffic_source=rss",
-      "published_date": "2026-04-25T16:21:24+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iran resumes commercial flights from Tehran airport",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/4/25/iran-resumes-commercial-flights-from-tehran-airport?traffic_source=rss",
-      "published_date": "2026-04-25T11:58:53+00:00",
-      "category": "Military"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/2/syria-becomes-alternative-energy-corridor-for-oil-as-hormuz-effectively-blo?traffic_source=rss",
+      "published_date": "2026-05-02T19:45:20+00:00",
+      "category": "Energy"
     },
     {
       "title": "Spirit Airlines begins ‘wind-down’, cancels all flights over fuel crisis",
