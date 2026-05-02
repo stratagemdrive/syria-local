@@ -1,8 +1,15 @@
 {
   "country": "Syria",
-  "last_updated": "2026-05-01T23:39:45.895009+00:00",
-  "story_count": 36,
+  "last_updated": "2026-05-02T11:39:56.064552+00:00",
+  "story_count": 37,
   "stories": [
+    {
+      "title": "China’s UN Envoy: Hormuz closure will dominate Trump-Xi talks",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/2/chinas-un-envoy-hormuz-closure-will-dominate-trump-xi-talks?traffic_source=rss",
+      "published_date": "2026-05-02T07:37:49+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Suwayda’s students caught up in the struggle with Damascus",
       "source": "Syria Direct",
@@ -58,6 +65,13 @@
       "url": "https://www.aljazeera.com/video/newsfeed/2026/4/25/flights-resume-at-tehran-airport-as-us-iran-ceasefire-holds?traffic_source=rss",
       "published_date": "2026-04-25T12:23:27+00:00",
       "category": "Diplomacy"
+    },
+    {
+      "title": "Asylum seeker sent back to France in ‘one in, one out’ scheme to be returned to Syria",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/uk-news/2026/may/02/asylum-seeker-sent-france-one-in-one-out-returned-syria",
+      "published_date": "2026-05-02T09:00:22+00:00",
+      "category": "Military"
     },
     {
       "title": "May Day in the age of AI: The new war on workers",
@@ -121,6 +135,13 @@
       "url": "https://www.aljazeera.com/news/2026/4/25/iran-resumes-commercial-flights-from-tehran-airport?traffic_source=rss",
       "published_date": "2026-04-25T11:58:53+00:00",
       "category": "Military"
+    },
+    {
+      "title": "Spirit Airlines begins ‘wind-down’, cancels all flights over fuel crisis",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/5/2/spirit-airlines-begins-wind-down-cancels-all-flights-over-fuel-crisis?traffic_source=rss",
+      "published_date": "2026-05-02T08:09:27+00:00",
+      "category": "Energy"
     },
     {
       "title": "May Day rallies sweep US, demanding reforms for working-class rights",
@@ -239,20 +260,6 @@
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/news/2026/4/26/syria-puts-al-assad-era-officials-on?traffic_source=rss",
       "published_date": "2026-04-26T12:31:50+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Palestinians in West Bank and some in Gaza vote in local elections",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cn4vej3x0wxo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-04-25T10:52:27+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Australian women and children leave Syrian detention camp for Damascus – and potentially home",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/australia-news/2026/apr/25/australian-women-and-children-leave-syrian-detention-camp-for-damascus-and-potentially-home",
-      "published_date": "2026-04-25T01:02:16+00:00",
       "category": "Local Events"
     }
   ]
