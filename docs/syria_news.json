@@ -1,6 +1,6 @@
 {
   "country": "Syria",
-  "last_updated": "2026-05-03T11:37:35.258955+00:00",
+  "last_updated": "2026-05-03T23:32:33.211813+00:00",
   "story_count": 35,
   "stories": [
     {
@@ -53,11 +53,25 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Sharaa Mediates Boweidani’s Release from the UAE and Receives Him in Damascus and Douma",
+      "title": "Sipan Hemo: SDF Integration Underway — Four Brigades Incorporated, Full Restructuring Planned",
       "source": "Syrian Observer",
-      "url": "https://syrianobserver.com/syrian-actors/sharaa-mediates-boweidanis-release-from-the-uae-and-receives-him-in-damascus-and-douma.html",
-      "published_date": "2026-04-26T21:00:47+00:00",
-      "category": "Diplomacy"
+      "url": "https://syrianobserver.com/syrian-actors/sipan-hemo-sdf-integration-underway-four-brigades-incorporated-full-restructuring-planned.html",
+      "published_date": "2026-05-03T21:00:50+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Security Tension in Idlib After Brief Arrest of Uzbek Fighter",
+      "source": "Syrian Observer",
+      "url": "https://syrianobserver.com/uncategorized/security-tension-in-idlib-after-brief-arrest-of-uzbek-fighter.html",
+      "published_date": "2026-05-03T21:00:12+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "The US vs Latin America: Varsha Gandikota and Susana Muhamad",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/reframe/2026/5/3/the-us-v-latin-america-varsha-gandikota-susana-muhamad?traffic_source=rss",
+      "published_date": "2026-05-03T15:58:20+00:00",
+      "category": "Military"
     },
     {
       "title": "Asylum seeker sent back to France in ‘one in, one out’ scheme to be returned to Syria",
@@ -109,13 +123,6 @@
       "category": "Military"
     },
     {
-      "title": "What lies ahead for Gaza after ceasefires in Iran and Lebanon?",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/4/26/what-lies-ahead-for-gaza-after-ceasefires-in-iran-and-lebanon?traffic_source=rss",
-      "published_date": "2026-04-26T13:20:08+00:00",
-      "category": "Military"
-    },
-    {
       "title": "Syria becomes alternative energy corridor for oil as Hormuz effectively blo",
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/5/2/syria-becomes-alternative-energy-corridor-for-oil-as-hormuz-effectively-blo?traffic_source=rss",
@@ -128,6 +135,13 @@
       "url": "https://www.aljazeera.com/news/2026/5/2/spirit-airlines-begins-wind-down-cancels-all-flights-over-fuel-crisis?traffic_source=rss",
       "published_date": "2026-05-02T08:09:27+00:00",
       "category": "Energy"
+    },
+    {
+      "title": "“Your Property Could Be Sold Without Your Knowledge”: Fraud Cases Shake Damascus Real Estate Market",
+      "source": "Syrian Observer",
+      "url": "https://syrianobserver.com/society/your-property-could-be-sold-without-your-knowledge-fraud-cases-shake-damascus-real-estate-market.html",
+      "published_date": "2026-05-03T21:00:52+00:00",
+      "category": "Economy"
     },
     {
       "title": "May Day rallies sweep US, demanding reforms for working-class rights",
@@ -149,6 +163,20 @@
       "url": "https://syrianobserver.com/syrian-actors/syrias-vanishing-budget-surplus-raises-questions-over-fiscal-transparency.html",
       "published_date": "2026-04-27T21:00:00+00:00",
       "category": "Economy"
+    },
+    {
+      "title": "Killing of Shiite Cleric Near Sayyidah Zaynab Shrine Revives Fears of Sectarian Strife",
+      "source": "Syrian Observer",
+      "url": "https://syrianobserver.com/uncategorized/killing-of-shiite-cleric-near-sayyidah-zaynab-shrine-revives-fears-of-sectarian-strife.html",
+      "published_date": "2026-05-03T21:00:54+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "MPI Warns Against Rushed Syrian Refugee Returns, Urges Coordinated Post-Assad Roadmap",
+      "source": "Syrian Observer",
+      "url": "https://syrianobserver.com/refugees/mpi-warns-against-rushed-syrian-refugee-returns-urges-coordinated-post-assad-roadmap.html",
+      "published_date": "2026-05-03T21:00:28+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Israel rights group petitions top court to order release of 14 Gaza doctors",
@@ -218,34 +246,6 @@
       "source": "Syrian Observer",
       "url": "https://syrianobserver.com/syrian-actors/syrian-civil-society-urges-broader-victim-centered-transitional-justice-framework.html",
       "published_date": "2026-04-27T21:00:04+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Syria Opens Trial of Atef Najib in Landmark Transitional Justice Case",
-      "source": "Syrian Observer",
-      "url": "https://syrianobserver.com/syrian-actors/syria-opens-trial-of-atef-najib-in-landmark-transitional-justice-case.html",
-      "published_date": "2026-04-26T21:00:46+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Sharaa Meets Jumblatt at the People’s Palace in Damascus",
-      "source": "Syrian Observer",
-      "url": "https://syrianobserver.com/syrian-actors/sharaa-meets-jumblatt-at-the-peoples-palace-in-damascus.html",
-      "published_date": "2026-04-26T21:00:08+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "First trial of Assad-era Syrian official starts in Damascus",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/26/first-trial-of-assad-era-syrian-official-starts-in-damascus?traffic_source=rss",
-      "published_date": "2026-04-26T17:49:30+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Syria puts first Assad-era official on trial in Damascus",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/4/26/syria-puts-al-assad-era-officials-on?traffic_source=rss",
-      "published_date": "2026-04-26T12:31:50+00:00",
       "category": "Local Events"
     }
   ]
