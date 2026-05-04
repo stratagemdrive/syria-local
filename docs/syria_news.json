@@ -1,8 +1,15 @@
 {
   "country": "Syria",
-  "last_updated": "2026-05-04T12:19:02.752353+00:00",
-  "story_count": 36,
+  "last_updated": "2026-05-04T23:40:56.437390+00:00",
+  "story_count": 37,
   "stories": [
+    {
+      "title": "Sweden Detains Syria-Flagged Tanker Suspected of Operating in Russia’s ‘Shadow Fleet’",
+      "source": "Syrian Observer",
+      "url": "https://syrianobserver.com/foreign-actors/sweden-detains-syria-flagged-tanker-suspected-of-operating-in-russias-shadow-fleet.html",
+      "published_date": "2026-05-04T21:00:50+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "China’s UN Envoy: Hormuz closure will dominate Trump-Xi talks",
       "source": "Al Jazeera",
@@ -46,11 +53,18 @@
       "category": "Diplomacy"
     },
     {
-      "title": "UN Envoy Meets Syria’s Interior Minister as Damascus Opens Landmark Trials of Former Regime Figures",
+      "title": "Legal Analysis of the Trial of Former Regime Figures Under Syrian Legislation",
       "source": "Syrian Observer",
-      "url": "https://syrianobserver.com/syrian-actors/un-envoy-meets-syrias-interior-minister-as-damascus-opens-landmark-trials-of-former-regime-figures.html",
-      "published_date": "2026-04-27T21:00:39+00:00",
-      "category": "Diplomacy"
+      "url": "https://syrianobserver.com/syrian-actors/legal-analysis-of-the-trial-of-former-regime-figures-under-syrian-legislation.html",
+      "published_date": "2026-05-04T21:00:48+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Interior Ministry Issues Decree Regulating Licensing Procedures for Peaceful Protests",
+      "source": "Syrian Observer",
+      "url": "https://syrianobserver.com/syrian-actors/interior-ministry-issues-decree-regulating-licensing-procedures-for-peaceful-protests.html",
+      "published_date": "2026-05-04T21:00:47+00:00",
+      "category": "Military"
     },
     {
       "title": "Security or justice? Syria faces post-Assad reckoning after string of arrests",
@@ -144,6 +158,13 @@
       "category": "Energy"
     },
     {
+      "title": "Sharaa Meets UAE, Egyptian, and Turkish Business Leaders to Advance Reconstruction and Investment Agenda",
+      "source": "Syrian Observer",
+      "url": "https://syrianobserver.com/society/sharaa-meets-uae-egyptian-and-turkish-business-leaders-to-advance-reconstruction-and-investment-agenda.html",
+      "published_date": "2026-05-04T21:00:36+00:00",
+      "category": "Economy"
+    },
+    {
       "title": "“Your Property Could Be Sold Without Your Knowledge”: Fraud Cases Shake Damascus Real Estate Market",
       "source": "Syrian Observer",
       "url": "https://syrianobserver.com/society/your-property-could-be-sold-without-your-knowledge-fraud-cases-shake-damascus-real-estate-market.html",
@@ -165,11 +186,11 @@
       "category": "Economy"
     },
     {
-      "title": "Syria’s Vanishing Budget Surplus Raises Questions Over Fiscal Transparency",
+      "title": "Is Fadi Saqr Next",
       "source": "Syrian Observer",
-      "url": "https://syrianobserver.com/syrian-actors/syrias-vanishing-budget-surplus-raises-questions-over-fiscal-transparency.html",
-      "published_date": "2026-04-27T21:00:00+00:00",
-      "category": "Economy"
+      "url": "https://syrianobserver.com/syrian-actors/is-fadi-saqr-next.html",
+      "published_date": "2026-05-04T21:00:01+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Killing of Shiite Cleric Near Sayyidah Zaynab Shrine Revives Fears of Sectarian Strife",
@@ -239,20 +260,6 @@
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/features/2026/4/28/from-exile-to-judge-symbolism-in-syrias-trial-of-assad-former-officials?traffic_source=rss",
       "published_date": "2026-04-28T17:49:59+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Damascus Child Begging Campaign Traps Children in a Revolving Door",
-      "source": "Syrian Observer",
-      "url": "https://syrianobserver.com/syrian-actors/damascus-child-begging-campaign-traps-children-in-a-revolving-door.html",
-      "published_date": "2026-04-27T21:00:21+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Syrian Civil Society Urges Broader, Victim-Centered Transitional Justice Framework",
-      "source": "Syrian Observer",
-      "url": "https://syrianobserver.com/syrian-actors/syrian-civil-society-urges-broader-victim-centered-transitional-justice-framework.html",
-      "published_date": "2026-04-27T21:00:04+00:00",
       "category": "Local Events"
     }
   ]
