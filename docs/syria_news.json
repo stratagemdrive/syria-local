@@ -1,8 +1,22 @@
 {
   "country": "Syria",
-  "last_updated": "2026-05-05T11:56:17.204590+00:00",
-  "story_count": 36,
+  "last_updated": "2026-05-05T23:37:13.741575+00:00",
+  "story_count": 34,
   "stories": [
+    {
+      "title": "Nawaf Salam to Visit Damascus as Key Files Loom — Chief Among Them Talks with Israel",
+      "source": "Syrian Observer",
+      "url": "https://syrianobserver.com/foreign-actors/nawaf-salam-to-visit-damascus-as-key-files-loom-chief-among-them-talks-with-israel.html",
+      "published_date": "2026-05-05T21:00:37+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Sudan recalls Ethiopia ambassador after strikes on Khartoum",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/5/sudan-recalls-ethiopia-ambassador-after-strikes-on-khartoum?traffic_source=rss",
+      "published_date": "2026-05-05T18:57:58+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Sweden Detains Syria-Flagged Tanker Suspected of Operating in Russia’s ‘Shadow Fleet’",
       "source": "Syrian Observer",
@@ -32,18 +46,11 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Syria Keeps Its Distance from Regional Wars as U.S.-Mediated Talks with Israel Continue",
+      "title": "Sweden Applies Universal Jurisdiction: Man Sentenced to Life for War Crimes in Yarmouk Camp",
       "source": "Syrian Observer",
-      "url": "https://syrianobserver.com/foreign-actors/syria-keeps-its-distance-from-regional-wars-as-u-s-mediated-talks-with-israel-continue.html",
-      "published_date": "2026-04-28T21:00:43+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "America's special relationship 'probably Israel', says UK ambassador to US",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c1l25qd43nro?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-04-28T18:53:55+00:00",
-      "category": "Diplomacy"
+      "url": "https://syrianobserver.com/foreign-actors/sweden-applies-universal-jurisdiction-man-sentenced-to-life-for-war-crimes-in-yarmouk-camp.html",
+      "published_date": "2026-05-05T21:00:51+00:00",
+      "category": "Military"
     },
     {
       "title": "Legal Analysis of the Trial of Former Regime Figures Under Syrian Legislation",
@@ -130,11 +137,11 @@
       "category": "Military"
     },
     {
-      "title": "Syria’s First Post-Assad Trials Ignite a Deep Debate Over Justice and Accountability",
+      "title": "Amid Persistent Internal Crises, Can Syria Play a Regional Role?",
       "source": "Syrian Observer",
-      "url": "https://syrianobserver.com/syrian-actors/syrias-first-post-assad-trials-ignite-a-deep-debate-over-justice-and-accountability.html",
-      "published_date": "2026-04-28T21:01:47+00:00",
-      "category": "Military"
+      "url": "https://syrianobserver.com/foreign-actors/amid-persistent-internal-crises-can-syria-play-a-regional-role.html",
+      "published_date": "2026-05-05T21:00:09+00:00",
+      "category": "Energy"
     },
     {
       "title": "Syria becomes alternative energy corridor for oil as Hormuz effectively blo",
@@ -149,6 +156,13 @@
       "url": "https://www.aljazeera.com/news/2026/5/2/spirit-airlines-begins-wind-down-cancels-all-flights-over-fuel-crisis?traffic_source=rss",
       "published_date": "2026-05-02T08:09:27+00:00",
       "category": "Energy"
+    },
+    {
+      "title": "UN Ends Cross-Border Aid as Turkey Signals Major Infrastructure Boost for Syrian Trade",
+      "source": "Syrian Observer",
+      "url": "https://syrianobserver.com/refugees/un-ends-cross-border-aid-as-turkey-signals-major-infrastructure-boost-for-syrian-trade.html",
+      "published_date": "2026-05-05T21:00:55+00:00",
+      "category": "Economy"
     },
     {
       "title": "Sharaa Meets UAE, Egyptian, and Turkish Business Leaders to Advance Reconstruction and Investment Agenda",
@@ -169,13 +183,6 @@
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/economy/2026/5/1/may-day-rallies-sweep-us-demanding-reforms-for-working-class-rights?traffic_source=rss",
       "published_date": "2026-05-01T20:57:11+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Syrian–French Talks Explore Ways to Strengthen Economic and Financial Cooperation",
-      "source": "Syrian Observer",
-      "url": "https://syrianobserver.com/syrian-actors/syrian-french-talks-explore-ways-to-strengthen-economic-and-financial-cooperation.html",
-      "published_date": "2026-04-28T21:00:01+00:00",
       "category": "Economy"
     },
     {
@@ -232,27 +239,6 @@
       "source": "BBC News",
       "url": "https://www.bbc.com/news/articles/cn5pzw4gn1no?at_medium=RSS&at_campaign=rss",
       "published_date": "2026-04-29T20:11:04+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "New Documentation Confirms 466 Dead and 200 Missing in Northern Syria Battles Earlier This Year",
-      "source": "Syrian Observer",
-      "url": "https://syrianobserver.com/syrian-actors/new-documentation-confirms-466-dead-and-200-missing-in-northern-syria-battles-earlier-this-year.html",
-      "published_date": "2026-04-28T21:00:47+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "By Order of Sharaa: 54 Aleppo Judges Referred to the Supreme Judicial Council for Investigation",
-      "source": "Syrian Observer",
-      "url": "https://syrianobserver.com/syrian-actors/by-order-of-sharaa-54-aleppo-judges-referred-to-the-supreme-judicial-council-for-investigation.html",
-      "published_date": "2026-04-28T21:00:32+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "From exile to judge: Symbolism in Syria’s trial of Assad, former officials",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/features/2026/4/28/from-exile-to-judge-symbolism-in-syrias-trial-of-assad-former-officials?traffic_source=rss",
-      "published_date": "2026-04-28T17:49:59+00:00",
       "category": "Local Events"
     }
   ]
