@@ -1,8 +1,15 @@
 {
   "country": "Syria",
-  "last_updated": "2026-05-05T23:37:13.741575+00:00",
-  "story_count": 34,
+  "last_updated": "2026-05-06T12:25:35.466808+00:00",
+  "story_count": 38,
   "stories": [
+    {
+      "title": "Sudan blames Ethiopia, UAE for recent drone attacks: What we know",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/5/6/sudan-blames-ethiopia-uae-for-recent-drone-attacks-what-we-know?traffic_source=rss",
+      "published_date": "2026-05-06T11:13:52+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Nawaf Salam to Visit Damascus as Key Files Loom — Chief Among Them Talks with Israel",
       "source": "Syrian Observer",
@@ -44,6 +51,20 @@
       "url": "https://syrianobserver.com/syrian-actors/between-amjad-youssef-and-samir-kaakeh-justice-and-politics-in-syria.html",
       "published_date": "2026-04-29T21:00:53+00:00",
       "category": "Diplomacy"
+    },
+    {
+      "title": "Charges flagged as women and children from IS-linked families set to fly from Syria to Australia",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/australia-news/2026/may/06/women-children-syria-families-australia-return-ntwnfb",
+      "published_date": "2026-05-06T06:14:11+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "IS families in Syria have booked tickets home to Australia, minister says",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cn0pyny6jk0o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-05-06T01:47:48+00:00",
+      "category": "Military"
     },
     {
       "title": "Sweden Applies Universal Jurisdiction: Man Sentenced to Life for War Crimes in Yarmouk Camp",
@@ -130,13 +151,6 @@
       "category": "Military"
     },
     {
-      "title": "US supreme court to hear whether protected status of Haitians and Syrians can be revoked",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/us-news/2026/apr/29/us-supreme-court-haitians-syrians-tps",
-      "published_date": "2026-04-29T09:00:51+00:00",
-      "category": "Military"
-    },
-    {
       "title": "Amid Persistent Internal Crises, Can Syria Play a Regional Role?",
       "source": "Syrian Observer",
       "url": "https://syrianobserver.com/foreign-actors/amid-persistent-internal-crises-can-syria-play-a-regional-role.html",
@@ -156,6 +170,13 @@
       "url": "https://www.aljazeera.com/news/2026/5/2/spirit-airlines-begins-wind-down-cancels-all-flights-over-fuel-crisis?traffic_source=rss",
       "published_date": "2026-05-02T08:09:27+00:00",
       "category": "Energy"
+    },
+    {
+      "title": "Syria’s Suwayda: A new hub for the multibillion-dollar Captagon trade?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/5/6/syrias-suwayda-a-new-hub-for-the-multi-billion-dollar-captagon-trade?traffic_source=rss",
+      "published_date": "2026-05-06T07:16:17+00:00",
+      "category": "Economy"
     },
     {
       "title": "UN Ends Cross-Border Aid as Turkey Signals Major Infrastructure Boost for Syrian Trade",
@@ -184,6 +205,13 @@
       "url": "https://www.aljazeera.com/economy/2026/5/1/may-day-rallies-sweep-us-demanding-reforms-for-working-class-rights?traffic_source=rss",
       "published_date": "2026-05-01T20:57:11+00:00",
       "category": "Economy"
+    },
+    {
+      "title": "Two Australian states prepare to resettle children from Syrian detention camp with most bound for Melbourne",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/australia-news/2026/may/06/islamic-state-linked-australian-children-syria-states-resettle-ntwnfb",
+      "published_date": "2026-05-06T09:07:01+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Is Fadi Saqr Next",
