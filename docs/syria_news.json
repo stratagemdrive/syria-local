@@ -1,7 +1,7 @@
 {
   "country": "Syria",
-  "last_updated": "2026-05-06T12:25:35.466808+00:00",
-  "story_count": 38,
+  "last_updated": "2026-05-06T23:39:10.468836+00:00",
+  "story_count": 32,
   "stories": [
     {
       "title": "Sudan blames Ethiopia, UAE for recent drone attacks: What we know",
@@ -43,13 +43,6 @@
       "source": "Syria Direct",
       "url": "https://syriadirect.org/suwaydas-students-caught-up-in-the-struggle-with-damascus/",
       "published_date": "2026-04-30T15:13:22+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Between Amjad Youssef and Samir Kaakeh: Justice and Politics in Syria",
-      "source": "Syrian Observer",
-      "url": "https://syrianobserver.com/syrian-actors/between-amjad-youssef-and-samir-kaakeh-justice-and-politics-in-syria.html",
-      "published_date": "2026-04-29T21:00:53+00:00",
       "category": "Diplomacy"
     },
     {
@@ -134,20 +127,6 @@
       "source": "The Guardian",
       "url": "https://www.theguardian.com/world/2026/apr/30/fadi-saqr-tadamon-damascus-syria",
       "published_date": "2026-04-30T06:00:11+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "ISIS Claims Responsibility for Assassination in Rural Aleppo Amid Rising Insecurity",
-      "source": "Syrian Observer",
-      "url": "https://syrianobserver.com/security/isis-claims-responsibility-for-assassination-in-rural-aleppo-amid-rising-insecurity.html",
-      "published_date": "2026-04-29T21:01:27+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Human Rights Watch: Occupation Plan to Transfer Thousands of Settlers to the Occupied Golan is a “War Crime”",
-      "source": "Syrian Observer",
-      "url": "https://syrianobserver.com/foreign-actors/human-rights-watch-occupation-plan-to-transfer-thousands-of-settlers-to-the-occupied-golan-is-a-war-crime.html",
-      "published_date": "2026-04-29T21:00:00+00:00",
       "category": "Military"
     },
     {
@@ -246,27 +225,6 @@
       "source": "The Guardian",
       "url": "https://www.theguardian.com/australia-news/2026/apr/30/syria-australian-citizens-repatriation-us-trump",
       "published_date": "2026-04-30T07:13:04+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Iraq’s New PM-Designate: What Ali al-Zaydi Means for Baghdad—and for Syria",
-      "source": "Syrian Observer",
-      "url": "https://syrianobserver.com/uncategorized/iraqs-new-pm-designate-what-ali-al-zaydi-means-for-baghdad-and-for-syria.html",
-      "published_date": "2026-04-29T21:00:59+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Suspension of Trading in Damascus Securities Exchange Companies Pressures Confidence and Liquidity",
-      "source": "Syrian Observer",
-      "url": "https://syrianobserver.com/syrian-actors/suspension-of-trading-in-damascus-securities-exchange-companies-pressures-confidence-and-liquidity.html",
-      "published_date": "2026-04-29T21:00:29+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Syria trial seen as first step on long road for Assad's victims",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cn5pzw4gn1no?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-04-29T20:11:04+00:00",
       "category": "Local Events"
     }
   ]
