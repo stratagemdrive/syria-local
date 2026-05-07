@@ -1,8 +1,15 @@
 {
   "country": "Syria",
-  "last_updated": "2026-05-07T12:26:26.611031+00:00",
-  "story_count": 35,
+  "last_updated": "2026-05-07T23:41:28.326293+00:00",
+  "story_count": 41,
   "stories": [
+    {
+      "title": "Brussels Hosts First Syrian–European Dialogue: Openness Tied to Political and Human Rights Reforms",
+      "source": "Syrian Observer",
+      "url": "https://syrianobserver.com/foreign-actors/brussels-hosts-first-syrian-european-dialogue-openness-tied-to-political-and-human-rights-reforms.html",
+      "published_date": "2026-05-07T21:00:14+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Sudan blames Ethiopia, UAE for recent drone attacks: What we know",
       "source": "Al Jazeera",
@@ -39,11 +46,25 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Suwayda’s students caught up in the struggle with Damascus",
-      "source": "Syria Direct",
-      "url": "https://syriadirect.org/suwaydas-students-caught-up-in-the-struggle-with-damascus/",
-      "published_date": "2026-04-30T15:13:22+00:00",
-      "category": "Diplomacy"
+      "title": "Israeli Report Warns of Growing Concern Over Syrian Army Reconstruction",
+      "source": "Syrian Observer",
+      "url": "https://syrianobserver.com/uncategorized/israeli-report-warns-of-growing-concern-over-syrian-army-reconstruction.html",
+      "published_date": "2026-05-07T21:00:50+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Syrian Forces Arrest Uzbek Fighters in Security Sweep",
+      "source": "Syrian Observer",
+      "url": "https://syrianobserver.com/uncategorized/syrian-forces-arrest-uzbek-fighters-in-security-sweep.html",
+      "published_date": "2026-05-07T21:00:18+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Fears of renewed Gaza war as Hamas disarmament talks stall",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cd6p5l3n2q3o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-05-07T14:22:20+00:00",
+      "category": "Military"
     },
     {
       "title": "Three women face charges after IS-linked family members land in Australia",
@@ -130,6 +151,20 @@
       "category": "Military"
     },
     {
+      "title": "“The Last Meeting”: Russian General Demanded $37 Million in Cash from the Assad Regime",
+      "source": "Syrian Observer",
+      "url": "https://syrianobserver.com/uncategorized/the-last-meeting-russian-general-demanded-37-million-in-cash-from-the-assad-regime.html",
+      "published_date": "2026-05-07T21:00:36+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "New Shock to Syrian Markets: Dollar-Indexed Fuel Price Hike Triggers Widespread Anger",
+      "source": "Syrian Observer",
+      "url": "https://syrianobserver.com/society/new-shock-to-syrian-markets-dollar-indexed-fuel-price-hike-triggers-widespread-anger.html",
+      "published_date": "2026-05-07T21:00:05+00:00",
+      "category": "Energy"
+    },
+    {
       "title": "Amid Persistent Internal Crises, Can Syria Play a Regional Role?",
       "source": "Syrian Observer",
       "url": "https://syrianobserver.com/foreign-actors/amid-persistent-internal-crises-can-syria-play-a-regional-role.html",
@@ -193,6 +228,20 @@
       "category": "Economy"
     },
     {
+      "title": "Tennessee approves new congressional map in latest redistricting flurry",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/5/7/tennessee-approves-new-congressional-map-in-latest-redistricting-flurry?traffic_source=rss",
+      "published_date": "2026-05-07T21:19:01+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Palestinians expose torture and sexual violence in Israeli detention",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/5/7/palestinians-expose-torture-and-sexual-violence-in-israeli-detention?traffic_source=rss",
+      "published_date": "2026-05-07T20:37:46+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "UAE’s Eagle Hills Plans Major Projects in Damascus and Lattakia Worth More Than $50 Billion",
       "source": "Syrian Observer",
       "url": "https://syrianobserver.com/uncategorized/uaes-eagle-hills-plans-major-projects-in-damascus-and-lattakia-worth-more-than-50-billion.html",
@@ -239,13 +288,6 @@
       "source": "Syrian Observer",
       "url": "https://syrianobserver.com/refugees/mpi-warns-against-rushed-syrian-refugee-returns-urges-coordinated-post-assad-roadmap.html",
       "published_date": "2026-05-03T21:00:28+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Israel rights group petitions top court to order release of 14 Gaza doctors",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/4/30/israel-rights-group-petitions-top-court-to-order-release-of-14-gaza-doctors?traffic_source=rss",
-      "published_date": "2026-04-30T17:35:32+00:00",
       "category": "Local Events"
     }
   ]
