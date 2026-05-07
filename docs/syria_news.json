@@ -1,7 +1,7 @@
 {
   "country": "Syria",
-  "last_updated": "2026-05-06T23:39:10.468836+00:00",
-  "story_count": 32,
+  "last_updated": "2026-05-07T12:26:26.611031+00:00",
+  "story_count": 35,
   "stories": [
     {
       "title": "Sudan blames Ethiopia, UAE for recent drone attacks: What we know",
@@ -44,6 +44,13 @@
       "url": "https://syriadirect.org/suwaydas-students-caught-up-in-the-struggle-with-damascus/",
       "published_date": "2026-04-30T15:13:22+00:00",
       "category": "Diplomacy"
+    },
+    {
+      "title": "Three women face charges after IS-linked family members land in Australia",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/australia-news/2026/may/07/is-linked-families-land-australia-from-syria-arrests-ntwnfb",
+      "published_date": "2026-05-07T12:18:03+00:00",
+      "category": "Military"
     },
     {
       "title": "Charges flagged as women and children from IS-linked families set to fly from Syria to Australia",
@@ -123,13 +130,6 @@
       "category": "Military"
     },
     {
-      "title": "Syrian commission prepares war crimes case against notorious Assad official",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/apr/30/fadi-saqr-tadamon-damascus-syria",
-      "published_date": "2026-04-30T06:00:11+00:00",
-      "category": "Military"
-    },
-    {
       "title": "Amid Persistent Internal Crises, Can Syria Play a Regional Role?",
       "source": "Syrian Observer",
       "url": "https://syrianobserver.com/foreign-actors/amid-persistent-internal-crises-can-syria-play-a-regional-role.html",
@@ -149,6 +149,13 @@
       "url": "https://www.aljazeera.com/news/2026/5/2/spirit-airlines-begins-wind-down-cancels-all-flights-over-fuel-crisis?traffic_source=rss",
       "published_date": "2026-05-02T08:09:27+00:00",
       "category": "Energy"
+    },
+    {
+      "title": "Replacing More Than Half of the Old Money Supply: Will It Strengthen the Syrian Pound?",
+      "source": "Syrian Observer",
+      "url": "https://syrianobserver.com/society/replacing-more-than-half-of-the-old-money-supply-will-it-strengthen-the-syrian-pound.html",
+      "published_date": "2026-05-06T21:00:24+00:00",
+      "category": "Economy"
     },
     {
       "title": "Syria’s Suwayda: A new hub for the multibillion-dollar Captagon trade?",
@@ -186,6 +193,27 @@
       "category": "Economy"
     },
     {
+      "title": "UAE’s Eagle Hills Plans Major Projects in Damascus and Lattakia Worth More Than $50 Billion",
+      "source": "Syrian Observer",
+      "url": "https://syrianobserver.com/uncategorized/uaes-eagle-hills-plans-major-projects-in-damascus-and-lattakia-worth-more-than-50-billion.html",
+      "published_date": "2026-05-06T21:00:59+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Court of Cassation Revolutionizes Litigation: Social Media Notification Now Equivalent to Personal Service",
+      "source": "Syrian Observer",
+      "url": "https://syrianobserver.com/syrian-actors/vcourt-of-cassation-revolutionizes-litigation-social-media-notification-now-equivalent-to-personal-service.html",
+      "published_date": "2026-05-06T21:00:06+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Syrian Interior Ministry Says Hezbollah-Linked Cells Plotting Assassinations Have Been Dismantled",
+      "source": "Syrian Observer",
+      "url": "https://syrianobserver.com/foreign-actors/syrian-interior-ministry-says-hezbollah-linked-cells-plotting-assassinations-have-been-dismantled.html",
+      "published_date": "2026-05-06T21:00:04+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "Two Australian states prepare to resettle children from Syrian detention camp with most bound for Melbourne",
       "source": "The Guardian",
       "url": "https://www.theguardian.com/australia-news/2026/may/06/islamic-state-linked-australian-children-syria-states-resettle-ntwnfb",
@@ -218,13 +246,6 @@
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/news/2026/4/30/israel-rights-group-petitions-top-court-to-order-release-of-14-gaza-doctors?traffic_source=rss",
       "published_date": "2026-04-30T17:35:32+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Trump administration urges countries to help citizens stuck in Syria as Australia maintains hardline stance",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/australia-news/2026/apr/30/syria-australian-citizens-repatriation-us-trump",
-      "published_date": "2026-04-30T07:13:04+00:00",
       "category": "Local Events"
     }
   ]
