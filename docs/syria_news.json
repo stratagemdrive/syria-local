@@ -1,6 +1,6 @@
 {
   "country": "Syria",
-  "last_updated": "2026-05-08T12:06:19.515346+00:00",
+  "last_updated": "2026-05-08T23:43:11.550807+00:00",
   "story_count": 43,
   "stories": [
     {
@@ -44,6 +44,13 @@
       "url": "https://www.aljazeera.com/video/newsfeed/2026/5/2/chinas-un-envoy-hormuz-closure-will-dominate-trump-xi-talks?traffic_source=rss",
       "published_date": "2026-05-02T07:37:49+00:00",
       "category": "Diplomacy"
+    },
+    {
+      "title": "The children of IS-linked families must not be treated as extensions of their parents – but individuals shaped by years of trauma | Peta Lowe",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/australia-news/commentisfree/2026/may/08/the-children-of-is-linked-families-must-not-be-treated-as-extensions-of-their-parents-but-individuals-shaped-by-years-of-trauma-ntwnfb",
+      "published_date": "2026-05-08T15:00:31+00:00",
+      "category": "Military"
     },
     {
       "title": "Israeli Report Warns of Growing Concern Over Syrian Army Reconstruction",
@@ -232,13 +239,6 @@
       "source": "Syrian Observer",
       "url": "https://syrianobserver.com/society/your-property-could-be-sold-without-your-knowledge-fraud-cases-shake-damascus-real-estate-market.html",
       "published_date": "2026-05-03T21:00:52+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "May Day rallies sweep US, demanding reforms for working-class rights",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/economy/2026/5/1/may-day-rallies-sweep-us-demanding-reforms-for-working-class-rights?traffic_source=rss",
-      "published_date": "2026-05-01T20:57:11+00:00",
       "category": "Economy"
     },
     {
