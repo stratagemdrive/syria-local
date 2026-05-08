@@ -1,7 +1,7 @@
 {
   "country": "Syria",
-  "last_updated": "2026-05-07T23:41:28.326293+00:00",
-  "story_count": 41,
+  "last_updated": "2026-05-08T12:06:19.515346+00:00",
+  "story_count": 43,
   "stories": [
     {
       "title": "Brussels Hosts First Syrian–European Dialogue: Openness Tied to Political and Human Rights Reforms",
@@ -53,9 +53,23 @@
       "category": "Military"
     },
     {
+      "title": "Israeli Report Warns of Growing Concern Over Syrian Army Reconstruction",
+      "source": "Syrian Observer",
+      "url": "https://syrianobserver.com/foreign-actors/israeli-report-warns-of-growing-concern-over-syrian-army-reconstruction.html",
+      "published_date": "2026-05-07T21:00:50+00:00",
+      "category": "Military"
+    },
+    {
       "title": "Syrian Forces Arrest Uzbek Fighters in Security Sweep",
       "source": "Syrian Observer",
       "url": "https://syrianobserver.com/uncategorized/syrian-forces-arrest-uzbek-fighters-in-security-sweep.html",
+      "published_date": "2026-05-07T21:00:18+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Syrian Forces Arrest Uzbek Fighters in Security Sweep",
+      "source": "Syrian Observer",
+      "url": "https://syrianobserver.com/security/syrian-forces-arrest-uzbek-fighters-in-security-sweep.html",
       "published_date": "2026-05-07T21:00:18+00:00",
       "category": "Military"
     },
@@ -144,16 +158,16 @@
       "category": "Military"
     },
     {
-      "title": "May Day in the age of AI: The new war on workers",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/opinions/2026/5/1/may-day-in-the-age-of-ai-the-new-war-on-workers?traffic_source=rss",
-      "published_date": "2026-05-01T09:54:12+00:00",
-      "category": "Military"
+      "title": "“The Last Meeting”: Russian General Demanded $37 Million in Cash from the Assad Regime",
+      "source": "Syrian Observer",
+      "url": "https://syrianobserver.com/uncategorized/the-last-meeting-russian-general-demanded-37-million-in-cash-from-the-assad-regime.html",
+      "published_date": "2026-05-07T21:00:36+00:00",
+      "category": "Energy"
     },
     {
       "title": "“The Last Meeting”: Russian General Demanded $37 Million in Cash from the Assad Regime",
       "source": "Syrian Observer",
-      "url": "https://syrianobserver.com/uncategorized/the-last-meeting-russian-general-demanded-37-million-in-cash-from-the-assad-regime.html",
+      "url": "https://syrianobserver.com/foreign-actors/the-last-meeting-russian-general-demanded-37-million-in-cash-from-the-assad-regime.html",
       "published_date": "2026-05-07T21:00:36+00:00",
       "category": "Energy"
     },
