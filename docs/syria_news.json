@@ -1,8 +1,15 @@
 {
   "country": "Syria",
-  "last_updated": "2026-05-09T11:44:04.544544+00:00",
-  "story_count": 40,
+  "last_updated": "2026-05-09T23:34:28.944746+00:00",
+  "story_count": 42,
   "stories": [
+    {
+      "title": "One killed in Gaza as Turkish FM talks peace efforts with Hamas official",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/5/9/one-killed-in-gaza-as-turkish-fm-talks-peace-efforts-with-hamas-official?traffic_source=rss",
+      "published_date": "2026-05-09T21:10:43+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Brussels Hosts First Syrian–European Dialogue: Openness Tied to Political and Human Rights Reforms",
       "source": "Syrian Observer",
@@ -37,6 +44,13 @@
       "url": "https://syrianobserver.com/foreign-actors/sweden-detains-syria-flagged-tanker-suspected-of-operating-in-russias-shadow-fleet.html",
       "published_date": "2026-05-04T21:00:50+00:00",
       "category": "Diplomacy"
+    },
+    {
+      "title": "‘On level of atomic bomb’: Iran highlights Hormuz importance amid US talks",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/5/9/on-level-of-atomic-bomb-iran-highlights-hormuz-importance-amid-us-talks?traffic_source=rss",
+      "published_date": "2026-05-09T16:35:01+00:00",
+      "category": "Military"
     },
     {
       "title": "The children of IS-linked families must not be treated as extensions of their parents – but individuals shaped by years of trauma | Peta Lowe",
@@ -179,13 +193,6 @@
       "category": "Energy"
     },
     {
-      "title": "Syria becomes alternative energy corridor for oil as Hormuz effectively blo",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/2/syria-becomes-alternative-energy-corridor-for-oil-as-hormuz-effectively-blo?traffic_source=rss",
-      "published_date": "2026-05-02T19:45:20+00:00",
-      "category": "Energy"
-    },
-    {
       "title": "Replacing More Than Half of the Old Money Supply: Will It Strengthen the Syrian Pound?",
       "source": "Syrian Observer",
       "url": "https://syrianobserver.com/society/replacing-more-than-half-of-the-old-money-supply-will-it-strengthen-the-syrian-pound.html",
@@ -219,6 +226,13 @@
       "url": "https://syrianobserver.com/society/your-property-could-be-sold-without-your-knowledge-fraud-cases-shake-damascus-real-estate-market.html",
       "published_date": "2026-05-03T21:00:52+00:00",
       "category": "Economy"
+    },
+    {
+      "title": "Syria and Lebanon make ‘significant progress’ at talks on joint interests",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/5/9/syria-and-lebanon-make-significant-progress-at-talks-on-joint-interests?traffic_source=rss",
+      "published_date": "2026-05-09T17:50:18+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Tennessee approves new congressional map in latest redistricting flurry",
