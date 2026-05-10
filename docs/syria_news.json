@@ -1,8 +1,15 @@
 {
   "country": "Syria",
-  "last_updated": "2026-05-09T23:34:28.944746+00:00",
-  "story_count": 42,
+  "last_updated": "2026-05-10T11:44:31.217064+00:00",
+  "story_count": 43,
   "stories": [
+    {
+      "title": "Syria sees first government reshuffle since al-Assad’s ouster",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/5/10/syria-sees-first-government-reshuffle-since-al-assads-ouster-state-media?traffic_source=rss",
+      "published_date": "2026-05-10T08:55:12+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "One killed in Gaza as Turkish FM talks peace efforts with Hamas official",
       "source": "Al Jazeera",
