@@ -1,8 +1,22 @@
 {
   "country": "Syria",
-  "last_updated": "2026-05-11T13:42:29.469163+00:00",
-  "story_count": 43,
+  "last_updated": "2026-05-11T23:44:26.456082+00:00",
+  "story_count": 42,
   "stories": [
+    {
+      "title": "Shibani Meets Šuica in Brussels as EU Unveils €355 Million in New Syria Aid",
+      "source": "Syrian Observer",
+      "url": "https://syrianobserver.com/uncategorized/shibani-meets-suica-in-brussels-as-eu-unveils-e355-million-in-new-syria-aid.html",
+      "published_date": "2026-05-11T21:00:49+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "EU agrees sanctions on Israeli West Bank settlers, Hamas leaders",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/5/11/eu-agrees-sanctions-on-israeli-west-bank-settlers-hamas-leaders?traffic_source=rss",
+      "published_date": "2026-05-11T19:10:18+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Can Shibani Melt the Ice in Syrian-Egyptian Relations?",
       "source": "Syrian Observer",
@@ -50,13 +64,6 @@
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/5/5/sudan-recalls-ethiopia-ambassador-after-strikes-on-khartoum?traffic_source=rss",
       "published_date": "2026-05-05T18:57:58+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Sweden Detains Syria-Flagged Tanker Suspected of Operating in Russia’s ‘Shadow Fleet’",
-      "source": "Syrian Observer",
-      "url": "https://syrianobserver.com/foreign-actors/sweden-detains-syria-flagged-tanker-suspected-of-operating-in-russias-shadow-fleet.html",
-      "published_date": "2026-05-04T21:00:50+00:00",
       "category": "Diplomacy"
     },
     {
@@ -144,18 +151,11 @@
       "category": "Military"
     },
     {
-      "title": "Legal Analysis of the Trial of Former Regime Figures Under Syrian Legislation",
+      "title": "The Numbers Don’t Add Up: Syria’s Fuel Crisis and the Politics of Misinformation",
       "source": "Syrian Observer",
-      "url": "https://syrianobserver.com/syrian-actors/legal-analysis-of-the-trial-of-former-regime-figures-under-syrian-legislation.html",
-      "published_date": "2026-05-04T21:00:48+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Interior Ministry Issues Decree Regulating Licensing Procedures for Peaceful Protests",
-      "source": "Syrian Observer",
-      "url": "https://syrianobserver.com/syrian-actors/interior-ministry-issues-decree-regulating-licensing-procedures-for-peaceful-protests.html",
-      "published_date": "2026-05-04T21:00:47+00:00",
-      "category": "Military"
+      "url": "https://syrianobserver.com/society/the-numbers-dont-add-up-syrias-fuel-crisis-and-the-politics-of-misinformation.html",
+      "published_date": "2026-05-11T21:00:50+00:00",
+      "category": "Energy"
     },
     {
       "title": "“The Last Meeting”: Russian General Demanded $37 Million in Cash from the Assad Regime",
@@ -221,11 +221,11 @@
       "category": "Economy"
     },
     {
-      "title": "Sharaa Meets UAE, Egyptian, and Turkish Business Leaders to Advance Reconstruction and Investment Agenda",
-      "source": "Syrian Observer",
-      "url": "https://syrianobserver.com/society/sharaa-meets-uae-egyptian-and-turkish-business-leaders-to-advance-reconstruction-and-investment-agenda.html",
-      "published_date": "2026-05-04T21:00:36+00:00",
-      "category": "Economy"
+      "title": "As Atef Najib’s trial proceeds, what legal basis exists for transitional justice?",
+      "source": "Syria Direct",
+      "url": "https://syriadirect.org/atef-najib-trial-legal-basis-transitional-justice/",
+      "published_date": "2026-05-11T18:44:35+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Ailing Iranian Nobel laureate given bail and hospital transfer",
@@ -295,13 +295,6 @@
       "source": "The Guardian",
       "url": "https://www.theguardian.com/australia-news/2026/may/06/islamic-state-linked-australian-children-syria-states-resettle-ntwnfb",
       "published_date": "2026-05-06T09:07:01+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Is Fadi Saqr Next",
-      "source": "Syrian Observer",
-      "url": "https://syrianobserver.com/syrian-actors/is-fadi-saqr-next.html",
-      "published_date": "2026-05-04T21:00:01+00:00",
       "category": "Local Events"
     }
   ]
