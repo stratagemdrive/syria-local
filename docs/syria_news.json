@@ -1,7 +1,7 @@
 {
   "country": "Syria",
-  "last_updated": "2026-05-10T23:38:24.216287+00:00",
-  "story_count": 41,
+  "last_updated": "2026-05-11T13:42:29.469163+00:00",
+  "story_count": 43,
   "stories": [
     {
       "title": "Can Shibani Melt the Ice in Syrian-Egyptian Relations?",
@@ -58,6 +58,13 @@
       "url": "https://syrianobserver.com/foreign-actors/sweden-detains-syria-flagged-tanker-suspected-of-operating-in-russias-shadow-fleet.html",
       "published_date": "2026-05-04T21:00:50+00:00",
       "category": "Diplomacy"
+    },
+    {
+      "title": "Former Qatar PM: Netanyahu using Iran war to reshape Middle East",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/5/11/former-qatar-pm-netanyahu-using-iran-war-to-reshape-middle-east?traffic_source=rss",
+      "published_date": "2026-05-11T10:37:19+00:00",
+      "category": "Military"
     },
     {
       "title": "‘On level of atomic bomb’: Iran highlights Hormuz importance amid US talks",
@@ -151,13 +158,6 @@
       "category": "Military"
     },
     {
-      "title": "Security or justice? Syria faces post-Assad reckoning after string of arrests",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/may/04/syria-justice-assad-regime-arrests-2013-tadamon-massacres",
-      "published_date": "2026-05-04T04:30:15+00:00",
-      "category": "Military"
-    },
-    {
       "title": "“The Last Meeting”: Russian General Demanded $37 Million in Cash from the Assad Regime",
       "source": "Syrian Observer",
       "url": "https://syrianobserver.com/uncategorized/the-last-meeting-russian-general-demanded-37-million-in-cash-from-the-assad-regime.html",
@@ -184,6 +184,13 @@
       "url": "https://syrianobserver.com/foreign-actors/amid-persistent-internal-crises-can-syria-play-a-regional-role.html",
       "published_date": "2026-05-05T21:00:09+00:00",
       "category": "Energy"
+    },
+    {
+      "title": "EU agrees to restore full trade ties with Syria",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/5/11/eu-agrees-to-restore-full-trade-ties-with-syria?traffic_source=rss",
+      "published_date": "2026-05-11T11:59:06+00:00",
+      "category": "Economy"
     },
     {
       "title": "Syria at the Table Again — But Can It Deliver?",
@@ -219,6 +226,13 @@
       "url": "https://syrianobserver.com/society/sharaa-meets-uae-egyptian-and-turkish-business-leaders-to-advance-reconstruction-and-investment-agenda.html",
       "published_date": "2026-05-04T21:00:36+00:00",
       "category": "Economy"
+    },
+    {
+      "title": "Ailing Iranian Nobel laureate given bail and hospital transfer",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c1j257w87neo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-05-11T10:16:50+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Damascus Between Cairo and Beirut: Testing the Return to the Arab Fold",
