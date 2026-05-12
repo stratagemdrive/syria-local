@@ -1,6 +1,6 @@
 {
   "country": "Syria",
-  "last_updated": "2026-05-12T13:02:06.387448+00:00",
+  "last_updated": "2026-05-12T23:47:53.395080+00:00",
   "story_count": 42,
   "stories": [
     {
@@ -53,18 +53,18 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Nawaf Salam to Visit Damascus as Key Files Loom — Chief Among Them Talks with Israel",
+      "title": "ISIS Claims Responsibility for Attack on Syrian Army Bus in Hassakeh",
       "source": "Syrian Observer",
-      "url": "https://syrianobserver.com/foreign-actors/nawaf-salam-to-visit-damascus-as-key-files-loom-chief-among-them-talks-with-israel.html",
-      "published_date": "2026-05-05T21:00:37+00:00",
-      "category": "Diplomacy"
+      "url": "https://syrianobserver.com/security/isis-claims-responsibility-for-attack-on-syrian-army-bus-in-hassakeh.html",
+      "published_date": "2026-05-12T21:00:44+00:00",
+      "category": "Military"
     },
     {
-      "title": "Sudan recalls Ethiopia ambassador after strikes on Khartoum",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/5/sudan-recalls-ethiopia-ambassador-after-strikes-on-khartoum?traffic_source=rss",
-      "published_date": "2026-05-05T18:57:58+00:00",
-      "category": "Diplomacy"
+      "title": "Arrest of the Former Regime’s Air Force Chief of Staff in a Security Operation",
+      "source": "Syrian Observer",
+      "url": "https://syrianobserver.com/syrian-actors/arrest-of-the-former-regimes-air-force-chief-of-staff-in-a-security-operation.html",
+      "published_date": "2026-05-12T21:00:16+00:00",
+      "category": "Military"
     },
     {
       "title": "Former Qatar PM: Netanyahu using Iran war to reshape Middle East",
@@ -144,13 +144,6 @@
       "category": "Military"
     },
     {
-      "title": "Sweden Applies Universal Jurisdiction: Man Sentenced to Life for War Crimes in Yarmouk Camp",
-      "source": "Syrian Observer",
-      "url": "https://syrianobserver.com/foreign-actors/sweden-applies-universal-jurisdiction-man-sentenced-to-life-for-war-crimes-in-yarmouk-camp.html",
-      "published_date": "2026-05-05T21:00:51+00:00",
-      "category": "Military"
-    },
-    {
       "title": "The Numbers Don’t Add Up: Syria’s Fuel Crisis and the Politics of Misinformation",
       "source": "Syrian Observer",
       "url": "https://syrianobserver.com/society/the-numbers-dont-add-up-syrias-fuel-crisis-and-the-politics-of-misinformation.html",
@@ -179,11 +172,11 @@
       "category": "Energy"
     },
     {
-      "title": "Amid Persistent Internal Crises, Can Syria Play a Regional Role?",
+      "title": "Meeting at the Foreign Ministry with 23 Donor Countries to Discuss Supporting Syria’s Recovery",
       "source": "Syrian Observer",
-      "url": "https://syrianobserver.com/foreign-actors/amid-persistent-internal-crises-can-syria-play-a-regional-role.html",
-      "published_date": "2026-05-05T21:00:09+00:00",
-      "category": "Energy"
+      "url": "https://syrianobserver.com/foreign-actors/meeting-at-the-foreign-ministry-with-23-donor-countries-to-discuss-supporting-syrias-recovery.html",
+      "published_date": "2026-05-12T21:00:55+00:00",
+      "category": "Economy"
     },
     {
       "title": "EU agrees to restore full trade ties with Syria",
@@ -214,11 +207,18 @@
       "category": "Economy"
     },
     {
-      "title": "UN Ends Cross-Border Aid as Turkey Signals Major Infrastructure Boost for Syrian Trade",
+      "title": "Performative Justice vs. Transitional Justice",
       "source": "Syrian Observer",
-      "url": "https://syrianobserver.com/refugees/un-ends-cross-border-aid-as-turkey-signals-major-infrastructure-boost-for-syrian-trade.html",
-      "published_date": "2026-05-05T21:00:55+00:00",
-      "category": "Economy"
+      "url": "https://syrianobserver.com/syrian-actors/performative-justice-vs-transitional-justice.html",
+      "published_date": "2026-05-12T21:00:33+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Voters head to the polls in the Bahamas for high-stakes snap election",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/5/12/voters-head-to-the-polls-in-the-bahamas-for-high-stakes-snap-election?traffic_source=rss",
+      "published_date": "2026-05-12T18:00:09+00:00",
+      "category": "Local Events"
     },
     {
       "title": "As Atef Najib’s trial proceeds, what legal basis exists for transitional justice?",
