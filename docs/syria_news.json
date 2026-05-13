@@ -1,7 +1,7 @@
 {
   "country": "Syria",
-  "last_updated": "2026-05-12T23:47:53.395080+00:00",
-  "story_count": 42,
+  "last_updated": "2026-05-13T13:08:06.167758+00:00",
+  "story_count": 38,
   "stories": [
     {
       "title": "Shibani Meets Šuica in Brussels as EU Unveils €355 Million in New Syria Aid",
@@ -46,11 +46,11 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Sudan blames Ethiopia, UAE for recent drone attacks: What we know",
+      "title": "UN urges independent probes into deadly Nigeria, Chad air attacks",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/6/sudan-blames-ethiopia-uae-for-recent-drone-attacks-what-we-know?traffic_source=rss",
-      "published_date": "2026-05-06T11:13:52+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news/2026/5/13/un-urges-independent-probes-into-deadly-nigeria-chad-air-attacks?traffic_source=rss",
+      "published_date": "2026-05-13T11:40:12+00:00",
+      "category": "Military"
     },
     {
       "title": "ISIS Claims Responsibility for Attack on Syrian Army Bus in Hassakeh",
@@ -130,20 +130,6 @@
       "category": "Military"
     },
     {
-      "title": "Charges flagged as women and children from IS-linked families set to fly from Syria to Australia",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/australia-news/2026/may/06/women-children-syria-families-australia-return-ntwnfb",
-      "published_date": "2026-05-06T06:14:11+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "IS families in Syria have booked tickets home to Australia, minister says",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cn0pyny6jk0o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-05-06T01:47:48+00:00",
-      "category": "Military"
-    },
-    {
       "title": "The Numbers Don’t Add Up: Syria’s Fuel Crisis and the Politics of Misinformation",
       "source": "Syrian Observer",
       "url": "https://syrianobserver.com/society/the-numbers-dont-add-up-syrias-fuel-crisis-and-the-politics-of-misinformation.html",
@@ -197,13 +183,6 @@
       "source": "Syrian Observer",
       "url": "https://syrianobserver.com/society/replacing-more-than-half-of-the-old-money-supply-will-it-strengthen-the-syrian-pound.html",
       "published_date": "2026-05-06T21:00:24+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Syria’s Suwayda: A new hub for the multibillion-dollar Captagon trade?",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/6/syrias-suwayda-a-new-hub-for-the-multi-billion-dollar-captagon-trade?traffic_source=rss",
-      "published_date": "2026-05-06T07:16:17+00:00",
       "category": "Economy"
     },
     {
@@ -288,13 +267,6 @@
       "source": "Syrian Observer",
       "url": "https://syrianobserver.com/foreign-actors/syrian-interior-ministry-says-hezbollah-linked-cells-plotting-assassinations-have-been-dismantled.html",
       "published_date": "2026-05-06T21:00:04+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Two Australian states prepare to resettle children from Syrian detention camp with most bound for Melbourne",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/australia-news/2026/may/06/islamic-state-linked-australian-children-syria-states-resettle-ntwnfb",
-      "published_date": "2026-05-06T09:07:01+00:00",
       "category": "Local Events"
     }
   ]
