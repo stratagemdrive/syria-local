@@ -1,7 +1,7 @@
 {
   "country": "Syria",
-  "last_updated": "2026-05-13T13:08:06.167758+00:00",
-  "story_count": 38,
+  "last_updated": "2026-05-13T23:45:56.185364+00:00",
+  "story_count": 37,
   "stories": [
     {
       "title": "Shibani Meets Šuica in Brussels as EU Unveils €355 Million in New Syria Aid",
@@ -44,6 +44,13 @@
       "url": "https://syrianobserver.com/foreign-actors/brussels-hosts-first-syrian-european-dialogue-openness-tied-to-political-and-human-rights-reforms.html",
       "published_date": "2026-05-07T21:00:14+00:00",
       "category": "Diplomacy"
+    },
+    {
+      "title": "Hamas can survive politically by giving up weapons and armed conflict, peace envoy says",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c3r248e977eo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-05-13T18:41:25+00:00",
+      "category": "Military"
     },
     {
       "title": "UN urges independent probes into deadly Nigeria, Chad air attacks",
@@ -179,11 +186,11 @@
       "category": "Economy"
     },
     {
-      "title": "Replacing More Than Half of the Old Money Supply: Will It Strengthen the Syrian Pound?",
-      "source": "Syrian Observer",
-      "url": "https://syrianobserver.com/society/replacing-more-than-half-of-the-old-money-supply-will-it-strengthen-the-syrian-pound.html",
-      "published_date": "2026-05-06T21:00:24+00:00",
-      "category": "Economy"
+      "title": "Philip Davis and Progressive Liberal Party win general election in Bahamas",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/5/13/philip-davis-and-progressive-liberal-party-win-general-election-in-bahamas?traffic_source=rss",
+      "published_date": "2026-05-13T21:07:45+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Performative Justice vs. Transitional Justice",
@@ -249,24 +256,10 @@
       "category": "Local Events"
     },
     {
-      "title": "UAE’s Eagle Hills Plans Major Projects in Damascus and Lattakia Worth More Than $50 Billion",
-      "source": "Syrian Observer",
-      "url": "https://syrianobserver.com/uncategorized/uaes-eagle-hills-plans-major-projects-in-damascus-and-lattakia-worth-more-than-50-billion.html",
-      "published_date": "2026-05-06T21:00:59+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Court of Cassation Revolutionizes Litigation: Social Media Notification Now Equivalent to Personal Service",
-      "source": "Syrian Observer",
-      "url": "https://syrianobserver.com/syrian-actors/vcourt-of-cassation-revolutionizes-litigation-social-media-notification-now-equivalent-to-personal-service.html",
-      "published_date": "2026-05-06T21:00:06+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Syrian Interior Ministry Says Hezbollah-Linked Cells Plotting Assassinations Have Been Dismantled",
-      "source": "Syrian Observer",
-      "url": "https://syrianobserver.com/foreign-actors/syrian-interior-ministry-says-hezbollah-linked-cells-plotting-assassinations-have-been-dismantled.html",
-      "published_date": "2026-05-06T21:00:04+00:00",
+      "title": "‘We just want our children to be safe’: two Australian states prepare to resettle children from Syrian detention camp",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/australia-news/2026/may/06/islamic-state-linked-australian-children-syria-states-resettle-ntwnfb",
+      "published_date": "2026-05-07T00:09:25+00:00",
       "category": "Local Events"
     }
   ]
