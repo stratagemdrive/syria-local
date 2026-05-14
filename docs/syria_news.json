@@ -1,8 +1,22 @@
 {
   "country": "Syria",
-  "last_updated": "2026-05-14T12:22:43.850477+00:00",
-  "story_count": 35,
+  "last_updated": "2026-05-14T23:43:14.516242+00:00",
+  "story_count": 33,
   "stories": [
+    {
+      "title": "Cautious optimism in Lebanon as direct talks with Israel progress",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/5/14/cautious-optimism-in-lebanon-as-direct-talks-with-israel-progress?traffic_source=rss",
+      "published_date": "2026-05-14T20:25:19+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Al-Sharaa’s shakeup: A merit-based state, or a circle of trust?",
+      "source": "Syria Direct",
+      "url": "https://syriadirect.org/al-sharaas-shakeup-a-merit-based-state-or-a-circle-of-trust/",
+      "published_date": "2026-05-14T17:57:41+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Shibani Meets Šuica in Brussels as EU Unveils €355 Million in New Syria Aid",
       "source": "Syrian Observer",
@@ -39,11 +53,11 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Brussels Hosts First Syrian–European Dialogue: Openness Tied to Political and Human Rights Reforms",
+      "title": "Israeli Activity in Southern Syria: Between Real Estate Rumors and Military Encroachment",
       "source": "Syrian Observer",
-      "url": "https://syrianobserver.com/foreign-actors/brussels-hosts-first-syrian-european-dialogue-openness-tied-to-political-and-human-rights-reforms.html",
-      "published_date": "2026-05-07T21:00:14+00:00",
-      "category": "Diplomacy"
+      "url": "https://syrianobserver.com/foreign-actors/israeli-activity-in-southern-syria-between-real-estate-rumors-and-military-encroachment.html",
+      "published_date": "2026-05-14T21:00:43+00:00",
+      "category": "Military"
     },
     {
       "title": "Hamas can survive politically by giving up weapons and armed conflict, peace envoy says",
@@ -95,41 +109,6 @@
       "category": "Military"
     },
     {
-      "title": "Israeli Report Warns of Growing Concern Over Syrian Army Reconstruction",
-      "source": "Syrian Observer",
-      "url": "https://syrianobserver.com/uncategorized/israeli-report-warns-of-growing-concern-over-syrian-army-reconstruction.html",
-      "published_date": "2026-05-07T21:00:50+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Israeli Report Warns of Growing Concern Over Syrian Army Reconstruction",
-      "source": "Syrian Observer",
-      "url": "https://syrianobserver.com/foreign-actors/israeli-report-warns-of-growing-concern-over-syrian-army-reconstruction.html",
-      "published_date": "2026-05-07T21:00:50+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Syrian Forces Arrest Uzbek Fighters in Security Sweep",
-      "source": "Syrian Observer",
-      "url": "https://syrianobserver.com/uncategorized/syrian-forces-arrest-uzbek-fighters-in-security-sweep.html",
-      "published_date": "2026-05-07T21:00:18+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Syrian Forces Arrest Uzbek Fighters in Security Sweep",
-      "source": "Syrian Observer",
-      "url": "https://syrianobserver.com/security/syrian-forces-arrest-uzbek-fighters-in-security-sweep.html",
-      "published_date": "2026-05-07T21:00:18+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Fears of renewed Gaza war as Hamas disarmament talks stall",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cd6p5l3n2q3o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-05-07T14:22:20+00:00",
-      "category": "Military"
-    },
-    {
       "title": "The Numbers Don’t Add Up: Syria’s Fuel Crisis and the Politics of Misinformation",
       "source": "Syrian Observer",
       "url": "https://syrianobserver.com/society/the-numbers-dont-add-up-syrias-fuel-crisis-and-the-politics-of-misinformation.html",
@@ -137,25 +116,18 @@
       "category": "Energy"
     },
     {
-      "title": "“The Last Meeting”: Russian General Demanded $37 Million in Cash from the Assad Regime",
+      "title": "Where Is the Syrian Statistics Authority—and When Will Accurate Data Finally Guide Decision-Making?",
       "source": "Syrian Observer",
-      "url": "https://syrianobserver.com/uncategorized/the-last-meeting-russian-general-demanded-37-million-in-cash-from-the-assad-regime.html",
-      "published_date": "2026-05-07T21:00:36+00:00",
-      "category": "Energy"
+      "url": "https://syrianobserver.com/society/where-is-the-syrian-statistics-authority-and-when-will-accurate-data-finally-guide-decision-making.html",
+      "published_date": "2026-05-14T21:00:42+00:00",
+      "category": "Economy"
     },
     {
-      "title": "“The Last Meeting”: Russian General Demanded $37 Million in Cash from the Assad Regime",
+      "title": "WFP Slashes Aid to Syria by 50% Amid Severe Funding Shortfall",
       "source": "Syrian Observer",
-      "url": "https://syrianobserver.com/foreign-actors/the-last-meeting-russian-general-demanded-37-million-in-cash-from-the-assad-regime.html",
-      "published_date": "2026-05-07T21:00:36+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "New Shock to Syrian Markets: Dollar-Indexed Fuel Price Hike Triggers Widespread Anger",
-      "source": "Syrian Observer",
-      "url": "https://syrianobserver.com/society/new-shock-to-syrian-markets-dollar-indexed-fuel-price-hike-triggers-widespread-anger.html",
-      "published_date": "2026-05-07T21:00:05+00:00",
-      "category": "Energy"
+      "url": "https://syrianobserver.com/society/wfp-slashes-aid-to-syria-by-50-amid-severe-funding-shortfall.html",
+      "published_date": "2026-05-14T21:00:38+00:00",
+      "category": "Economy"
     },
     {
       "title": "Meeting at the Foreign Ministry with 23 Donor Countries to Discuss Supporting Syria’s Recovery",
@@ -179,10 +151,38 @@
       "category": "Economy"
     },
     {
+      "title": "Explosive Device Found in Hearse Outside Aleppo Cathedral",
+      "source": "Syrian Observer",
+      "url": "https://syrianobserver.com/syrian-actors/explosive-device-found-in-hearse-outside-aleppo-cathedral.html",
+      "published_date": "2026-05-14T21:00:55+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Europe and the New Syria: A Partnership of Necessity",
+      "source": "Syrian Observer",
+      "url": "https://syrianobserver.com/foreign-actors/europe-and-the-new-syria-a-partnership-of-necessity.html",
+      "published_date": "2026-05-14T21:00:47+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "Philip Davis and Progressive Liberal Party win general election in Bahamas",
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/news/2026/5/13/philip-davis-and-progressive-liberal-party-win-general-election-in-bahamas?traffic_source=rss",
       "published_date": "2026-05-13T21:07:45+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Shibani: Damascus Seeks a Security Agreement with Israel but Rejects “Normalization by Force”",
+      "source": "Syrian Observer",
+      "url": "https://syrianobserver.com/foreign-actors/shibani-damascus-seeks-a-security-agreement-with-israel-but-rejects-normalization-by-force.html",
+      "published_date": "2026-05-13T21:00:28+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Mazloum Abdi: The Agreement with Damascus Fell Short of Our Aspirations — But There Will Be No Return to War",
+      "source": "Syrian Observer",
+      "url": "https://syrianobserver.com/syrian-actors/mazloum-abdi-the-agreement-with-damascus-fell-short-of-our-aspirations-but-there-will-be-no-return-to-war.html",
+      "published_date": "2026-05-13T21:00:20+00:00",
       "category": "Local Events"
     },
     {
@@ -232,20 +232,6 @@
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/news/2026/5/9/syria-and-lebanon-make-significant-progress-at-talks-on-joint-interests?traffic_source=rss",
       "published_date": "2026-05-09T17:50:18+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Tennessee approves new congressional map in latest redistricting flurry",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/7/tennessee-approves-new-congressional-map-in-latest-redistricting-flurry?traffic_source=rss",
-      "published_date": "2026-05-07T21:19:01+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Palestinians expose torture and sexual violence in Israeli detention",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/7/palestinians-expose-torture-and-sexual-violence-in-israeli-detention?traffic_source=rss",
-      "published_date": "2026-05-07T20:37:46+00:00",
       "category": "Local Events"
     }
   ]
