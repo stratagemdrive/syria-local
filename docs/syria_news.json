@@ -1,7 +1,7 @@
 {
   "country": "Syria",
-  "last_updated": "2026-05-13T23:45:56.185364+00:00",
-  "story_count": 37,
+  "last_updated": "2026-05-14T12:22:43.850477+00:00",
+  "story_count": 35,
   "stories": [
     {
       "title": "Shibani Meets Šuica in Brussels as EU Unveils €355 Million in New Syria Aid",
@@ -130,13 +130,6 @@
       "category": "Military"
     },
     {
-      "title": "Three women face charges after IS-linked family members land in Australia",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/australia-news/2026/may/07/is-linked-families-land-australia-from-syria-arrests-ntwnfb",
-      "published_date": "2026-05-07T12:18:03+00:00",
-      "category": "Military"
-    },
-    {
       "title": "The Numbers Don’t Add Up: Syria’s Fuel Crisis and the Politics of Misinformation",
       "source": "Syrian Observer",
       "url": "https://syrianobserver.com/society/the-numbers-dont-add-up-syrias-fuel-crisis-and-the-politics-of-misinformation.html",
@@ -253,13 +246,6 @@
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/news/2026/5/7/palestinians-expose-torture-and-sexual-violence-in-israeli-detention?traffic_source=rss",
       "published_date": "2026-05-07T20:37:46+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "‘We just want our children to be safe’: two Australian states prepare to resettle children from Syrian detention camp",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/australia-news/2026/may/06/islamic-state-linked-australian-children-syria-states-resettle-ntwnfb",
-      "published_date": "2026-05-07T00:09:25+00:00",
       "category": "Local Events"
     }
   ]
