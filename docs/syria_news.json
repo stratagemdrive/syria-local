@@ -1,7 +1,7 @@
 {
   "country": "Syria",
-  "last_updated": "2026-05-15T12:28:17.824108+00:00",
-  "story_count": 35,
+  "last_updated": "2026-05-15T23:42:24.964980+00:00",
+  "story_count": 36,
   "stories": [
     {
       "title": "Cautious optimism in Lebanon as direct talks with Israel progress",
@@ -60,6 +60,20 @@
       "category": "Diplomacy"
     },
     {
+      "title": "Seven killed in Gaza on Nakba Day as Israel says it targets Hamas member",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/5/15/seven-killed-in-gaza-on-nakba-day-as-israel-says-it-targets-hamas-member?traffic_source=rss",
+      "published_date": "2026-05-15T21:05:22+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Israel says it has killed Hamas commander in Gaza air strike",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cx21jjwz1k1o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-05-15T19:38:38+00:00",
+      "category": "Military"
+    },
+    {
       "title": "Israeli Activity in Southern Syria: Between Real Estate Rumors and Military Encroachment",
       "source": "Syrian Observer",
       "url": "https://syrianobserver.com/foreign-actors/israeli-activity-in-southern-syria-between-real-estate-rumors-and-military-encroachment.html",
@@ -106,13 +120,6 @@
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/news/2026/5/9/on-level-of-atomic-bomb-iran-highlights-hormuz-importance-amid-us-talks?traffic_source=rss",
       "published_date": "2026-05-09T16:35:01+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "The children of IS-linked families must not be treated as extensions of their parents – but individuals shaped by years of trauma | Peta Lowe",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/australia-news/commentisfree/2026/may/08/the-children-of-is-linked-families-must-not-be-treated-as-extensions-of-their-parents-but-individuals-shaped-by-years-of-trauma-ntwnfb",
-      "published_date": "2026-05-08T15:00:31+00:00",
       "category": "Military"
     },
     {
