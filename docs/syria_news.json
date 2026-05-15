@@ -1,7 +1,7 @@
 {
   "country": "Syria",
-  "last_updated": "2026-05-14T23:43:14.516242+00:00",
-  "story_count": 33,
+  "last_updated": "2026-05-15T12:28:17.824108+00:00",
+  "story_count": 35,
   "stories": [
     {
       "title": "Cautious optimism in Lebanon as direct talks with Israel progress",
@@ -21,6 +21,13 @@
       "title": "Shibani Meets Šuica in Brussels as EU Unveils €355 Million in New Syria Aid",
       "source": "Syrian Observer",
       "url": "https://syrianobserver.com/uncategorized/shibani-meets-suica-in-brussels-as-eu-unveils-e355-million-in-new-syria-aid.html",
+      "published_date": "2026-05-11T21:00:49+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Shibani Meets Šuica in Brussels as EU Unveils €355 Million in New Syria Aid",
+      "source": "Syrian Observer",
+      "url": "https://syrianobserver.com/foreign-actors/shibani-meets-suica-in-brussels-as-eu-unveils-e355-million-in-new-syria-aid.html",
       "published_date": "2026-05-11T21:00:49+00:00",
       "category": "Diplomacy"
     },
@@ -154,6 +161,13 @@
       "title": "Explosive Device Found in Hearse Outside Aleppo Cathedral",
       "source": "Syrian Observer",
       "url": "https://syrianobserver.com/syrian-actors/explosive-device-found-in-hearse-outside-aleppo-cathedral.html",
+      "published_date": "2026-05-14T21:00:55+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Explosive Device Found in Hearse Outside Aleppo Cathedral",
+      "source": "Syrian Observer",
+      "url": "https://syrianobserver.com/security/explosive-device-found-in-hearse-outside-aleppo-cathedral.html",
       "published_date": "2026-05-14T21:00:55+00:00",
       "category": "Local Events"
     },
