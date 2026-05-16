@@ -1,7 +1,7 @@
 {
   "country": "Syria",
-  "last_updated": "2026-05-16T11:45:08.870234+00:00",
-  "story_count": 36,
+  "last_updated": "2026-05-16T23:38:35.512353+00:00",
+  "story_count": 35,
   "stories": [
     {
       "title": "Cautious optimism in Lebanon as direct talks with Israel progress",
@@ -53,11 +53,18 @@
       "category": "Diplomacy"
     },
     {
-      "title": "One killed in Gaza as Turkish FM talks peace efforts with Hamas official",
+      "title": "Two presidential campaign staffers killed in Colombia as elections near",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/9/one-killed-in-gaza-as-turkish-fm-talks-peace-efforts-with-hamas-official?traffic_source=rss",
-      "published_date": "2026-05-09T21:10:43+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news/2026/5/16/two-presidential-campaign-staffers-killed-in-colombia-as-elections-near?traffic_source=rss",
+      "published_date": "2026-05-16T21:42:04+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Hamas confirms killing of Qassam Brigades leader in Israeli attack",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/5/16/hamas-confirms-killing-of-top-hamas-leader-in-israeli-attack?traffic_source=rss",
+      "published_date": "2026-05-16T16:02:33+00:00",
+      "category": "Military"
     },
     {
       "title": "Seven killed in Gaza on Nakba Day as Israel says it targets Hamas member",
@@ -113,13 +120,6 @@
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/news/2026/5/11/former-qatar-pm-netanyahu-using-iran-war-to-reshape-middle-east?traffic_source=rss",
       "published_date": "2026-05-11T10:37:19+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "‘On level of atomic bomb’: Iran highlights Hormuz importance amid US talks",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/9/on-level-of-atomic-bomb-iran-highlights-hormuz-importance-amid-us-talks?traffic_source=rss",
-      "published_date": "2026-05-09T16:35:01+00:00",
       "category": "Military"
     },
     {
@@ -246,13 +246,6 @@
       "source": "Syrian Observer",
       "url": "https://syrianobserver.com/syrian-actors/second-public-trial-session-begins-for-accused-atef-najib-and-figures-of-the-deposed-regime.html",
       "published_date": "2026-05-10T21:00:42+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Syria and Lebanon make ‘significant progress’ at talks on joint interests",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/9/syria-and-lebanon-make-significant-progress-at-talks-on-joint-interests?traffic_source=rss",
-      "published_date": "2026-05-09T17:50:18+00:00",
       "category": "Local Events"
     }
   ]
