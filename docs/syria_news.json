@@ -1,8 +1,15 @@
 {
   "country": "Syria",
-  "last_updated": "2026-05-17T11:57:15.658763+00:00",
-  "story_count": 34,
+  "last_updated": "2026-05-17T23:44:39.003496+00:00",
+  "story_count": 33,
   "stories": [
+    {
+      "title": "How will Izz al-Din al-Haddad assassination impact Hamas’s Gaza operations?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/5/17/how-will-izz-al-din-al-haddads-assassination-impact-hamas-gaza-operations?traffic_source=rss",
+      "published_date": "2026-05-17T13:41:32+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Cautious optimism in Lebanon as direct talks with Israel progress",
       "source": "Al Jazeera",
@@ -36,13 +43,6 @@
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/news/2026/5/11/eu-agrees-sanctions-on-israeli-west-bank-settlers-hamas-leaders?traffic_source=rss",
       "published_date": "2026-05-11T19:10:18+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Can Shibani Melt the Ice in Syrian-Egyptian Relations?",
-      "source": "Syrian Observer",
-      "url": "https://syrianobserver.com/foreign-actors/can-shibani-melt-the-ice-in-syrian-egyptian-relations.html",
-      "published_date": "2026-05-10T21:00:59+00:00",
       "category": "Diplomacy"
     },
     {
@@ -123,6 +123,13 @@
       "category": "Energy"
     },
     {
+      "title": "Did the Syrian Pound’s Exchange Rate Topple the Former Central Bank Governor?",
+      "source": "Syrian Observer",
+      "url": "https://syrianobserver.com/society/did-the-syrian-pounds-exchange-rate-topple-the-former-central-bank-governor.html",
+      "published_date": "2026-05-17T21:00:43+00:00",
+      "category": "Economy"
+    },
+    {
       "title": "Where Is the Syrian Statistics Authority—and When Will Accurate Data Finally Guide Decision-Making?",
       "source": "Syrian Observer",
       "url": "https://syrianobserver.com/society/where-is-the-syrian-statistics-authority-and-when-will-accurate-data-finally-guide-decision-making.html",
@@ -151,11 +158,11 @@
       "category": "Economy"
     },
     {
-      "title": "Syria at the Table Again — But Can It Deliver?",
+      "title": "Atif Najib Denies Charges as Trial Becomes Early Test of Syria’s Transitional Justice",
       "source": "Syrian Observer",
-      "url": "https://syrianobserver.com/foreign-actors/syria-at-the-table-again-but-can-it-deliver.html",
-      "published_date": "2026-05-10T21:00:13+00:00",
-      "category": "Economy"
+      "url": "https://syrianobserver.com/syrian-actors/atif-najib-denies-charges-as-trial-becomes-early-test-of-syrias-transitional-justice.html",
+      "published_date": "2026-05-17T21:00:03+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Explosive Device Found in Hearse Outside Aleppo Cathedral",
@@ -225,20 +232,6 @@
       "source": "BBC News",
       "url": "https://www.bbc.com/news/articles/c1j257w87neo?at_medium=RSS&at_campaign=rss",
       "published_date": "2026-05-11T10:16:50+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Damascus Between Cairo and Beirut: Testing the Return to the Arab Fold",
-      "source": "Syrian Observer",
-      "url": "https://syrianobserver.com/foreign-actors/damascus-between-cairo-and-beirut-testing-the-return-to-the-arab-fold.html",
-      "published_date": "2026-05-10T21:01:46+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Second Public Trial Session Begins for Accused Atef Najib and Figures of the Deposed Regime",
-      "source": "Syrian Observer",
-      "url": "https://syrianobserver.com/syrian-actors/second-public-trial-session-begins-for-accused-atef-najib-and-figures-of-the-deposed-regime.html",
-      "published_date": "2026-05-10T21:00:42+00:00",
       "category": "Local Events"
     }
   ]
