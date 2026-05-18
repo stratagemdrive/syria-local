@@ -1,8 +1,15 @@
 {
   "country": "Syria",
-  "last_updated": "2026-05-18T14:26:58.701023+00:00",
-  "story_count": 30,
+  "last_updated": "2026-05-18T23:53:42.526651+00:00",
+  "story_count": 27,
   "stories": [
+    {
+      "title": "Croatian president rejects new Israeli ambassador",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/5/18/croatian-president-rejects-new-israeli-ambassador?traffic_source=rss",
+      "published_date": "2026-05-18T21:03:49+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "How will Izz al-Din al-Haddad assassination impact Hamas’s Gaza operations?",
       "source": "Al Jazeera",
@@ -25,25 +32,11 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Shibani Meets Šuica in Brussels as EU Unveils €355 Million in New Syria Aid",
-      "source": "Syrian Observer",
-      "url": "https://syrianobserver.com/uncategorized/shibani-meets-suica-in-brussels-as-eu-unveils-e355-million-in-new-syria-aid.html",
-      "published_date": "2026-05-11T21:00:49+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Shibani Meets Šuica in Brussels as EU Unveils €355 Million in New Syria Aid",
-      "source": "Syrian Observer",
-      "url": "https://syrianobserver.com/foreign-actors/shibani-meets-suica-in-brussels-as-eu-unveils-e355-million-in-new-syria-aid.html",
-      "published_date": "2026-05-11T21:00:49+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "EU agrees sanctions on Israeli West Bank settlers, Hamas leaders",
+      "title": "Will Cuba be forced to accept the US president’s demands?",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/11/eu-agrees-sanctions-on-israeli-west-bank-settlers-hamas-leaders?traffic_source=rss",
-      "published_date": "2026-05-11T19:10:18+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/video/inside-story/2026/5/18/will-cuba-be-forced-to-accept-the-us-presidents-demands?traffic_source=rss",
+      "published_date": "2026-05-18T21:02:22+00:00",
+      "category": "Military"
     },
     {
       "title": "Two presidential campaign staffers killed in Colombia as elections near",
@@ -107,13 +100,6 @@
       "url": "https://syrianobserver.com/syrian-actors/arrest-of-the-former-regimes-air-force-chief-of-staff-in-a-security-operation.html",
       "published_date": "2026-05-12T21:00:16+00:00",
       "category": "Military"
-    },
-    {
-      "title": "The Numbers Don’t Add Up: Syria’s Fuel Crisis and the Politics of Misinformation",
-      "source": "Syrian Observer",
-      "url": "https://syrianobserver.com/society/the-numbers-dont-add-up-syrias-fuel-crisis-and-the-politics-of-misinformation.html",
-      "published_date": "2026-05-11T21:00:50+00:00",
-      "category": "Energy"
     },
     {
       "title": "Did the Syrian Pound’s Exchange Rate Topple the Former Central Bank Governor?",
@@ -204,13 +190,6 @@
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/news/2026/5/12/voters-head-to-the-polls-in-the-bahamas-for-high-stakes-snap-election?traffic_source=rss",
       "published_date": "2026-05-12T18:00:09+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "As Atef Najib’s trial proceeds, what legal basis exists for transitional justice?",
-      "source": "Syria Direct",
-      "url": "https://syriadirect.org/atef-najib-trial-legal-basis-transitional-justice/",
-      "published_date": "2026-05-11T18:44:35+00:00",
       "category": "Local Events"
     }
   ]
