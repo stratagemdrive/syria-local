@@ -1,7 +1,7 @@
 {
   "country": "Syria",
-  "last_updated": "2026-05-17T23:44:39.003496+00:00",
-  "story_count": 33,
+  "last_updated": "2026-05-18T14:26:58.701023+00:00",
+  "story_count": 30,
   "stories": [
     {
       "title": "How will Izz al-Din al-Haddad assassination impact Hamas’s Gaza operations?",
@@ -109,13 +109,6 @@
       "category": "Military"
     },
     {
-      "title": "Former Qatar PM: Netanyahu using Iran war to reshape Middle East",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/11/former-qatar-pm-netanyahu-using-iran-war-to-reshape-middle-east?traffic_source=rss",
-      "published_date": "2026-05-11T10:37:19+00:00",
-      "category": "Military"
-    },
-    {
       "title": "The Numbers Don’t Add Up: Syria’s Fuel Crisis and the Politics of Misinformation",
       "source": "Syrian Observer",
       "url": "https://syrianobserver.com/society/the-numbers-dont-add-up-syrias-fuel-crisis-and-the-politics-of-misinformation.html",
@@ -148,13 +141,6 @@
       "source": "Syrian Observer",
       "url": "https://syrianobserver.com/foreign-actors/meeting-at-the-foreign-ministry-with-23-donor-countries-to-discuss-supporting-syrias-recovery.html",
       "published_date": "2026-05-12T21:00:55+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "EU agrees to restore full trade ties with Syria",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/11/eu-agrees-to-restore-full-trade-ties-with-syria?traffic_source=rss",
-      "published_date": "2026-05-11T11:59:06+00:00",
       "category": "Economy"
     },
     {
@@ -225,13 +211,6 @@
       "source": "Syria Direct",
       "url": "https://syriadirect.org/atef-najib-trial-legal-basis-transitional-justice/",
       "published_date": "2026-05-11T18:44:35+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Ailing Iranian Nobel laureate given bail and hospital transfer",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c1j257w87neo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-05-11T10:16:50+00:00",
       "category": "Local Events"
     }
   ]
