@@ -1,8 +1,15 @@
 {
   "country": "Syria",
-  "last_updated": "2026-05-19T13:52:32.253800+00:00",
-  "story_count": 31,
+  "last_updated": "2026-05-19T23:51:58.506214+00:00",
+  "story_count": 32,
   "stories": [
+    {
+      "title": "US imposes sanctions on Gaza flotilla organisers amid Israeli crackdown",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/5/19/us-imposes-sanctions-on-gaza-flotilla-organisers-amid-israeli-crackdown?traffic_source=rss",
+      "published_date": "2026-05-19T17:36:16+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Croatian president rejects new Israeli ambassador",
       "source": "Al Jazeera",
@@ -37,6 +44,13 @@
       "url": "https://syriadirect.org/al-sharaas-shakeup-a-merit-based-state-or-a-circle-of-trust/",
       "published_date": "2026-05-14T17:57:41+00:00",
       "category": "Diplomacy"
+    },
+    {
+      "title": "Car Bomb Explodes Near Ministry of Defense Building in Damascus",
+      "source": "Syrian Observer",
+      "url": "https://syrianobserver.com/security/car-bomb-explodes-near-ministry-of-defense-building-in-damascus.html",
+      "published_date": "2026-05-19T21:00:02+00:00",
+      "category": "Military"
     },
     {
       "title": "Suspected car bomb explodes in Syrian capital Damascus",
@@ -102,18 +116,11 @@
       "category": "Military"
     },
     {
-      "title": "ISIS Claims Responsibility for Attack on Syrian Army Bus in Hassakeh",
+      "title": "How Does the 2026 Wheat Pricing Threaten Food Security in Syria?",
       "source": "Syrian Observer",
-      "url": "https://syrianobserver.com/security/isis-claims-responsibility-for-attack-on-syrian-army-bus-in-hassakeh.html",
-      "published_date": "2026-05-12T21:00:44+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Arrest of the Former Regime’s Air Force Chief of Staff in a Security Operation",
-      "source": "Syrian Observer",
-      "url": "https://syrianobserver.com/syrian-actors/arrest-of-the-former-regimes-air-force-chief-of-staff-in-a-security-operation.html",
-      "published_date": "2026-05-12T21:00:16+00:00",
-      "category": "Military"
+      "url": "https://syrianobserver.com/society/how-does-the-2026-wheat-pricing-threaten-food-security-in-syria.html",
+      "published_date": "2026-05-19T21:00:16+00:00",
+      "category": "Economy"
     },
     {
       "title": "Did the Syrian Pound’s Exchange Rate Topple the Former Central Bank Governor?",
@@ -137,11 +144,25 @@
       "category": "Economy"
     },
     {
-      "title": "Meeting at the Foreign Ministry with 23 Donor Countries to Discuss Supporting Syria’s Recovery",
+      "title": "NAACP urges athletes to boycott southern US universities over voting rights",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/5/19/naacp-urges-athletes-to-boycott-southern-us-universities-over-voting-rights?traffic_source=rss",
+      "published_date": "2026-05-19T21:09:01+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Atef Najib Is on Trial. So Is the Revolutionary Narrative",
       "source": "Syrian Observer",
-      "url": "https://syrianobserver.com/foreign-actors/meeting-at-the-foreign-ministry-with-23-donor-countries-to-discuss-supporting-syrias-recovery.html",
-      "published_date": "2026-05-12T21:00:55+00:00",
-      "category": "Economy"
+      "url": "https://syrianobserver.com/syrian-actors/atef-najib-is-on-trial-so-is-the-revolutionary-narrative.html",
+      "published_date": "2026-05-19T21:00:56+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "From Kobani to Afrin: Hundreds of Displaced Families Begin Their Journey Home",
+      "source": "Syrian Observer",
+      "url": "https://syrianobserver.com/syrian-actors/from-kobani-to-afrin-hundreds-of-displaced-families-begin-their-journey-home.html",
+      "published_date": "2026-05-19T21:00:53+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Lebanon and Syria reshape ties amid Israeli attacks and regional shifts",
@@ -204,20 +225,6 @@
       "source": "Syrian Observer",
       "url": "https://syrianobserver.com/syrian-actors/mazloum-abdi-the-agreement-with-damascus-fell-short-of-our-aspirations-but-there-will-be-no-return-to-war.html",
       "published_date": "2026-05-13T21:00:20+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Performative Justice vs. Transitional Justice",
-      "source": "Syrian Observer",
-      "url": "https://syrianobserver.com/syrian-actors/performative-justice-vs-transitional-justice.html",
-      "published_date": "2026-05-12T21:00:33+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Voters head to the polls in the Bahamas for high-stakes snap election",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/12/voters-head-to-the-polls-in-the-bahamas-for-high-stakes-snap-election?traffic_source=rss",
-      "published_date": "2026-05-12T18:00:09+00:00",
       "category": "Local Events"
     }
   ]
