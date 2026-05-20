@@ -1,7 +1,7 @@
 {
   "country": "Syria",
-  "last_updated": "2026-05-20T13:35:02.085046+00:00",
-  "story_count": 31,
+  "last_updated": "2026-05-20T23:59:17.075087+00:00",
+  "story_count": 30,
   "stories": [
     {
       "title": "US imposes sanctions on Gaza flotilla organisers amid Israeli crackdown",
@@ -44,6 +44,27 @@
       "url": "https://syriadirect.org/al-sharaas-shakeup-a-merit-based-state-or-a-circle-of-trust/",
       "published_date": "2026-05-14T17:57:41+00:00",
       "category": "Diplomacy"
+    },
+    {
+      "title": "Field Escalation in Quneitra: Israeli Forces Arrest Two Young Men, Conduct Broad Search Operations",
+      "source": "Syrian Observer",
+      "url": "https://syrianobserver.com/foreign-actors/field-escalation-in-quneitra-israeli-forces-arrest-two-young-men-conduct-broad-search-operations.html",
+      "published_date": "2026-05-20T21:00:23+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "In First Foreign Deployment, Syrian Army Joins EFES 2026 Drills in Turkey",
+      "source": "Syrian Observer",
+      "url": "https://syrianobserver.com/security/in-first-foreign-deployment-syrian-army-joins-efes-2026-drills-in-turkey.html",
+      "published_date": "2026-05-20T21:00:13+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Uyghur Fighters in Syria: An Exile Transformed Into a Jihadist Front",
+      "source": "Syrian Observer",
+      "url": "https://syrianobserver.com/syrian-actors/uyghur-fighters-in-syria-an-exile-transformed-into-a-jihadist-front.html",
+      "published_date": "2026-05-20T21:00:04+00:00",
+      "category": "Military"
     },
     {
       "title": "Car Bomb Explodes Near Ministry of Defense Building in Damascus",
@@ -99,13 +120,6 @@
       "source": "Syrian Observer",
       "url": "https://syrianobserver.com/foreign-actors/israeli-activity-in-southern-syria-between-real-estate-rumors-and-military-encroachment.html",
       "published_date": "2026-05-14T21:00:43+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Hamas can survive politically by giving up weapons and armed conflict, peace envoy says",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c3r248e977eo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-05-13T18:41:25+00:00",
       "category": "Military"
     },
     {
@@ -197,27 +211,6 @@
       "source": "Syrian Observer",
       "url": "https://syrianobserver.com/foreign-actors/europe-and-the-new-syria-a-partnership-of-necessity.html",
       "published_date": "2026-05-14T21:00:47+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Philip Davis and Progressive Liberal Party win general election in Bahamas",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/13/philip-davis-and-progressive-liberal-party-win-general-election-in-bahamas?traffic_source=rss",
-      "published_date": "2026-05-13T21:07:45+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Shibani: Damascus Seeks a Security Agreement with Israel but Rejects “Normalization by Force”",
-      "source": "Syrian Observer",
-      "url": "https://syrianobserver.com/foreign-actors/shibani-damascus-seeks-a-security-agreement-with-israel-but-rejects-normalization-by-force.html",
-      "published_date": "2026-05-13T21:00:28+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Mazloum Abdi: The Agreement with Damascus Fell Short of Our Aspirations — But There Will Be No Return to War",
-      "source": "Syrian Observer",
-      "url": "https://syrianobserver.com/syrian-actors/mazloum-abdi-the-agreement-with-damascus-fell-short-of-our-aspirations-but-there-will-be-no-return-to-war.html",
-      "published_date": "2026-05-13T21:00:20+00:00",
       "category": "Local Events"
     }
   ]
