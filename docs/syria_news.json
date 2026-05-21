@@ -1,8 +1,15 @@
 {
   "country": "Syria",
-  "last_updated": "2026-05-21T14:02:46.158321+00:00",
-  "story_count": 30,
+  "last_updated": "2026-05-21T23:46:12.371770+00:00",
+  "story_count": 23,
   "stories": [
+    {
+      "title": "Board of Peace envoy warns ‘permanent’ Gaza divide under current status quo",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/5/21/board-of-peace-envoy-warns-permanent-gaza-divide-under-current-status-quo?traffic_source=rss",
+      "published_date": "2026-05-21T21:10:02+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "US imposes sanctions on Gaza flotilla organisers amid Israeli crackdown",
       "source": "Al Jazeera",
@@ -29,20 +36,6 @@
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/news/2026/5/17/how-will-izz-al-din-al-haddads-assassination-impact-hamas-gaza-operations?traffic_source=rss",
       "published_date": "2026-05-17T13:41:32+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Cautious optimism in Lebanon as direct talks with Israel progress",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/14/cautious-optimism-in-lebanon-as-direct-talks-with-israel-progress?traffic_source=rss",
-      "published_date": "2026-05-14T20:25:19+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Al-Sharaa’s shakeup: A merit-based state, or a circle of trust?",
-      "source": "Syria Direct",
-      "url": "https://syriadirect.org/al-sharaas-shakeup-a-merit-based-state-or-a-circle-of-trust/",
-      "published_date": "2026-05-14T17:57:41+00:00",
       "category": "Diplomacy"
     },
     {
@@ -116,13 +109,6 @@
       "category": "Military"
     },
     {
-      "title": "Israeli Activity in Southern Syria: Between Real Estate Rumors and Military Encroachment",
-      "source": "Syrian Observer",
-      "url": "https://syrianobserver.com/foreign-actors/israeli-activity-in-southern-syria-between-real-estate-rumors-and-military-encroachment.html",
-      "published_date": "2026-05-14T21:00:43+00:00",
-      "category": "Military"
-    },
-    {
       "title": "How Does the 2026 Wheat Pricing Threaten Food Security in Syria?",
       "source": "Syrian Observer",
       "url": "https://syrianobserver.com/society/how-does-the-2026-wheat-pricing-threaten-food-security-in-syria.html",
@@ -134,20 +120,6 @@
       "source": "Syrian Observer",
       "url": "https://syrianobserver.com/society/did-the-syrian-pounds-exchange-rate-topple-the-former-central-bank-governor.html",
       "published_date": "2026-05-17T21:00:43+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Where Is the Syrian Statistics Authority—and When Will Accurate Data Finally Guide Decision-Making?",
-      "source": "Syrian Observer",
-      "url": "https://syrianobserver.com/society/where-is-the-syrian-statistics-authority-and-when-will-accurate-data-finally-guide-decision-making.html",
-      "published_date": "2026-05-14T21:00:42+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "WFP Slashes Aid to Syria by 50% Amid Severe Funding Shortfall",
-      "source": "Syrian Observer",
-      "url": "https://syrianobserver.com/society/wfp-slashes-aid-to-syria-by-50-amid-severe-funding-shortfall.html",
-      "published_date": "2026-05-14T21:00:38+00:00",
       "category": "Economy"
     },
     {
@@ -190,27 +162,6 @@
       "source": "Syrian Observer",
       "url": "https://syrianobserver.com/syrian-actors/atif-najib-denies-charges-as-trial-becomes-early-test-of-syrias-transitional-justice.html",
       "published_date": "2026-05-17T21:00:03+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Explosive Device Found in Hearse Outside Aleppo Cathedral",
-      "source": "Syrian Observer",
-      "url": "https://syrianobserver.com/syrian-actors/explosive-device-found-in-hearse-outside-aleppo-cathedral.html",
-      "published_date": "2026-05-14T21:00:55+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Explosive Device Found in Hearse Outside Aleppo Cathedral",
-      "source": "Syrian Observer",
-      "url": "https://syrianobserver.com/security/explosive-device-found-in-hearse-outside-aleppo-cathedral.html",
-      "published_date": "2026-05-14T21:00:55+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Europe and the New Syria: A Partnership of Necessity",
-      "source": "Syrian Observer",
-      "url": "https://syrianobserver.com/foreign-actors/europe-and-the-new-syria-a-partnership-of-necessity.html",
-      "published_date": "2026-05-14T21:00:47+00:00",
       "category": "Local Events"
     }
   ]
