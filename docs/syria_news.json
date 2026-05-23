@@ -1,8 +1,15 @@
 {
   "country": "Syria",
-  "last_updated": "2026-05-22T23:54:52.367920+00:00",
-  "story_count": 28,
+  "last_updated": "2026-05-23T11:56:46.232120+00:00",
+  "story_count": 29,
   "stories": [
+    {
+      "title": "Israel attacks southern Lebanon and near Syrian border despite ‘ceasefire’",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/5/23/israel-attacks-southern-lebanon-and-near-syrian-border-despite-ceasefire?traffic_source=rss",
+      "published_date": "2026-05-23T09:30:24+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Board of Peace envoy warns ‘permanent’ Gaza divide under current status quo",
       "source": "Al Jazeera",
