@@ -1,8 +1,15 @@
 {
   "country": "Syria",
-  "last_updated": "2026-05-24T11:58:39.920571+00:00",
-  "story_count": 27,
+  "last_updated": "2026-05-24T23:47:25.335097+00:00",
+  "story_count": 29,
   "stories": [
+    {
+      "title": "Syria in the New CENTCOM Doctrine: Damascus Moves Into the U.S. Security Architecture",
+      "source": "Syrian Observer",
+      "url": "https://syrianobserver.com/foreign-actors/syria-in-the-new-centcom-doctrine-damascus-moves-into-the-u-s-security-architecture.html",
+      "published_date": "2026-05-24T21:00:47+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Israel attacks southern Lebanon and near Syrian border despite ‘ceasefire’",
       "source": "Al Jazeera",
@@ -46,11 +53,18 @@
       "category": "Diplomacy"
     },
     {
-      "title": "How will Izz al-Din al-Haddad assassination impact Hamas’s Gaza operations?",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/17/how-will-izz-al-din-al-haddads-assassination-impact-hamas-gaza-operations?traffic_source=rss",
-      "published_date": "2026-05-17T13:41:32+00:00",
-      "category": "Diplomacy"
+      "title": "Turkish Intelligence Chief Visits Damascus, Meets President Sharaa",
+      "source": "Syrian Observer",
+      "url": "https://syrianobserver.com/foreign-actors/turkish-intelligence-chief-visits-damascus-meets-president-sharaa.html",
+      "published_date": "2026-05-24T21:00:32+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Syrian-Turkish Intelligence Operation Arrests 10 Turkish ISIS Members",
+      "source": "Syrian Observer",
+      "url": "https://syrianobserver.com/security/syrian-turkish-intelligence-operation-arrests-10-turkish-isis-members.html",
+      "published_date": "2026-05-24T21:00:27+00:00",
+      "category": "Military"
     },
     {
       "title": "Displaced Lebanese amputee asks ‘where am I supposed to go’?",
@@ -116,6 +130,13 @@
       "category": "Military"
     },
     {
+      "title": "Three Strategies to Ease the Pain of Economic Reform in Syria",
+      "source": "Syrian Observer",
+      "url": "https://syrianobserver.com/society/three-strategies-to-ease-the-pain-of-economic-reform-in-syria.html",
+      "published_date": "2026-05-24T21:00:58+00:00",
+      "category": "Economy"
+    },
+    {
       "title": "Abundant Harvest, Shocking Prices: Anger Among Hassakeh Farmers Threatens the Future of Syrian Wheat",
       "source": "Syrian Observer",
       "url": "https://syrianobserver.com/society/abundant-harvest-shocking-prices-anger-among-hassakeh-farmers-threatens-the-future-of-syrian-wheat.html",
@@ -130,11 +151,11 @@
       "category": "Economy"
     },
     {
-      "title": "Did the Syrian Pound’s Exchange Rate Topple the Former Central Bank Governor?",
+      "title": "The Waste Crisis in Eastern Aleppo Deepens: Daily Burning, Thick Smoke, and Rising Health Fears",
       "source": "Syrian Observer",
-      "url": "https://syrianobserver.com/society/did-the-syrian-pounds-exchange-rate-topple-the-former-central-bank-governor.html",
-      "published_date": "2026-05-17T21:00:43+00:00",
-      "category": "Economy"
+      "url": "https://syrianobserver.com/society/the-waste-crisis-in-eastern-aleppo-deepens-daily-burning-thick-smoke-and-rising-health-fears.html",
+      "published_date": "2026-05-24T21:00:14+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Last Australian women and children linked to IS leave Syrian camp before expected return home – report",
@@ -183,13 +204,6 @@
       "source": "Syrian Observer",
       "url": "https://syrianobserver.com/society/sharaa-syria-advancing-health-security-aiming-to-close-displacement-camps-by-2027.html",
       "published_date": "2026-05-18T21:00:26+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Atif Najib Denies Charges as Trial Becomes Early Test of Syria’s Transitional Justice",
-      "source": "Syrian Observer",
-      "url": "https://syrianobserver.com/syrian-actors/atif-najib-denies-charges-as-trial-becomes-early-test-of-syrias-transitional-justice.html",
-      "published_date": "2026-05-17T21:00:03+00:00",
       "category": "Local Events"
     }
   ]
