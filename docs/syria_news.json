@@ -1,8 +1,15 @@
 {
   "country": "Syria",
-  "last_updated": "2026-05-25T13:56:27.989804+00:00",
+  "last_updated": "2026-05-25T23:53:35.680510+00:00",
   "story_count": 29,
   "stories": [
+    {
+      "title": "Syria’s Northeast Elections Ignite Debate Over Kurdish and Christian Representation",
+      "source": "Syrian Observer",
+      "url": "https://syrianobserver.com/syrian-actors/syrias-northeast-elections-ignite-debate-over-kurdish-and-christian-representation.html",
+      "published_date": "2026-05-25T21:00:06+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Syria in the New CENTCOM Doctrine: Damascus Moves Into the U.S. Security Architecture",
       "source": "Syrian Observer",
@@ -39,18 +46,11 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Croatian president rejects new Israeli ambassador",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/18/croatian-president-rejects-new-israeli-ambassador?traffic_source=rss",
-      "published_date": "2026-05-18T21:03:49+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "EU Removes Syrian Defense and Interior Ministries from Sanctions Lists",
+      "title": "Official Warnings Issued in Raqqa and Deir ez-Zor as Euphrates Water Levels Surge",
       "source": "Syrian Observer",
-      "url": "https://syrianobserver.com/foreign-actors/eu-removes-syrian-defense-and-interior-ministries-from-sanctions-lists.html",
-      "published_date": "2026-05-18T21:00:29+00:00",
-      "category": "Diplomacy"
+      "url": "https://syrianobserver.com/syrian-actors/official-warnings-issued-in-raqqa-and-deir-ez-zor-as-euphrates-water-levels-surge.html",
+      "published_date": "2026-05-25T21:00:37+00:00",
+      "category": "Military"
     },
     {
       "title": "Turkish Intelligence Chief Visits Damascus, Meets President Sharaa",
@@ -123,11 +123,11 @@
       "category": "Military"
     },
     {
-      "title": "Will Cuba be forced to accept the US president’s demands?",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/inside-story/2026/5/18/will-cuba-be-forced-to-accept-the-us-presidents-demands?traffic_source=rss",
-      "published_date": "2026-05-18T21:02:22+00:00",
-      "category": "Military"
+      "title": "Influence Networks in Syria’s New Order: How the Badawi Family Rose to Dominate Key Economic Files",
+      "source": "Syrian Observer",
+      "url": "https://syrianobserver.com/society/influence-networks-in-syrias-new-order-how-the-badawi-family-rose-to-dominate-key-economic-files.html",
+      "published_date": "2026-05-25T21:00:41+00:00",
+      "category": "Economy"
     },
     {
       "title": "Three Strategies to Ease the Pain of Economic Reform in Syria",
@@ -149,6 +149,13 @@
       "url": "https://syrianobserver.com/society/how-does-the-2026-wheat-pricing-threaten-food-security-in-syria.html",
       "published_date": "2026-05-19T21:00:16+00:00",
       "category": "Economy"
+    },
+    {
+      "title": "A Promising Start, Fading Momentum: One Year On, Has Syria’s Transitional Justice Commission Already Failed?",
+      "source": "Syrian Observer",
+      "url": "https://syrianobserver.com/syrian-actors/a-promising-start-fading-momentum-one-year-on-has-syrias-transitional-justice-commission-already-failed.html",
+      "published_date": "2026-05-25T21:00:03+00:00",
+      "category": "Local Events"
     },
     {
       "title": "The Waste Crisis in Eastern Aleppo Deepens: Daily Burning, Thick Smoke, and Rising Health Fears",
@@ -197,13 +204,6 @@
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/features/2026/5/19/lebanon-and-syria-reshape-ties-amid-israeli-attacks-and-regional-shifts?traffic_source=rss",
       "published_date": "2026-05-19T07:38:32+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Sharaa: Syria Advancing Health Security, Aiming to Close Displacement Camps by 2027",
-      "source": "Syrian Observer",
-      "url": "https://syrianobserver.com/society/sharaa-syria-advancing-health-security-aiming-to-close-displacement-camps-by-2027.html",
-      "published_date": "2026-05-18T21:00:26+00:00",
       "category": "Local Events"
     }
   ]
