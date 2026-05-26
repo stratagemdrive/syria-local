@@ -1,6 +1,6 @@
 {
   "country": "Syria",
-  "last_updated": "2026-05-25T23:53:35.680510+00:00",
+  "last_updated": "2026-05-26T13:50:40.092883+00:00",
   "story_count": 29,
   "stories": [
     {
@@ -44,6 +44,20 @@
       "url": "https://www.aljazeera.com/news/2026/5/19/us-imposes-sanctions-on-gaza-flotilla-organisers-amid-israeli-crackdown?traffic_source=rss",
       "published_date": "2026-05-19T17:36:16+00:00",
       "category": "Diplomacy"
+    },
+    {
+      "title": "Israel’s occupation of Gaza, Lebanon, Syria extends beyond what maps show",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/5/26/israels-occupation-of-gaza-lebanon-syria-extends-beyond-what-maps-show?traffic_source=rss",
+      "published_date": "2026-05-26T13:26:40+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Group of women and children linked to Islamic State land in Melbourne and Sydney with no arrests",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/australia-news/2026/may/26/group-women-children-linked-to-islamic-state-arriving-australia-ntwnfb",
+      "published_date": "2026-05-26T10:45:52+00:00",
+      "category": "Military"
     },
     {
       "title": "Official Warnings Issued in Raqqa and Deir ez-Zor as Euphrates Water Levels Surge",
@@ -113,13 +127,6 @@
       "source": "Syrian Observer",
       "url": "https://syrianobserver.com/security/car-bomb-explodes-near-ministry-of-defense-building-in-damascus.html",
       "published_date": "2026-05-19T21:00:02+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Suspected car bomb explodes in Syrian capital Damascus",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/19/suspected-car-bomb-explodes-in-syrian-capital-damascus?traffic_source=rss",
-      "published_date": "2026-05-19T12:57:56+00:00",
       "category": "Military"
     },
     {
@@ -197,13 +204,6 @@
       "source": "Syrian Observer",
       "url": "https://syrianobserver.com/syrian-actors/from-kobani-to-afrin-hundreds-of-displaced-families-begin-their-journey-home.html",
       "published_date": "2026-05-19T21:00:53+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Lebanon and Syria reshape ties amid Israeli attacks and regional shifts",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/features/2026/5/19/lebanon-and-syria-reshape-ties-amid-israeli-attacks-and-regional-shifts?traffic_source=rss",
-      "published_date": "2026-05-19T07:38:32+00:00",
       "category": "Local Events"
     }
   ]
