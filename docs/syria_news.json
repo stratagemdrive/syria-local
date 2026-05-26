@@ -1,8 +1,15 @@
 {
   "country": "Syria",
-  "last_updated": "2026-05-26T13:50:40.092883+00:00",
-  "story_count": 29,
+  "last_updated": "2026-05-26T23:54:53.186572+00:00",
+  "story_count": 28,
   "stories": [
+    {
+      "title": "The New Syria: An Impossible Survival Strategy in the Age of Economic Corridors",
+      "source": "Syrian Observer",
+      "url": "https://syrianobserver.com/foreign-actors/the-new-syria-an-impossible-survival-strategy-in-the-age-of-economic-corridors.html",
+      "published_date": "2026-05-26T17:49:20+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Syria’s Northeast Elections Ignite Debate Over Kurdish and Christian Representation",
       "source": "Syrian Observer",
@@ -39,11 +46,25 @@
       "category": "Diplomacy"
     },
     {
-      "title": "US imposes sanctions on Gaza flotilla organisers amid Israeli crackdown",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/19/us-imposes-sanctions-on-gaza-flotilla-organisers-amid-israeli-crackdown?traffic_source=rss",
-      "published_date": "2026-05-19T17:36:16+00:00",
-      "category": "Diplomacy"
+      "title": "Syrian Refugee Sentenced to One Year in Dutch Prison for Promoting ISIS",
+      "source": "Syrian Observer",
+      "url": "https://syrianobserver.com/refugees/syrian-refugee-sentenced-to-one-year-in-dutch-prison-for-promoting-isis.html",
+      "published_date": "2026-05-26T21:00:06+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "White earth: Soil salinization threatens farming in Raqqa’s Euphrates river basin",
+      "source": "Syria Direct",
+      "url": "https://syriadirect.org/white-earth-soil-salinization-threatens-farming-in-raqqas-euphrates-river-basin/",
+      "published_date": "2026-05-26T17:55:28+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Rights group accuses UAE of being transit point for mercenaries on way to Sudan",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c1422nrgm1jo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-05-26T14:37:24+00:00",
+      "category": "Military"
     },
     {
       "title": "Israel’s occupation of Gaza, Lebanon, Syria extends beyond what maps show",
@@ -123,13 +144,6 @@
       "category": "Military"
     },
     {
-      "title": "Car Bomb Explodes Near Ministry of Defense Building in Damascus",
-      "source": "Syrian Observer",
-      "url": "https://syrianobserver.com/security/car-bomb-explodes-near-ministry-of-defense-building-in-damascus.html",
-      "published_date": "2026-05-19T21:00:02+00:00",
-      "category": "Military"
-    },
-    {
       "title": "Influence Networks in Syria’s New Order: How the Badawi Family Rose to Dominate Key Economic Files",
       "source": "Syrian Observer",
       "url": "https://syrianobserver.com/society/influence-networks-in-syrias-new-order-how-the-badawi-family-rose-to-dominate-key-economic-files.html",
@@ -151,11 +165,11 @@
       "category": "Economy"
     },
     {
-      "title": "How Does the 2026 Wheat Pricing Threaten Food Security in Syria?",
+      "title": "On a Syria That Emerged from Tyranny Without Entering the State",
       "source": "Syrian Observer",
-      "url": "https://syrianobserver.com/society/how-does-the-2026-wheat-pricing-threaten-food-security-in-syria.html",
-      "published_date": "2026-05-19T21:00:16+00:00",
-      "category": "Economy"
+      "url": "https://syrianobserver.com/syrian-actors/on-a-syria-that-emerged-from-tyranny-without-entering-the-state.html",
+      "published_date": "2026-05-26T21:01:04+00:00",
+      "category": "Local Events"
     },
     {
       "title": "A Promising Start, Fading Momentum: One Year On, Has Syria’s Transitional Justice Commission Already Failed?",
@@ -183,27 +197,6 @@
       "source": "Syrian Observer",
       "url": "https://syrianobserver.com/syrian-actors/druze-leader-hikmat-al-hijri-demands-accountability-from-damascus-declares-suweidas-demands-non-negotiable.html",
       "published_date": "2026-05-21T21:00:54+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "NAACP urges athletes to boycott southern US universities over voting rights",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/19/naacp-urges-athletes-to-boycott-southern-us-universities-over-voting-rights?traffic_source=rss",
-      "published_date": "2026-05-19T21:09:01+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Atef Najib Is on Trial. So Is the Revolutionary Narrative",
-      "source": "Syrian Observer",
-      "url": "https://syrianobserver.com/syrian-actors/atef-najib-is-on-trial-so-is-the-revolutionary-narrative.html",
-      "published_date": "2026-05-19T21:00:56+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "From Kobani to Afrin: Hundreds of Displaced Families Begin Their Journey Home",
-      "source": "Syrian Observer",
-      "url": "https://syrianobserver.com/syrian-actors/from-kobani-to-afrin-hundreds-of-displaced-families-begin-their-journey-home.html",
-      "published_date": "2026-05-19T21:00:53+00:00",
       "category": "Local Events"
     }
   ]
