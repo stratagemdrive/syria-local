@@ -1,7 +1,7 @@
 {
   "country": "Syria",
-  "last_updated": "2026-05-27T14:23:25.437215+00:00",
-  "story_count": 30,
+  "last_updated": "2026-05-27T23:52:54.775411+00:00",
+  "story_count": 28,
   "stories": [
     {
       "title": "The New Syria: An Impossible Survival Strategy in the Age of Economic Corridors",
@@ -44,6 +44,13 @@
       "url": "https://syrianobserver.com/syrian-actors/president-sharaa-expected-to-attend-g7-summit-in-france-sources-tell-reuters.html",
       "published_date": "2026-05-21T21:01:45+00:00",
       "category": "Diplomacy"
+    },
+    {
+      "title": "Family mourn ‘Hamas leader’ killed in Israeli attack",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/27/family-mourn-hamas-leader-killed-in-israeli-attack?traffic_source=rss",
+      "published_date": "2026-05-27T14:48:09+00:00",
+      "category": "Military"
     },
     {
       "title": "Israeli strike in Gaza City kills new head of Hamas's military wing",
@@ -127,27 +134,6 @@
       "source": "Syrian Observer",
       "url": "https://syrianobserver.com/foreign-actors/syrias-permanent-representative-joins-opcw-panel-on-chemical-weapons-accountability-and-program-eradication.html",
       "published_date": "2026-05-21T21:00:55+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Field Escalation in Quneitra: Israeli Forces Arrest Two Young Men, Conduct Broad Search Operations",
-      "source": "Syrian Observer",
-      "url": "https://syrianobserver.com/foreign-actors/field-escalation-in-quneitra-israeli-forces-arrest-two-young-men-conduct-broad-search-operations.html",
-      "published_date": "2026-05-20T21:00:23+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "In First Foreign Deployment, Syrian Army Joins EFES 2026 Drills in Turkey",
-      "source": "Syrian Observer",
-      "url": "https://syrianobserver.com/security/in-first-foreign-deployment-syrian-army-joins-efes-2026-drills-in-turkey.html",
-      "published_date": "2026-05-20T21:00:13+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Uyghur Fighters in Syria: An Exile Transformed Into a Jihadist Front",
-      "source": "Syrian Observer",
-      "url": "https://syrianobserver.com/syrian-actors/uyghur-fighters-in-syria-an-exile-transformed-into-a-jihadist-front.html",
-      "published_date": "2026-05-20T21:00:04+00:00",
       "category": "Military"
     },
     {
