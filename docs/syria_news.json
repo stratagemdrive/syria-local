@@ -1,7 +1,7 @@
 {
   "country": "Syria",
-  "last_updated": "2026-05-26T23:54:53.186572+00:00",
-  "story_count": 28,
+  "last_updated": "2026-05-27T14:23:25.437215+00:00",
+  "story_count": 30,
   "stories": [
     {
       "title": "The New Syria: An Impossible Survival Strategy in the Age of Economic Corridors",
@@ -44,6 +44,13 @@
       "url": "https://syrianobserver.com/syrian-actors/president-sharaa-expected-to-attend-g7-summit-in-france-sources-tell-reuters.html",
       "published_date": "2026-05-21T21:01:45+00:00",
       "category": "Diplomacy"
+    },
+    {
+      "title": "Israeli strike in Gaza City kills new head of Hamas's military wing",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cjwppj1yn7go?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-05-27T13:15:26+00:00",
+      "category": "Military"
     },
     {
       "title": "Syrian Refugee Sentenced to One Year in Dutch Prison for Promoting ISIS",
@@ -142,6 +149,13 @@
       "url": "https://syrianobserver.com/syrian-actors/uyghur-fighters-in-syria-an-exile-transformed-into-a-jihadist-front.html",
       "published_date": "2026-05-20T21:00:04+00:00",
       "category": "Military"
+    },
+    {
+      "title": "Nigeria’s Eid Crisis: When a ram becomes a luxury",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/27/nigerias-eid-crisis-when-a-ram-becomes-a-luxury?traffic_source=rss",
+      "published_date": "2026-05-27T13:17:01+00:00",
+      "category": "Economy"
     },
     {
       "title": "Influence Networks in Syria’s New Order: How the Badawi Family Rose to Dominate Key Economic Files",
