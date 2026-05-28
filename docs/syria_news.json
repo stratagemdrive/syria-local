@@ -1,8 +1,29 @@
 {
   "country": "Syria",
-  "last_updated": "2026-05-28T14:33:45.545533+00:00",
-  "story_count": 28,
+  "last_updated": "2026-05-28T23:59:32.928755+00:00",
+  "story_count": 26,
   "stories": [
+    {
+      "title": "Iran ambassador hits out at ‘country to the north’ in US World Cup visa row",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/sports/2026/5/28/iran-ambassador-hits-out-at-country-to-the-north-in-us-world-cup-visa-row?traffic_source=rss",
+      "published_date": "2026-05-28T23:18:19+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "EU sanctions ‘extremist’ Israeli settlers in occupied West Bank",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/5/28/eu-imposes-sanctions-on-extremist-israeli-settlers-in-occupied-west-bank?traffic_source=rss",
+      "published_date": "2026-05-28T20:31:05+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "UN ‘adds Israel to blacklist’ for conflict-related sexual violence",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/5/28/un-adds-israel-to-blacklist-for-sexual-violence-in-war-zones?traffic_source=rss",
+      "published_date": "2026-05-28T17:16:21+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "The New Syria: An Impossible Survival Strategy in the Age of Economic Corridors",
       "source": "Syrian Observer",
@@ -29,20 +50,6 @@
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/news/2026/5/23/israel-attacks-southern-lebanon-and-near-syrian-border-despite-ceasefire?traffic_source=rss",
       "published_date": "2026-05-23T09:30:24+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Board of Peace envoy warns ‘permanent’ Gaza divide under current status quo",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/21/board-of-peace-envoy-warns-permanent-gaza-divide-under-current-status-quo?traffic_source=rss",
-      "published_date": "2026-05-21T21:10:02+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "President Sharaa Expected to Attend G7 Summit in France, Sources Tell Reuters",
-      "source": "Syrian Observer",
-      "url": "https://syrianobserver.com/syrian-actors/president-sharaa-expected-to-attend-g7-summit-in-france-sources-tell-reuters.html",
-      "published_date": "2026-05-21T21:01:45+00:00",
       "category": "Diplomacy"
     },
     {
@@ -130,13 +137,6 @@
       "category": "Military"
     },
     {
-      "title": "Syria’s Permanent Representative Joins OPCW Panel on Chemical Weapons Accountability and Program Eradication",
-      "source": "Syrian Observer",
-      "url": "https://syrianobserver.com/foreign-actors/syrias-permanent-representative-joins-opcw-panel-on-chemical-weapons-accountability-and-program-eradication.html",
-      "published_date": "2026-05-21T21:00:55+00:00",
-      "category": "Military"
-    },
-    {
       "title": "Nigeria’s Eid Crisis: When a ram becomes a luxury",
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/5/27/nigerias-eid-crisis-when-a-ram-becomes-a-luxury?traffic_source=rss",
@@ -155,13 +155,6 @@
       "source": "Syrian Observer",
       "url": "https://syrianobserver.com/society/three-strategies-to-ease-the-pain-of-economic-reform-in-syria.html",
       "published_date": "2026-05-24T21:00:58+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Abundant Harvest, Shocking Prices: Anger Among Hassakeh Farmers Threatens the Future of Syrian Wheat",
-      "source": "Syrian Observer",
-      "url": "https://syrianobserver.com/society/abundant-harvest-shocking-prices-anger-among-hassakeh-farmers-threatens-the-future-of-syrian-wheat.html",
-      "published_date": "2026-05-21T21:00:06+00:00",
       "category": "Economy"
     },
     {
@@ -190,13 +183,6 @@
       "source": "The Guardian",
       "url": "https://www.theguardian.com/australia-news/2026/may/22/last-australian-women-children-is-linked-islamic-state-leave-syria-ntwnfb",
       "published_date": "2026-05-22T00:56:16+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Druze Leader Hikmat Al-Hijri Demands Accountability from Damascus, Declares Suweida’s Demands Non-Negotiable",
-      "source": "Syrian Observer",
-      "url": "https://syrianobserver.com/syrian-actors/druze-leader-hikmat-al-hijri-demands-accountability-from-damascus-declares-suweidas-demands-non-negotiable.html",
-      "published_date": "2026-05-21T21:00:54+00:00",
       "category": "Local Events"
     }
   ]
