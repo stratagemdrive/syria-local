@@ -1,8 +1,15 @@
 {
   "country": "Syria",
-  "last_updated": "2026-05-29T23:59:27.844097+00:00",
+  "last_updated": "2026-05-30T12:02:16.193349+00:00",
   "story_count": 28,
   "stories": [
+    {
+      "title": "Rubio says Trump envoy Barrack to step down from Syria post",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/5/30/rubio-says-trump-envoy-barrack-to-step-down-from-syria-post?traffic_source=rss",
+      "published_date": "2026-05-30T10:34:54+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Netanyahu says he has directed IDF to increase control of Gaza to 70%",
       "source": "BBC News",
@@ -50,13 +57,6 @@
       "source": "Syrian Observer",
       "url": "https://syrianobserver.com/foreign-actors/syria-in-the-new-centcom-doctrine-damascus-moves-into-the-u-s-security-architecture.html",
       "published_date": "2026-05-24T21:00:47+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Israel attacks southern Lebanon and near Syrian border despite ‘ceasefire’",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/23/israel-attacks-southern-lebanon-and-near-syrian-border-despite-ceasefire?traffic_source=rss",
-      "published_date": "2026-05-23T09:30:24+00:00",
       "category": "Diplomacy"
     },
     {
