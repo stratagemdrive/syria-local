@@ -1,7 +1,7 @@
 {
   "country": "Syria",
-  "last_updated": "2026-05-30T23:48:59.194467+00:00",
-  "story_count": 28,
+  "last_updated": "2026-05-31T12:07:31.596899+00:00",
+  "story_count": 30,
   "stories": [
     {
       "title": "Rubio says Trump envoy Barrack to step down from Syria post",
@@ -58,6 +58,13 @@
       "url": "https://syrianobserver.com/foreign-actors/syria-in-the-new-centcom-doctrine-damascus-moves-into-the-u-s-security-architecture.html",
       "published_date": "2026-05-24T21:00:47+00:00",
       "category": "Diplomacy"
+    },
+    {
+      "title": "Rescues in eastern Syria after the Euphrates River bursts its banks",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/31/rescues-in-eastern-syria-after-the-euphrates-river-bursts-its-banks?traffic_source=rss",
+      "published_date": "2026-05-31T00:27:27+00:00",
+      "category": "Military"
     },
     {
       "title": "Floods in Syria: Euphrates River bursts banks, forcing farmers to flee",
@@ -177,6 +184,13 @@
       "url": "https://syrianobserver.com/society/three-strategies-to-ease-the-pain-of-economic-reform-in-syria.html",
       "published_date": "2026-05-24T21:00:58+00:00",
       "category": "Economy"
+    },
+    {
+      "title": "Missing Syrian chess champion’s children likely dead, authorities say",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/5/31/missing-syrian-chess-champions-children-likely-dead-authorities-say?traffic_source=rss",
+      "published_date": "2026-05-31T07:22:02+00:00",
+      "category": "Local Events"
     },
     {
       "title": "On a Syria That Emerged from Tyranny Without Entering the State",
