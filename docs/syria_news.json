@@ -1,8 +1,15 @@
 {
   "country": "Syria",
-  "last_updated": "2026-05-31T12:07:31.596899+00:00",
-  "story_count": 30,
+  "last_updated": "2026-05-31T23:53:08.295294+00:00",
+  "story_count": 29,
   "stories": [
+    {
+      "title": "Trump Announces Barrack’s Appointment as Special Envoy to Syria and Iraq",
+      "source": "Syrian Observer",
+      "url": "https://syrianobserver.com/foreign-actors/trump-announces-barracks-appointment-as-special-envoy-to-syria-and-iraq.html",
+      "published_date": "2026-05-31T21:00:17+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Rubio says Trump envoy Barrack to step down from Syria post",
       "source": "Al Jazeera",
@@ -53,11 +60,11 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Syria in the New CENTCOM Doctrine: Damascus Moves Into the U.S. Security Architecture",
+      "title": "Water Stations Reactivated in Raqqa and Rehabilitation Works Resume as Euphrates Levels Recede",
       "source": "Syrian Observer",
-      "url": "https://syrianobserver.com/foreign-actors/syria-in-the-new-centcom-doctrine-damascus-moves-into-the-u-s-security-architecture.html",
-      "published_date": "2026-05-24T21:00:47+00:00",
-      "category": "Diplomacy"
+      "url": "https://syrianobserver.com/society/water-stations-reactivated-in-raqqa-and-rehabilitation-works-resume-as-euphrates-levels-recede.html",
+      "published_date": "2026-05-31T21:00:14+00:00",
+      "category": "Military"
     },
     {
       "title": "Rescues in eastern Syria after the Euphrates River bursts its banks",
@@ -151,20 +158,6 @@
       "category": "Military"
     },
     {
-      "title": "Turkish Intelligence Chief Visits Damascus, Meets President Sharaa",
-      "source": "Syrian Observer",
-      "url": "https://syrianobserver.com/foreign-actors/turkish-intelligence-chief-visits-damascus-meets-president-sharaa.html",
-      "published_date": "2026-05-24T21:00:32+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Syrian-Turkish Intelligence Operation Arrests 10 Turkish ISIS Members",
-      "source": "Syrian Observer",
-      "url": "https://syrianobserver.com/security/syrian-turkish-intelligence-operation-arrests-10-turkish-isis-members.html",
-      "published_date": "2026-05-24T21:00:27+00:00",
-      "category": "Military"
-    },
-    {
       "title": "Nigeria’s Eid Crisis: When a ram becomes a luxury",
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/5/27/nigerias-eid-crisis-when-a-ram-becomes-a-luxury?traffic_source=rss",
@@ -179,11 +172,18 @@
       "category": "Economy"
     },
     {
-      "title": "Three Strategies to Ease the Pain of Economic Reform in Syria",
+      "title": "Tadamon Massacre Leaks Reach the Missing Persons Commission a Year After Its Founding — What Is Behind the Delay?",
       "source": "Syrian Observer",
-      "url": "https://syrianobserver.com/society/three-strategies-to-ease-the-pain-of-economic-reform-in-syria.html",
-      "published_date": "2026-05-24T21:00:58+00:00",
-      "category": "Economy"
+      "url": "https://syrianobserver.com/syrian-actors/tadamon-massacre-leaks-reach-the-missing-persons-commission-a-year-after-its-founding-what-is-behind-the-delay.html",
+      "published_date": "2026-05-31T21:00:03+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "As Ethiopia votes, its deepening human rights crisis must be addressed",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/opinions/2026/5/31/as-ethiopia-votes-its-deepening-human-rights-crisis-must-be-addressed?traffic_source=rss",
+      "published_date": "2026-05-31T20:28:50+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Missing Syrian chess champion’s children likely dead, authorities say",
@@ -204,13 +204,6 @@
       "source": "Syrian Observer",
       "url": "https://syrianobserver.com/syrian-actors/a-promising-start-fading-momentum-one-year-on-has-syrias-transitional-justice-commission-already-failed.html",
       "published_date": "2026-05-25T21:00:03+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "The Waste Crisis in Eastern Aleppo Deepens: Daily Burning, Thick Smoke, and Rising Health Fears",
-      "source": "Syrian Observer",
-      "url": "https://syrianobserver.com/society/the-waste-crisis-in-eastern-aleppo-deepens-daily-burning-thick-smoke-and-rising-health-fears.html",
-      "published_date": "2026-05-24T21:00:14+00:00",
       "category": "Local Events"
     }
   ]
