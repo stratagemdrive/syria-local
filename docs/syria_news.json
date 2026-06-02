@@ -1,7 +1,7 @@
 {
   "country": "Syria",
-  "last_updated": "2026-06-01T16:33:30.067767+00:00",
-  "story_count": 32,
+  "last_updated": "2026-06-02T00:03:37.091714+00:00",
+  "story_count": 31,
   "stories": [
     {
       "title": "Trump Announces Barrack’s Appointment as Special Envoy to Syria and Iraq",
@@ -50,13 +50,6 @@
       "source": "Syrian Observer",
       "url": "https://syrianobserver.com/foreign-actors/the-new-syria-an-impossible-survival-strategy-in-the-age-of-economic-corridors.html",
       "published_date": "2026-05-26T17:49:20+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Syria’s Northeast Elections Ignite Debate Over Kurdish and Christian Representation",
-      "source": "Syrian Observer",
-      "url": "https://syrianobserver.com/syrian-actors/syrias-northeast-elections-ignite-debate-over-kurdish-and-christian-representation.html",
-      "published_date": "2026-05-25T21:00:06+00:00",
       "category": "Diplomacy"
     },
     {
@@ -172,11 +165,11 @@
       "category": "Military"
     },
     {
-      "title": "Official Warnings Issued in Raqqa and Deir ez-Zor as Euphrates Water Levels Surge",
+      "title": "Sharaa Tells Trump Remaining Sanctions Must Be Lifted to Revive Syria’s Economy",
       "source": "Syrian Observer",
-      "url": "https://syrianobserver.com/syrian-actors/official-warnings-issued-in-raqqa-and-deir-ez-zor-as-euphrates-water-levels-surge.html",
-      "published_date": "2026-05-25T21:00:37+00:00",
-      "category": "Military"
+      "url": "https://syrianobserver.com/foreign-actors/sharaa-tells-trump-remaining-sanctions-must-be-lifted-to-revive-syrias-economy.html",
+      "published_date": "2026-06-01T21:00:52+00:00",
+      "category": "Economy"
     },
     {
       "title": "Nigeria’s Eid Crisis: When a ram becomes a luxury",
@@ -186,11 +179,18 @@
       "category": "Economy"
     },
     {
-      "title": "Influence Networks in Syria’s New Order: How the Badawi Family Rose to Dominate Key Economic Files",
+      "title": "Syrian Refugee Says Dutch Police Assaulted Her While She Was Nine Months Pregnant",
       "source": "Syrian Observer",
-      "url": "https://syrianobserver.com/society/influence-networks-in-syrias-new-order-how-the-badawi-family-rose-to-dominate-key-economic-files.html",
-      "published_date": "2026-05-25T21:00:41+00:00",
-      "category": "Economy"
+      "url": "https://syrianobserver.com/refugees/syrian-refugee-says-dutch-police-assaulted-her-while-she-was-nine-months-pregnant.html",
+      "published_date": "2026-06-01T21:00:50+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Homs at the Centre as Sectarian-Motivated Killings Rise Across Syria",
+      "source": "Syrian Observer",
+      "url": "https://syrianobserver.com/syrian-actors/homs-at-the-centre-as-sectarian-motivated-killings-rise-across-syria.html",
+      "published_date": "2026-06-01T21:00:28+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Tadamon Massacre Leaks Reach the Missing Persons Commission a Year After Its Founding — What Is Behind the Delay?",
@@ -218,13 +218,6 @@
       "source": "Syrian Observer",
       "url": "https://syrianobserver.com/syrian-actors/on-a-syria-that-emerged-from-tyranny-without-entering-the-state.html",
       "published_date": "2026-05-26T21:01:04+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "A Promising Start, Fading Momentum: One Year On, Has Syria’s Transitional Justice Commission Already Failed?",
-      "source": "Syrian Observer",
-      "url": "https://syrianobserver.com/syrian-actors/a-promising-start-fading-momentum-one-year-on-has-syrias-transitional-justice-commission-already-failed.html",
-      "published_date": "2026-05-25T21:00:03+00:00",
       "category": "Local Events"
     }
   ]
