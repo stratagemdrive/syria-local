@@ -1,8 +1,15 @@
 {
   "country": "Syria",
-  "last_updated": "2026-06-02T14:46:44.535647+00:00",
+  "last_updated": "2026-06-03T00:21:36.421783+00:00",
   "story_count": 28,
   "stories": [
+    {
+      "title": "Egyptian Reservations Delay Confirmation of New Syrian Ambassador in Cairo",
+      "source": "Syrian Observer",
+      "url": "https://syrianobserver.com/foreign-actors/egyptian-reservations-delay-confirmation-of-new-syrian-ambassador-in-cairo.html",
+      "published_date": "2026-06-02T21:00:16+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Trump Announces Barrack’s Appointment as Special Envoy to Syria and Iraq",
       "source": "Syrian Observer",
@@ -46,11 +53,11 @@
       "category": "Diplomacy"
     },
     {
-      "title": "The New Syria: An Impossible Survival Strategy in the Age of Economic Corridors",
+      "title": "Russia Reasserts Its Syrian Foothold With First Post-Assad Resupply Run: WSJ",
       "source": "Syrian Observer",
-      "url": "https://syrianobserver.com/foreign-actors/the-new-syria-an-impossible-survival-strategy-in-the-age-of-economic-corridors.html",
-      "published_date": "2026-05-26T17:49:20+00:00",
-      "category": "Diplomacy"
+      "url": "https://syrianobserver.com/foreign-actors/russia-reasserts-its-syrian-foothold-with-first-post-assad-resupply-run-wsj.html",
+      "published_date": "2026-06-02T21:00:34+00:00",
+      "category": "Military"
     },
     {
       "title": "The Guest review – the risks of protecting refugees in the Poland-Belarus danger zone",
@@ -130,18 +137,11 @@
       "category": "Military"
     },
     {
-      "title": "Syrian Refugee Sentenced to One Year in Dutch Prison for Promoting ISIS",
+      "title": "Syrian National Private Sector Conference Opens in Damascus, Signaling a New Economic Vision",
       "source": "Syrian Observer",
-      "url": "https://syrianobserver.com/refugees/syrian-refugee-sentenced-to-one-year-in-dutch-prison-for-promoting-isis.html",
-      "published_date": "2026-05-26T21:00:06+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "White earth: Soil salinization threatens farming in Raqqa’s Euphrates river basin",
-      "source": "Syria Direct",
-      "url": "https://syriadirect.org/white-earth-soil-salinization-threatens-farming-in-raqqas-euphrates-river-basin/",
-      "published_date": "2026-05-26T17:55:28+00:00",
-      "category": "Military"
+      "url": "https://syrianobserver.com/society/syrian-national-private-sector-conference-opens-in-damascus-signaling-a-new-economic-vision.html",
+      "published_date": "2026-06-02T21:00:00+00:00",
+      "category": "Economy"
     },
     {
       "title": "Sharaa Tells Trump Remaining Sanctions Must Be Lifted to Revive Syria’s Economy",
@@ -156,6 +156,13 @@
       "url": "https://www.aljazeera.com/video/newsfeed/2026/5/27/nigerias-eid-crisis-when-a-ram-becomes-a-luxury?traffic_source=rss",
       "published_date": "2026-05-27T13:17:01+00:00",
       "category": "Economy"
+    },
+    {
+      "title": "Rania al‑Abbasi’s children: The truth revealed",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/2/rania-al%e2%80%91abbasis-children-the-truth-revealed?traffic_source=rss",
+      "published_date": "2026-06-02T23:35:37+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Syrian Refugee Says Dutch Police Assaulted Her While She Was Nine Months Pregnant",
@@ -190,13 +197,6 @@
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/news/2026/5/31/missing-syrian-chess-champions-children-likely-dead-authorities-say?traffic_source=rss",
       "published_date": "2026-05-31T07:22:02+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "On a Syria That Emerged from Tyranny Without Entering the State",
-      "source": "Syrian Observer",
-      "url": "https://syrianobserver.com/syrian-actors/on-a-syria-that-emerged-from-tyranny-without-entering-the-state.html",
-      "published_date": "2026-05-26T21:01:04+00:00",
       "category": "Local Events"
     }
   ]
