@@ -1,7 +1,7 @@
 {
   "country": "Syria",
-  "last_updated": "2026-06-03T00:21:36.421783+00:00",
-  "story_count": 28,
+  "last_updated": "2026-06-03T15:24:58.762551+00:00",
+  "story_count": 26,
   "stories": [
     {
       "title": "Egyptian Reservations Delay Confirmation of New Syrian Ambassador in Cairo",
@@ -51,6 +51,13 @@
       "url": "https://www.aljazeera.com/news/2026/5/28/un-adds-israel-to-blacklist-for-sexual-violence-in-war-zones?traffic_source=rss",
       "published_date": "2026-05-28T17:16:21+00:00",
       "category": "Diplomacy"
+    },
+    {
+      "title": "Pro-Palestine US army veteran Adam Hamawy wins New Jersey primary",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/3/pro-palestine-us-army-veteran-adam-hamawy-wins-new-jersey-primary?traffic_source=rss",
+      "published_date": "2026-06-03T14:59:47+00:00",
+      "category": "Military"
     },
     {
       "title": "Russia Reasserts Its Syrian Foothold With First Post-Assad Resupply Run: WSJ",
@@ -123,20 +130,6 @@
       "category": "Military"
     },
     {
-      "title": "Family mourn ‘Hamas leader’ killed in Israeli attack",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/27/family-mourn-hamas-leader-killed-in-israeli-attack?traffic_source=rss",
-      "published_date": "2026-05-27T14:48:09+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Israeli strike in Gaza City kills new head of Hamas's military wing",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cjwppj1yn7go?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-05-27T13:15:26+00:00",
-      "category": "Military"
-    },
-    {
       "title": "Syrian National Private Sector Conference Opens in Damascus, Signaling a New Economic Vision",
       "source": "Syrian Observer",
       "url": "https://syrianobserver.com/society/syrian-national-private-sector-conference-opens-in-damascus-signaling-a-new-economic-vision.html",
@@ -148,13 +141,6 @@
       "source": "Syrian Observer",
       "url": "https://syrianobserver.com/foreign-actors/sharaa-tells-trump-remaining-sanctions-must-be-lifted-to-revive-syrias-economy.html",
       "published_date": "2026-06-01T21:00:52+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Nigeria’s Eid Crisis: When a ram becomes a luxury",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/27/nigerias-eid-crisis-when-a-ram-becomes-a-luxury?traffic_source=rss",
-      "published_date": "2026-05-27T13:17:01+00:00",
       "category": "Economy"
     },
     {
