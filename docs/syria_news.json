@@ -1,7 +1,7 @@
 {
   "country": "Syria",
-  "last_updated": "2026-06-03T15:24:58.762551+00:00",
-  "story_count": 26,
+  "last_updated": "2026-06-04T00:23:18.579727+00:00",
+  "story_count": 29,
   "stories": [
     {
       "title": "Egyptian Reservations Delay Confirmation of New Syrian Ambassador in Cairo",
@@ -51,6 +51,20 @@
       "url": "https://www.aljazeera.com/news/2026/5/28/un-adds-israel-to-blacklist-for-sexual-violence-in-war-zones?traffic_source=rss",
       "published_date": "2026-05-28T17:16:21+00:00",
       "category": "Diplomacy"
+    },
+    {
+      "title": "Syria Welcomes Sweden and European Nations to Gather Evidence of War Crimes Under Deposed Regime",
+      "source": "Syrian Observer",
+      "url": "https://syrianobserver.com/syrian-actors/syria-welcomes-sweden-and-european-nations-to-gather-evidence-of-war-crimes-under-deposed-regime.html",
+      "published_date": "2026-06-03T21:00:59+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "The Zakya Incident Reopens the File on Illicit Arms in Syria: Control Challenges and Civilian Fears",
+      "source": "Syrian Observer",
+      "url": "https://syrianobserver.com/syrian-actors/the-zakya-incident-reopens-the-file-on-illicit-arms-in-syria-control-challenges-and-civilian-fears.html",
+      "published_date": "2026-06-03T21:00:00+00:00",
+      "category": "Military"
     },
     {
       "title": "Pro-Palestine US army veteran Adam Hamawy wins New Jersey primary",
@@ -123,13 +137,6 @@
       "category": "Military"
     },
     {
-      "title": "Can Syria Successfully Prosecute 500 War Criminals Over the Next Five Years?",
-      "source": "Syrian Observer",
-      "url": "https://syrianobserver.com/syrian-actors/can-syria-successfully-prosecute-500-war-criminals-over-the-next-five-years.html",
-      "published_date": "2026-05-27T21:00:23+00:00",
-      "category": "Military"
-    },
-    {
       "title": "Syrian National Private Sector Conference Opens in Damascus, Signaling a New Economic Vision",
       "source": "Syrian Observer",
       "url": "https://syrianobserver.com/society/syrian-national-private-sector-conference-opens-in-damascus-signaling-a-new-economic-vision.html",
@@ -142,6 +149,20 @@
       "url": "https://syrianobserver.com/foreign-actors/sharaa-tells-trump-remaining-sanctions-must-be-lifted-to-revive-syrias-economy.html",
       "published_date": "2026-06-01T21:00:52+00:00",
       "category": "Economy"
+    },
+    {
+      "title": "Syria to Integrate 9,000 Asayish Fighters — Including 1,000 Women — into Hassakeh Security",
+      "source": "Syrian Observer",
+      "url": "https://syrianobserver.com/security/syria-to-integrate-9000-asayish-fighters-including-1000-women-into-hassakeh-security.html",
+      "published_date": "2026-06-03T21:00:44+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Syria’s Abbasi Case Puts Transitional Justice to Its Hardest Test",
+      "source": "Syrian Observer",
+      "url": "https://syrianobserver.com/syrian-actors/syrias-abbasi-case-puts-transitional-justice-to-its-hardest-test.html",
+      "published_date": "2026-06-03T21:00:32+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Rania al‑Abbasi’s children: The truth revealed",
