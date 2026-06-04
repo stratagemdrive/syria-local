@@ -1,8 +1,15 @@
 {
   "country": "Syria",
-  "last_updated": "2026-06-04T13:55:00.405573+00:00",
-  "story_count": 32,
+  "last_updated": "2026-06-04T23:57:56.189672+00:00",
+  "story_count": 30,
   "stories": [
+    {
+      "title": "Uzbek Militants Escalate Confrontation with Syria’s Transitional Government, Threaten Mass Resignations",
+      "source": "Syrian Observer",
+      "url": "https://syrianobserver.com/foreign-actors/uzbek-militants-escalate-confrontation-with-syrias-transitional-government-threaten-mass-resignations.html",
+      "published_date": "2026-06-04T21:00:56+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Who is Khalilur Rahman, Bangladesh FM who beat Cyprus to UNGA presidency?",
       "source": "Al Jazeera",
@@ -39,25 +46,11 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Iran ambassador hits out at ‘country to the north’ in US World Cup visa row",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/sports/2026/5/28/iran-ambassador-hits-out-at-country-to-the-north-in-us-world-cup-visa-row?traffic_source=rss",
-      "published_date": "2026-05-28T23:18:19+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "EU sanctions ‘extremist’ Israeli settlers in occupied West Bank",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/28/eu-imposes-sanctions-on-extremist-israeli-settlers-in-occupied-west-bank?traffic_source=rss",
-      "published_date": "2026-05-28T20:31:05+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "UN ‘adds Israel to blacklist’ for conflict-related sexual violence",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/28/un-adds-israel-to-blacklist-for-sexual-violence-in-war-zones?traffic_source=rss",
-      "published_date": "2026-05-28T17:16:21+00:00",
-      "category": "Diplomacy"
+      "title": "Israeli strikes kill 11 people in Gaza City, medics say",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cg5prr9gr1ro?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-06-04T17:50:20+00:00",
+      "category": "Military"
     },
     {
       "title": "Rights group sues South African government over US arms exports",
@@ -137,25 +130,11 @@
       "category": "Military"
     },
     {
-      "title": "Euphrates Flooding Triggers Emergency in Deir ez-Zor as Bridges Collapse and Communities Evacuate",
+      "title": "Syria Launches Wheat Procurement Season as Harvest Forecast Reaches 2.5 Million Tons",
       "source": "Syrian Observer",
-      "url": "https://syrianobserver.com/society/euphrates-flooding-triggers-emergency-in-deir-ez-zor-as-bridges-collapse-and-communities-evacuate.html",
-      "published_date": "2026-05-28T21:00:22+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Damascus Reports Major Breakthrough in Chemical Weapons Disposal; Washington Welcomes the Move",
-      "source": "Syrian Observer",
-      "url": "https://syrianobserver.com/foreign-actors/damascus-reports-major-breakthrough-in-chemical-weapons-disposal-washington-welcomes-the-move.html",
-      "published_date": "2026-05-28T21:00:06+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Gaza City hospitals say several killed in strike, as Israel targets Hamas leaders",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cn9p40en4ngo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-05-28T16:20:50+00:00",
-      "category": "Military"
+      "url": "https://syrianobserver.com/society/syria-launches-wheat-procurement-season-as-harvest-forecast-reaches-2-5-million-tons.html",
+      "published_date": "2026-06-04T21:00:07+00:00",
+      "category": "Economy"
     },
     {
       "title": "Syrian National Private Sector Conference Opens in Damascus, Signaling a New Economic Vision",
@@ -170,6 +149,13 @@
       "url": "https://syrianobserver.com/foreign-actors/sharaa-tells-trump-remaining-sanctions-must-be-lifted-to-revive-syrias-economy.html",
       "published_date": "2026-06-01T21:00:52+00:00",
       "category": "Economy"
+    },
+    {
+      "title": "The Euphrates Floods: A Political Crime, Not a Natural Disaster",
+      "source": "Syrian Observer",
+      "url": "https://syrianobserver.com/syrian-actors/the-euphrates-floods-a-political-crime-not-a-natural-disaster.html",
+      "published_date": "2026-06-04T21:00:46+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Syria to Integrate 9,000 Asayish Fighters — Including 1,000 Women — into Hassakeh Security",
