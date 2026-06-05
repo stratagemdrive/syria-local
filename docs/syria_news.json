@@ -1,7 +1,7 @@
 {
   "country": "Syria",
-  "last_updated": "2026-06-04T23:57:56.189672+00:00",
-  "story_count": 30,
+  "last_updated": "2026-06-05T13:50:21.330253+00:00",
+  "story_count": 32,
   "stories": [
     {
       "title": "Uzbek Militants Escalate Confrontation with Syria’s Transitional Government, Threaten Mass Resignations",
@@ -39,11 +39,18 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Netanyahu says he has directed IDF to increase control of Gaza to 70%",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/ceqpelq5reqo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-05-29T02:24:52+00:00",
-      "category": "Diplomacy"
+      "title": "Inside Syria’s fight against the Captagon trade",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/5/inside-syrias-fight-against-the-captagon-trade?traffic_source=rss",
+      "published_date": "2026-06-05T13:08:38+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Hamas says won’t surrender arms but only police will carry weapons in Gaza",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/6/5/hamas-says-wont-surrender-arms-but-only-police-will-carry-weapons-in-gaza?traffic_source=rss",
+      "published_date": "2026-06-05T11:38:03+00:00",
+      "category": "Military"
     },
     {
       "title": "Israeli strikes kill 11 people in Gaza City, medics say",
@@ -123,11 +130,11 @@
       "category": "Military"
     },
     {
-      "title": "Floods in Syria: Euphrates River bursts banks, forcing farmers to flee",
+      "title": "Strait of Hormuz oil crisis: An opportunity for Syria? • FRANCE 24 English",
       "source": "Syrian Observer",
-      "url": "https://syrianobserver.com/youtube/floods-in-syria-euphrates-river-bursts-banks-forcing-farmers-to-flee.html",
-      "published_date": "2026-05-29T09:19:13+00:00",
-      "category": "Military"
+      "url": "https://syrianobserver.com/youtube/strait-of-hormuz-oil-crisis-an-opportunity-for-syria-france-24-english.html",
+      "published_date": "2026-06-05T07:12:49+00:00",
+      "category": "Energy"
     },
     {
       "title": "Syria Launches Wheat Procurement Season as Harvest Forecast Reaches 2.5 Million Tons",
@@ -155,6 +162,13 @@
       "source": "Syrian Observer",
       "url": "https://syrianobserver.com/syrian-actors/the-euphrates-floods-a-political-crime-not-a-natural-disaster.html",
       "published_date": "2026-06-04T21:00:46+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Syria’s forgotten villages: Mount Hermon’s Druze between Damascus and the IDF",
+      "source": "Syria Direct",
+      "url": "https://syriadirect.org/syrias-forgotten-villages-mount-hermons-druze-between-damascus-and-the-idf/",
+      "published_date": "2026-06-04T14:56:22+00:00",
       "category": "Local Events"
     },
     {
