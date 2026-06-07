@@ -1,7 +1,7 @@
 {
   "country": "Syria",
-  "last_updated": "2026-06-07T12:18:06.633191+00:00",
-  "story_count": 32,
+  "last_updated": "2026-06-07T23:55:33.503994+00:00",
+  "story_count": 28,
   "stories": [
     {
       "title": "Iran criticizes US refusal to grant visas for World Cup delegation",
@@ -36,13 +36,6 @@
       "source": "Syrian Observer",
       "url": "https://syrianobserver.com/foreign-actors/egyptian-reservations-delay-confirmation-of-new-syrian-ambassador-in-cairo.html",
       "published_date": "2026-06-02T21:00:16+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Trump Announces Barrack’s Appointment as Special Envoy to Syria and Iraq",
-      "source": "Syrian Observer",
-      "url": "https://syrianobserver.com/foreign-actors/trump-announces-barracks-appointment-as-special-envoy-to-syria-and-iraq.html",
-      "published_date": "2026-05-31T21:00:17+00:00",
       "category": "Diplomacy"
     },
     {
@@ -130,13 +123,6 @@
       "category": "Military"
     },
     {
-      "title": "Water Stations Reactivated in Raqqa and Rehabilitation Works Resume as Euphrates Levels Recede",
-      "source": "Syrian Observer",
-      "url": "https://syrianobserver.com/society/water-stations-reactivated-in-raqqa-and-rehabilitation-works-resume-as-euphrates-levels-recede.html",
-      "published_date": "2026-05-31T21:00:14+00:00",
-      "category": "Military"
-    },
-    {
       "title": "Strait of Hormuz oil crisis: An opportunity for Syria? • FRANCE 24 English",
       "source": "Syrian Observer",
       "url": "https://syrianobserver.com/youtube/strait-of-hormuz-oil-crisis-an-opportunity-for-syria-france-24-english.html",
@@ -211,20 +197,6 @@
       "source": "Syrian Observer",
       "url": "https://syrianobserver.com/syrian-actors/homs-at-the-centre-as-sectarian-motivated-killings-rise-across-syria.html",
       "published_date": "2026-06-01T21:00:28+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Tadamon Massacre Leaks Reach the Missing Persons Commission a Year After Its Founding — What Is Behind the Delay?",
-      "source": "Syrian Observer",
-      "url": "https://syrianobserver.com/syrian-actors/tadamon-massacre-leaks-reach-the-missing-persons-commission-a-year-after-its-founding-what-is-behind-the-delay.html",
-      "published_date": "2026-05-31T21:00:03+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "As Ethiopia votes, its deepening human rights crisis must be addressed",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/opinions/2026/5/31/as-ethiopia-votes-its-deepening-human-rights-crisis-must-be-addressed?traffic_source=rss",
-      "published_date": "2026-05-31T20:28:50+00:00",
       "category": "Local Events"
     }
   ]
