@@ -1,8 +1,15 @@
 {
   "country": "Syria",
-  "last_updated": "2026-06-06T23:53:39.096981+00:00",
-  "story_count": 33,
+  "last_updated": "2026-06-07T12:18:06.633191+00:00",
+  "story_count": 32,
   "stories": [
+    {
+      "title": "Iran criticizes US refusal to grant visas for World Cup delegation",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/7/iran-criticizes-us-refusal-to-grant-visas-for-world-cup-delegation?traffic_source=rss",
+      "published_date": "2026-06-07T09:19:58+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Israeli attack on Gaza City tent camp kills at least seven",
       "source": "Al Jazeera",
@@ -130,13 +137,6 @@
       "category": "Military"
     },
     {
-      "title": "Rescues in eastern Syria after the Euphrates River bursts its banks",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/31/rescues-in-eastern-syria-after-the-euphrates-river-bursts-its-banks?traffic_source=rss",
-      "published_date": "2026-05-31T00:27:27+00:00",
-      "category": "Military"
-    },
-    {
       "title": "Strait of Hormuz oil crisis: An opportunity for Syria? • FRANCE 24 English",
       "source": "Syrian Observer",
       "url": "https://syrianobserver.com/youtube/strait-of-hormuz-oil-crisis-an-opportunity-for-syria-france-24-english.html",
@@ -225,13 +225,6 @@
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/opinions/2026/5/31/as-ethiopia-votes-its-deepening-human-rights-crisis-must-be-addressed?traffic_source=rss",
       "published_date": "2026-05-31T20:28:50+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Missing Syrian chess champion’s children likely dead, authorities say",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/31/missing-syrian-chess-champions-children-likely-dead-authorities-say?traffic_source=rss",
-      "published_date": "2026-05-31T07:22:02+00:00",
       "category": "Local Events"
     }
   ]
