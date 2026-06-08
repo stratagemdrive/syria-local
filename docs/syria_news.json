@@ -1,8 +1,22 @@
 {
   "country": "Syria",
-  "last_updated": "2026-06-07T23:55:33.503994+00:00",
-  "story_count": 28,
+  "last_updated": "2026-06-08T14:46:11.155210+00:00",
+  "story_count": 32,
   "stories": [
+    {
+      "title": "Damascus and Cairo Confront the Test of a New Ambassador",
+      "source": "Syrian Observer",
+      "url": "https://syrianobserver.com/foreign-actors/damascus-and-cairo-confront-the-test-of-a-new-ambassador.html",
+      "published_date": "2026-06-07T21:00:57+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Sharaa’s Statesmanship: A Model of Restraint in a Turbulent Syria",
+      "source": "Syrian Observer",
+      "url": "https://syrianobserver.com/syrian-actors/sharaas-statesmanship-a-model-of-restraint-in-a-turbulent-syria.html",
+      "published_date": "2026-06-07T21:00:01+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Iran criticizes US refusal to grant visas for World Cup delegation",
       "source": "Al Jazeera",
@@ -37,6 +51,20 @@
       "url": "https://syrianobserver.com/foreign-actors/egyptian-reservations-delay-confirmation-of-new-syrian-ambassador-in-cairo.html",
       "published_date": "2026-06-02T21:00:16+00:00",
       "category": "Diplomacy"
+    },
+    {
+      "title": "My Memory Is Full of Ghosts review – deeply moving visual hymn for the bombed-out Syrian city of Homs",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/film/2026/jun/08/my-memory-is-full-of-ghosts-review-deeply-moving-visual-hymn-for-the-bombed-out-syrian-city-of-homs",
+      "published_date": "2026-06-08T06:00:19+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "U.S. Pentagon Budget Amendments Target Russian Influence and SDF Integration",
+      "source": "Syrian Observer",
+      "url": "https://syrianobserver.com/foreign-actors/u-s-pentagon-budget-amendments-target-russian-influence-and-sdf-integration.html",
+      "published_date": "2026-06-07T21:00:16+00:00",
+      "category": "Military"
     },
     {
       "title": "Rights group says drone strike kills 11 in central Sudan market",
@@ -109,25 +137,18 @@
       "category": "Military"
     },
     {
-      "title": "The Guest review – the risks of protecting refugees in the Poland-Belarus danger zone",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/film/2026/jun/01/the-guest-review-the-risks-of-protecting-refugees-in-the-poland-belarus-danger-zone",
-      "published_date": "2026-06-01T06:00:09+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Accused Islamic State member renounces terrorist group in Melbourne court after returning from Syria",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/australia-news/2026/jun/01/woman-islamic-state-member-syria-renounces-terrorist-group-melbourne-court-ntwnfb",
-      "published_date": "2026-06-01T03:22:25+00:00",
-      "category": "Military"
-    },
-    {
       "title": "Strait of Hormuz oil crisis: An opportunity for Syria? • FRANCE 24 English",
       "source": "Syrian Observer",
       "url": "https://syrianobserver.com/youtube/strait-of-hormuz-oil-crisis-an-opportunity-for-syria-france-24-english.html",
       "published_date": "2026-06-05T07:12:49+00:00",
       "category": "Energy"
+    },
+    {
+      "title": "EU Envoy: Sustainable Recovery in Syria Requires Robust Investment and Strategic Partnerships",
+      "source": "Syrian Observer",
+      "url": "https://syrianobserver.com/foreign-actors/eu-envoy-sustainable-recovery-in-syria-requires-robust-investment-and-strategic-partnerships.html",
+      "published_date": "2026-06-07T21:00:27+00:00",
+      "category": "Economy"
     },
     {
       "title": "Syria Launches Wheat Procurement Season as Harvest Forecast Reaches 2.5 Million Tons",
@@ -149,6 +170,13 @@
       "url": "https://syrianobserver.com/foreign-actors/sharaa-tells-trump-remaining-sanctions-must-be-lifted-to-revive-syrias-economy.html",
       "published_date": "2026-06-01T21:00:52+00:00",
       "category": "Economy"
+    },
+    {
+      "title": "Protests in Suweida Demand Dissolution of Al-Hijri’s Security Office",
+      "source": "Syrian Observer",
+      "url": "https://syrianobserver.com/syrian-actors/protests-in-suweida-demand-dissolution-of-al-hijris-security-office.html",
+      "published_date": "2026-06-07T21:00:02+00:00",
+      "category": "Local Events"
     },
     {
       "title": "The Euphrates Floods: A Political Crime, Not a Natural Disaster",
