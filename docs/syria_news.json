@@ -1,8 +1,22 @@
 {
   "country": "Syria",
-  "last_updated": "2026-06-08T14:46:11.155210+00:00",
+  "last_updated": "2026-06-08T23:55:45.188211+00:00",
   "story_count": 32,
   "stories": [
+    {
+      "title": "UN human rights leader calls for Cuba sanctions to be ‘lifted immediately’",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/6/8/un-human-rights-leader-calls-for-cuba-sanctions-to-be-lifted-immediately?traffic_source=rss",
+      "published_date": "2026-06-08T21:43:25+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "EU planning to add to $1.5 trillion sanctions hit on Russia",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/6/8/eu-planning-to-add-to-1-5-trillion-sanctions-hit-on-russia?traffic_source=rss",
+      "published_date": "2026-06-08T21:25:10+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Damascus and Cairo Confront the Test of a New Ambassador",
       "source": "Syrian Observer",
@@ -165,11 +179,11 @@
       "category": "Economy"
     },
     {
-      "title": "Sharaa Tells Trump Remaining Sanctions Must Be Lifted to Revive Syria’s Economy",
-      "source": "Syrian Observer",
-      "url": "https://syrianobserver.com/foreign-actors/sharaa-tells-trump-remaining-sanctions-must-be-lifted-to-revive-syrias-economy.html",
-      "published_date": "2026-06-01T21:00:52+00:00",
-      "category": "Economy"
+      "title": "‘You escape the slaughter. But there’s a long tail of sadness’: musician Bedouine on the strangeness of Arab life outside the Middle East",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/music/2026/jun/08/bedouine-strangeness-of-arab-life-outside-the-middle-east",
+      "published_date": "2026-06-08T14:50:27+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Protests in Suweida Demand Dissolution of Al-Hijri’s Security Office",
@@ -211,20 +225,6 @@
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/6/2/rania-al%e2%80%91abbasis-children-the-truth-revealed?traffic_source=rss",
       "published_date": "2026-06-02T23:35:37+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Syrian Refugee Says Dutch Police Assaulted Her While She Was Nine Months Pregnant",
-      "source": "Syrian Observer",
-      "url": "https://syrianobserver.com/refugees/syrian-refugee-says-dutch-police-assaulted-her-while-she-was-nine-months-pregnant.html",
-      "published_date": "2026-06-01T21:00:50+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Homs at the Centre as Sectarian-Motivated Killings Rise Across Syria",
-      "source": "Syrian Observer",
-      "url": "https://syrianobserver.com/syrian-actors/homs-at-the-centre-as-sectarian-motivated-killings-rise-across-syria.html",
-      "published_date": "2026-06-01T21:00:28+00:00",
       "category": "Local Events"
     }
   ]
