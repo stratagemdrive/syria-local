@@ -1,7 +1,7 @@
 {
   "country": "Syria",
-  "last_updated": "2026-06-08T23:55:45.188211+00:00",
-  "story_count": 32,
+  "last_updated": "2026-06-09T13:41:07.434110+00:00",
+  "story_count": 35,
   "stories": [
     {
       "title": "UN human rights leader calls for Cuba sanctions to be ‘lifted immediately’",
@@ -65,6 +65,20 @@
       "url": "https://syrianobserver.com/foreign-actors/egyptian-reservations-delay-confirmation-of-new-syrian-ambassador-in-cairo.html",
       "published_date": "2026-06-02T21:00:16+00:00",
       "category": "Diplomacy"
+    },
+    {
+      "title": "Multiple Casualties in Hama Sectarian Attacks Fuel Fears of Wider Violence",
+      "source": "Syrian Observer",
+      "url": "https://syrianobserver.com/syrian-actors/multiple-casualties-in-hama-sectarian-attacks-fuel-fears-of-wider-violence.html",
+      "published_date": "2026-06-08T21:00:58+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Iranian Missile Debris Lands in Daraa and Quneitra Countryside Following Regional Escalation",
+      "source": "Syrian Observer",
+      "url": "https://syrianobserver.com/syrian-actors/iranian-missile-debris-lands-in-daraa-and-quneitra-countryside-following-regional-escalation.html",
+      "published_date": "2026-06-08T21:00:24+00:00",
+      "category": "Military"
     },
     {
       "title": "My Memory Is Full of Ghosts review – deeply moving visual hymn for the bombed-out Syrian city of Homs",
@@ -177,6 +191,13 @@
       "url": "https://syrianobserver.com/society/syrian-national-private-sector-conference-opens-in-damascus-signaling-a-new-economic-vision.html",
       "published_date": "2026-06-02T21:00:00+00:00",
       "category": "Economy"
+    },
+    {
+      "title": "Civil Aviation Authority Reopens Southern Airspace, Restores Operations at Damascus International Airport",
+      "source": "Syrian Observer",
+      "url": "https://syrianobserver.com/society/civil-aviation-authority-reopens-southern-airspace-restores-operations-at-damascus-international-airport.html",
+      "published_date": "2026-06-08T21:00:24+00:00",
+      "category": "Local Events"
     },
     {
       "title": "‘You escape the slaughter. But there’s a long tail of sadness’: musician Bedouine on the strangeness of Arab life outside the Middle East",
