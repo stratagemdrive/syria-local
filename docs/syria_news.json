@@ -1,8 +1,15 @@
 {
   "country": "Syria",
-  "last_updated": "2026-06-11T00:06:05.546493+00:00",
-  "story_count": 33,
+  "last_updated": "2026-06-11T14:33:00.849203+00:00",
+  "story_count": 34,
   "stories": [
+    {
+      "title": "Restructuring the Footprint: Moscow and Damascus Discuss Future of Russian Military Bases in Syria",
+      "source": "Syrian Observer",
+      "url": "https://syrianobserver.com/foreign-actors/restructuring-the-footprint-moscow-and-damascus-discuss-future-of-russian-military-bases-in-syria.html",
+      "published_date": "2026-06-10T21:00:07+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Rights Report Details Sectarian and Political Discrimination in Syrian State Institutions",
       "source": "Syrian Observer",
@@ -67,11 +74,18 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Who is Khalilur Rahman, Bangladesh FM who beat Cyprus to UNGA presidency?",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/4/who-is-khalilur-rahman-bangladesh-fm-who-beat-cyprus-to-unga-presidency?traffic_source=rss",
-      "published_date": "2026-06-04T08:50:04+00:00",
-      "category": "Diplomacy"
+      "title": "Inside Syria’s Proxy State: What the ‘Battalion 7’ Files Reveal About the Regime’s Militia Statecraft",
+      "source": "Syrian Observer",
+      "url": "https://syrianobserver.com/syrian-actors/inside-syrias-proxy-state-what-the-battalion-7-files-reveal-about-the-regimes-militia-statecraft.html",
+      "published_date": "2026-06-10T21:00:44+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Syrian, French Military Officials Meet in Damascus to Discuss Bilateral Cooperation",
+      "source": "Syrian Observer",
+      "url": "https://syrianobserver.com/foreign-actors/syrian-french-military-officials-meet-in-damascus-to-discuss-bilateral-cooperation.html",
+      "published_date": "2026-06-10T21:00:11+00:00",
+      "category": "Military"
     },
     {
       "title": "West Bank ethnic cleansing, settler attacks Israel’s state policy: Amnesty",
@@ -137,20 +151,6 @@
       "category": "Military"
     },
     {
-      "title": "Rights group sues South African government over US arms exports",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/4/rights-group-sues-south-african-government-over-us-arms-exports?traffic_source=rss",
-      "published_date": "2026-06-04T13:23:17+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Australian woman linked to Islamic State lived with teenage slave who was repeatedly raped, court told",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/australia-news/2026/jun/04/australian-woman-linked-to-islamic-state-is-teenage-slave-repeatedly-raped-court-melbourne-ntwnfb",
-      "published_date": "2026-06-04T08:34:17+00:00",
-      "category": "Military"
-    },
-    {
       "title": "Trump targeting immigrants from countries hit most by climate shocks",
       "source": "The Guardian",
       "url": "https://www.theguardian.com/us-news/2026/jun/10/trump-administration-immigrants-climate-crisis",
@@ -184,6 +184,13 @@
       "url": "https://syrianobserver.com/society/syria-launches-wheat-procurement-season-as-harvest-forecast-reaches-2-5-million-tons.html",
       "published_date": "2026-06-04T21:00:07+00:00",
       "category": "Economy"
+    },
+    {
+      "title": "Hilala Zirin Hosts Arts Festival in Qamishli to Support the Women’s Protection Units (YPJ)",
+      "source": "Syrian Observer",
+      "url": "https://syrianobserver.com/syrian-actors/hilala-zirin-hosts-arts-festival-in-qamishli-to-support-the-womens-protection-units-ypj.html",
+      "published_date": "2026-06-10T21:00:53+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Nationality law reform: Who has the ‘right to have rights’ in the new Syria?",
