@@ -1,7 +1,7 @@
 {
   "country": "Syria",
-  "last_updated": "2026-06-10T14:19:39.814186+00:00",
-  "story_count": 37,
+  "last_updated": "2026-06-11T00:06:05.546493+00:00",
+  "story_count": 33,
   "stories": [
     {
       "title": "Rights Report Details Sectarian and Political Discrimination in Syrian State Institutions",
@@ -151,27 +151,6 @@
       "category": "Military"
     },
     {
-      "title": "Syria Welcomes Sweden and European Nations to Gather Evidence of War Crimes Under Deposed Regime",
-      "source": "Syrian Observer",
-      "url": "https://syrianobserver.com/syrian-actors/syria-welcomes-sweden-and-european-nations-to-gather-evidence-of-war-crimes-under-deposed-regime.html",
-      "published_date": "2026-06-03T21:00:59+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "The Zakya Incident Reopens the File on Illicit Arms in Syria: Control Challenges and Civilian Fears",
-      "source": "Syrian Observer",
-      "url": "https://syrianobserver.com/syrian-actors/the-zakya-incident-reopens-the-file-on-illicit-arms-in-syria-control-challenges-and-civilian-fears.html",
-      "published_date": "2026-06-03T21:00:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Pro-Palestine US army veteran Adam Hamawy wins New Jersey primary",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/3/pro-palestine-us-army-veteran-adam-hamawy-wins-new-jersey-primary?traffic_source=rss",
-      "published_date": "2026-06-03T14:59:47+00:00",
-      "category": "Military"
-    },
-    {
       "title": "Trump targeting immigrants from countries hit most by climate shocks",
       "source": "The Guardian",
       "url": "https://www.theguardian.com/us-news/2026/jun/10/trump-administration-immigrants-climate-crisis",
@@ -205,6 +184,13 @@
       "url": "https://syrianobserver.com/society/syria-launches-wheat-procurement-season-as-harvest-forecast-reaches-2-5-million-tons.html",
       "published_date": "2026-06-04T21:00:07+00:00",
       "category": "Economy"
+    },
+    {
+      "title": "Nationality law reform: Who has the ‘right to have rights’ in the new Syria?",
+      "source": "Syria Direct",
+      "url": "https://syriadirect.org/nationality-law-reform-who-has-the-right-to-have-rights-in-the-new-syria/",
+      "published_date": "2026-06-10T15:33:31+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Kashmiri rights activist wins partial court victory but remains behind bars",
@@ -246,20 +232,6 @@
       "source": "Syria Direct",
       "url": "https://syriadirect.org/syrias-forgotten-villages-mount-hermons-druze-between-damascus-and-the-idf/",
       "published_date": "2026-06-04T14:56:22+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Syria to Integrate 9,000 Asayish Fighters — Including 1,000 Women — into Hassakeh Security",
-      "source": "Syrian Observer",
-      "url": "https://syrianobserver.com/security/syria-to-integrate-9000-asayish-fighters-including-1000-women-into-hassakeh-security.html",
-      "published_date": "2026-06-03T21:00:44+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Syria’s Abbasi Case Puts Transitional Justice to Its Hardest Test",
-      "source": "Syrian Observer",
-      "url": "https://syrianobserver.com/syrian-actors/syrias-abbasi-case-puts-transitional-justice-to-its-hardest-test.html",
-      "published_date": "2026-06-03T21:00:32+00:00",
       "category": "Local Events"
     }
   ]
