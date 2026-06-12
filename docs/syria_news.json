@@ -1,7 +1,7 @@
 {
   "country": "Syria",
-  "last_updated": "2026-06-12T00:12:03.041971+00:00",
-  "story_count": 36,
+  "last_updated": "2026-06-12T13:59:25.784542+00:00",
+  "story_count": 35,
   "stories": [
     {
       "title": "Syria Reports Progress in US-Mediated Security Talks With Israel at UN Security Council",
@@ -144,20 +144,6 @@
       "category": "Military"
     },
     {
-      "title": "Inside Syria’s fight against the Captagon trade",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/5/inside-syrias-fight-against-the-captagon-trade?traffic_source=rss",
-      "published_date": "2026-06-05T13:08:38+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Hamas says won’t surrender arms but only police will carry weapons in Gaza",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/5/hamas-says-wont-surrender-arms-but-only-police-will-carry-weapons-in-gaza?traffic_source=rss",
-      "published_date": "2026-06-05T11:38:03+00:00",
-      "category": "Military"
-    },
-    {
       "title": "Trump targeting immigrants from countries hit most by climate shocks",
       "source": "The Guardian",
       "url": "https://www.theguardian.com/us-news/2026/jun/10/trump-administration-immigrants-climate-crisis",
@@ -172,16 +158,23 @@
       "category": "Energy"
     },
     {
-      "title": "Strait of Hormuz oil crisis: An opportunity for Syria? • FRANCE 24 English",
+      "title": "Wheat harvest season in southern Aleppo countryside",
       "source": "Syrian Observer",
-      "url": "https://syrianobserver.com/youtube/strait-of-hormuz-oil-crisis-an-opportunity-for-syria-france-24-english.html",
-      "published_date": "2026-06-05T07:12:49+00:00",
-      "category": "Energy"
+      "url": "https://syrianobserver.com/youtube/wheat-harvest-season-in-southern-aleppo-countryside.html",
+      "published_date": "2026-06-12T08:19:26+00:00",
+      "category": "Economy"
     },
     {
       "title": "Syria Faces the “1979 Dilemma”: Terrorism Designation Emerges as Main Obstacle to Rejoining Global Financial System",
       "source": "Syrian Observer",
       "url": "https://syrianobserver.com/uncategorized/syria-faces-the-1979-dilemma-terrorism-designation-emerges-as-main-obstacle-to-rejoining-global-financial-system.html",
+      "published_date": "2026-06-11T21:00:42+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Syria Faces the “1979 Dilemma”: Terrorism Designation Emerges as Main Obstacle to Rejoining Global Financial System",
+      "source": "Syrian Observer",
+      "url": "https://syrianobserver.com/foreign-actors/syria-faces-the-1979-dilemma-terrorism-designation-emerges-as-main-obstacle-to-rejoining-global-financial-system.html",
       "published_date": "2026-06-11T21:00:42+00:00",
       "category": "Economy"
     },
