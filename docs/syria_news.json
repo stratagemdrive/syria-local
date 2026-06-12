@@ -1,8 +1,22 @@
 {
   "country": "Syria",
-  "last_updated": "2026-06-11T14:33:00.849203+00:00",
-  "story_count": 34,
+  "last_updated": "2026-06-12T00:12:03.041971+00:00",
+  "story_count": 36,
   "stories": [
+    {
+      "title": "Syria Reports Progress in US-Mediated Security Talks With Israel at UN Security Council",
+      "source": "Syrian Observer",
+      "url": "https://syrianobserver.com/syrian-actors/syria-reports-progress-in-us-mediated-security-talks-with-israel-at-un-security-council.html",
+      "published_date": "2026-06-11T21:00:50+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Syrian President Ahmad al-Sharaa to Visit Washington on Sunday at Trump’s Invitation",
+      "source": "Syrian Observer",
+      "url": "https://syrianobserver.com/foreign-actors/syrian-president-ahmad-al-sharaa-to-visit-washington-on-sunday-at-trumps-invitation.html",
+      "published_date": "2026-06-11T21:00:29+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Restructuring the Footprint: Moscow and Damascus Discuss Future of Russian Military Bases in Syria",
       "source": "Syrian Observer",
@@ -67,11 +81,11 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Uzbek Militants Escalate Confrontation with Syria’s Transitional Government, Threaten Mass Resignations",
-      "source": "Syrian Observer",
-      "url": "https://syrianobserver.com/foreign-actors/uzbek-militants-escalate-confrontation-with-syrias-transitional-government-threaten-mass-resignations.html",
-      "published_date": "2026-06-04T21:00:56+00:00",
-      "category": "Diplomacy"
+      "title": "Israel deports French journalist accused of supporting Hamas",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/6/11/israel-deports-french-journalist-accused-of-supporting-hamas?traffic_source=rss",
+      "published_date": "2026-06-11T19:52:21+00:00",
+      "category": "Military"
     },
     {
       "title": "Inside Syria’s Proxy State: What the ‘Battalion 7’ Files Reveal About the Regime’s Militia Statecraft",
@@ -144,13 +158,6 @@
       "category": "Military"
     },
     {
-      "title": "Israeli strikes kill 11 people in Gaza City, medics say",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cg5prr9gr1ro?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-06-04T17:50:20+00:00",
-      "category": "Military"
-    },
-    {
       "title": "Trump targeting immigrants from countries hit most by climate shocks",
       "source": "The Guardian",
       "url": "https://www.theguardian.com/us-news/2026/jun/10/trump-administration-immigrants-climate-crisis",
@@ -172,6 +179,13 @@
       "category": "Energy"
     },
     {
+      "title": "Syria Faces the “1979 Dilemma”: Terrorism Designation Emerges as Main Obstacle to Rejoining Global Financial System",
+      "source": "Syrian Observer",
+      "url": "https://syrianobserver.com/uncategorized/syria-faces-the-1979-dilemma-terrorism-designation-emerges-as-main-obstacle-to-rejoining-global-financial-system.html",
+      "published_date": "2026-06-11T21:00:42+00:00",
+      "category": "Economy"
+    },
+    {
       "title": "EU Envoy: Sustainable Recovery in Syria Requires Robust Investment and Strategic Partnerships",
       "source": "Syrian Observer",
       "url": "https://syrianobserver.com/foreign-actors/eu-envoy-sustainable-recovery-in-syria-requires-robust-investment-and-strategic-partnerships.html",
@@ -179,11 +193,25 @@
       "category": "Economy"
     },
     {
-      "title": "Syria Launches Wheat Procurement Season as Harvest Forecast Reaches 2.5 Million Tons",
+      "title": "Labor Strikes Intensify in Rural Damascus as Industrial Workers Demand Higher Wages and Healthcare",
       "source": "Syrian Observer",
-      "url": "https://syrianobserver.com/society/syria-launches-wheat-procurement-season-as-harvest-forecast-reaches-2-5-million-tons.html",
-      "published_date": "2026-06-04T21:00:07+00:00",
-      "category": "Economy"
+      "url": "https://syrianobserver.com/society/labor-strikes-intensify-in-rural-damascus-as-industrial-workers-demand-higher-wages-and-healthcare.html",
+      "published_date": "2026-06-11T21:00:04+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Israel releases Hamas co-founder after two years in detention",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/11/israel-releases-hamas-co-founder-after-two-years-in-detention?traffic_source=rss",
+      "published_date": "2026-06-11T20:25:52+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Drone strikes on central Sudanese city kill up to 23: NGO",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/6/11/drone-strikes-on-central-sudanese-city-kill-up-to-23-ngo?traffic_source=rss",
+      "published_date": "2026-06-11T17:49:52+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Hilala Zirin Hosts Arts Festival in Qamishli to Support the Women’s Protection Units (YPJ)",
@@ -225,20 +253,6 @@
       "source": "Syrian Observer",
       "url": "https://syrianobserver.com/syrian-actors/protests-in-suweida-demand-dissolution-of-al-hijris-security-office.html",
       "published_date": "2026-06-07T21:00:02+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "The Euphrates Floods: A Political Crime, Not a Natural Disaster",
-      "source": "Syrian Observer",
-      "url": "https://syrianobserver.com/syrian-actors/the-euphrates-floods-a-political-crime-not-a-natural-disaster.html",
-      "published_date": "2026-06-04T21:00:46+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Syria’s forgotten villages: Mount Hermon’s Druze between Damascus and the IDF",
-      "source": "Syria Direct",
-      "url": "https://syriadirect.org/syrias-forgotten-villages-mount-hermons-druze-between-damascus-and-the-idf/",
-      "published_date": "2026-06-04T14:56:22+00:00",
       "category": "Local Events"
     }
   ]
