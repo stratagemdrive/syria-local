@@ -1,7 +1,7 @@
 {
   "country": "Syria",
-  "last_updated": "2026-06-13T12:21:28.729523+00:00",
-  "story_count": 38,
+  "last_updated": "2026-06-13T23:54:40.900173+00:00",
+  "story_count": 36,
   "stories": [
     {
       "title": "Syria Reports Progress in US-Mediated Security Talks With Israel at UN Security Council",
@@ -74,13 +74,6 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Israeli attack on Gaza City tent camp kills at least seven",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/6/israeli-strike-kills-at-least-five-people-at-wedding-in-gaza?traffic_source=rss",
-      "published_date": "2026-06-06T14:38:50+00:00",
-      "category": "Diplomacy"
-    },
-    {
       "title": "Israel deports French journalist accused of supporting Hamas",
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/news/2026/6/11/israel-deports-french-journalist-accused-of-supporting-hamas?traffic_source=rss",
@@ -134,13 +127,6 @@
       "source": "Syrian Observer",
       "url": "https://syrianobserver.com/foreign-actors/u-s-pentagon-budget-amendments-target-russian-influence-and-sdf-integration.html",
       "published_date": "2026-06-07T21:00:16+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Rights group says drone strike kills 11 in central Sudan market",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/6/rights-group-says-drone-strike-kills-11-in-central-sudan-market?traffic_source=rss",
-      "published_date": "2026-06-06T20:54:09+00:00",
       "category": "Military"
     },
     {
