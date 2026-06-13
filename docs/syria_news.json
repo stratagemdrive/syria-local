@@ -1,7 +1,7 @@
 {
   "country": "Syria",
-  "last_updated": "2026-06-13T00:11:00.483889+00:00",
-  "story_count": 36,
+  "last_updated": "2026-06-13T12:21:28.729523+00:00",
+  "story_count": 38,
   "stories": [
     {
       "title": "Syria Reports Progress in US-Mediated Security Talks With Israel at UN Security Council",
@@ -184,6 +184,20 @@
       "url": "https://syrianobserver.com/foreign-actors/eu-envoy-sustainable-recovery-in-syria-requires-robust-investment-and-strategic-partnerships.html",
       "published_date": "2026-06-07T21:00:27+00:00",
       "category": "Economy"
+    },
+    {
+      "title": "‘Right to protest genocide’ denied: Scotland’s Palestine Action supporters",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/6/13/right-to-protest-genocide-denied-scotlands-palestine-action-supporters?traffic_source=rss",
+      "published_date": "2026-06-13T09:13:29+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Dutch far-right party pays damages to court artist after changing image with AI",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/jun/13/geert-wilders-pvv-dutch-far-right-party-damages-court-artist-change-image-ai",
+      "published_date": "2026-06-13T04:00:04+00:00",
+      "category": "Local Events"
     },
     {
       "title": "‘I only had this father, and he’s gone’: Wafa Mustafa’s fight for truth and justice for Syria’s missing",
