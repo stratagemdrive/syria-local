@@ -1,8 +1,29 @@
 {
   "country": "Syria",
-  "last_updated": "2026-06-14T12:58:06.706383+00:00",
-  "story_count": 35,
+  "last_updated": "2026-06-14T23:57:42.133907+00:00",
+  "story_count": 36,
   "stories": [
+    {
+      "title": "19 GB of Secrets: How Did Syria’s Foreign Ministry Data Leak?",
+      "source": "Syrian Observer",
+      "url": "https://syrianobserver.com/syrian-actors/19-gb-of-secrets-how-did-syrias-foreign-ministry-data-leak.html",
+      "published_date": "2026-06-14T21:00:53+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Syria’s Internal Front: Will Regional Shifts Redraw Domestic Balances?",
+      "source": "Syrian Observer",
+      "url": "https://syrianobserver.com/syrian-actors/syrias-internal-front-will-regional-shifts-redraw-domestic-balances.html",
+      "published_date": "2026-06-14T21:00:20+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Syria Accelerates Diplomatic Outreach: Jordanian Delegation Visits Damascus as UN Envoy Meets Secretary-General in New York",
+      "source": "Syrian Observer",
+      "url": "https://syrianobserver.com/foreign-actors/syria-accelerates-diplomatic-outreach-jordanian-delegation-visits-damascus-as-un-envoy-meets-secretary-general-in-new-york.html",
+      "published_date": "2026-06-14T21:00:14+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Syria Reports Progress in US-Mediated Security Talks With Israel at UN Security Council",
       "source": "Syrian Observer",
@@ -53,18 +74,18 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Damascus and Cairo Confront the Test of a New Ambassador",
+      "title": "US Senate Proposal Would Tie Defence Aid to Syria to Disarmament of Foreign Fighters",
       "source": "Syrian Observer",
-      "url": "https://syrianobserver.com/foreign-actors/damascus-and-cairo-confront-the-test-of-a-new-ambassador.html",
-      "published_date": "2026-06-07T21:00:57+00:00",
-      "category": "Diplomacy"
+      "url": "https://syrianobserver.com/foreign-actors/us-senate-proposal-would-tie-defence-aid-to-syria-to-disarmament-of-foreign-fighters.html",
+      "published_date": "2026-06-14T21:00:50+00:00",
+      "category": "Military"
     },
     {
-      "title": "Sharaa’s Statesmanship: A Model of Restraint in a Turbulent Syria",
-      "source": "Syrian Observer",
-      "url": "https://syrianobserver.com/syrian-actors/sharaas-statesmanship-a-model-of-restraint-in-a-turbulent-syria.html",
-      "published_date": "2026-06-07T21:00:01+00:00",
-      "category": "Diplomacy"
+      "title": "Israel expands military control in Gaza, Lebanon and Syria by 1,000sq km",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/6/14/israel-expands-military-control-in-gaza-lebanon-and-syria-by-1000sq-km?traffic_source=rss",
+      "published_date": "2026-06-14T19:21:21+00:00",
+      "category": "Military"
     },
     {
       "title": "Israel deports French journalist accused of supporting Hamas",
@@ -116,13 +137,6 @@
       "category": "Military"
     },
     {
-      "title": "U.S. Pentagon Budget Amendments Target Russian Influence and SDF Integration",
-      "source": "Syrian Observer",
-      "url": "https://syrianobserver.com/foreign-actors/u-s-pentagon-budget-amendments-target-russian-influence-and-sdf-integration.html",
-      "published_date": "2026-06-07T21:00:16+00:00",
-      "category": "Military"
-    },
-    {
       "title": "Trump targeting immigrants from countries hit most by climate shocks",
       "source": "The Guardian",
       "url": "https://www.theguardian.com/us-news/2026/jun/10/trump-administration-immigrants-climate-crisis",
@@ -158,11 +172,11 @@
       "category": "Economy"
     },
     {
-      "title": "EU Envoy: Sustainable Recovery in Syria Requires Robust Investment and Strategic Partnerships",
+      "title": "“Maybe Tomorrow”: A Documentary Traces Wafa Mustafa’s Decade-Long Search for Her Disappeared Father",
       "source": "Syrian Observer",
-      "url": "https://syrianobserver.com/foreign-actors/eu-envoy-sustainable-recovery-in-syria-requires-robust-investment-and-strategic-partnerships.html",
-      "published_date": "2026-06-07T21:00:27+00:00",
-      "category": "Economy"
+      "url": "https://syrianobserver.com/society/maybe-tomorrow-a-documentary-traces-wafa-mustafas-decade-long-search-for-her-disappeared-father.html",
+      "published_date": "2026-06-14T21:00:31+00:00",
+      "category": "Local Events"
     },
     {
       "title": "‘Right to protest genocide’ denied: Scotland’s Palestine Action supporters",
@@ -239,13 +253,6 @@
       "source": "The Guardian",
       "url": "https://www.theguardian.com/music/2026/jun/08/bedouine-strangeness-of-arab-life-outside-the-middle-east",
       "published_date": "2026-06-08T14:50:27+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Protests in Suweida Demand Dissolution of Al-Hijri’s Security Office",
-      "source": "Syrian Observer",
-      "url": "https://syrianobserver.com/syrian-actors/protests-in-suweida-demand-dissolution-of-al-hijris-security-office.html",
-      "published_date": "2026-06-07T21:00:02+00:00",
       "category": "Local Events"
     }
   ]
