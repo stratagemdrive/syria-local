@@ -1,7 +1,7 @@
 {
   "country": "Syria",
-  "last_updated": "2026-06-14T23:57:42.133907+00:00",
-  "story_count": 36,
+  "last_updated": "2026-06-15T16:13:24.189456+00:00",
+  "story_count": 34,
   "stories": [
     {
       "title": "19 GB of Secrets: How Did Syria’s Foreign Ministry Data Leak?",
@@ -130,13 +130,6 @@
       "category": "Military"
     },
     {
-      "title": "My Memory Is Full of Ghosts review – deeply moving visual hymn for the bombed-out Syrian city of Homs",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/film/2026/jun/08/my-memory-is-full-of-ghosts-review-deeply-moving-visual-hymn-for-the-bombed-out-syrian-city-of-homs",
-      "published_date": "2026-06-08T06:00:19+00:00",
-      "category": "Military"
-    },
-    {
       "title": "Trump targeting immigrants from countries hit most by climate shocks",
       "source": "The Guardian",
       "url": "https://www.theguardian.com/us-news/2026/jun/10/trump-administration-immigrants-climate-crisis",
@@ -246,13 +239,6 @@
       "source": "Syrian Observer",
       "url": "https://syrianobserver.com/society/civil-aviation-authority-reopens-southern-airspace-restores-operations-at-damascus-international-airport.html",
       "published_date": "2026-06-08T21:00:24+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "‘You escape the slaughter. But there’s a long tail of sadness’: musician Bedouine on the strangeness of Arab life outside the Middle East",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/music/2026/jun/08/bedouine-strangeness-of-arab-life-outside-the-middle-east",
-      "published_date": "2026-06-08T14:50:27+00:00",
       "category": "Local Events"
     }
   ]
