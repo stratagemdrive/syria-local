@@ -1,8 +1,22 @@
 {
   "country": "Syria",
-  "last_updated": "2026-06-15T16:13:24.189456+00:00",
+  "last_updated": "2026-06-16T00:19:50.604231+00:00",
   "story_count": 34,
   "stories": [
+    {
+      "title": "Syria Rejected U.S. Overtures to Act Against Hezbollah, Lebanese Diplomatic Source Says",
+      "source": "Syrian Observer",
+      "url": "https://syrianobserver.com/foreign-actors/syria-rejected-u-s-overtures-to-act-against-hezbollah-lebanese-diplomatic-source-says.html",
+      "published_date": "2026-06-15T21:00:46+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Jordanian Ministerial Delegation in Damascus: Toward a Strategic Syrian-Jordanian Partnership",
+      "source": "Syrian Observer",
+      "url": "https://syrianobserver.com/foreign-actors/jordanian-ministerial-delegation-in-damascus-toward-a-strategic-syrian-jordanian-partnership.html",
+      "published_date": "2026-06-15T21:00:32+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "19 GB of Secrets: How Did Syria’s Foreign Ministry Data Leak?",
       "source": "Syrian Observer",
@@ -60,18 +74,11 @@
       "category": "Diplomacy"
     },
     {
-      "title": "UN human rights leader calls for Cuba sanctions to be ‘lifted immediately’",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/8/un-human-rights-leader-calls-for-cuba-sanctions-to-be-lifted-immediately?traffic_source=rss",
-      "published_date": "2026-06-08T21:43:25+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "EU planning to add to $1.5 trillion sanctions hit on Russia",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/8/eu-planning-to-add-to-1-5-trillion-sanctions-hit-on-russia?traffic_source=rss",
-      "published_date": "2026-06-08T21:25:10+00:00",
-      "category": "Diplomacy"
+      "title": "Free Syrian Army Documents: Foreign Support and the Jihadist Challenge",
+      "source": "Syrian Observer",
+      "url": "https://syrianobserver.com/syrian-actors/free-syrian-army-documents-foreign-support-and-the-jihadist-challenge.html",
+      "published_date": "2026-06-15T21:00:01+00:00",
+      "category": "Military"
     },
     {
       "title": "US Senate Proposal Would Tie Defence Aid to Syria to Disarmament of Foreign Fighters",
@@ -116,20 +123,6 @@
       "category": "Military"
     },
     {
-      "title": "Multiple Casualties in Hama Sectarian Attacks Fuel Fears of Wider Violence",
-      "source": "Syrian Observer",
-      "url": "https://syrianobserver.com/syrian-actors/multiple-casualties-in-hama-sectarian-attacks-fuel-fears-of-wider-violence.html",
-      "published_date": "2026-06-08T21:00:58+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iranian Missile Debris Lands in Daraa and Quneitra Countryside Following Regional Escalation",
-      "source": "Syrian Observer",
-      "url": "https://syrianobserver.com/syrian-actors/iranian-missile-debris-lands-in-daraa-and-quneitra-countryside-following-regional-escalation.html",
-      "published_date": "2026-06-08T21:00:24+00:00",
-      "category": "Military"
-    },
-    {
       "title": "Trump targeting immigrants from countries hit most by climate shocks",
       "source": "The Guardian",
       "url": "https://www.theguardian.com/us-news/2026/jun/10/trump-administration-immigrants-climate-crisis",
@@ -163,6 +156,20 @@
       "url": "https://syrianobserver.com/foreign-actors/syria-faces-the-1979-dilemma-terrorism-designation-emerges-as-main-obstacle-to-rejoining-global-financial-system.html",
       "published_date": "2026-06-11T21:00:42+00:00",
       "category": "Economy"
+    },
+    {
+      "title": "Syria’s Transitional Justice Commission Rejects Collective Punishment, Warns Against Vigilantism Amid Idlib Unrest",
+      "source": "Syrian Observer",
+      "url": "https://syrianobserver.com/syrian-actors/syrias-transitional-justice-commission-rejects-collective-punishment-warns-against-vigilantism-amid-idlib-unrest.html",
+      "published_date": "2026-06-15T21:00:49+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Dutch court sentences Syrian to 26 years for torturing for al-Assad",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/6/15/dutch-court-sentences-syrian-to-26-years-for-torturing-on-behalf-of-al-assad?traffic_source=rss",
+      "published_date": "2026-06-15T19:36:22+00:00",
+      "category": "Local Events"
     },
     {
       "title": "“Maybe Tomorrow”: A Documentary Traces Wafa Mustafa’s Decade-Long Search for Her Disappeared Father",
@@ -232,13 +239,6 @@
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/news/2026/6/10/kashmiri-rights-activist-wins-partial-court-victory-but-remains-behind-bars?traffic_source=rss",
       "published_date": "2026-06-10T12:18:41+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Civil Aviation Authority Reopens Southern Airspace, Restores Operations at Damascus International Airport",
-      "source": "Syrian Observer",
-      "url": "https://syrianobserver.com/society/civil-aviation-authority-reopens-southern-airspace-restores-operations-at-damascus-international-airport.html",
-      "published_date": "2026-06-08T21:00:24+00:00",
       "category": "Local Events"
     }
   ]
