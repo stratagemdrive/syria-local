@@ -1,7 +1,7 @@
 {
   "country": "Syria",
-  "last_updated": "2026-06-17T00:06:24.588712+00:00",
-  "story_count": 32,
+  "last_updated": "2026-06-17T14:23:26.201558+00:00",
+  "story_count": 36,
   "stories": [
     {
       "title": "Trump says Syria would do a better job than Israel of 'taking care of Hezbollah' – video",
@@ -67,6 +67,34 @@
       "category": "Diplomacy"
     },
     {
+      "title": "Killing Anna review – the amazing catfishing operation that flushed out Syria massacre perpetrator",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/film/2026/jun/17/killing-anna-review-annsar-shahoud-documentary-war-criminal",
+      "published_date": "2026-06-17T12:00:31+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Syrian Security Services Dismantle ISIS Cells Nationwide in Largest Post-Assad Operation",
+      "source": "Syrian Observer",
+      "url": "https://syrianobserver.com/security/syrian-security-services-dismantle-isis-cells-nationwide-in-largest-post-assad-operation.html",
+      "published_date": "2026-06-16T21:00:25+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Dutch Court Sentences Former Pro-Assad Militia Commander to 26 Years for War Crimes and Crimes Against Humanity",
+      "source": "Syrian Observer",
+      "url": "https://syrianobserver.com/syrian-actors/dutch-court-sentences-former-pro-assad-militia-commander-to-26-years-for-war-crimes-and-crimes-against-humanity.html",
+      "published_date": "2026-06-16T21:00:10+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "UN Rights Chief: Accountability for Ousted President Assad ‘Essential’ for Justice in Syria",
+      "source": "Syrian Observer",
+      "url": "https://syrianobserver.com/syrian-actors/un-rights-chief-accountability-for-ousted-president-assad-essential-for-justice-in-syria.html",
+      "published_date": "2026-06-16T21:00:04+00:00",
+      "category": "Military"
+    },
+    {
       "title": "Free Syrian Army Documents: Foreign Support and the Jihadist Challenge",
       "source": "Syrian Observer",
       "url": "https://syrianobserver.com/syrian-actors/free-syrian-army-documents-foreign-support-and-the-jihadist-challenge.html",
@@ -109,18 +137,18 @@
       "category": "Military"
     },
     {
-      "title": "West Bank ethnic cleansing, settler attacks Israel’s state policy: Amnesty",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/10/west-bank-ethnic-cleansing-settler-attacks-israels-state-policy-amnesty?traffic_source=rss",
-      "published_date": "2026-06-10T12:55:23+00:00",
-      "category": "Military"
+      "title": "Damascus Seals Major Gas Development Pact with U.S. Energy Giants",
+      "source": "Syrian Observer",
+      "url": "https://syrianobserver.com/society/damascus-seals-major-gas-development-pact-with-u-s-energy-giants.html",
+      "published_date": "2026-06-16T21:00:27+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Trump targeting immigrants from countries hit most by climate shocks",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/us-news/2026/jun/10/trump-administration-immigrants-climate-crisis",
-      "published_date": "2026-06-10T13:00:20+00:00",
-      "category": "Energy"
+      "title": "Vietnam police rescue more than 400 cats from animal theft crime ring",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/6/17/vietnam-police-rescue-over-400-cats-from-illegal-meat-trade?traffic_source=rss",
+      "published_date": "2026-06-17T08:58:04+00:00",
+      "category": "Economy"
     },
     {
       "title": "Wheat harvest season in southern Aleppo countryside",
@@ -142,6 +170,13 @@
       "url": "https://syrianobserver.com/foreign-actors/syria-faces-the-1979-dilemma-terrorism-designation-emerges-as-main-obstacle-to-rejoining-global-financial-system.html",
       "published_date": "2026-06-11T21:00:42+00:00",
       "category": "Economy"
+    },
+    {
+      "title": "Inside Canada’s ‘troubling’ shift on migrant, refugee rights",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/6/17/inside-canadas-troubling-shift-on-migrant-refugee-rights?traffic_source=rss",
+      "published_date": "2026-06-17T11:53:53+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Syria’s Transitional Justice Commission Rejects Collective Punishment, Warns Against Vigilantism Amid Idlib Unrest",
@@ -218,13 +253,6 @@
       "source": "Syria Direct",
       "url": "https://syriadirect.org/nationality-law-reform-who-has-the-right-to-have-rights-in-the-new-syria/",
       "published_date": "2026-06-10T15:33:31+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Kashmiri rights activist wins partial court victory but remains behind bars",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/10/kashmiri-rights-activist-wins-partial-court-victory-but-remains-behind-bars?traffic_source=rss",
-      "published_date": "2026-06-10T12:18:41+00:00",
       "category": "Local Events"
     }
   ]
