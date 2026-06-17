@@ -1,8 +1,15 @@
 {
   "country": "Syria",
-  "last_updated": "2026-06-16T15:49:49.956624+00:00",
-  "story_count": 34,
+  "last_updated": "2026-06-17T00:06:24.588712+00:00",
+  "story_count": 32,
   "stories": [
+    {
+      "title": "Trump says Syria would do a better job than Israel of 'taking care of Hezbollah' – video",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/us-news/video/2026/jun/16/trump-says-syria-would-do-a-better-job-of-taking-care-of-hezbollah-than-israel-video",
+      "published_date": "2026-06-16T16:58:27+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Syria Rejected U.S. Overtures to Act Against Hezbollah, Lebanese Diplomatic Source Says",
       "source": "Syrian Observer",
@@ -60,20 +67,6 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Rights Report Details Sectarian and Political Discrimination in Syrian State Institutions",
-      "source": "Syrian Observer",
-      "url": "https://syrianobserver.com/syrian-actors/rights-report-details-sectarian-and-political-discrimination-in-syrian-state-institutions.html",
-      "published_date": "2026-06-09T21:00:23+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "IAEA: Syria Cooperating with “Full Transparency” to Close Files on Past Nuclear Activities",
-      "source": "Syrian Observer",
-      "url": "https://syrianobserver.com/foreign-actors/iaea-syria-cooperating-with-full-transparency-to-close-files-on-past-nuclear-activities.html",
-      "published_date": "2026-06-09T21:00:22+00:00",
-      "category": "Diplomacy"
-    },
-    {
       "title": "Free Syrian Army Documents: Foreign Support and the Jihadist Challenge",
       "source": "Syrian Observer",
       "url": "https://syrianobserver.com/syrian-actors/free-syrian-army-documents-foreign-support-and-the-jihadist-challenge.html",
@@ -127,13 +120,6 @@
       "source": "The Guardian",
       "url": "https://www.theguardian.com/us-news/2026/jun/10/trump-administration-immigrants-climate-crisis",
       "published_date": "2026-06-10T13:00:20+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Syria and Egypt Explore New Energy Partnership at Washington Forum",
-      "source": "Syrian Observer",
-      "url": "https://syrianobserver.com/foreign-actors/syria-and-egypt-explore-new-energy-partnership-at-washington-forum.html",
-      "published_date": "2026-06-09T21:00:35+00:00",
       "category": "Energy"
     },
     {
