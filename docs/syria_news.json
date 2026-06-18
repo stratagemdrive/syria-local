@@ -1,7 +1,7 @@
 {
   "country": "Syria",
-  "last_updated": "2026-06-17T14:23:26.201558+00:00",
-  "story_count": 36,
+  "last_updated": "2026-06-18T00:06:18.487717+00:00",
+  "story_count": 32,
   "stories": [
     {
       "title": "Trump says Syria would do a better job than Israel of 'taking care of Hezbollah' – video",
@@ -60,11 +60,11 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Restructuring the Footprint: Moscow and Damascus Discuss Future of Russian Military Bases in Syria",
-      "source": "Syrian Observer",
-      "url": "https://syrianobserver.com/foreign-actors/restructuring-the-footprint-moscow-and-damascus-discuss-future-of-russian-military-bases-in-syria.html",
-      "published_date": "2026-06-10T21:00:07+00:00",
-      "category": "Diplomacy"
+      "title": "Child recruitment persists despite SDF-Damascus integration agreement",
+      "source": "Syria Direct",
+      "url": "https://syriadirect.org/child-recruitment-persists-despite-sdf-damascus-integration-agreement/",
+      "published_date": "2026-06-17T16:02:45+00:00",
+      "category": "Military"
     },
     {
       "title": "Killing Anna review – the amazing catfishing operation that flushed out Syria massacre perpetrator",
@@ -120,20 +120,6 @@
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/news/2026/6/11/israel-deports-french-journalist-accused-of-supporting-hamas?traffic_source=rss",
       "published_date": "2026-06-11T19:52:21+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Inside Syria’s Proxy State: What the ‘Battalion 7’ Files Reveal About the Regime’s Militia Statecraft",
-      "source": "Syrian Observer",
-      "url": "https://syrianobserver.com/syrian-actors/inside-syrias-proxy-state-what-the-battalion-7-files-reveal-about-the-regimes-militia-statecraft.html",
-      "published_date": "2026-06-10T21:00:44+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Syrian, French Military Officials Meet in Damascus to Discuss Bilateral Cooperation",
-      "source": "Syrian Observer",
-      "url": "https://syrianobserver.com/foreign-actors/syrian-french-military-officials-meet-in-damascus-to-discuss-bilateral-cooperation.html",
-      "published_date": "2026-06-10T21:00:11+00:00",
       "category": "Military"
     },
     {
@@ -239,20 +225,6 @@
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/news/2026/6/11/drone-strikes-on-central-sudanese-city-kill-up-to-23-ngo?traffic_source=rss",
       "published_date": "2026-06-11T17:49:52+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Hilala Zirin Hosts Arts Festival in Qamishli to Support the Women’s Protection Units (YPJ)",
-      "source": "Syrian Observer",
-      "url": "https://syrianobserver.com/syrian-actors/hilala-zirin-hosts-arts-festival-in-qamishli-to-support-the-womens-protection-units-ypj.html",
-      "published_date": "2026-06-10T21:00:53+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Nationality law reform: Who has the ‘right to have rights’ in the new Syria?",
-      "source": "Syria Direct",
-      "url": "https://syriadirect.org/nationality-law-reform-who-has-the-right-to-have-rights-in-the-new-syria/",
-      "published_date": "2026-06-10T15:33:31+00:00",
       "category": "Local Events"
     }
   ]
