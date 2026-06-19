@@ -1,8 +1,22 @@
 {
   "country": "Syria",
-  "last_updated": "2026-06-18T13:59:57.864290+00:00",
-  "story_count": 32,
+  "last_updated": "2026-06-19T00:17:55.302395+00:00",
+  "story_count": 29,
   "stories": [
+    {
+      "title": "Upcoming Congressional Negotiations May Reshape U.S. Military Aid Policy in Syria",
+      "source": "Syrian Observer",
+      "url": "https://syrianobserver.com/foreign-actors/upcoming-congressional-negotiations-may-reshape-u-s-military-aid-policy-in-syria.html",
+      "published_date": "2026-06-17T21:00:16+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Switzerland Lifts Sanctions on Syrian Defense, Interior Ministries and Five Other Entities",
+      "source": "Syrian Observer",
+      "url": "https://syrianobserver.com/foreign-actors/switzerland-lifts-sanctions-on-syrian-defense-interior-ministries-and-five-other-entities.html",
+      "published_date": "2026-06-17T21:00:15+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Trump says Syria would do a better job than Israel of 'taking care of Hezbollah' – video",
       "source": "The Guardian",
@@ -46,18 +60,18 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Syria Reports Progress in US-Mediated Security Talks With Israel at UN Security Council",
+      "title": "Syria’s Search for Justice Must Not Become a Door to Revenge",
       "source": "Syrian Observer",
-      "url": "https://syrianobserver.com/syrian-actors/syria-reports-progress-in-us-mediated-security-talks-with-israel-at-un-security-council.html",
-      "published_date": "2026-06-11T21:00:50+00:00",
-      "category": "Diplomacy"
+      "url": "https://syrianobserver.com/syrian-actors/syrias-search-for-justice-must-not-become-a-door-to-revenge.html",
+      "published_date": "2026-06-18T21:00:22+00:00",
+      "category": "Military"
     },
     {
-      "title": "Syrian President Ahmad al-Sharaa to Visit Washington on Sunday at Trump’s Invitation",
+      "title": "SDF Commander Mazloum Abdi Meets U.S. Envoy and KRI President Barzani in Erbil to Discuss Military Integration",
       "source": "Syrian Observer",
-      "url": "https://syrianobserver.com/foreign-actors/syrian-president-ahmad-al-sharaa-to-visit-washington-on-sunday-at-trumps-invitation.html",
-      "published_date": "2026-06-11T21:00:29+00:00",
-      "category": "Diplomacy"
+      "url": "https://syrianobserver.com/syrian-actors/sdf-commander-mazloum-abdi-meets-u-s-envoy-and-kri-president-barzani-in-erbil-to-discuss-military-integration.html",
+      "published_date": "2026-06-17T21:00:51+00:00",
+      "category": "Military"
     },
     {
       "title": "Child recruitment persists despite SDF-Damascus integration agreement",
@@ -116,18 +130,18 @@
       "category": "Military"
     },
     {
-      "title": "Israel deports French journalist accused of supporting Hamas",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/11/israel-deports-french-journalist-accused-of-supporting-hamas?traffic_source=rss",
-      "published_date": "2026-06-11T19:52:21+00:00",
-      "category": "Military"
-    },
-    {
       "title": "Damascus Seals Major Gas Development Pact with U.S. Energy Giants",
       "source": "Syrian Observer",
       "url": "https://syrianobserver.com/society/damascus-seals-major-gas-development-pact-with-u-s-energy-giants.html",
       "published_date": "2026-06-16T21:00:27+00:00",
       "category": "Energy"
+    },
+    {
+      "title": "Arrest of Hassan Akkad in Damascus Sparks Widespread Outcry: What is Happening Behind the Scenes?",
+      "source": "Syrian Observer",
+      "url": "https://syrianobserver.com/society/arrest-of-hassan-akkad-in-damascus-sparks-widespread-outcry-what-is-happening-behind-the-scenes.html",
+      "published_date": "2026-06-18T21:00:48+00:00",
+      "category": "Economy"
     },
     {
       "title": "Vietnam police rescue more than 400 cats from animal theft crime ring",
@@ -141,20 +155,6 @@
       "source": "Syrian Observer",
       "url": "https://syrianobserver.com/youtube/wheat-harvest-season-in-southern-aleppo-countryside.html",
       "published_date": "2026-06-12T08:19:26+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Syria Faces the “1979 Dilemma”: Terrorism Designation Emerges as Main Obstacle to Rejoining Global Financial System",
-      "source": "Syrian Observer",
-      "url": "https://syrianobserver.com/uncategorized/syria-faces-the-1979-dilemma-terrorism-designation-emerges-as-main-obstacle-to-rejoining-global-financial-system.html",
-      "published_date": "2026-06-11T21:00:42+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Syria Faces the “1979 Dilemma”: Terrorism Designation Emerges as Main Obstacle to Rejoining Global Financial System",
-      "source": "Syrian Observer",
-      "url": "https://syrianobserver.com/foreign-actors/syria-faces-the-1979-dilemma-terrorism-designation-emerges-as-main-obstacle-to-rejoining-global-financial-system.html",
-      "published_date": "2026-06-11T21:00:42+00:00",
       "category": "Economy"
     },
     {
@@ -204,27 +204,6 @@
       "source": "The Guardian",
       "url": "https://www.theguardian.com/film/2026/jun/12/wafa-mustafa-maybe-tomorrow",
       "published_date": "2026-06-12T14:09:59+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Labor Strikes Intensify in Rural Damascus as Industrial Workers Demand Higher Wages and Healthcare",
-      "source": "Syrian Observer",
-      "url": "https://syrianobserver.com/society/labor-strikes-intensify-in-rural-damascus-as-industrial-workers-demand-higher-wages-and-healthcare.html",
-      "published_date": "2026-06-11T21:00:04+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Israel releases Hamas co-founder after two years in detention",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/11/israel-releases-hamas-co-founder-after-two-years-in-detention?traffic_source=rss",
-      "published_date": "2026-06-11T20:25:52+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Drone strikes on central Sudanese city kill up to 23: NGO",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/11/drone-strikes-on-central-sudanese-city-kill-up-to-23-ngo?traffic_source=rss",
-      "published_date": "2026-06-11T17:49:52+00:00",
       "category": "Local Events"
     }
   ]
