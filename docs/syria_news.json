@@ -1,7 +1,7 @@
 {
   "country": "Syria",
-  "last_updated": "2026-06-19T23:55:58.566574+00:00",
-  "story_count": 28,
+  "last_updated": "2026-06-20T12:24:32.587620+00:00",
+  "story_count": 27,
   "stories": [
     {
       "title": "Upcoming Congressional Negotiations May Reshape U.S. Military Aid Policy in Syria",
@@ -151,6 +151,13 @@
       "category": "Economy"
     },
     {
+      "title": "German journalist held in Syria back home, family says",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/6/20/german-journalist-held-in-syria-back-home-family-says?traffic_source=rss",
+      "published_date": "2026-06-20T11:32:33+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "Syrian activist Hassan Akkad detained in Damascus",
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/news/2026/6/19/syrian-activist-hassan-akkad-detained-in-damascus?traffic_source=rss",
@@ -183,20 +190,6 @@
       "source": "Syrian Observer",
       "url": "https://syrianobserver.com/society/maybe-tomorrow-a-documentary-traces-wafa-mustafas-decade-long-search-for-her-disappeared-father.html",
       "published_date": "2026-06-14T21:00:31+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "‘Right to protest genocide’ denied: Scotland’s Palestine Action supporters",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/13/right-to-protest-genocide-denied-scotlands-palestine-action-supporters?traffic_source=rss",
-      "published_date": "2026-06-13T09:13:29+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Dutch far-right party pays damages to court artist after changing image with AI",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/jun/13/geert-wilders-pvv-dutch-far-right-party-damages-court-artist-change-image-ai",
-      "published_date": "2026-06-13T04:00:04+00:00",
       "category": "Local Events"
     }
   ]
