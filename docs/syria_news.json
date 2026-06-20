@@ -1,7 +1,7 @@
 {
   "country": "Syria",
-  "last_updated": "2026-06-20T12:24:32.587620+00:00",
-  "story_count": 27,
+  "last_updated": "2026-06-20T23:57:19.055048+00:00",
+  "story_count": 28,
   "stories": [
     {
       "title": "Upcoming Congressional Negotiations May Reshape U.S. Military Aid Policy in Syria",
@@ -58,6 +58,13 @@
       "url": "https://syrianobserver.com/foreign-actors/syria-accelerates-diplomatic-outreach-jordanian-delegation-visits-damascus-as-un-envoy-meets-secretary-general-in-new-york.html",
       "published_date": "2026-06-14T21:00:14+00:00",
       "category": "Diplomacy"
+    },
+    {
+      "title": "Israeli strikes kill six people in Gaza including Al Jazeera cameraman, officials say",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c4gy26p6pwzo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-06-20T21:57:36+00:00",
+      "category": "Military"
     },
     {
       "title": "Syria’s Search for Justice Must Not Become a Door to Revenge",
