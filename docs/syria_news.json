@@ -1,7 +1,7 @@
 {
   "country": "Syria",
-  "last_updated": "2026-06-21T13:02:38.878189+00:00",
-  "story_count": 28,
+  "last_updated": "2026-06-22T00:02:34.614084+00:00",
+  "story_count": 25,
   "stories": [
     {
       "title": "Upcoming Congressional Negotiations May Reshape U.S. Military Aid Policy in Syria",
@@ -39,25 +39,11 @@
       "category": "Diplomacy"
     },
     {
-      "title": "19 GB of Secrets: How Did Syria’s Foreign Ministry Data Leak?",
+      "title": "Geagea Rejects Trump Proposal for Syrian Troop Deployment to Lebanon",
       "source": "Syrian Observer",
-      "url": "https://syrianobserver.com/syrian-actors/19-gb-of-secrets-how-did-syrias-foreign-ministry-data-leak.html",
-      "published_date": "2026-06-14T21:00:53+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Syria’s Internal Front: Will Regional Shifts Redraw Domestic Balances?",
-      "source": "Syrian Observer",
-      "url": "https://syrianobserver.com/syrian-actors/syrias-internal-front-will-regional-shifts-redraw-domestic-balances.html",
-      "published_date": "2026-06-14T21:00:20+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Syria Accelerates Diplomatic Outreach: Jordanian Delegation Visits Damascus as UN Envoy Meets Secretary-General in New York",
-      "source": "Syrian Observer",
-      "url": "https://syrianobserver.com/foreign-actors/syria-accelerates-diplomatic-outreach-jordanian-delegation-visits-damascus-as-un-envoy-meets-secretary-general-in-new-york.html",
-      "published_date": "2026-06-14T21:00:14+00:00",
-      "category": "Diplomacy"
+      "url": "https://syrianobserver.com/foreign-actors/geagea-rejects-trump-proposal-for-syrian-troop-deployment-to-lebanon.html",
+      "published_date": "2026-06-21T21:00:57+00:00",
+      "category": "Military"
     },
     {
       "title": "Israeli strikes kill six people in Gaza including Al Jazeera cameraman, officials say",
@@ -123,25 +109,18 @@
       "category": "Military"
     },
     {
-      "title": "US Senate Proposal Would Tie Defence Aid to Syria to Disarmament of Foreign Fighters",
-      "source": "Syrian Observer",
-      "url": "https://syrianobserver.com/foreign-actors/us-senate-proposal-would-tie-defence-aid-to-syria-to-disarmament-of-foreign-fighters.html",
-      "published_date": "2026-06-14T21:00:50+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Israel expands military control in Gaza, Lebanon and Syria by 1,000sq km",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/14/israel-expands-military-control-in-gaza-lebanon-and-syria-by-1000sq-km?traffic_source=rss",
-      "published_date": "2026-06-14T19:21:21+00:00",
-      "category": "Military"
-    },
-    {
       "title": "Damascus Seals Major Gas Development Pact with U.S. Energy Giants",
       "source": "Syrian Observer",
       "url": "https://syrianobserver.com/society/damascus-seals-major-gas-development-pact-with-u-s-energy-giants.html",
       "published_date": "2026-06-16T21:00:27+00:00",
       "category": "Energy"
+    },
+    {
+      "title": "A Banquet Amid the Ruins: Hamsho’s Invitation to Journalists Ignites Public Outrage in Syria",
+      "source": "Syrian Observer",
+      "url": "https://syrianobserver.com/syrian-actors/a-banquet-amid-the-ruins-hamshos-invitation-to-journalists-ignites-public-outrage-in-syria.html",
+      "published_date": "2026-06-21T21:00:32+00:00",
+      "category": "Economy"
     },
     {
       "title": "Arrest of Hassan Akkad in Damascus Sparks Widespread Outcry: What is Happening Behind the Scenes?",
@@ -156,6 +135,13 @@
       "url": "https://www.aljazeera.com/news/2026/6/17/vietnam-police-rescue-over-400-cats-from-illegal-meat-trade?traffic_source=rss",
       "published_date": "2026-06-17T08:58:04+00:00",
       "category": "Economy"
+    },
+    {
+      "title": "Syria Approves Deportation of Detained German Journalist Eva Michelmann After Months in Custody",
+      "source": "Syrian Observer",
+      "url": "https://syrianobserver.com/foreign-actors/syria-approves-deportation-of-detained-german-journalist-eva-michelmann-after-months-in-custody.html",
+      "published_date": "2026-06-21T21:00:19+00:00",
+      "category": "Local Events"
     },
     {
       "title": "German journalist held in Syria back home, family says",
@@ -190,13 +176,6 @@
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/news/2026/6/15/dutch-court-sentences-syrian-to-26-years-for-torturing-on-behalf-of-al-assad?traffic_source=rss",
       "published_date": "2026-06-15T19:36:22+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "“Maybe Tomorrow”: A Documentary Traces Wafa Mustafa’s Decade-Long Search for Her Disappeared Father",
-      "source": "Syrian Observer",
-      "url": "https://syrianobserver.com/society/maybe-tomorrow-a-documentary-traces-wafa-mustafas-decade-long-search-for-her-disappeared-father.html",
-      "published_date": "2026-06-14T21:00:31+00:00",
       "category": "Local Events"
     }
   ]
