@@ -1,7 +1,7 @@
 {
   "country": "Syria",
-  "last_updated": "2026-06-22T23:57:52.738611+00:00",
-  "story_count": 24,
+  "last_updated": "2026-06-23T13:39:28.136727+00:00",
+  "story_count": 25,
   "stories": [
     {
       "title": "Syrian Foreign Ministry Appoints Jihad Makdissi as Advisor for American Affairs",
@@ -42,6 +42,13 @@
       "title": "Israeli strikes kill six people in Gaza including Al Jazeera cameraman, officials say",
       "source": "BBC News",
       "url": "https://www.bbc.com/news/articles/c4gy26p6pwzo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-06-20T21:57:36+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Israeli strikes kill six people in Gaza including Al Jazeera cameraman, officials say",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c4gy26p6pwzo?at_medium=RSS&at_campaign=rss",
       "published_date": "2026-06-20T21:57:36+00:00",
       "category": "Military"
     },
