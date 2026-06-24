@@ -1,7 +1,7 @@
 {
   "country": "Syria",
-  "last_updated": "2026-06-23T23:44:56.735037+00:00",
-  "story_count": 26,
+  "last_updated": "2026-06-24T13:13:54.190385+00:00",
+  "story_count": 23,
   "stories": [
     {
       "title": "UN Security Council Session on Syria: Broad Support for Stability and Renewed Calls to Halt Israeli Aggression",
@@ -88,13 +88,6 @@
       "category": "Military"
     },
     {
-      "title": "Killing Anna review – the amazing catfishing operation that flushed out Syria massacre perpetrator",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/film/2026/jun/17/killing-anna-review-annsar-shahoud-documentary-war-criminal",
-      "published_date": "2026-06-17T12:00:31+00:00",
-      "category": "Military"
-    },
-    {
       "title": "‘A repellent environment’: How Israel is reshaping life in southern Syria",
       "source": "Syria Direct",
       "url": "https://syriadirect.org/a-repellent-environment-how-israel-is-reshaping-life-in-southern-syria/",
@@ -113,13 +106,6 @@
       "source": "Syrian Observer",
       "url": "https://syrianobserver.com/society/arrest-of-hassan-akkad-in-damascus-sparks-widespread-outcry-what-is-happening-behind-the-scenes.html",
       "published_date": "2026-06-18T21:00:48+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Vietnam police rescue more than 400 cats from animal theft crime ring",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/17/vietnam-police-rescue-over-400-cats-from-illegal-meat-trade?traffic_source=rss",
-      "published_date": "2026-06-17T08:58:04+00:00",
       "category": "Economy"
     },
     {
@@ -176,13 +162,6 @@
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/news/2026/6/19/syrian-activist-hassan-akkad-detained-in-damascus?traffic_source=rss",
       "published_date": "2026-06-19T09:49:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Inside Canada’s ‘troubling’ shift on migrant, refugee rights",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/17/inside-canadas-troubling-shift-on-migrant-refugee-rights?traffic_source=rss",
-      "published_date": "2026-06-17T11:53:53+00:00",
       "category": "Local Events"
     }
   ]
