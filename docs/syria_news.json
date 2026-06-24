@@ -1,8 +1,22 @@
 {
   "country": "Syria",
-  "last_updated": "2026-06-24T13:13:54.190385+00:00",
-  "story_count": 23,
+  "last_updated": "2026-06-24T23:54:56.558601+00:00",
+  "story_count": 26,
   "stories": [
+    {
+      "title": "Strategic Signaling: Is Damascus Positioning Itself as a Mediator in Lebanon?",
+      "source": "Syrian Observer",
+      "url": "https://syrianobserver.com/foreign-actors/strategic-signaling-is-damascus-positioning-itself-as-a-mediator-in-lebanon.html",
+      "published_date": "2026-06-24T21:00:52+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Syria’s Cybercrime Law: An Assad-Era Relic Still Strangling Free Speech",
+      "source": "Syrian Observer",
+      "url": "https://syrianobserver.com/syrian-actors/syrias-cybercrime-law-an-assad-era-relic-still-strangling-free-speech.html",
+      "published_date": "2026-06-24T21:00:03+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "UN Security Council Session on Syria: Broad Support for Stability and Renewed Calls to Halt Israeli Aggression",
       "source": "Syrian Observer",
@@ -15,20 +29,6 @@
       "source": "Syrian Observer",
       "url": "https://syrianobserver.com/syrian-actors/syrian-foreign-ministry-appoints-jihad-makdissi-as-advisor-for-american-affairs.html",
       "published_date": "2026-06-22T21:00:30+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Upcoming Congressional Negotiations May Reshape U.S. Military Aid Policy in Syria",
-      "source": "Syrian Observer",
-      "url": "https://syrianobserver.com/foreign-actors/upcoming-congressional-negotiations-may-reshape-u-s-military-aid-policy-in-syria.html",
-      "published_date": "2026-06-17T21:00:16+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Switzerland Lifts Sanctions on Syrian Defense, Interior Ministries and Five Other Entities",
-      "source": "Syrian Observer",
-      "url": "https://syrianobserver.com/foreign-actors/switzerland-lifts-sanctions-on-syrian-defense-interior-ministries-and-five-other-entities.html",
-      "published_date": "2026-06-17T21:00:15+00:00",
       "category": "Diplomacy"
     },
     {
@@ -74,18 +74,18 @@
       "category": "Military"
     },
     {
-      "title": "SDF Commander Mazloum Abdi Meets U.S. Envoy and KRI President Barzani in Erbil to Discuss Military Integration",
+      "title": "President Sharaa Meets Delegation from US Energy Giant Chevron",
       "source": "Syrian Observer",
-      "url": "https://syrianobserver.com/syrian-actors/sdf-commander-mazloum-abdi-meets-u-s-envoy-and-kri-president-barzani-in-erbil-to-discuss-military-integration.html",
-      "published_date": "2026-06-17T21:00:51+00:00",
-      "category": "Military"
+      "url": "https://syrianobserver.com/society/president-sharaa-meets-delegation-from-us-energy-giant-chevron.html",
+      "published_date": "2026-06-24T21:00:28+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Child recruitment persists despite SDF-Damascus integration agreement",
-      "source": "Syria Direct",
-      "url": "https://syriadirect.org/child-recruitment-persists-despite-sdf-damascus-integration-agreement/",
-      "published_date": "2026-06-17T16:02:45+00:00",
-      "category": "Military"
+      "title": "Displaced Families in Northern Syria Confront Persistent Barriers to Return",
+      "source": "Syrian Observer",
+      "url": "https://syrianobserver.com/refugees/displaced-families-in-northern-syria-confront-persistent-barriers-to-return.html",
+      "published_date": "2026-06-24T21:00:20+00:00",
+      "category": "Economy"
     },
     {
       "title": "‘A repellent environment’: How Israel is reshaping life in southern Syria",
@@ -107,6 +107,27 @@
       "url": "https://syrianobserver.com/society/arrest-of-hassan-akkad-in-damascus-sparks-widespread-outcry-what-is-happening-behind-the-scenes.html",
       "published_date": "2026-06-18T21:00:48+00:00",
       "category": "Economy"
+    },
+    {
+      "title": "Wasim al-Assad Faces Trial in Damascus on Charges of Crimes Against Humanity",
+      "source": "Syrian Observer",
+      "url": "https://syrianobserver.com/syrian-actors/wasim-al-assad-faces-trial-in-damascus-on-charges-of-crimes-against-humanity.html",
+      "published_date": "2026-06-24T21:00:46+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Wins by Mamdani-backed candidates deal blow to pro-Israel camp in US",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/6/24/wins-by-mamdani-backed-candidates-deal-blow-to-pro-israel-camp-in-us?traffic_source=rss",
+      "published_date": "2026-06-24T19:33:12+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "The living and the dead return home to Afrin",
+      "source": "Syria Direct",
+      "url": "https://syriadirect.org/the-living-and-the-dead-return-home-to-afrin/",
+      "published_date": "2026-06-24T16:16:55+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Activist Hassan Akkad Details Detention in Damascus, Confirms Ongoing Lawsuits Filed by Hamsho",
