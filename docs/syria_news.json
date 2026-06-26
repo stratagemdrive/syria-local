@@ -1,8 +1,22 @@
 {
   "country": "Syria",
-  "last_updated": "2026-06-25T13:12:58.504892+00:00",
-  "story_count": 26,
+  "last_updated": "2026-06-26T00:02:05.953163+00:00",
+  "story_count": 32,
   "stories": [
+    {
+      "title": "International support grows for Venezuela after deadly earthquakes",
+      "source": "SANA",
+      "url": "https://sana.sy/en/international/2325480/",
+      "published_date": "2026-06-25T13:03:26+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "UN says 57 ships have passed through Strait of Hormuz under evacuation effort",
+      "source": "SANA",
+      "url": "https://sana.sy/en/middle-east/2325488/",
+      "published_date": "2026-06-25T12:44:06+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Strategic Signaling: Is Damascus Positioning Itself as a Mediator in Lebanon?",
       "source": "Syrian Observer",
@@ -30,6 +44,13 @@
       "url": "https://syrianobserver.com/syrian-actors/syrian-foreign-ministry-appoints-jihad-makdissi-as-advisor-for-american-affairs.html",
       "published_date": "2026-06-22T21:00:30+00:00",
       "category": "Diplomacy"
+    },
+    {
+      "title": "Gaza death toll rises to 73,043, Palestinian health authorities say",
+      "source": "SANA",
+      "url": "https://sana.sy/en/international/2325485/",
+      "published_date": "2026-06-25T12:33:40+00:00",
+      "category": "Military"
     },
     {
       "title": "Economy First: Preventing the Resurgence of Conflict in Syria",
@@ -67,18 +88,18 @@
       "category": "Military"
     },
     {
-      "title": "Syria’s Search for Justice Must Not Become a Door to Revenge",
-      "source": "Syrian Observer",
-      "url": "https://syrianobserver.com/syrian-actors/syrias-search-for-justice-must-not-become-a-door-to-revenge.html",
-      "published_date": "2026-06-18T21:00:22+00:00",
-      "category": "Military"
-    },
-    {
       "title": "President Sharaa Meets Delegation from US Energy Giant Chevron",
       "source": "Syrian Observer",
       "url": "https://syrianobserver.com/society/president-sharaa-meets-delegation-from-us-energy-giant-chevron.html",
       "published_date": "2026-06-24T21:00:28+00:00",
       "category": "Energy"
+    },
+    {
+      "title": "Syria explores digital economy cooperation with World Bank, Toters",
+      "source": "SANA",
+      "url": "https://sana.sy/en/investment/2325469/",
+      "published_date": "2026-06-25T11:14:41+00:00",
+      "category": "Economy"
     },
     {
       "title": "Displaced Families in Northern Syria Confront Persistent Barriers to Return",
@@ -102,11 +123,32 @@
       "category": "Economy"
     },
     {
-      "title": "Arrest of Hassan Akkad in Damascus Sparks Widespread Outcry: What is Happening Behind the Scenes?",
-      "source": "Syrian Observer",
-      "url": "https://syrianobserver.com/society/arrest-of-hassan-akkad-in-damascus-sparks-widespread-outcry-what-is-happening-behind-the-scenes.html",
-      "published_date": "2026-06-18T21:00:48+00:00",
-      "category": "Economy"
+      "title": "US supreme court allows Trump administration to strip Haitians and Syrians of protected status",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/us-news/2026/jun/25/supreme-court-haitians-syrians-temporary-protected-status",
+      "published_date": "2026-06-25T18:00:01+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Syrian emergency minister offers condolences to Venezuela after deadly earthquakes",
+      "source": "SANA",
+      "url": "https://sana.sy/en/syria/2325481/",
+      "published_date": "2026-06-25T11:40:28+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Syria marks international Day in Support of victims of torture",
+      "source": "SANA",
+      "url": "https://sana.sy/en/syria/2325456/",
+      "published_date": "2026-06-25T11:03:38+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Aleppo airport receives first Jazeera Airways flight from Kuwait",
+      "source": "SANA",
+      "url": "https://sana.sy/en/syria/2325453/",
+      "published_date": "2026-06-25T10:44:37+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Wasim al-Assad Faces Trial in Damascus on Charges of Crimes Against Humanity",
