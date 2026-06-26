@@ -1,7 +1,7 @@
 {
   "country": "Syria",
-  "last_updated": "2026-06-26T13:05:48.032551+00:00",
-  "story_count": 37,
+  "last_updated": "2026-06-26T23:51:58.367091+00:00",
+  "story_count": 39,
   "stories": [
     {
       "title": "International support grows for Venezuela after deadly earthquakes",
@@ -135,6 +135,20 @@
       "url": "https://syrianobserver.com/syrian-actors/a-banquet-amid-the-ruins-hamshos-invitation-to-journalists-ignites-public-outrage-in-syria.html",
       "published_date": "2026-06-21T21:00:32+00:00",
       "category": "Economy"
+    },
+    {
+      "title": "UN rights chief calls for probe into migrant deaths in US detention centres",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/6/26/un-rights-chief-calls-for-probe-into-migrant-deaths-in-us-detention-centres?traffic_source=rss",
+      "published_date": "2026-06-26T20:58:19+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Advocates warn of wide-ranging implications of US Supreme Court TPS ruling",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/6/26/advocates-warn-of-wide-ranging-implications-of-us-supreme-court-tps-ruling?traffic_source=rss",
+      "published_date": "2026-06-26T18:33:04+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Trump finds partner in supreme court in his war against immigration",
