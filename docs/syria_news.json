@@ -1,7 +1,7 @@
 {
   "country": "Syria",
-  "last_updated": "2026-06-26T00:02:05.953163+00:00",
-  "story_count": 32,
+  "last_updated": "2026-06-26T13:05:48.032551+00:00",
+  "story_count": 37,
   "stories": [
     {
       "title": "International support grows for Venezuela after deadly earthquakes",
@@ -44,6 +44,13 @@
       "url": "https://syrianobserver.com/syrian-actors/syrian-foreign-ministry-appoints-jihad-makdissi-as-advisor-for-american-affairs.html",
       "published_date": "2026-06-22T21:00:30+00:00",
       "category": "Diplomacy"
+    },
+    {
+      "title": "How Israel’s shadow war on Iran ended in open conflict | Featured Documentary",
+      "source": "Syrian Observer",
+      "url": "https://syrianobserver.com/youtube/how-israels-shadow-war-on-iran-ended-in-open-conflict-featured-documentary.html",
+      "published_date": "2026-06-26T07:22:07+00:00",
+      "category": "Military"
     },
     {
       "title": "Gaza death toll rises to 73,043, Palestinian health authorities say",
@@ -95,6 +102,13 @@
       "category": "Energy"
     },
     {
+      "title": "Egyptian Billionaire Naguib Sawiris Visits Damascus, Signalling Rising Confidence in Syria’s Investment Climate",
+      "source": "Syrian Observer",
+      "url": "https://syrianobserver.com/foreign-actors/egyptian-billionaire-naguib-sawiris-visits-damascus-signalling-rising-confidence-in-syrias-investment-climate.html",
+      "published_date": "2026-06-25T21:00:16+00:00",
+      "category": "Economy"
+    },
+    {
       "title": "Syria explores digital economy cooperation with World Bank, Toters",
       "source": "SANA",
       "url": "https://sana.sy/en/investment/2325469/",
@@ -121,6 +135,34 @@
       "url": "https://syrianobserver.com/syrian-actors/a-banquet-amid-the-ruins-hamshos-invitation-to-journalists-ignites-public-outrage-in-syria.html",
       "published_date": "2026-06-21T21:00:32+00:00",
       "category": "Economy"
+    },
+    {
+      "title": "Trump finds partner in supreme court in his war against immigration",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/us-news/2026/jun/26/trump-supreme-court-immigration",
+      "published_date": "2026-06-26T11:00:14+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "US ends deportation protections (TPS) for Haitians and Syrians",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/26/us-ends-deportation-protections-tps-for-haitians-and-syrians?traffic_source=rss",
+      "published_date": "2026-06-26T05:25:44+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "From Supreme Cleric to Transitional Justice: The Rise and Fall of Ahmad Badreddin Hassoun",
+      "source": "Syrian Observer",
+      "url": "https://syrianobserver.com/syrian-actors/from-supreme-cleric-to-transitional-justice-the-rise-and-fall-of-ahmad-badreddin-hassoun.html",
+      "published_date": "2026-06-25T21:00:41+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Syrian Activist Raed Hamdan Arrested in Rural Damascus Over Defamation Lawsuit, Sparking Free Speech Debate",
+      "source": "Syrian Observer",
+      "url": "https://syrianobserver.com/syrian-actors/syrian-activist-raed-hamdan-arrested-in-rural-damascus-over-defamation-lawsuit-sparking-free-speech-debate.html",
+      "published_date": "2026-06-25T21:00:38+00:00",
+      "category": "Local Events"
     },
     {
       "title": "US supreme court allows Trump administration to strip Haitians and Syrians of protected status",
@@ -218,13 +260,6 @@
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/news/2026/6/20/german-journalist-held-in-syria-back-home-family-says?traffic_source=rss",
       "published_date": "2026-06-20T11:32:33+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Syrian activist Hassan Akkad detained in Damascus",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/19/syrian-activist-hassan-akkad-detained-in-damascus?traffic_source=rss",
-      "published_date": "2026-06-19T09:49:00+00:00",
       "category": "Local Events"
     }
   ]
