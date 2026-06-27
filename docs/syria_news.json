@@ -1,7 +1,7 @@
 {
   "country": "Syria",
-  "last_updated": "2026-06-26T23:51:58.367091+00:00",
-  "story_count": 39,
+  "last_updated": "2026-06-27T12:05:20.903161+00:00",
+  "story_count": 38,
   "stories": [
     {
       "title": "International support grows for Venezuela after deadly earthquakes",
@@ -267,13 +267,6 @@
       "source": "Syrian Observer",
       "url": "https://syrianobserver.com/foreign-actors/syria-approves-deportation-of-detained-german-journalist-eva-michelmann-after-months-in-custody.html",
       "published_date": "2026-06-21T21:00:19+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "German journalist held in Syria back home, family says",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/20/german-journalist-held-in-syria-back-home-family-says?traffic_source=rss",
-      "published_date": "2026-06-20T11:32:33+00:00",
       "category": "Local Events"
     }
   ]
