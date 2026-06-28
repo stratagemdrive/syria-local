@@ -1,8 +1,15 @@
 {
   "country": "Syria",
-  "last_updated": "2026-06-28T12:13:09.289051+00:00",
+  "last_updated": "2026-06-28T23:56:47.027025+00:00",
   "story_count": 37,
   "stories": [
+    {
+      "title": "National Justice Commission and SJAC Sign Technical Cooperation Agreement",
+      "source": "Syrian Observer",
+      "url": "https://syrianobserver.com/syrian-actors/national-justice-commission-and-sjac-sign-technical-cooperation-agreement.html",
+      "published_date": "2026-06-28T21:00:36+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "International support grows for Venezuela after deadly earthquakes",
       "source": "SANA",
@@ -46,6 +53,20 @@
       "category": "Diplomacy"
     },
     {
+      "title": "Sharaa: Syria Waging an All-Out War on Drugs",
+      "source": "Syrian Observer",
+      "url": "https://syrianobserver.com/society/sharaa-syria-waging-an-all-out-war-on-drugs.html",
+      "published_date": "2026-06-28T21:00:46+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Three firefighters killed in US wildfires along Colorado–Utah border",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/6/28/three-firefighters-killed-in-us-wildfires-along-colorado-utah?traffic_source=rss",
+      "published_date": "2026-06-28T15:16:10+00:00",
+      "category": "Military"
+    },
+    {
       "title": "Kenya rights groups say protesters found dumped, tortured after arrests",
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/news/2026/6/27/kenya-rights-groups-say-protesters-found-dumped-tortured-after-arrests?traffic_source=rss",
@@ -81,13 +102,6 @@
       "category": "Military"
     },
     {
-      "title": "Geagea Rejects Trump Proposal for Syrian Troop Deployment to Lebanon",
-      "source": "Syrian Observer",
-      "url": "https://syrianobserver.com/foreign-actors/geagea-rejects-trump-proposal-for-syrian-troop-deployment-to-lebanon.html",
-      "published_date": "2026-06-21T21:00:57+00:00",
-      "category": "Military"
-    },
-    {
       "title": "President Sharaa Meets Delegation from US Energy Giant Chevron",
       "source": "Syrian Observer",
       "url": "https://syrianobserver.com/society/president-sharaa-meets-delegation-from-us-energy-giant-chevron.html",
@@ -120,13 +134,6 @@
       "source": "Syria Direct",
       "url": "https://syriadirect.org/a-repellent-environment-how-israel-is-reshaping-life-in-southern-syria/",
       "published_date": "2026-06-22T17:09:53+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "A Banquet Amid the Ruins: Hamsho’s Invitation to Journalists Ignites Public Outrage in Syria",
-      "source": "Syrian Observer",
-      "url": "https://syrianobserver.com/syrian-actors/a-banquet-amid-the-ruins-hamshos-invitation-to-journalists-ignites-public-outrage-in-syria.html",
-      "published_date": "2026-06-21T21:00:32+00:00",
       "category": "Economy"
     },
     {
@@ -253,13 +260,6 @@
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/news/2026/6/22/palestinian-children-unprotected-as-ngos-forced-out-of-gaza-and-west-bank?traffic_source=rss",
       "published_date": "2026-06-22T20:47:55+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Syria Approves Deportation of Detained German Journalist Eva Michelmann After Months in Custody",
-      "source": "Syrian Observer",
-      "url": "https://syrianobserver.com/foreign-actors/syria-approves-deportation-of-detained-german-journalist-eva-michelmann-after-months-in-custody.html",
-      "published_date": "2026-06-21T21:00:19+00:00",
       "category": "Local Events"
     }
   ]
