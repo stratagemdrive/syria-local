@@ -1,8 +1,15 @@
 {
   "country": "Syria",
-  "last_updated": "2026-06-28T23:56:47.027025+00:00",
-  "story_count": 37,
+  "last_updated": "2026-06-29T14:44:55.497216+00:00",
+  "story_count": 38,
   "stories": [
+    {
+      "title": "‘Tit-for-tat US-Iran attacks appear to be over’",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/29/tit-for-tat-us-iran-attacks-appear-to-be?traffic_source=rss",
+      "published_date": "2026-06-29T09:58:26+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "National Justice Commission and SJAC Sign Technical Cooperation Agreement",
       "source": "Syrian Observer",
