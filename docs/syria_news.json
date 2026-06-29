@@ -1,8 +1,15 @@
 {
   "country": "Syria",
-  "last_updated": "2026-06-29T14:44:55.497216+00:00",
+  "last_updated": "2026-06-29T23:49:23.517783+00:00",
   "story_count": 38,
   "stories": [
+    {
+      "title": "Iraqi Foreign Minister Holds Talks in Damascus on Bilateral Relations and Joint Coordination with Sharaa and Shibani",
+      "source": "Syrian Observer",
+      "url": "https://syrianobserver.com/foreign-actors/iraqi-foreign-minister-holds-talks-in-damascus-on-bilateral-relations-and-joint-coordination-with-sharaa-and-shibani.html",
+      "published_date": "2026-06-29T21:00:42+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "‘Tit-for-tat US-Iran attacks appear to be over’",
       "source": "Al Jazeera",
@@ -53,11 +60,11 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Syrian Foreign Ministry Appoints Jihad Makdissi as Advisor for American Affairs",
+      "title": "Israeli Army Claims Foiling Infiltration and Targeting Armed Cell in Southern Syria",
       "source": "Syrian Observer",
-      "url": "https://syrianobserver.com/syrian-actors/syrian-foreign-ministry-appoints-jihad-makdissi-as-advisor-for-american-affairs.html",
-      "published_date": "2026-06-22T21:00:30+00:00",
-      "category": "Diplomacy"
+      "url": "https://syrianobserver.com/foreign-actors/israeli-army-claims-foiling-infiltration-and-targeting-armed-cell-in-southern-syria.html",
+      "published_date": "2026-06-29T21:00:42+00:00",
+      "category": "Military"
     },
     {
       "title": "Sharaa: Syria Waging an All-Out War on Drugs",
@@ -137,11 +144,18 @@
       "category": "Economy"
     },
     {
-      "title": "‘A repellent environment’: How Israel is reshaping life in southern Syria",
-      "source": "Syria Direct",
-      "url": "https://syriadirect.org/a-repellent-environment-how-israel-is-reshaping-life-in-southern-syria/",
-      "published_date": "2026-06-22T17:09:53+00:00",
-      "category": "Economy"
+      "title": "Ankara Reveals Upcoming Visit of Turkish Interior Minister to Damascus",
+      "source": "Syrian Observer",
+      "url": "https://syrianobserver.com/foreign-actors/ankara-reveals-upcoming-visit-of-turkish-interior-minister-to-damascus.html",
+      "published_date": "2026-06-29T21:00:03+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "US homeland security secretary tells migrants to seek permanent status or leave",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/us-news/2026/jun/28/markwayne-mullin-migrants-permanent-residence-tps-ruling",
+      "published_date": "2026-06-28T18:48:40+00:00",
+      "category": "Local Events"
     },
     {
       "title": "UN rights chief calls for probe into migrant deaths in US detention centres",
@@ -253,20 +267,6 @@
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/news/2026/6/23/us-supreme-court-backs-trump-policy-on-green-card-holder-rights?traffic_source=rss",
       "published_date": "2026-06-23T18:24:26+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Syria, Lebanon, and Hezbollah: Strategic Influence Without Intervention, or an Impossible Return to Tutelage?",
-      "source": "Syrian Observer",
-      "url": "https://syrianobserver.com/syrian-actors/syria-lebanon-and-hezbollah-strategic-influence-without-intervention-or-an-impossible-return-to-tutelage.html",
-      "published_date": "2026-06-22T21:00:57+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Palestinian children ‘unprotected’ as NGOs forced out of Gaza and West Bank",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/22/palestinian-children-unprotected-as-ngos-forced-out-of-gaza-and-west-bank?traffic_source=rss",
-      "published_date": "2026-06-22T20:47:55+00:00",
       "category": "Local Events"
     }
   ]
