@@ -1,7 +1,7 @@
 {
   "country": "Syria",
-  "last_updated": "2026-06-30T13:06:23.022536+00:00",
-  "story_count": 38,
+  "last_updated": "2026-06-30T23:55:00.281766+00:00",
+  "story_count": 33,
   "stories": [
     {
       "title": "Iraqi Foreign Minister Holds Talks in Damascus on Bilateral Relations and Joint Coordination with Sharaa and Shibani",
@@ -53,13 +53,6 @@
       "category": "Diplomacy"
     },
     {
-      "title": "UN Security Council Session on Syria: Broad Support for Stability and Renewed Calls to Halt Israeli Aggression",
-      "source": "Syrian Observer",
-      "url": "https://syrianobserver.com/foreign-actors/un-security-council-session-on-syria-broad-support-for-stability-and-renewed-calls-to-halt-israeli-aggression.html",
-      "published_date": "2026-06-23T21:00:21+00:00",
-      "category": "Diplomacy"
-    },
-    {
       "title": "Israeli Army Claims Foiling Infiltration and Targeting Armed Cell in Southern Syria",
       "source": "Syrian Observer",
       "url": "https://syrianobserver.com/foreign-actors/israeli-army-claims-foiling-infiltration-and-targeting-armed-cell-in-southern-syria.html",
@@ -102,20 +95,6 @@
       "category": "Military"
     },
     {
-      "title": "Economy First: Preventing the Resurgence of Conflict in Syria",
-      "source": "Syrian Observer",
-      "url": "https://syrianobserver.com/society/economy-first-preventing-the-resurgence-of-conflict-in-syria.html",
-      "published_date": "2026-06-23T21:01:08+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Video: Israeli troops seen patrolling Syrian countryside",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/23/video-israeli-troops-seen-patrolling-syrian-countryside?traffic_source=rss",
-      "published_date": "2026-06-23T18:56:08+00:00",
-      "category": "Military"
-    },
-    {
       "title": "President Sharaa Meets Delegation from US Energy Giant Chevron",
       "source": "Syrian Observer",
       "url": "https://syrianobserver.com/society/president-sharaa-meets-delegation-from-us-energy-giant-chevron.html",
@@ -142,6 +121,13 @@
       "url": "https://syrianobserver.com/refugees/displaced-families-in-northern-syria-confront-persistent-barriers-to-return.html",
       "published_date": "2026-06-24T21:00:20+00:00",
       "category": "Economy"
+    },
+    {
+      "title": "Outside the plan: Urban growth outpaces roads and services in Daraa",
+      "source": "Syria Direct",
+      "url": "https://syriadirect.org/outside-the-plan-urban-growth-outpaces-roads-and-services-in-daraa/",
+      "published_date": "2026-06-30T14:54:20+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Ankara Reveals Upcoming Visit of Turkish Interior Minister to Damascus",
@@ -246,27 +232,6 @@
       "source": "Syria Direct",
       "url": "https://syriadirect.org/the-living-and-the-dead-return-home-to-afrin/",
       "published_date": "2026-06-24T16:16:55+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Activist Hassan Akkad Details Detention in Damascus, Confirms Ongoing Lawsuits Filed by Hamsho",
-      "source": "Syrian Observer",
-      "url": "https://syrianobserver.com/syrian-actors/activist-hassan-akkad-details-detention-in-damascus-confirms-ongoing-lawsuits-filed-by-hamsho.html",
-      "published_date": "2026-06-23T21:00:36+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Bumper Crop, Heavy Burdens: Coastal Syria’s Wheat Farmers Weigh Optimism Against Hard Reality",
-      "source": "Syrian Observer",
-      "url": "https://syrianobserver.com/society/bumper-crop-heavy-burdens-coastal-syrias-wheat-farmers-weigh-optimism-against-hard-reality.html",
-      "published_date": "2026-06-23T21:00:35+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "US Supreme Court backs Trump policy on green card holder rights",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/23/us-supreme-court-backs-trump-policy-on-green-card-holder-rights?traffic_source=rss",
-      "published_date": "2026-06-23T18:24:26+00:00",
       "category": "Local Events"
     }
   ]
