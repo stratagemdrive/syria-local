@@ -1,7 +1,7 @@
 {
   "country": "Syria",
-  "last_updated": "2026-07-01T13:31:49.433737+00:00",
-  "story_count": 39,
+  "last_updated": "2026-07-01T23:59:18.424342+00:00",
+  "story_count": 32,
   "stories": [
     {
       "title": "Syrian Foreign Minister to Visit Beirut with Initiative Aimed at Bolstering Lebanese Stability",
@@ -43,20 +43,6 @@
       "source": "SANA",
       "url": "https://sana.sy/en/middle-east/2325488/",
       "published_date": "2026-06-25T12:44:06+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Strategic Signaling: Is Damascus Positioning Itself as a Mediator in Lebanon?",
-      "source": "Syrian Observer",
-      "url": "https://syrianobserver.com/foreign-actors/strategic-signaling-is-damascus-positioning-itself-as-a-mediator-in-lebanon.html",
-      "published_date": "2026-06-24T21:00:52+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Syria’s Cybercrime Law: An Assad-Era Relic Still Strangling Free Speech",
-      "source": "Syrian Observer",
-      "url": "https://syrianobserver.com/syrian-actors/syrias-cybercrime-law-an-assad-era-relic-still-strangling-free-speech.html",
-      "published_date": "2026-06-24T21:00:03+00:00",
       "category": "Diplomacy"
     },
     {
@@ -109,13 +95,6 @@
       "category": "Military"
     },
     {
-      "title": "President Sharaa Meets Delegation from US Energy Giant Chevron",
-      "source": "Syrian Observer",
-      "url": "https://syrianobserver.com/society/president-sharaa-meets-delegation-from-us-energy-giant-chevron.html",
-      "published_date": "2026-06-24T21:00:28+00:00",
-      "category": "Energy"
-    },
-    {
       "title": "Syrian Intelligence Chief Ties National Stability to Economic Recovery in UN Address",
       "source": "Syrian Observer",
       "url": "https://syrianobserver.com/syrian-actors/syrian-intelligence-chief-ties-national-stability-to-economic-recovery-in-un-address.html",
@@ -141,13 +120,6 @@
       "source": "SANA",
       "url": "https://sana.sy/en/investment/2325469/",
       "published_date": "2026-06-25T11:14:41+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Displaced Families in Northern Syria Confront Persistent Barriers to Return",
-      "source": "Syrian Observer",
-      "url": "https://syrianobserver.com/refugees/displaced-families-in-northern-syria-confront-persistent-barriers-to-return.html",
-      "published_date": "2026-06-24T21:00:20+00:00",
       "category": "Economy"
     },
     {
@@ -253,27 +225,6 @@
       "source": "SANA",
       "url": "https://sana.sy/en/syria/2325453/",
       "published_date": "2026-06-25T10:44:37+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Wasim al-Assad Faces Trial in Damascus on Charges of Crimes Against Humanity",
-      "source": "Syrian Observer",
-      "url": "https://syrianobserver.com/syrian-actors/wasim-al-assad-faces-trial-in-damascus-on-charges-of-crimes-against-humanity.html",
-      "published_date": "2026-06-24T21:00:46+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Wins by Mamdani-backed candidates deal blow to pro-Israel camp in US",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/24/wins-by-mamdani-backed-candidates-deal-blow-to-pro-israel-camp-in-us?traffic_source=rss",
-      "published_date": "2026-06-24T19:33:12+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "The living and the dead return home to Afrin",
-      "source": "Syria Direct",
-      "url": "https://syriadirect.org/the-living-and-the-dead-return-home-to-afrin/",
-      "published_date": "2026-06-24T16:16:55+00:00",
       "category": "Local Events"
     }
   ]
