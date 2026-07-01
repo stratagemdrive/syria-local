@@ -1,8 +1,15 @@
 {
   "country": "Syria",
-  "last_updated": "2026-06-30T23:55:00.281766+00:00",
-  "story_count": 33,
+  "last_updated": "2026-07-01T13:31:49.433737+00:00",
+  "story_count": 39,
   "stories": [
+    {
+      "title": "Syrian Foreign Minister to Visit Beirut with Initiative Aimed at Bolstering Lebanese Stability",
+      "source": "Syrian Observer",
+      "url": "https://syrianobserver.com/foreign-actors/syrian-foreign-minister-to-visit-beirut-with-initiative-aimed-at-bolstering-lebanese-stability.html",
+      "published_date": "2026-06-30T21:00:42+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Iraqi Foreign Minister Holds Talks in Damascus on Bilateral Relations and Joint Coordination with Sharaa and Shibani",
       "source": "Syrian Observer",
@@ -51,6 +58,13 @@
       "url": "https://syrianobserver.com/syrian-actors/syrias-cybercrime-law-an-assad-era-relic-still-strangling-free-speech.html",
       "published_date": "2026-06-24T21:00:03+00:00",
       "category": "Diplomacy"
+    },
+    {
+      "title": "‘Get away from there – run!’ The stunning film about love blossoming amid the carnage of Aleppo",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/film/2026/jul/01/birds-of-war-aleppo-syria-love-carnage",
+      "published_date": "2026-07-01T04:00:25+00:00",
+      "category": "Military"
     },
     {
       "title": "Israeli Army Claims Foiling Infiltration and Targeting Armed Cell in Southern Syria",
@@ -102,6 +116,20 @@
       "category": "Energy"
     },
     {
+      "title": "Syrian Intelligence Chief Ties National Stability to Economic Recovery in UN Address",
+      "source": "Syrian Observer",
+      "url": "https://syrianobserver.com/syrian-actors/syrian-intelligence-chief-ties-national-stability-to-economic-recovery-in-un-address.html",
+      "published_date": "2026-06-30T21:00:11+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "World Bank Places Syria Among Lowest-Income Economies for FY2026",
+      "source": "Syrian Observer",
+      "url": "https://syrianobserver.com/society/world-bank-places-syria-among-lowest-income-economies-for-fy2026.html",
+      "published_date": "2026-06-30T21:00:02+00:00",
+      "category": "Economy"
+    },
+    {
       "title": "Egyptian Billionaire Naguib Sawiris Visits Damascus, Signalling Rising Confidence in Syria’s Investment Climate",
       "source": "Syrian Observer",
       "url": "https://syrianobserver.com/foreign-actors/egyptian-billionaire-naguib-sawiris-visits-damascus-signalling-rising-confidence-in-syrias-investment-climate.html",
@@ -121,6 +149,20 @@
       "url": "https://syrianobserver.com/refugees/displaced-families-in-northern-syria-confront-persistent-barriers-to-return.html",
       "published_date": "2026-06-24T21:00:20+00:00",
       "category": "Economy"
+    },
+    {
+      "title": "Political Rift Splinters Joint Kurdish Negotiation Delegation to Damascus",
+      "source": "Syrian Observer",
+      "url": "https://syrianobserver.com/syrian-actors/political-rift-splinters-joint-kurdish-negotiation-delegation-to-damascus.html",
+      "published_date": "2026-06-30T21:01:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Arson Targets Alawite Shrine in Rural Homs",
+      "source": "Syrian Observer",
+      "url": "https://syrianobserver.com/syrian-actors/arson-targets-alawite-shrine-in-rural-homs.html",
+      "published_date": "2026-06-30T21:00:46+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Outside the plan: Urban growth outpaces roads and services in Daraa",
