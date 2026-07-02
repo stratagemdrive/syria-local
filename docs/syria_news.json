@@ -1,7 +1,7 @@
 {
   "country": "Syria",
-  "last_updated": "2026-07-02T12:53:55.336499+00:00",
-  "story_count": 29,
+  "last_updated": "2026-07-02T23:52:46.111053+00:00",
+  "story_count": 27,
   "stories": [
     {
       "title": "'Two weeks after her death I got a call': Gaza patients face agonising delays for evacuation",
@@ -39,11 +39,25 @@
       "category": "Diplomacy"
     },
     {
-      "title": "International support grows for Venezuela after deadly earthquakes",
-      "source": "SANA",
-      "url": "https://sana.sy/en/international/2325480/",
-      "published_date": "2026-06-25T13:03:26+00:00",
-      "category": "Diplomacy"
+      "title": "Bomb blast at Damascus cafe kills six, Syrian state media say",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cn0vwxyz40zo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-07-02T17:56:18+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Deadly blast at Damascus cafe leaves 6 dead, 22 injured",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/2/deadly-blast-at-damascus-cafe-leaves-6-dead-22-injured?traffic_source=rss",
+      "published_date": "2026-07-02T17:36:49+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "What’s behind the deadly bombing of a crowded Damascus cafe?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/2/whats-behind-the-deadly-bombing-of-a-crowded-damascus-cafe?traffic_source=rss",
+      "published_date": "2026-07-02T17:22:36+00:00",
+      "category": "Military"
     },
     {
       "title": "Explosion heard in Syria’s capital Damascus: state media",
@@ -116,13 +130,6 @@
       "category": "Economy"
     },
     {
-      "title": "Egyptian Billionaire Naguib Sawiris Visits Damascus, Signalling Rising Confidence in Syria’s Investment Climate",
-      "source": "Syrian Observer",
-      "url": "https://syrianobserver.com/foreign-actors/egyptian-billionaire-naguib-sawiris-visits-damascus-signalling-rising-confidence-in-syrias-investment-climate.html",
-      "published_date": "2026-06-25T21:00:16+00:00",
-      "category": "Economy"
-    },
-    {
       "title": "Political Rift Splinters Joint Kurdish Negotiation Delegation to Damascus",
       "source": "Syrian Observer",
       "url": "https://syrianobserver.com/syrian-actors/political-rift-splinters-joint-kurdish-negotiation-delegation-to-damascus.html",
@@ -183,27 +190,6 @@
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/6/26/us-ends-deportation-protections-tps-for-haitians-and-syrians?traffic_source=rss",
       "published_date": "2026-06-26T05:25:44+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "From Supreme Cleric to Transitional Justice: The Rise and Fall of Ahmad Badreddin Hassoun",
-      "source": "Syrian Observer",
-      "url": "https://syrianobserver.com/syrian-actors/from-supreme-cleric-to-transitional-justice-the-rise-and-fall-of-ahmad-badreddin-hassoun.html",
-      "published_date": "2026-06-25T21:00:41+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Syrian Activist Raed Hamdan Arrested in Rural Damascus Over Defamation Lawsuit, Sparking Free Speech Debate",
-      "source": "Syrian Observer",
-      "url": "https://syrianobserver.com/syrian-actors/syrian-activist-raed-hamdan-arrested-in-rural-damascus-over-defamation-lawsuit-sparking-free-speech-debate.html",
-      "published_date": "2026-06-25T21:00:38+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "US supreme court allows Trump administration to strip Haitians and Syrians of protected status",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/us-news/2026/jun/25/supreme-court-haitians-syrians-temporary-protected-status",
-      "published_date": "2026-06-25T18:00:01+00:00",
       "category": "Local Events"
     }
   ]
