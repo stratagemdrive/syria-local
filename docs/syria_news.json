@@ -1,8 +1,15 @@
 {
   "country": "Syria",
-  "last_updated": "2026-07-01T23:59:18.424342+00:00",
-  "story_count": 32,
+  "last_updated": "2026-07-02T12:53:55.336499+00:00",
+  "story_count": 29,
   "stories": [
+    {
+      "title": "'Two weeks after her death I got a call': Gaza patients face agonising delays for evacuation",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cn75ex1dv61o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-07-02T04:59:55+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Syrian Foreign Minister to Visit Beirut with Initiative Aimed at Bolstering Lebanese Stability",
       "source": "Syrian Observer",
@@ -39,11 +46,18 @@
       "category": "Diplomacy"
     },
     {
-      "title": "UN says 57 ships have passed through Strait of Hormuz under evacuation effort",
-      "source": "SANA",
-      "url": "https://sana.sy/en/middle-east/2325488/",
-      "published_date": "2026-06-25T12:44:06+00:00",
-      "category": "Diplomacy"
+      "title": "Explosion heard in Syria’s capital Damascus: state media",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/2/explosion-heard-in-syrias-capital-damascus-state-media?traffic_source=rss",
+      "published_date": "2026-07-02T12:32:01+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Birds of War review – war journalists find love among the ruins",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/film/2026/jul/02/birds-of-war-review-war-journalists-find-love-among-the-ruins",
+      "published_date": "2026-07-02T06:00:05+00:00",
+      "category": "Military"
     },
     {
       "title": "‘Get away from there – run!’ The stunning film about love blossoming amid the carnage of Aleppo",
@@ -88,13 +102,6 @@
       "category": "Military"
     },
     {
-      "title": "Gaza death toll rises to 73,043, Palestinian health authorities say",
-      "source": "SANA",
-      "url": "https://sana.sy/en/international/2325485/",
-      "published_date": "2026-06-25T12:33:40+00:00",
-      "category": "Military"
-    },
-    {
       "title": "Syrian Intelligence Chief Ties National Stability to Economic Recovery in UN Address",
       "source": "Syrian Observer",
       "url": "https://syrianobserver.com/syrian-actors/syrian-intelligence-chief-ties-national-stability-to-economic-recovery-in-un-address.html",
@@ -113,13 +120,6 @@
       "source": "Syrian Observer",
       "url": "https://syrianobserver.com/foreign-actors/egyptian-billionaire-naguib-sawiris-visits-damascus-signalling-rising-confidence-in-syrias-investment-climate.html",
       "published_date": "2026-06-25T21:00:16+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Syria explores digital economy cooperation with World Bank, Toters",
-      "source": "SANA",
-      "url": "https://sana.sy/en/investment/2325469/",
-      "published_date": "2026-06-25T11:14:41+00:00",
       "category": "Economy"
     },
     {
@@ -204,27 +204,6 @@
       "source": "The Guardian",
       "url": "https://www.theguardian.com/us-news/2026/jun/25/supreme-court-haitians-syrians-temporary-protected-status",
       "published_date": "2026-06-25T18:00:01+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Syrian emergency minister offers condolences to Venezuela after deadly earthquakes",
-      "source": "SANA",
-      "url": "https://sana.sy/en/syria/2325481/",
-      "published_date": "2026-06-25T11:40:28+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Syria marks international Day in Support of victims of torture",
-      "source": "SANA",
-      "url": "https://sana.sy/en/syria/2325456/",
-      "published_date": "2026-06-25T11:03:38+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Aleppo airport receives first Jazeera Airways flight from Kuwait",
-      "source": "SANA",
-      "url": "https://sana.sy/en/syria/2325453/",
-      "published_date": "2026-06-25T10:44:37+00:00",
       "category": "Local Events"
     }
   ]
