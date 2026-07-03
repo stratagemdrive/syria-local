@@ -1,8 +1,15 @@
 {
   "country": "Syria",
-  "last_updated": "2026-07-02T23:52:46.111053+00:00",
-  "story_count": 27,
+  "last_updated": "2026-07-03T12:52:30.910654+00:00",
+  "story_count": 29,
   "stories": [
+    {
+      "title": "Syria Signals a New Playbook in Lebanon: Reading Shibani’s Visit",
+      "source": "Syrian Observer",
+      "url": "https://syrianobserver.com/foreign-actors/syria-signals-a-new-playbook-in-lebanon-reading-shibanis-visit.html",
+      "published_date": "2026-07-02T21:00:08+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "'Two weeks after her death I got a call': Gaza patients face agonising delays for evacuation",
       "source": "BBC News",
@@ -37,6 +44,20 @@
       "url": "https://syrianobserver.com/syrian-actors/national-justice-commission-and-sjac-sign-technical-cooperation-agreement.html",
       "published_date": "2026-06-28T21:00:36+00:00",
       "category": "Diplomacy"
+    },
+    {
+      "title": "Deadly Explosion Kills Five People in Syrian Cafe",
+      "source": "Syrian Observer",
+      "url": "https://syrianobserver.com/youtube/deadly-explosion-kills-five-people-in-syrian-cafe.html",
+      "published_date": "2026-07-03T07:49:14+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Terrorist Attack in the Heart of Damascus",
+      "source": "Syrian Observer",
+      "url": "https://syrianobserver.com/foreign-actors/terrorist-attack-in-the-heart-of-damascus.html",
+      "published_date": "2026-07-02T21:01:43+00:00",
+      "category": "Military"
     },
     {
       "title": "Bomb blast at Damascus cafe kills six, Syrian state media say",
@@ -109,13 +130,6 @@
       "category": "Military"
     },
     {
-      "title": "How Israel’s shadow war on Iran ended in open conflict | Featured Documentary",
-      "source": "Syrian Observer",
-      "url": "https://syrianobserver.com/youtube/how-israels-shadow-war-on-iran-ended-in-open-conflict-featured-documentary.html",
-      "published_date": "2026-06-26T07:22:07+00:00",
-      "category": "Military"
-    },
-    {
       "title": "Syrian Intelligence Chief Ties National Stability to Economic Recovery in UN Address",
       "source": "Syrian Observer",
       "url": "https://syrianobserver.com/syrian-actors/syrian-intelligence-chief-ties-national-stability-to-economic-recovery-in-un-address.html",
@@ -128,6 +142,20 @@
       "url": "https://syrianobserver.com/society/world-bank-places-syria-among-lowest-income-economies-for-fy2026.html",
       "published_date": "2026-06-30T21:00:02+00:00",
       "category": "Economy"
+    },
+    {
+      "title": "Displaced Damascus Residents Challenge New Building License Amid Unresolved Compensation Dispute",
+      "source": "Syrian Observer",
+      "url": "https://syrianobserver.com/society/displaced-damascus-residents-challenge-new-building-license-amid-unresolved-compensation-dispute.html",
+      "published_date": "2026-07-02T21:00:02+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "New Israeli Escalation: Artillery Shelling Hits Areas in Daraa and Quneitra",
+      "source": "Syrian Observer",
+      "url": "https://syrianobserver.com/foreign-actors/new-israeli-escalation-artillery-shelling-hits-areas-in-daraa-and-quneitra.html",
+      "published_date": "2026-07-02T21:00:02+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Political Rift Splinters Joint Kurdish Negotiation Delegation to Damascus",
@@ -176,20 +204,6 @@
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/news/2026/6/26/advocates-warn-of-wide-ranging-implications-of-us-supreme-court-tps-ruling?traffic_source=rss",
       "published_date": "2026-06-26T18:33:04+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Trump finds partner in supreme court in his war against immigration",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/us-news/2026/jun/26/trump-supreme-court-immigration",
-      "published_date": "2026-06-26T11:00:14+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "US ends deportation protections (TPS) for Haitians and Syrians",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/26/us-ends-deportation-protections-tps-for-haitians-and-syrians?traffic_source=rss",
-      "published_date": "2026-06-26T05:25:44+00:00",
       "category": "Local Events"
     }
   ]
