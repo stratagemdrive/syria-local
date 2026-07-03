@@ -1,7 +1,7 @@
 {
   "country": "Syria",
-  "last_updated": "2026-07-03T12:52:30.910654+00:00",
-  "story_count": 29,
+  "last_updated": "2026-07-03T23:53:04.480076+00:00",
+  "story_count": 28,
   "stories": [
     {
       "title": "Syria Signals a New Playbook in Lebanon: Reading Shibani’s Visit",
@@ -44,6 +44,13 @@
       "url": "https://syrianobserver.com/syrian-actors/national-justice-commission-and-sjac-sign-technical-cooperation-agreement.html",
       "published_date": "2026-06-28T21:00:36+00:00",
       "category": "Diplomacy"
+    },
+    {
+      "title": "Lebanon-Israel deal betrays ‘victims of war crimes’, rights groups say",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/3/lebanon-israel-deal-betrays-victims-of-war-crimes-rights-groups-say?traffic_source=rss",
+      "published_date": "2026-07-03T19:27:15+00:00",
+      "category": "Military"
     },
     {
       "title": "Deadly Explosion Kills Five People in Syrian Cafe",
@@ -190,20 +197,6 @@
       "source": "The Guardian",
       "url": "https://www.theguardian.com/us-news/2026/jun/28/markwayne-mullin-migrants-permanent-residence-tps-ruling",
       "published_date": "2026-06-28T18:48:40+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "UN rights chief calls for probe into migrant deaths in US detention centres",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/26/un-rights-chief-calls-for-probe-into-migrant-deaths-in-us-detention-centres?traffic_source=rss",
-      "published_date": "2026-06-26T20:58:19+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Advocates warn of wide-ranging implications of US Supreme Court TPS ruling",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/26/advocates-warn-of-wide-ranging-implications-of-us-supreme-court-tps-ruling?traffic_source=rss",
-      "published_date": "2026-06-26T18:33:04+00:00",
       "category": "Local Events"
     }
   ]
