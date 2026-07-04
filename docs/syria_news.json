@@ -1,7 +1,7 @@
 {
   "country": "Syria",
-  "last_updated": "2026-07-03T23:53:04.480076+00:00",
-  "story_count": 28,
+  "last_updated": "2026-07-04T12:02:28.553018+00:00",
+  "story_count": 29,
   "stories": [
     {
       "title": "Syria Signals a New Playbook in Lebanon: Reading Shibani’s Visit",
@@ -135,6 +135,13 @@
       "url": "https://www.aljazeera.com/news/2026/6/27/kenya-rights-groups-say-protesters-found-dumped-tortured-after-arrests?traffic_source=rss",
       "published_date": "2026-06-27T18:46:23+00:00",
       "category": "Military"
+    },
+    {
+      "title": "Ukraine hits oil and military facilities near Russia’s St Petersburg",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/4/ukraine-hits-oil-and-military-facilities-near-russias-st-petersburg?traffic_source=rss",
+      "published_date": "2026-07-04T10:29:19+00:00",
+      "category": "Energy"
     },
     {
       "title": "Syrian Intelligence Chief Ties National Stability to Economic Recovery in UN Address",
