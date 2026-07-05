@@ -1,8 +1,15 @@
 {
   "country": "Syria",
-  "last_updated": "2026-07-04T23:49:31.096104+00:00",
-  "story_count": 28,
+  "last_updated": "2026-07-05T12:10:41.913965+00:00",
+  "story_count": 30,
   "stories": [
+    {
+      "title": "Iran’s China envoy vows ‘special’ Hormuz treatment for ‘friendly’ countries",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/5/irans-china-envoy-vows-special-hormuz-treatment-for-friendly-countries?traffic_source=rss",
+      "published_date": "2026-07-05T08:09:44+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Syria Signals a New Playbook in Lebanon: Reading Shibani’s Visit",
       "source": "Syrian Observer",
@@ -149,6 +156,13 @@
       "url": "https://syrianobserver.com/society/world-bank-places-syria-among-lowest-income-economies-for-fy2026.html",
       "published_date": "2026-06-30T21:00:02+00:00",
       "category": "Economy"
+    },
+    {
+      "title": "Jailed Gaza hospital chief in life-threatening condition, rights group says",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/5/jailed-gaza-hospital-chief-in-life-threatening-condition-rights-group-says?traffic_source=rss",
+      "published_date": "2026-07-05T11:24:18+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Displaced Damascus Residents Challenge New Building License Amid Unresolved Compensation Dispute",
