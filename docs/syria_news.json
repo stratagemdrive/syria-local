@@ -1,8 +1,15 @@
 {
   "country": "Syria",
-  "last_updated": "2026-07-06T14:22:07.793235+00:00",
-  "story_count": 25,
+  "last_updated": "2026-07-06T23:55:04.329338+00:00",
+  "story_count": 24,
   "stories": [
+    {
+      "title": "Macron arrives in Syria for talks ahead of NATO summit in Turkiye",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/6/macron-arrives-in-syria-for-talks-ahead-of-nato-summit-in-turkiye?traffic_source=rss",
+      "published_date": "2026-07-06T20:50:13+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Iran’s China envoy vows ‘special’ Hormuz treatment for ‘friendly’ countries",
       "source": "Al Jazeera",
@@ -29,13 +36,6 @@
       "source": "Syrian Observer",
       "url": "https://syrianobserver.com/foreign-actors/syrian-foreign-minister-to-visit-beirut-with-initiative-aimed-at-bolstering-lebanese-stability.html",
       "published_date": "2026-06-30T21:00:42+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Iraqi Foreign Minister Holds Talks in Damascus on Bilateral Relations and Joint Coordination with Sharaa and Shibani",
-      "source": "Syrian Observer",
-      "url": "https://syrianobserver.com/foreign-actors/iraqi-foreign-minister-holds-talks-in-damascus-on-bilateral-relations-and-joint-coordination-with-sharaa-and-shibani.html",
-      "published_date": "2026-06-29T21:00:42+00:00",
       "category": "Diplomacy"
     },
     {
@@ -102,13 +102,6 @@
       "category": "Military"
     },
     {
-      "title": "Israeli Army Claims Foiling Infiltration and Targeting Armed Cell in Southern Syria",
-      "source": "Syrian Observer",
-      "url": "https://syrianobserver.com/foreign-actors/israeli-army-claims-foiling-infiltration-and-targeting-armed-cell-in-southern-syria.html",
-      "published_date": "2026-06-29T21:00:42+00:00",
-      "category": "Military"
-    },
-    {
       "title": "Ukraine hits oil and military facilities near Russia’s St Petersburg",
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/news/2026/7/4/ukraine-hits-oil-and-military-facilities-near-russias-st-petersburg?traffic_source=rss",
@@ -128,6 +121,13 @@
       "url": "https://syrianobserver.com/society/world-bank-places-syria-among-lowest-income-economies-for-fy2026.html",
       "published_date": "2026-06-30T21:00:02+00:00",
       "category": "Economy"
+    },
+    {
+      "title": "Ex-Syrian intelligence chief found guilty of torture and sexual abuse by Austrian court",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cy8ddd1m3mpo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-07-06T17:22:38+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Jailed Gaza hospital chief in life-threatening condition, rights group says",
@@ -169,13 +169,6 @@
       "source": "Syria Direct",
       "url": "https://syriadirect.org/outside-the-plan-urban-growth-outpaces-roads-and-services-in-daraa/",
       "published_date": "2026-06-30T14:54:20+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Ankara Reveals Upcoming Visit of Turkish Interior Minister to Damascus",
-      "source": "Syrian Observer",
-      "url": "https://syrianobserver.com/foreign-actors/ankara-reveals-upcoming-visit-of-turkish-interior-minister-to-damascus.html",
-      "published_date": "2026-06-29T21:00:03+00:00",
       "category": "Local Events"
     }
   ]
