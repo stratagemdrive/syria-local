@@ -1,7 +1,7 @@
 {
   "country": "Syria",
-  "last_updated": "2026-07-07T13:13:24.943200+00:00",
-  "story_count": 39,
+  "last_updated": "2026-07-07T23:42:45.351613+00:00",
+  "story_count": 34,
   "stories": [
     {
       "title": "Bombs explode near Damascus hotel housing Macron on Syria visit",
@@ -43,13 +43,6 @@
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/cn75ex1dv61o?at_medium=RSS&at_campaign=rss",
       "published_date": "2026-07-02T04:59:55+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Syrian Foreign Minister to Visit Beirut with Initiative Aimed at Bolstering Lebanese Stability",
-      "source": "Syrian Observer",
-      "url": "https://syrianobserver.com/foreign-actors/syrian-foreign-minister-to-visit-beirut-with-initiative-aimed-at-bolstering-lebanese-stability.html",
-      "published_date": "2026-06-30T21:00:42+00:00",
       "category": "Diplomacy"
     },
     {
@@ -151,18 +144,11 @@
       "category": "Economy"
     },
     {
-      "title": "Syrian Intelligence Chief Ties National Stability to Economic Recovery in UN Address",
-      "source": "Syrian Observer",
-      "url": "https://syrianobserver.com/syrian-actors/syrian-intelligence-chief-ties-national-stability-to-economic-recovery-in-un-address.html",
-      "published_date": "2026-06-30T21:00:11+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "World Bank Places Syria Among Lowest-Income Economies for FY2026",
-      "source": "Syrian Observer",
-      "url": "https://syrianobserver.com/society/world-bank-places-syria-among-lowest-income-economies-for-fy2026.html",
-      "published_date": "2026-06-30T21:00:02+00:00",
-      "category": "Economy"
+      "title": "Several hurt in Damascus blasts as Macron meets Syria’s Sharaa",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/7/several-hurt-in-damascus-blasts-as-macron-meets-syrias-sharaa?traffic_source=rss",
+      "published_date": "2026-07-07T18:09:03+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Explosions injure 18 in Damascus during Macron's visit",
@@ -253,27 +239,6 @@
       "source": "Syrian Observer",
       "url": "https://syrianobserver.com/foreign-actors/new-israeli-escalation-artillery-shelling-hits-areas-in-daraa-and-quneitra.html",
       "published_date": "2026-07-02T21:00:02+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Political Rift Splinters Joint Kurdish Negotiation Delegation to Damascus",
-      "source": "Syrian Observer",
-      "url": "https://syrianobserver.com/syrian-actors/political-rift-splinters-joint-kurdish-negotiation-delegation-to-damascus.html",
-      "published_date": "2026-06-30T21:01:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Arson Targets Alawite Shrine in Rural Homs",
-      "source": "Syrian Observer",
-      "url": "https://syrianobserver.com/syrian-actors/arson-targets-alawite-shrine-in-rural-homs.html",
-      "published_date": "2026-06-30T21:00:46+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Outside the plan: Urban growth outpaces roads and services in Daraa",
-      "source": "Syria Direct",
-      "url": "https://syriadirect.org/outside-the-plan-urban-growth-outpaces-roads-and-services-in-daraa/",
-      "published_date": "2026-06-30T14:54:20+00:00",
       "category": "Local Events"
     }
   ]
