@@ -1,13 +1,27 @@
 {
   "country": "Syria",
-  "last_updated": "2026-07-06T23:55:04.329338+00:00",
-  "story_count": 24,
+  "last_updated": "2026-07-07T13:13:24.943200+00:00",
+  "story_count": 39,
   "stories": [
+    {
+      "title": "Bombs explode near Damascus hotel housing Macron on Syria visit",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/jul/07/explosions-rock-damascus-near-hotel-where-french-president-was-staying",
+      "published_date": "2026-07-07T10:37:32+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Macron arrives in Syria for talks ahead of NATO summit in Turkiye",
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/news/2026/7/6/macron-arrives-in-syria-for-talks-ahead-of-nato-summit-in-turkiye?traffic_source=rss",
       "published_date": "2026-07-06T20:50:13+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "UN Commission of Inquiry on Syria Condemns Damascus Cafe Bombing, Calls for Accountability",
+      "source": "Syrian Observer",
+      "url": "https://syrianobserver.com/security/un-commission-of-inquiry-on-syria-condemns-damascus-cafe-bombing-calls-for-accountability.html",
+      "published_date": "2026-07-06T07:52:57+00:00",
       "category": "Diplomacy"
     },
     {
@@ -37,6 +51,20 @@
       "url": "https://syrianobserver.com/foreign-actors/syrian-foreign-minister-to-visit-beirut-with-initiative-aimed-at-bolstering-lebanese-stability.html",
       "published_date": "2026-06-30T21:00:42+00:00",
       "category": "Diplomacy"
+    },
+    {
+      "title": "Eighteen wounded as explosions rock Damascus during Macron’s visit to Syria",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/7/explosions-heard-in-syrias-damascus?traffic_source=rss",
+      "published_date": "2026-07-07T07:32:04+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Syrian President Establishes National University for Defense Sciences in Damascus",
+      "source": "Syrian Observer",
+      "url": "https://syrianobserver.com/society/syrian-president-establishes-national-university-for-defense-sciences-in-damascus.html",
+      "published_date": "2026-07-07T07:30:35+00:00",
+      "category": "Military"
     },
     {
       "title": "Lebanon-Israel deal betrays ‘victims of war crimes’, rights groups say",
@@ -109,6 +137,20 @@
       "category": "Energy"
     },
     {
+      "title": "One Year On: Where Does Syria’s Sovereign Wealth Fund Stand?",
+      "source": "Syrian Observer",
+      "url": "https://syrianobserver.com/society/one-year-on-where-does-syrias-sovereign-wealth-fund-stand.html",
+      "published_date": "2026-07-07T08:05:25+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Minister of Transport and German Delegation Discuss Investment Opportunities and Infrastructure Development in Syria",
+      "source": "Syrian Observer",
+      "url": "https://syrianobserver.com/society/minister-of-transport-and-german-delegation-discuss-investment-opportunities-and-infrastructure-development-in-syria.html",
+      "published_date": "2026-07-06T07:54:45+00:00",
+      "category": "Economy"
+    },
+    {
       "title": "Syrian Intelligence Chief Ties National Stability to Economic Recovery in UN Address",
       "source": "Syrian Observer",
       "url": "https://syrianobserver.com/syrian-actors/syrian-intelligence-chief-ties-national-stability-to-economic-recovery-in-un-address.html",
@@ -123,10 +165,73 @@
       "category": "Economy"
     },
     {
+      "title": "Explosions injure 18 in Damascus during Macron's visit",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c2eylx1jj9ko?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-07-07T11:16:30+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "What is the new Gaza administration as Hamas dissolves government?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/7/what-is-the-new-gaza-administration-as-hamas-dissolves-government?traffic_source=rss",
+      "published_date": "2026-07-07T10:38:03+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Explosions in Damascus during Macron visit to Syria: What we know",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/7/explosions-in-damascus-during-macron-visit-what-we-know?traffic_source=rss",
+      "published_date": "2026-07-07T10:32:51+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Explosions in Damascus as French president visits",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/7/explosions-in-damascus-as-french-president-visits?traffic_source=rss",
+      "published_date": "2026-07-07T08:28:31+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "News Analysis: Why Price Cuts Triggered a Fuel Crisis in Post Regime Syria Al-Hal",
+      "source": "Syrian Observer",
+      "url": "https://syrianobserver.com/society/news-analysis-why-price-cuts-triggered-a-fuel-crisis-in-post-regime-syria-al-hal.html",
+      "published_date": "2026-07-07T07:36:29+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Macron’s Damascus Stopover Signals a Strategic Scramble for Influence in the Levant",
+      "source": "Syrian Observer",
+      "url": "https://syrianobserver.com/foreign-actors/macrons-damascus-stopover-signals-a-strategic-scramble-for-influence-in-the-levant.html",
+      "published_date": "2026-07-07T07:36:01+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Selection vs. Election — Syria’s Transitional Parliament Confronts a Legitimacy Test",
+      "source": "Syrian Observer",
+      "url": "https://syrianobserver.com/syrian-actors/selection-vs-election-syrias-transitional-parliament-confronts-a-legitimacy-test.html",
+      "published_date": "2026-07-07T07:35:07+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "Ex-Syrian intelligence chief found guilty of torture and sexual abuse by Austrian court",
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/cy8ddd1m3mpo?at_medium=RSS&at_campaign=rss",
       "published_date": "2026-07-06T17:22:38+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "US Court Sentences Syrian Linked Operative to 50 Years on Drug Trafficking and Terrorism Charges",
+      "source": "Syrian Observer",
+      "url": "https://syrianobserver.com/foreign-actors/us-court-sentences-syrian-linked-operative-to-50-years-on-drug-trafficking-and-terrorism-charges.html",
+      "published_date": "2026-07-06T07:50:42+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Macron in Damascus Today: First Visit by a European Leader Since the Fall of the Regime",
+      "source": "Syrian Observer",
+      "url": "https://syrianobserver.com/foreign-actors/macron-in-damascus-today-first-visit-by-a-european-leader-since-the-fall-of-the-regime.html",
+      "published_date": "2026-07-06T07:49:10+00:00",
       "category": "Local Events"
     },
     {
