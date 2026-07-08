@@ -1,8 +1,22 @@
 {
   "country": "Syria",
-  "last_updated": "2026-07-07T23:42:45.351613+00:00",
-  "story_count": 34,
+  "last_updated": "2026-07-08T12:16:03.113309+00:00",
+  "story_count": 39,
   "stories": [
+    {
+      "title": "Al Sharaa and Macron Signal Strategic Economic Renaissance at Damascus Roundtable",
+      "source": "Syrian Observer",
+      "url": "https://syrianobserver.com/foreign-actors/al-sharaa-and-macron-signal-strategic-economic-renaissance-at-damascus-roundtable.html",
+      "published_date": "2026-07-08T07:19:26+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Five Moments That Redefined Syrian–French Relations",
+      "source": "Syrian Observer",
+      "url": "https://syrianobserver.com/foreign-actors/five-moments-that-redefined-syrian-french-relations.html",
+      "published_date": "2026-07-08T07:18:41+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Bombs explode near Damascus hotel housing Macron on Syria visit",
       "source": "The Guardian",
@@ -44,6 +58,13 @@
       "url": "https://www.bbc.co.uk/news/articles/cn75ex1dv61o?at_medium=RSS&at_campaign=rss",
       "published_date": "2026-07-02T04:59:55+00:00",
       "category": "Diplomacy"
+    },
+    {
+      "title": "Syria says one killed, 36 wounded after Damascus blasts during Macron visit",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/8/syria-says-one-killed-36-wounded-after-damascus-blasts-during-macron-visit?traffic_source=rss",
+      "published_date": "2026-07-08T11:22:22+00:00",
+      "category": "Military"
     },
     {
       "title": "Eighteen wounded as explosions rock Damascus during Macron’s visit to Syria",
@@ -116,13 +137,6 @@
       "category": "Military"
     },
     {
-      "title": "‘Get away from there – run!’ The stunning film about love blossoming amid the carnage of Aleppo",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/film/2026/jul/01/birds-of-war-aleppo-syria-love-carnage",
-      "published_date": "2026-07-01T04:00:25+00:00",
-      "category": "Military"
-    },
-    {
       "title": "Ukraine hits oil and military facilities near Russia’s St Petersburg",
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/news/2026/7/4/ukraine-hits-oil-and-military-facilities-near-russias-st-petersburg?traffic_source=rss",
@@ -142,6 +156,27 @@
       "url": "https://syrianobserver.com/society/minister-of-transport-and-german-delegation-discuss-investment-opportunities-and-infrastructure-development-in-syria.html",
       "published_date": "2026-07-06T07:54:45+00:00",
       "category": "Economy"
+    },
+    {
+      "title": "Huda Atassi: From Humanitarian Work to Syria’s People’s Assembly",
+      "source": "Syrian Observer",
+      "url": "https://syrianobserver.com/who/huda-atassi-from-humanitarian-work-to-syrias-peoples-assembly.html",
+      "published_date": "2026-07-08T07:17:04+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Austrian Court Sentences Two Former Syrian Officials to Eight Years for War",
+      "source": "Syrian Observer",
+      "url": "https://syrianobserver.com/foreign-actors/austrian-court-sentences-two-former-syrian-officials-to-eight-years-for-war.html",
+      "published_date": "2026-07-08T07:15:04+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Damascus Returns to Routine After Blasts Near Tourism Ministry During Macron Visit",
+      "source": "Syrian Observer",
+      "url": "https://syrianobserver.com/syrian-actors/damascus-returns-to-routine-after-blasts-near-tourism-ministry-during-macron-visit.html",
+      "published_date": "2026-07-08T07:13:49+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Several hurt in Damascus blasts as Macron meets Syria’s Sharaa",
