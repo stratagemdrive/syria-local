@@ -1,8 +1,15 @@
 {
   "country": "Syria",
-  "last_updated": "2026-07-08T23:57:07.571074+00:00",
-  "story_count": 40,
+  "last_updated": "2026-07-09T13:44:06.541496+00:00",
+  "story_count": 42,
   "stories": [
+    {
+      "title": "Trump Praises Syria’s al-Sharaa for Unifying Nation, Signals Swift Removal from Terror Sponsor List",
+      "source": "Syrian Observer",
+      "url": "https://syrianobserver.com/foreign-actors/trump-praises-syrias-al-sharaa-for-unifying-nation-signals-swift-removal-from-terror-sponsor-list.html",
+      "published_date": "2026-07-09T02:32:14+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "US moves to delist Syria as a ‘state sponsor of terrorism’",
       "source": "Al Jazeera",
@@ -60,11 +67,11 @@
       "category": "Diplomacy"
     },
     {
-      "title": "'Two weeks after her death I got a call': Gaza patients face agonising delays for evacuation",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cn75ex1dv61o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-07-02T04:59:55+00:00",
-      "category": "Diplomacy"
+      "title": "‘Here I can live a good life’: inside the Syrian commune where men are banned",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/global-development/2026/jul/09/women-syria-female-led-communities-photographer-matteo-trevisan-communes-collectives-escaping-war",
+      "published_date": "2026-07-09T05:00:53+00:00",
+      "category": "Military"
     },
     {
       "title": "Syria says one killed, 36 wounded after Damascus blasts during Macron visit",
@@ -130,20 +137,6 @@
       "category": "Military"
     },
     {
-      "title": "Explosion heard in Syria’s capital Damascus: state media",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/2/explosion-heard-in-syrias-capital-damascus-state-media?traffic_source=rss",
-      "published_date": "2026-07-02T12:32:01+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Birds of War review – war journalists find love among the ruins",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/film/2026/jul/02/birds-of-war-review-war-journalists-find-love-among-the-ruins",
-      "published_date": "2026-07-02T06:00:05+00:00",
-      "category": "Military"
-    },
-    {
       "title": "Ukraine hits oil and military facilities near Russia’s St Petersburg",
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/news/2026/7/4/ukraine-hits-oil-and-military-facilities-near-russias-st-petersburg?traffic_source=rss",
@@ -163,6 +156,34 @@
       "url": "https://syrianobserver.com/society/minister-of-transport-and-german-delegation-discuss-investment-opportunities-and-infrastructure-development-in-syria.html",
       "published_date": "2026-07-06T07:54:45+00:00",
       "category": "Economy"
+    },
+    {
+      "title": "Dutch Prosecutors Seek 18-Month Prison Term for Syrian Accused of Human Smuggling",
+      "source": "Syrian Observer",
+      "url": "https://syrianobserver.com/foreign-actors/dutch-prosecutors-seek-18-month-prison-term-for-syrian-accused-of-human-smuggling.html",
+      "published_date": "2026-07-09T02:30:46+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Macron’s Visit to Damascus Rattles French Jihadists in Syria",
+      "source": "Syrian Observer",
+      "url": "https://syrianobserver.com/foreign-actors/macrons-visit-to-damascus-rattles-french-jihadists-in-syria.html",
+      "published_date": "2026-07-09T02:29:08+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Looted Assets and Rifaat al-Assad: Will Asset Recovery Become a Political Bargaining Chip with France?",
+      "source": "Syrian Observer",
+      "url": "https://syrianobserver.com/foreign-actors/looted-assets-and-rifaat-al-assad-will-asset-recovery-become-a-political-bargaining-chip-with-france.html",
+      "published_date": "2026-07-09T02:27:22+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Internal Rifts and Spiralling Lawlessness Grip Hijri’s “National Guard” Militia in Syria’s Suweida",
+      "source": "Syrian Observer",
+      "url": "https://syrianobserver.com/syrian-actors/internal-rifts-and-spiralling-lawlessness-grip-hijris-national-guard-militia-in-syrias-suweida.html",
+      "published_date": "2026-07-09T02:26:13+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Huda Atassi: From Humanitarian Work to Syria’s People’s Assembly",
@@ -273,13 +294,6 @@
       "title": "Displaced Damascus Residents Challenge New Building License Amid Unresolved Compensation Dispute",
       "source": "Syrian Observer",
       "url": "https://syrianobserver.com/society/displaced-damascus-residents-challenge-new-building-license-amid-unresolved-compensation-dispute.html",
-      "published_date": "2026-07-02T21:00:02+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "New Israeli Escalation: Artillery Shelling Hits Areas in Daraa and Quneitra",
-      "source": "Syrian Observer",
-      "url": "https://syrianobserver.com/foreign-actors/new-israeli-escalation-artillery-shelling-hits-areas-in-daraa-and-quneitra.html",
       "published_date": "2026-07-02T21:00:02+00:00",
       "category": "Local Events"
     }
