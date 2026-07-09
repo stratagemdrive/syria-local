@@ -1,7 +1,7 @@
 {
   "country": "Syria",
-  "last_updated": "2026-07-09T13:44:06.541496+00:00",
-  "story_count": 42,
+  "last_updated": "2026-07-09T23:55:23.772046+00:00",
+  "story_count": 38,
   "stories": [
     {
       "title": "Trump Praises Syria’s al-Sharaa for Unifying Nation, Signals Swift Removal from Terror Sponsor List",
@@ -60,11 +60,11 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Syria Signals a New Playbook in Lebanon: Reading Shibani’s Visit",
-      "source": "Syrian Observer",
-      "url": "https://syrianobserver.com/foreign-actors/syria-signals-a-new-playbook-in-lebanon-reading-shibanis-visit.html",
-      "published_date": "2026-07-02T21:00:08+00:00",
-      "category": "Diplomacy"
+      "title": "Palestinians mourn Gaza World Cup screenings organiser killed in Israeli strike",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cwylznzjk04o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-07-09T21:04:09+00:00",
+      "category": "Military"
     },
     {
       "title": "‘Here I can live a good life’: inside the Syrian commune where men are banned",
@@ -109,34 +109,6 @@
       "category": "Military"
     },
     {
-      "title": "Terrorist Attack in the Heart of Damascus",
-      "source": "Syrian Observer",
-      "url": "https://syrianobserver.com/foreign-actors/terrorist-attack-in-the-heart-of-damascus.html",
-      "published_date": "2026-07-02T21:01:43+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Bomb blast at Damascus cafe kills six, Syrian state media say",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cn0vwxyz40zo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-07-02T17:56:18+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Deadly blast at Damascus cafe leaves 6 dead, 22 injured",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/2/deadly-blast-at-damascus-cafe-leaves-6-dead-22-injured?traffic_source=rss",
-      "published_date": "2026-07-02T17:36:49+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "What’s behind the deadly bombing of a crowded Damascus cafe?",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/2/whats-behind-the-deadly-bombing-of-a-crowded-damascus-cafe?traffic_source=rss",
-      "published_date": "2026-07-02T17:22:36+00:00",
-      "category": "Military"
-    },
-    {
       "title": "Ukraine hits oil and military facilities near Russia’s St Petersburg",
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/news/2026/7/4/ukraine-hits-oil-and-military-facilities-near-russias-st-petersburg?traffic_source=rss",
@@ -156,6 +128,13 @@
       "url": "https://syrianobserver.com/society/minister-of-transport-and-german-delegation-discuss-investment-opportunities-and-infrastructure-development-in-syria.html",
       "published_date": "2026-07-06T07:54:45+00:00",
       "category": "Economy"
+    },
+    {
+      "title": "Syria says captured Damascus bombing suspects are affiliated with ISIL",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/9/syria-says-cell-behind-terrorist-bombings-in-damascus-arrested?traffic_source=rss",
+      "published_date": "2026-07-09T21:39:54+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Dutch Prosecutors Seek 18-Month Prison Term for Syrian Accused of Human Smuggling",
@@ -288,13 +267,6 @@
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/news/2026/7/5/jailed-gaza-hospital-chief-in-life-threatening-condition-rights-group-says?traffic_source=rss",
       "published_date": "2026-07-05T11:24:18+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Displaced Damascus Residents Challenge New Building License Amid Unresolved Compensation Dispute",
-      "source": "Syrian Observer",
-      "url": "https://syrianobserver.com/society/displaced-damascus-residents-challenge-new-building-license-amid-unresolved-compensation-dispute.html",
-      "published_date": "2026-07-02T21:00:02+00:00",
       "category": "Local Events"
     }
   ]
