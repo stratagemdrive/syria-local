@@ -1,7 +1,7 @@
 {
   "country": "Syria",
-  "last_updated": "2026-07-09T23:55:23.772046+00:00",
-  "story_count": 38,
+  "last_updated": "2026-07-10T13:07:18.398746+00:00",
+  "story_count": 40,
   "stories": [
     {
       "title": "Trump Praises Syria’s al-Sharaa for Unifying Nation, Signals Swift Removal from Terror Sponsor List",
@@ -60,6 +60,13 @@
       "category": "Diplomacy"
     },
     {
+      "title": "Bomb attacks rattle Damascus but for most Syrians, life goes on",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/features/2026/7/10/bomb-attacks-rattle-damascus-but-for-most-syrians-life-goes-on?traffic_source=rss",
+      "published_date": "2026-07-10T09:21:22+00:00",
+      "category": "Military"
+    },
+    {
       "title": "Palestinians mourn Gaza World Cup screenings organiser killed in Israeli strike",
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/cwylznzjk04o?at_medium=RSS&at_campaign=rss",
@@ -102,18 +109,25 @@
       "category": "Military"
     },
     {
-      "title": "Deadly Explosion Kills Five People in Syrian Cafe",
-      "source": "Syrian Observer",
-      "url": "https://syrianobserver.com/youtube/deadly-explosion-kills-five-people-in-syrian-cafe.html",
-      "published_date": "2026-07-03T07:49:14+00:00",
-      "category": "Military"
-    },
-    {
       "title": "Ukraine hits oil and military facilities near Russia’s St Petersburg",
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/news/2026/7/4/ukraine-hits-oil-and-military-facilities-near-russias-st-petersburg?traffic_source=rss",
       "published_date": "2026-07-04T10:29:19+00:00",
       "category": "Energy"
+    },
+    {
+      "title": "French Restitution of Syrian Assets Opens Broader Avenue for Recovering Stolen Public Funds",
+      "source": "Syrian Observer",
+      "url": "https://syrianobserver.com/syrian-actors/french-restitution-of-syrian-assets-opens-broader-avenue-for-recovering-stolen-public-funds.html",
+      "published_date": "2026-07-09T21:01:04+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Russia Re-Engineers Economic Influence in Syria with New Tartous Logistics Hub By Hind Khalifa",
+      "source": "Syrian Observer",
+      "url": "https://syrianobserver.com/society/russia-re-engineers-economic-influence-in-syria-with-new-tartous-logistics-hub-by-hind-khalifa.html",
+      "published_date": "2026-07-09T21:00:33+00:00",
+      "category": "Economy"
     },
     {
       "title": "One Year On: Where Does Syria’s Sovereign Wealth Fund Stand?",
@@ -134,6 +148,13 @@
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/news/2026/7/9/syria-says-cell-behind-terrorist-bombings-in-damascus-arrested?traffic_source=rss",
       "published_date": "2026-07-09T21:39:54+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "UN Syria Commission Warns of Human Rights Challenges After Latest Visit",
+      "source": "Syrian Observer",
+      "url": "https://syrianobserver.com/syrian-actors/un-syria-commission-warns-of-human-rights-challenges-after-latest-visit.html",
+      "published_date": "2026-07-09T21:00:48+00:00",
       "category": "Local Events"
     },
     {
@@ -260,13 +281,6 @@
       "source": "Syrian Observer",
       "url": "https://syrianobserver.com/foreign-actors/macron-in-damascus-today-first-visit-by-a-european-leader-since-the-fall-of-the-regime.html",
       "published_date": "2026-07-06T07:49:10+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Jailed Gaza hospital chief in life-threatening condition, rights group says",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/5/jailed-gaza-hospital-chief-in-life-threatening-condition-rights-group-says?traffic_source=rss",
-      "published_date": "2026-07-05T11:24:18+00:00",
       "category": "Local Events"
     }
   ]
