@@ -1,8 +1,15 @@
 {
   "country": "Syria",
-  "last_updated": "2026-07-11T11:46:46.970466+00:00",
-  "story_count": 38,
+  "last_updated": "2026-07-11T23:39:53.514759+00:00",
+  "story_count": 40,
   "stories": [
+    {
+      "title": "Algeria and Mali restore diplomatic ties following yearlong rift",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/11/algeria-and-mali-restore-diplomatic-ties-following-yearlong-rift?traffic_source=rss",
+      "published_date": "2026-07-11T15:29:32+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Trump Praises Syria’s al-Sharaa for Unifying Nation, Signals Swift Removal from Terror Sponsor List",
       "source": "Syrian Observer",
@@ -100,6 +107,13 @@
       "url": "https://syrianobserver.com/society/syrian-president-establishes-national-university-for-defense-sciences-in-damascus.html",
       "published_date": "2026-07-07T07:30:35+00:00",
       "category": "Military"
+    },
+    {
+      "title": "Syrians optimistic but cautious as sanctions removal revives economic hopes",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/11/syrians-optimistic-but-cautious-as-sanctions-removal-revives-economic-hopes?traffic_source=rss",
+      "published_date": "2026-07-11T15:54:25+00:00",
+      "category": "Economy"
     },
     {
       "title": "French Restitution of Syrian Assets Opens Broader Avenue for Recovering Stolen Public Funds",
