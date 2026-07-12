@@ -1,8 +1,22 @@
 {
   "country": "Syria",
-  "last_updated": "2026-07-12T11:53:51.341211+00:00",
-  "story_count": 41,
+  "last_updated": "2026-07-12T23:39:31.539043+00:00",
+  "story_count": 45,
   "stories": [
+    {
+      "title": "Syrian Diplomatic Surge: How Sharaa’s Summits with Trump, Macron, and Erdoğan Cement Damascus’s International Status",
+      "source": "Syrian Observer",
+      "url": "https://syrianobserver.com/syrian-actors/syrian-diplomatic-surge-how-sharaas-summits-with-trump-macron-and-erdogan-cement-damascuss-international-status.html",
+      "published_date": "2026-07-12T21:00:41+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Syria and Qatar Sign Agreement to Expand Diplomatic Cooperation",
+      "source": "Syrian Observer",
+      "url": "https://syrianobserver.com/foreign-actors/syria-and-qatar-sign-agreement-to-expand-diplomatic-cooperation.html",
+      "published_date": "2026-07-12T21:00:09+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Algeria and Mali restore diplomatic ties following yearlong rift",
       "source": "Al Jazeera",
@@ -60,6 +74,13 @@
       "category": "Diplomacy"
     },
     {
+      "title": "Syrian Authorities Dismantle ISIS-Linked Cell Behind Damascus Bombings",
+      "source": "Syrian Observer",
+      "url": "https://syrianobserver.com/syrian-actors/syrian-authorities-dismantle-isis-linked-cell-behind-damascus-bombings.html",
+      "published_date": "2026-07-12T21:00:34+00:00",
+      "category": "Military"
+    },
+    {
       "title": "Bomb attacks rattle Damascus but for most Syrians, life goes on",
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/features/2026/7/10/bomb-attacks-rattle-damascus-but-for-most-syrians-life-goes-on?traffic_source=rss",
@@ -100,6 +121,13 @@
       "url": "https://syrianobserver.com/society/syrian-president-establishes-national-university-for-defense-sciences-in-damascus.html",
       "published_date": "2026-07-07T07:30:35+00:00",
       "category": "Military"
+    },
+    {
+      "title": "The Dream of Return Delayed: Why Displaced Families in Rural Lattakia Hesitate to Leave the Camps",
+      "source": "Syrian Observer",
+      "url": "https://syrianobserver.com/refugees/the-dream-of-return-delayed-why-displaced-families-in-rural-lattakia-hesitate-to-leave-the-camps.html",
+      "published_date": "2026-07-12T21:00:53+00:00",
+      "category": "Energy"
     },
     {
       "title": "Sheikh Hamad bin Khalifa Al Thani, the architect of modern Qatar",
