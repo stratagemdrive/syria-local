@@ -1,7 +1,7 @@
 {
   "country": "Syria",
-  "last_updated": "2026-07-11T23:39:53.514759+00:00",
-  "story_count": 40,
+  "last_updated": "2026-07-12T11:53:51.341211+00:00",
+  "story_count": 41,
   "stories": [
     {
       "title": "Algeria and Mali restore diplomatic ties following yearlong rift",
@@ -60,13 +60,6 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Iran’s China envoy vows ‘special’ Hormuz treatment for ‘friendly’ countries",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/5/irans-china-envoy-vows-special-hormuz-treatment-for-friendly-countries?traffic_source=rss",
-      "published_date": "2026-07-05T08:09:44+00:00",
-      "category": "Diplomacy"
-    },
-    {
       "title": "Bomb attacks rattle Damascus but for most Syrians, life goes on",
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/features/2026/7/10/bomb-attacks-rattle-damascus-but-for-most-syrians-life-goes-on?traffic_source=rss",
@@ -107,6 +100,20 @@
       "url": "https://syrianobserver.com/society/syrian-president-establishes-national-university-for-defense-sciences-in-damascus.html",
       "published_date": "2026-07-07T07:30:35+00:00",
       "category": "Military"
+    },
+    {
+      "title": "Sheikh Hamad bin Khalifa Al Thani, the architect of modern Qatar",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/12/sheikh-hamad-bin-khalifa-al-thani-architect-of-modern-qatar?traffic_source=rss",
+      "published_date": "2026-07-12T06:01:07+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "Former Emir of Qatar Sheikh Hamad bin Khalifa Al Thani dies aged 74",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/12/former-emir-of-qatar-sheikh-hamad-bin-khalifa-al-thani-dies-at-74?traffic_source=rss",
+      "published_date": "2026-07-12T05:15:01+00:00",
+      "category": "Energy"
     },
     {
       "title": "Syrians optimistic but cautious as sanctions removal revives economic hopes",
