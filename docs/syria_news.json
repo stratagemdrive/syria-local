@@ -1,7 +1,7 @@
 {
   "country": "Syria",
-  "last_updated": "2026-07-12T23:39:31.539043+00:00",
-  "story_count": 45,
+  "last_updated": "2026-07-13T23:39:53.422771+00:00",
+  "story_count": 44,
   "stories": [
     {
       "title": "Syrian Diplomatic Surge: How Sharaa’s Summits with Trump, Macron, and Erdoğan Cement Damascus’s International Status",
@@ -60,18 +60,18 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Macron arrives in Syria for talks ahead of NATO summit in Turkiye",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/6/macron-arrives-in-syria-for-talks-ahead-of-nato-summit-in-turkiye?traffic_source=rss",
-      "published_date": "2026-07-06T20:50:13+00:00",
-      "category": "Diplomacy"
+      "title": "Government Links ISIS Cell to Damascus Bombings Amid Efforts to Stabilize Post-War Syria",
+      "source": "Syrian Observer",
+      "url": "https://syrianobserver.com/security/government-links-isis-cell-to-damascus-bombings-amid-efforts-to-stabilize-post-war-syria.html",
+      "published_date": "2026-07-13T21:01:23+00:00",
+      "category": "Military"
     },
     {
-      "title": "UN Commission of Inquiry on Syria Condemns Damascus Cafe Bombing, Calls for Accountability",
+      "title": "Central Bank Governor Unveils New Monetary Policy as Syria Accelerates Post-War Recovery",
       "source": "Syrian Observer",
-      "url": "https://syrianobserver.com/security/un-commission-of-inquiry-on-syria-condemns-damascus-cafe-bombing-calls-for-accountability.html",
-      "published_date": "2026-07-06T07:52:57+00:00",
-      "category": "Diplomacy"
+      "url": "https://syrianobserver.com/society/central-bank-governor-unveils-new-monetary-policy-as-syria-accelerates-post-war-recovery.html",
+      "published_date": "2026-07-13T21:00:49+00:00",
+      "category": "Military"
     },
     {
       "title": "Syrian Authorities Dismantle ISIS-Linked Cell Behind Damascus Bombings",
@@ -130,6 +130,13 @@
       "category": "Energy"
     },
     {
+      "title": "Former Emir of Qatar Sheikh Hamad bin Khalifa Al Thani dies aged 74",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cql1qdq14xro?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-07-12T16:35:50+00:00",
+      "category": "Energy"
+    },
+    {
       "title": "Sheikh Hamad bin Khalifa Al Thani, the architect of modern Qatar",
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/news/2026/7/12/sheikh-hamad-bin-khalifa-al-thani-architect-of-modern-qatar?traffic_source=rss",
@@ -142,6 +149,20 @@
       "url": "https://www.aljazeera.com/news/2026/7/12/former-emir-of-qatar-sheikh-hamad-bin-khalifa-al-thani-dies-at-74?traffic_source=rss",
       "published_date": "2026-07-12T05:15:01+00:00",
       "category": "Energy"
+    },
+    {
+      "title": "Syria Recalibrates Its Russia Strategy as Post-Assad Order Takes Shape",
+      "source": "Syrian Observer",
+      "url": "https://syrianobserver.com/foreign-actors/syria-recalibrates-its-russia-strategy-as-post-assad-order-takes-shape.html",
+      "published_date": "2026-07-13T21:02:04+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Inaugural Syrian-American Business Forum Launches in Damascus After Landmark U.S. Terror Rescission",
+      "source": "Syrian Observer",
+      "url": "https://syrianobserver.com/society/inaugural-syrian-american-business-forum-launches-in-damascus-after-landmark-u-s-terror-rescission.html",
+      "published_date": "2026-07-13T21:00:17+00:00",
+      "category": "Economy"
     },
     {
       "title": "Syrians optimistic but cautious as sanctions removal revives economic hopes",
@@ -169,13 +190,6 @@
       "source": "Syrian Observer",
       "url": "https://syrianobserver.com/society/one-year-on-where-does-syrias-sovereign-wealth-fund-stand.html",
       "published_date": "2026-07-07T08:05:25+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Minister of Transport and German Delegation Discuss Investment Opportunities and Infrastructure Development in Syria",
-      "source": "Syrian Observer",
-      "url": "https://syrianobserver.com/society/minister-of-transport-and-german-delegation-discuss-investment-opportunities-and-infrastructure-development-in-syria.html",
-      "published_date": "2026-07-06T07:54:45+00:00",
       "category": "Economy"
     },
     {
@@ -295,27 +309,6 @@
       "source": "Syrian Observer",
       "url": "https://syrianobserver.com/syrian-actors/selection-vs-election-syrias-transitional-parliament-confronts-a-legitimacy-test.html",
       "published_date": "2026-07-07T07:35:07+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Ex-Syrian intelligence chief found guilty of torture and sexual abuse by Austrian court",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cy8ddd1m3mpo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-07-06T17:22:38+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "US Court Sentences Syrian Linked Operative to 50 Years on Drug Trafficking and Terrorism Charges",
-      "source": "Syrian Observer",
-      "url": "https://syrianobserver.com/foreign-actors/us-court-sentences-syrian-linked-operative-to-50-years-on-drug-trafficking-and-terrorism-charges.html",
-      "published_date": "2026-07-06T07:50:42+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Macron in Damascus Today: First Visit by a European Leader Since the Fall of the Regime",
-      "source": "Syrian Observer",
-      "url": "https://syrianobserver.com/foreign-actors/macron-in-damascus-today-first-visit-by-a-european-leader-since-the-fall-of-the-regime.html",
-      "published_date": "2026-07-06T07:49:10+00:00",
       "category": "Local Events"
     }
   ]
