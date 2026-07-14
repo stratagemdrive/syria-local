@@ -1,6 +1,6 @@
 {
   "country": "Syria",
-  "last_updated": "2026-07-14T12:06:20.059793+00:00",
+  "last_updated": "2026-07-14T23:39:18.426909+00:00",
   "story_count": 33,
   "stories": [
     {
@@ -51,6 +51,13 @@
       "url": "https://syrianobserver.com/foreign-actors/five-moments-that-redefined-syrian-french-relations.html",
       "published_date": "2026-07-08T07:18:41+00:00",
       "category": "Diplomacy"
+    },
+    {
+      "title": "Israeli strike on police post in north Gaza kills seven, officials say",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cqj1jqeyl5ro?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-07-14T17:13:27+00:00",
+      "category": "Military"
     },
     {
       "title": "Government Links ISIS Cell to Damascus Bombings Amid Efforts to Stabilize Post-War Syria",
@@ -225,13 +232,6 @@
       "source": "Syrian Observer",
       "url": "https://syrianobserver.com/syrian-actors/damascus-returns-to-routine-after-blasts-near-tourism-ministry-during-macron-visit.html",
       "published_date": "2026-07-08T07:13:49+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Several hurt in Damascus blasts as Macron meets Syria’s Sharaa",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/7/several-hurt-in-damascus-blasts-as-macron-meets-syrias-sharaa?traffic_source=rss",
-      "published_date": "2026-07-07T18:09:03+00:00",
       "category": "Local Events"
     }
   ]
