@@ -1,7 +1,7 @@
 {
   "country": "Syria",
-  "last_updated": "2026-07-13T23:39:53.422771+00:00",
-  "story_count": 44,
+  "last_updated": "2026-07-14T12:06:20.059793+00:00",
+  "story_count": 33,
   "stories": [
     {
       "title": "Syrian Diplomatic Surge: How Sharaa’s Summits with Trump, Macron, and Erdoğan Cement Damascus’s International Status",
@@ -53,13 +53,6 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Bombs explode near Damascus hotel housing Macron on Syria visit",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/jul/07/explosions-rock-damascus-near-hotel-where-french-president-was-staying",
-      "published_date": "2026-07-07T10:37:32+00:00",
-      "category": "Diplomacy"
-    },
-    {
       "title": "Government Links ISIS Cell to Damascus Bombings Amid Efforts to Stabilize Post-War Syria",
       "source": "Syrian Observer",
       "url": "https://syrianobserver.com/security/government-links-isis-cell-to-damascus-bombings-amid-efforts-to-stabilize-post-war-syria.html",
@@ -106,20 +99,6 @@
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/news/2026/7/8/syria-says-one-killed-36-wounded-after-damascus-blasts-during-macron-visit?traffic_source=rss",
       "published_date": "2026-07-08T11:22:22+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Eighteen wounded as explosions rock Damascus during Macron’s visit to Syria",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/7/explosions-heard-in-syrias-damascus?traffic_source=rss",
-      "published_date": "2026-07-07T07:32:04+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Syrian President Establishes National University for Defense Sciences in Damascus",
-      "source": "Syrian Observer",
-      "url": "https://syrianobserver.com/society/syrian-president-establishes-national-university-for-defense-sciences-in-damascus.html",
-      "published_date": "2026-07-07T07:30:35+00:00",
       "category": "Military"
     },
     {
@@ -183,13 +162,6 @@
       "source": "Syrian Observer",
       "url": "https://syrianobserver.com/society/russia-re-engineers-economic-influence-in-syria-with-new-tartous-logistics-hub-by-hind-khalifa.html",
       "published_date": "2026-07-09T21:00:33+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "One Year On: Where Does Syria’s Sovereign Wealth Fund Stand?",
-      "source": "Syrian Observer",
-      "url": "https://syrianobserver.com/society/one-year-on-where-does-syrias-sovereign-wealth-fund-stand.html",
-      "published_date": "2026-07-07T08:05:25+00:00",
       "category": "Economy"
     },
     {
@@ -260,55 +232,6 @@
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/7/7/several-hurt-in-damascus-blasts-as-macron-meets-syrias-sharaa?traffic_source=rss",
       "published_date": "2026-07-07T18:09:03+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Explosions injure 18 in Damascus during Macron's visit",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c2eylx1jj9ko?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-07-07T11:16:30+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "What is the new Gaza administration as Hamas dissolves government?",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/7/what-is-the-new-gaza-administration-as-hamas-dissolves-government?traffic_source=rss",
-      "published_date": "2026-07-07T10:38:03+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Explosions in Damascus during Macron visit to Syria: What we know",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/7/explosions-in-damascus-during-macron-visit-what-we-know?traffic_source=rss",
-      "published_date": "2026-07-07T10:32:51+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Explosions in Damascus as French president visits",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/7/explosions-in-damascus-as-french-president-visits?traffic_source=rss",
-      "published_date": "2026-07-07T08:28:31+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "News Analysis: Why Price Cuts Triggered a Fuel Crisis in Post Regime Syria Al-Hal",
-      "source": "Syrian Observer",
-      "url": "https://syrianobserver.com/society/news-analysis-why-price-cuts-triggered-a-fuel-crisis-in-post-regime-syria-al-hal.html",
-      "published_date": "2026-07-07T07:36:29+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Macron’s Damascus Stopover Signals a Strategic Scramble for Influence in the Levant",
-      "source": "Syrian Observer",
-      "url": "https://syrianobserver.com/foreign-actors/macrons-damascus-stopover-signals-a-strategic-scramble-for-influence-in-the-levant.html",
-      "published_date": "2026-07-07T07:36:01+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Selection vs. Election — Syria’s Transitional Parliament Confronts a Legitimacy Test",
-      "source": "Syrian Observer",
-      "url": "https://syrianobserver.com/syrian-actors/selection-vs-election-syrias-transitional-parliament-confronts-a-legitimacy-test.html",
-      "published_date": "2026-07-07T07:35:07+00:00",
       "category": "Local Events"
     }
   ]
