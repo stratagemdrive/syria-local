@@ -1,8 +1,15 @@
 {
   "country": "Syria",
-  "last_updated": "2026-07-14T23:39:18.426909+00:00",
-  "story_count": 33,
+  "last_updated": "2026-07-15T12:10:41.607398+00:00",
+  "story_count": 30,
   "stories": [
+    {
+      "title": "The Monarchy: One of the Codes of Ahmad al-Sharaa’s Rule",
+      "source": "Syrian Observer",
+      "url": "https://syrianobserver.com/syrian-actors/the-monarchy-one-of-the-codes-of-ahmad-al-sharaas-rule.html",
+      "published_date": "2026-07-14T21:00:27+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Syrian Diplomatic Surge: How Sharaa’s Summits with Trump, Macron, and Erdoğan Cement Damascus’s International Status",
       "source": "Syrian Observer",
@@ -36,20 +43,6 @@
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/news/2026/7/8/us-moves-to-delist-syria-as-a-state-sponsor-of-terrorism?traffic_source=rss",
       "published_date": "2026-07-08T21:36:02+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Al Sharaa and Macron Signal Strategic Economic Renaissance at Damascus Roundtable",
-      "source": "Syrian Observer",
-      "url": "https://syrianobserver.com/foreign-actors/al-sharaa-and-macron-signal-strategic-economic-renaissance-at-damascus-roundtable.html",
-      "published_date": "2026-07-08T07:19:26+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Five Moments That Redefined Syrian–French Relations",
-      "source": "Syrian Observer",
-      "url": "https://syrianobserver.com/foreign-actors/five-moments-that-redefined-syrian-french-relations.html",
-      "published_date": "2026-07-08T07:18:41+00:00",
       "category": "Diplomacy"
     },
     {
@@ -102,13 +95,6 @@
       "category": "Military"
     },
     {
-      "title": "Syria says one killed, 36 wounded after Damascus blasts during Macron visit",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/8/syria-says-one-killed-36-wounded-after-damascus-blasts-during-macron-visit?traffic_source=rss",
-      "published_date": "2026-07-08T11:22:22+00:00",
-      "category": "Military"
-    },
-    {
       "title": "The Dream of Return Delayed: Why Displaced Families in Rural Lattakia Hesitate to Leave the Camps",
       "source": "Syrian Observer",
       "url": "https://syrianobserver.com/refugees/the-dream-of-return-delayed-why-displaced-families-in-rural-lattakia-hesitate-to-leave-the-camps.html",
@@ -135,6 +121,13 @@
       "url": "https://www.aljazeera.com/news/2026/7/12/former-emir-of-qatar-sheikh-hamad-bin-khalifa-al-thani-dies-at-74?traffic_source=rss",
       "published_date": "2026-07-12T05:15:01+00:00",
       "category": "Energy"
+    },
+    {
+      "title": "Syria’s Sukuk Gamble: Real Financing or Another Mirage?",
+      "source": "Syrian Observer",
+      "url": "https://syrianobserver.com/society/syrias-sukuk-gamble-real-financing-or-another-mirage.html",
+      "published_date": "2026-07-14T21:01:51+00:00",
+      "category": "Economy"
     },
     {
       "title": "Syria Recalibrates Its Russia Strategy as Post-Assad Order Takes Shape",
@@ -170,6 +163,13 @@
       "url": "https://syrianobserver.com/society/russia-re-engineers-economic-influence-in-syria-with-new-tartous-logistics-hub-by-hind-khalifa.html",
       "published_date": "2026-07-09T21:00:33+00:00",
       "category": "Economy"
+    },
+    {
+      "title": "A Year After the Suweida Massacres: Syria Still Cannot Face Its Dead",
+      "source": "Syrian Observer",
+      "url": "https://syrianobserver.com/syrian-actors/a-year-after-the-suweida-massacres-syria-still-cannot-face-its-dead.html",
+      "published_date": "2026-07-14T21:02:02+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Syria says captured Damascus bombing suspects are affiliated with ISIL",
@@ -211,27 +211,6 @@
       "source": "Syrian Observer",
       "url": "https://syrianobserver.com/syrian-actors/internal-rifts-and-spiralling-lawlessness-grip-hijris-national-guard-militia-in-syrias-suweida.html",
       "published_date": "2026-07-09T02:26:13+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Huda Atassi: From Humanitarian Work to Syria’s People’s Assembly",
-      "source": "Syrian Observer",
-      "url": "https://syrianobserver.com/who/huda-atassi-from-humanitarian-work-to-syrias-peoples-assembly.html",
-      "published_date": "2026-07-08T07:17:04+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Austrian Court Sentences Two Former Syrian Officials to Eight Years for War",
-      "source": "Syrian Observer",
-      "url": "https://syrianobserver.com/foreign-actors/austrian-court-sentences-two-former-syrian-officials-to-eight-years-for-war.html",
-      "published_date": "2026-07-08T07:15:04+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Damascus Returns to Routine After Blasts Near Tourism Ministry During Macron Visit",
-      "source": "Syrian Observer",
-      "url": "https://syrianobserver.com/syrian-actors/damascus-returns-to-routine-after-blasts-near-tourism-ministry-during-macron-visit.html",
-      "published_date": "2026-07-08T07:13:49+00:00",
       "category": "Local Events"
     }
   ]
