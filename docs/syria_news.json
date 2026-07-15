@@ -1,7 +1,7 @@
 {
   "country": "Syria",
-  "last_updated": "2026-07-15T12:10:41.607398+00:00",
-  "story_count": 30,
+  "last_updated": "2026-07-15T23:45:27.694027+00:00",
+  "story_count": 33,
   "stories": [
     {
       "title": "The Monarchy: One of the Codes of Ahmad al-Sharaa’s Rule",
@@ -39,11 +39,18 @@
       "category": "Diplomacy"
     },
     {
-      "title": "US moves to delist Syria as a ‘state sponsor of terrorism’",
+      "title": "Syria Establishes National University for Defense Sciences: A new institution will merge military training with engineering, technology, and strategic studies",
+      "source": "Syrian Observer",
+      "url": "https://syrianobserver.com/security/syria-establishes-national-university-for-defense-sciences-a-new-institution-will-merge-military-training-with-engineering-technology-and-strategic-studies.html",
+      "published_date": "2026-07-15T21:00:40+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Syrian authorities arrest ex-officer accused of chemical weapons crimes",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/8/us-moves-to-delist-syria-as-a-state-sponsor-of-terrorism?traffic_source=rss",
-      "published_date": "2026-07-08T21:36:02+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news/2026/7/15/syrian-authorities-arrest-ex-officer-accused-of-chemical-weapons-crimes?traffic_source=rss",
+      "published_date": "2026-07-15T18:58:58+00:00",
+      "category": "Military"
     },
     {
       "title": "Israeli strike on police post in north Gaza kills seven, officials say",
@@ -163,6 +170,20 @@
       "url": "https://syrianobserver.com/society/russia-re-engineers-economic-influence-in-syria-with-new-tartous-logistics-hub-by-hind-khalifa.html",
       "published_date": "2026-07-09T21:00:33+00:00",
       "category": "Economy"
+    },
+    {
+      "title": "Israeli Forces Begin Hospital Construction in Mount Hermon Village Near Damascus Amid Local Resistance",
+      "source": "Syrian Observer",
+      "url": "https://syrianobserver.com/foreign-actors/israeli-forces-begin-hospital-construction-in-mount-hermon-village-near-damascus-amid-local-resistance.html",
+      "published_date": "2026-07-15T21:00:40+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Damascus University Students and Alumni Petition for Removal of MP Mudar Hamdan",
+      "source": "Syrian Observer",
+      "url": "https://syrianobserver.com/uncategorized/damascus-university-students-and-alumni-petition-for-removal-of-mp-mudar-hamdan.html",
+      "published_date": "2026-07-15T21:00:04+00:00",
+      "category": "Local Events"
     },
     {
       "title": "A Year After the Suweida Massacres: Syria Still Cannot Face Its Dead",
