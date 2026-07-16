@@ -1,7 +1,7 @@
 {
   "country": "Syria",
-  "last_updated": "2026-07-15T23:45:27.694027+00:00",
-  "story_count": 33,
+  "last_updated": "2026-07-16T12:15:57.760742+00:00",
+  "story_count": 27,
   "stories": [
     {
       "title": "The Monarchy: One of the Codes of Ahmad al-Sharaa’s Rule",
@@ -29,13 +29,6 @@
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/news/2026/7/11/algeria-and-mali-restore-diplomatic-ties-following-yearlong-rift?traffic_source=rss",
       "published_date": "2026-07-11T15:29:32+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Trump Praises Syria’s al-Sharaa for Unifying Nation, Signals Swift Removal from Terror Sponsor List",
-      "source": "Syrian Observer",
-      "url": "https://syrianobserver.com/foreign-actors/trump-praises-syrias-al-sharaa-for-unifying-nation-signals-swift-removal-from-terror-sponsor-list.html",
-      "published_date": "2026-07-09T02:32:14+00:00",
       "category": "Diplomacy"
     },
     {
@@ -92,13 +85,6 @@
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/cwylznzjk04o?at_medium=RSS&at_campaign=rss",
       "published_date": "2026-07-09T21:04:09+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "‘Here I can live a good life’: inside the Syrian commune where men are banned",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/global-development/2026/jul/09/women-syria-female-led-communities-photographer-matteo-trevisan-communes-collectives-escaping-war",
-      "published_date": "2026-07-09T05:00:53+00:00",
       "category": "Military"
     },
     {
@@ -204,34 +190,6 @@
       "source": "Syrian Observer",
       "url": "https://syrianobserver.com/syrian-actors/un-syria-commission-warns-of-human-rights-challenges-after-latest-visit.html",
       "published_date": "2026-07-09T21:00:48+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Dutch Prosecutors Seek 18-Month Prison Term for Syrian Accused of Human Smuggling",
-      "source": "Syrian Observer",
-      "url": "https://syrianobserver.com/foreign-actors/dutch-prosecutors-seek-18-month-prison-term-for-syrian-accused-of-human-smuggling.html",
-      "published_date": "2026-07-09T02:30:46+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Macron’s Visit to Damascus Rattles French Jihadists in Syria",
-      "source": "Syrian Observer",
-      "url": "https://syrianobserver.com/foreign-actors/macrons-visit-to-damascus-rattles-french-jihadists-in-syria.html",
-      "published_date": "2026-07-09T02:29:08+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Looted Assets and Rifaat al-Assad: Will Asset Recovery Become a Political Bargaining Chip with France?",
-      "source": "Syrian Observer",
-      "url": "https://syrianobserver.com/foreign-actors/looted-assets-and-rifaat-al-assad-will-asset-recovery-become-a-political-bargaining-chip-with-france.html",
-      "published_date": "2026-07-09T02:27:22+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Internal Rifts and Spiralling Lawlessness Grip Hijri’s “National Guard” Militia in Syria’s Suweida",
-      "source": "Syrian Observer",
-      "url": "https://syrianobserver.com/syrian-actors/internal-rifts-and-spiralling-lawlessness-grip-hijris-national-guard-militia-in-syrias-suweida.html",
-      "published_date": "2026-07-09T02:26:13+00:00",
       "category": "Local Events"
     }
   ]
