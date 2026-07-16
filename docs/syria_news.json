@@ -1,8 +1,22 @@
 {
   "country": "Syria",
-  "last_updated": "2026-07-16T12:15:57.760742+00:00",
-  "story_count": 27,
+  "last_updated": "2026-07-16T23:44:29.742573+00:00",
+  "story_count": 29,
   "stories": [
+    {
+      "title": "Syrian Foreign Minister Shibani Arrives in Riyadh for Wide-Ranging Talks with Saudi Counterpart",
+      "source": "Syrian Observer",
+      "url": "https://syrianobserver.com/foreign-actors/syrian-foreign-minister-shibani-arrives-in-riyadh-for-wide-ranging-talks-with-saudi-counterpart.html",
+      "published_date": "2026-07-16T21:00:48+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Trump Says Sharaa Will Handle Hezbollah “Differently,” Urges Israeli Redeployment in Lebanon",
+      "source": "Syrian Observer",
+      "url": "https://syrianobserver.com/foreign-actors/trump-says-sharaa-will-handle-hezbollah-differently-urges-israeli-redeployment-in-lebanon.html",
+      "published_date": "2026-07-16T21:00:28+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "The Monarchy: One of the Codes of Ahmad al-Sharaa’s Rule",
       "source": "Syrian Observer",
@@ -30,6 +44,27 @@
       "url": "https://www.aljazeera.com/news/2026/7/11/algeria-and-mali-restore-diplomatic-ties-following-yearlong-rift?traffic_source=rss",
       "published_date": "2026-07-11T15:29:32+00:00",
       "category": "Diplomacy"
+    },
+    {
+      "title": "Syria says it foiled Hezbollah weapons shipment",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/16/syria-says-it-foiled-hezbollah-weapons-shipment?traffic_source=rss",
+      "published_date": "2026-07-16T20:30:29+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Syria seizes advanced weapons it says were bound for Lebanon’s Hezbollah",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/16/syria-seizes-advanced-weapons-it-says-were-bound-for-lebanons-hezbollah?traffic_source=rss",
+      "published_date": "2026-07-16T20:03:58+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "In Syria’s Jobar, locals struggle to rebuild their destroyed homes",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/features/2026/7/16/in-syrias-jobar-locals-struggle-to-rebuild-their-destroyed-homes?traffic_source=rss",
+      "published_date": "2026-07-16T17:54:46+00:00",
+      "category": "Military"
     },
     {
       "title": "Syria Establishes National University for Defense Sciences: A new institution will merge military training with engineering, technology, and strategic studies",
@@ -81,13 +116,6 @@
       "category": "Military"
     },
     {
-      "title": "Palestinians mourn Gaza World Cup screenings organiser killed in Israeli strike",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cwylznzjk04o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-07-09T21:04:09+00:00",
-      "category": "Military"
-    },
-    {
       "title": "The Dream of Return Delayed: Why Displaced Families in Rural Lattakia Hesitate to Leave the Camps",
       "source": "Syrian Observer",
       "url": "https://syrianobserver.com/refugees/the-dream-of-return-delayed-why-displaced-families-in-rural-lattakia-hesitate-to-leave-the-camps.html",
@@ -114,6 +142,13 @@
       "url": "https://www.aljazeera.com/news/2026/7/12/former-emir-of-qatar-sheikh-hamad-bin-khalifa-al-thani-dies-at-74?traffic_source=rss",
       "published_date": "2026-07-12T05:15:01+00:00",
       "category": "Energy"
+    },
+    {
+      "title": "Syrian Women Leave Traditional Jobs for Home-Based Businesses",
+      "source": "Syrian Observer",
+      "url": "https://syrianobserver.com/society/syrian-women-leave-traditional-jobs-for-home-based-businesses.html",
+      "published_date": "2026-07-16T21:00:42+00:00",
+      "category": "Economy"
     },
     {
       "title": "Syria’s Sukuk Gamble: Real Financing or Another Mirage?",
@@ -144,18 +179,11 @@
       "category": "Economy"
     },
     {
-      "title": "French Restitution of Syrian Assets Opens Broader Avenue for Recovering Stolen Public Funds",
+      "title": "Syria and Germany Sign Agreement to Form Joint Committee for Strengthening Bilateral Cooperation",
       "source": "Syrian Observer",
-      "url": "https://syrianobserver.com/syrian-actors/french-restitution-of-syrian-assets-opens-broader-avenue-for-recovering-stolen-public-funds.html",
-      "published_date": "2026-07-09T21:01:04+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Russia Re-Engineers Economic Influence in Syria with New Tartous Logistics Hub By Hind Khalifa",
-      "source": "Syrian Observer",
-      "url": "https://syrianobserver.com/society/russia-re-engineers-economic-influence-in-syria-with-new-tartous-logistics-hub-by-hind-khalifa.html",
-      "published_date": "2026-07-09T21:00:33+00:00",
-      "category": "Economy"
+      "url": "https://syrianobserver.com/foreign-actors/syria-and-germany-sign-agreement-to-form-joint-committee-for-strengthening-bilateral-cooperation.html",
+      "published_date": "2026-07-16T21:00:32+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Israeli Forces Begin Hospital Construction in Mount Hermon Village Near Damascus Amid Local Resistance",
@@ -176,20 +204,6 @@
       "source": "Syrian Observer",
       "url": "https://syrianobserver.com/syrian-actors/a-year-after-the-suweida-massacres-syria-still-cannot-face-its-dead.html",
       "published_date": "2026-07-14T21:02:02+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Syria says captured Damascus bombing suspects are affiliated with ISIL",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/9/syria-says-cell-behind-terrorist-bombings-in-damascus-arrested?traffic_source=rss",
-      "published_date": "2026-07-09T21:39:54+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "UN Syria Commission Warns of Human Rights Challenges After Latest Visit",
-      "source": "Syrian Observer",
-      "url": "https://syrianobserver.com/syrian-actors/un-syria-commission-warns-of-human-rights-challenges-after-latest-visit.html",
-      "published_date": "2026-07-09T21:00:48+00:00",
       "category": "Local Events"
     }
   ]
