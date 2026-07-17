@@ -1,7 +1,7 @@
 {
   "country": "Syria",
-  "last_updated": "2026-07-17T12:03:05.847162+00:00",
-  "story_count": 30,
+  "last_updated": "2026-07-17T23:39:35.912568+00:00",
+  "story_count": 31,
   "stories": [
     {
       "title": "Syrian Foreign Minister Shibani Arrives in Riyadh for Wide-Ranging Talks with Saudi Counterpart",
@@ -114,6 +114,13 @@
       "url": "https://syrianobserver.com/syrian-actors/syrian-authorities-dismantle-isis-linked-cell-behind-damascus-bombings.html",
       "published_date": "2026-07-12T21:00:34+00:00",
       "category": "Military"
+    },
+    {
+      "title": "Iraq signs deals with Western oil firms, including to revive Syria pipeline",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/17/iraq-signs-deals-with-western-oil-firms-including-to-revive-syria-pipeline?traffic_source=rss",
+      "published_date": "2026-07-17T22:19:19+00:00",
+      "category": "Energy"
     },
     {
       "title": "The Dream of Return Delayed: Why Displaced Families in Rural Lattakia Hesitate to Leave the Camps",
