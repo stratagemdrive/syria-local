@@ -1,7 +1,7 @@
 {
   "country": "Syria",
-  "last_updated": "2026-07-16T23:44:29.742573+00:00",
-  "story_count": 29,
+  "last_updated": "2026-07-17T12:03:05.847162+00:00",
+  "story_count": 30,
   "stories": [
     {
       "title": "Syrian Foreign Minister Shibani Arrives in Riyadh for Wide-Ranging Talks with Saudi Counterpart",
@@ -44,6 +44,13 @@
       "url": "https://www.aljazeera.com/news/2026/7/11/algeria-and-mali-restore-diplomatic-ties-following-yearlong-rift?traffic_source=rss",
       "published_date": "2026-07-11T15:29:32+00:00",
       "category": "Diplomacy"
+    },
+    {
+      "title": "Syria seizes advanced weapons it says were bound for Lebanon’s Hezbollah",
+      "source": "Syrian Observer",
+      "url": "https://syrianobserver.com/youtube/syria-seizes-advanced-weapons-it-says-were-bound-for-lebanons-hezbollah.html",
+      "published_date": "2026-07-17T08:22:20+00:00",
+      "category": "Military"
     },
     {
       "title": "Syria says it foiled Hezbollah weapons shipment",
@@ -106,13 +113,6 @@
       "source": "Syrian Observer",
       "url": "https://syrianobserver.com/syrian-actors/syrian-authorities-dismantle-isis-linked-cell-behind-damascus-bombings.html",
       "published_date": "2026-07-12T21:00:34+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Bomb attacks rattle Damascus but for most Syrians, life goes on",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/features/2026/7/10/bomb-attacks-rattle-damascus-but-for-most-syrians-life-goes-on?traffic_source=rss",
-      "published_date": "2026-07-10T09:21:22+00:00",
       "category": "Military"
     },
     {
@@ -196,6 +196,13 @@
       "title": "Damascus University Students and Alumni Petition for Removal of MP Mudar Hamdan",
       "source": "Syrian Observer",
       "url": "https://syrianobserver.com/uncategorized/damascus-university-students-and-alumni-petition-for-removal-of-mp-mudar-hamdan.html",
+      "published_date": "2026-07-15T21:00:04+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Damascus University Students and Alumni Petition for Removal of MP Mudar Hamdan",
+      "source": "Syrian Observer",
+      "url": "https://syrianobserver.com/syrian-actors/damascus-university-students-and-alumni-petition-for-removal-of-mp-mudar-hamdan.html",
       "published_date": "2026-07-15T21:00:04+00:00",
       "category": "Local Events"
     },
