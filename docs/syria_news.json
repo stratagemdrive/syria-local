@@ -1,7 +1,7 @@
 {
   "country": "Syria",
-  "last_updated": "2026-07-18T11:48:36.578392+00:00",
-  "story_count": 32,
+  "last_updated": "2026-07-18T23:39:24.287861+00:00",
+  "story_count": 31,
   "stories": [
     {
       "title": "Venice protesters rally against US ambassador’s superyacht tour",
@@ -43,13 +43,6 @@
       "source": "Syrian Observer",
       "url": "https://syrianobserver.com/foreign-actors/syria-and-qatar-sign-agreement-to-expand-diplomatic-cooperation.html",
       "published_date": "2026-07-12T21:00:09+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Algeria and Mali restore diplomatic ties following yearlong rift",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/11/algeria-and-mali-restore-diplomatic-ties-following-yearlong-rift?traffic_source=rss",
-      "published_date": "2026-07-11T15:29:32+00:00",
       "category": "Diplomacy"
     },
     {
@@ -123,6 +116,13 @@
       "category": "Military"
     },
     {
+      "title": "Iraq signs 48 deals with US companies during PM’s visit to Washington",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/18/iraq-signs-48-deals-with-us-companies-during-pms-visit-to-washington?traffic_source=rss",
+      "published_date": "2026-07-18T14:23:33+00:00",
+      "category": "Energy"
+    },
+    {
       "title": "Iraq signs deals with Western oil firms, including to revive Syria pipeline",
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/news/2026/7/17/iraq-signs-deals-with-western-oil-firms-including-to-revive-syria-pipeline?traffic_source=rss",
@@ -183,13 +183,6 @@
       "source": "Syrian Observer",
       "url": "https://syrianobserver.com/society/inaugural-syrian-american-business-forum-launches-in-damascus-after-landmark-u-s-terror-rescission.html",
       "published_date": "2026-07-13T21:00:17+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Syrians optimistic but cautious as sanctions removal revives economic hopes",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/11/syrians-optimistic-but-cautious-as-sanctions-removal-revives-economic-hopes?traffic_source=rss",
-      "published_date": "2026-07-11T15:54:25+00:00",
       "category": "Economy"
     },
     {
