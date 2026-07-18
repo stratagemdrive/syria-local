@@ -1,8 +1,15 @@
 {
   "country": "Syria",
-  "last_updated": "2026-07-17T23:39:35.912568+00:00",
-  "story_count": 31,
+  "last_updated": "2026-07-18T11:48:36.578392+00:00",
+  "story_count": 32,
   "stories": [
+    {
+      "title": "Venice protesters rally against US ambassador’s superyacht tour",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/18/venice-protesters-rally-against-us-ambassadors-superyacht-tour?traffic_source=rss",
+      "published_date": "2026-07-18T03:37:54+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Syrian Foreign Minister Shibani Arrives in Riyadh for Wide-Ranging Talks with Saudi Counterpart",
       "source": "Syrian Observer",
