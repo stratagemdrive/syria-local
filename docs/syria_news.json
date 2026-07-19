@@ -1,8 +1,15 @@
 {
   "country": "Syria",
-  "last_updated": "2026-07-19T11:50:53.484726+00:00",
-  "story_count": 29,
+  "last_updated": "2026-07-19T23:42:58.915455+00:00",
+  "story_count": 25,
   "stories": [
+    {
+      "title": "Syria’s Al-Sharaa reshuffles security and intelligence leadership",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/19/syrias-al-sharaa-reshuffles-security-and-intelligence-leadership?traffic_source=rss",
+      "published_date": "2026-07-19T16:43:55+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Venice protesters rally against US ambassador’s superyacht tour",
       "source": "Al Jazeera",
@@ -29,20 +36,6 @@
       "source": "Syrian Observer",
       "url": "https://syrianobserver.com/syrian-actors/the-monarchy-one-of-the-codes-of-ahmad-al-sharaas-rule.html",
       "published_date": "2026-07-14T21:00:27+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Syrian Diplomatic Surge: How Sharaa’s Summits with Trump, Macron, and Erdoğan Cement Damascus’s International Status",
-      "source": "Syrian Observer",
-      "url": "https://syrianobserver.com/syrian-actors/syrian-diplomatic-surge-how-sharaas-summits-with-trump-macron-and-erdogan-cement-damascuss-international-status.html",
-      "published_date": "2026-07-12T21:00:41+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Syria and Qatar Sign Agreement to Expand Diplomatic Cooperation",
-      "source": "Syrian Observer",
-      "url": "https://syrianobserver.com/foreign-actors/syria-and-qatar-sign-agreement-to-expand-diplomatic-cooperation.html",
-      "published_date": "2026-07-12T21:00:09+00:00",
       "category": "Diplomacy"
     },
     {
@@ -109,13 +102,6 @@
       "category": "Military"
     },
     {
-      "title": "Syrian Authorities Dismantle ISIS-Linked Cell Behind Damascus Bombings",
-      "source": "Syrian Observer",
-      "url": "https://syrianobserver.com/syrian-actors/syrian-authorities-dismantle-isis-linked-cell-behind-damascus-bombings.html",
-      "published_date": "2026-07-12T21:00:34+00:00",
-      "category": "Military"
-    },
-    {
       "title": "Iraq signs 48 deals with US companies during PM’s visit to Washington",
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/news/2026/7/18/iraq-signs-48-deals-with-us-companies-during-pms-visit-to-washington?traffic_source=rss",
@@ -127,20 +113,6 @@
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/news/2026/7/17/iraq-signs-deals-with-western-oil-firms-including-to-revive-syria-pipeline?traffic_source=rss",
       "published_date": "2026-07-17T22:19:19+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "The Dream of Return Delayed: Why Displaced Families in Rural Lattakia Hesitate to Leave the Camps",
-      "source": "Syrian Observer",
-      "url": "https://syrianobserver.com/refugees/the-dream-of-return-delayed-why-displaced-families-in-rural-lattakia-hesitate-to-leave-the-camps.html",
-      "published_date": "2026-07-12T21:00:53+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Former Emir of Qatar Sheikh Hamad bin Khalifa Al Thani dies aged 74",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cql1qdq14xro?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-07-12T16:35:50+00:00",
       "category": "Energy"
     },
     {
