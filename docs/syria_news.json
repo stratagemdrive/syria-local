@@ -1,8 +1,15 @@
 {
   "country": "Syria",
-  "last_updated": "2026-07-19T23:42:58.915455+00:00",
-  "story_count": 25,
+  "last_updated": "2026-07-20T13:01:26.935741+00:00",
+  "story_count": 28,
   "stories": [
+    {
+      "title": "Trump says US strikes hit Iran in 'honour' of American soldiers killed",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cly52xzjd3qo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-07-20T11:18:40+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Syria’s Al-Sharaa reshuffles security and intelligence leadership",
       "source": "Al Jazeera",
@@ -37,6 +44,13 @@
       "url": "https://syrianobserver.com/syrian-actors/the-monarchy-one-of-the-codes-of-ahmad-al-sharaas-rule.html",
       "published_date": "2026-07-14T21:00:27+00:00",
       "category": "Diplomacy"
+    },
+    {
+      "title": "Hamas names Khalil al-Hayya as new leader after run-off with Khaled Meshaal",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/20/hamas-names-khalil-al-hayya-as-new-leader-after-run-off-with-khaled-meshaal?traffic_source=rss",
+      "published_date": "2026-07-20T11:27:04+00:00",
+      "category": "Military"
     },
     {
       "title": "Syria seizes advanced weapons it says were bound for Lebanon’s Hezbollah",
@@ -142,6 +156,13 @@
       "url": "https://syrianobserver.com/society/inaugural-syrian-american-business-forum-launches-in-damascus-after-landmark-u-s-terror-rescission.html",
       "published_date": "2026-07-13T21:00:17+00:00",
       "category": "Economy"
+    },
+    {
+      "title": "After Macron’s Vows to Revive Christian Schools, Aleppo Bids Farewell to the Franciscan Sisters",
+      "source": "Syrian Observer",
+      "url": "https://syrianobserver.com/society/after-macrons-vows-to-revive-christian-schools-aleppo-bids-farewell-to-the-franciscan-sisters.html",
+      "published_date": "2026-07-19T21:01:20+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Syria and Germany Sign Agreement to Form Joint Committee for Strengthening Bilateral Cooperation",
