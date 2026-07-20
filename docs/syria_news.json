@@ -1,7 +1,7 @@
 {
   "country": "Syria",
-  "last_updated": "2026-07-20T13:01:26.935741+00:00",
-  "story_count": 28,
+  "last_updated": "2026-07-20T23:44:00.796825+00:00",
+  "story_count": 29,
   "stories": [
     {
       "title": "Trump says US strikes hit Iran in 'honour' of American soldiers killed",
@@ -44,6 +44,13 @@
       "url": "https://syrianobserver.com/syrian-actors/the-monarchy-one-of-the-codes-of-ahmad-al-sharaas-rule.html",
       "published_date": "2026-07-14T21:00:27+00:00",
       "category": "Diplomacy"
+    },
+    {
+      "title": "Hamas names Khalil al-Hayya as new overall leader",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cx25nzkyj50o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-07-20T14:02:31+00:00",
+      "category": "Military"
     },
     {
       "title": "Hamas names Khalil al-Hayya as new leader after run-off with Khaled Meshaal",
@@ -102,20 +109,6 @@
       "category": "Military"
     },
     {
-      "title": "Government Links ISIS Cell to Damascus Bombings Amid Efforts to Stabilize Post-War Syria",
-      "source": "Syrian Observer",
-      "url": "https://syrianobserver.com/security/government-links-isis-cell-to-damascus-bombings-amid-efforts-to-stabilize-post-war-syria.html",
-      "published_date": "2026-07-13T21:01:23+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Central Bank Governor Unveils New Monetary Policy as Syria Accelerates Post-War Recovery",
-      "source": "Syrian Observer",
-      "url": "https://syrianobserver.com/society/central-bank-governor-unveils-new-monetary-policy-as-syria-accelerates-post-war-recovery.html",
-      "published_date": "2026-07-13T21:00:49+00:00",
-      "category": "Military"
-    },
-    {
       "title": "Iraq signs 48 deals with US companies during PM’s visit to Washington",
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/news/2026/7/18/iraq-signs-48-deals-with-us-companies-during-pms-visit-to-washington?traffic_source=rss",
@@ -128,6 +121,13 @@
       "url": "https://www.aljazeera.com/news/2026/7/17/iraq-signs-deals-with-western-oil-firms-including-to-revive-syria-pipeline?traffic_source=rss",
       "published_date": "2026-07-17T22:19:19+00:00",
       "category": "Energy"
+    },
+    {
+      "title": "Cancer Patients in Syria Driven into a Dangerous Black Market for Medicines",
+      "source": "Syrian Observer",
+      "url": "https://syrianobserver.com/society/cancer-patients-in-syria-driven-into-a-dangerous-black-market-for-medicines.html",
+      "published_date": "2026-07-20T21:01:21+00:00",
+      "category": "Economy"
     },
     {
       "title": "Syrian Women Leave Traditional Jobs for Home-Based Businesses",
@@ -144,18 +144,25 @@
       "category": "Economy"
     },
     {
-      "title": "Syria Recalibrates Its Russia Strategy as Post-Assad Order Takes Shape",
+      "title": "Political Parties Are the Missing Architecture of the Syrian State",
       "source": "Syrian Observer",
-      "url": "https://syrianobserver.com/foreign-actors/syria-recalibrates-its-russia-strategy-as-post-assad-order-takes-shape.html",
-      "published_date": "2026-07-13T21:02:04+00:00",
-      "category": "Economy"
+      "url": "https://syrianobserver.com/syrian-actors/political-parties-are-the-missing-architecture-of-the-syrian-state.html",
+      "published_date": "2026-07-20T21:00:07+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Inaugural Syrian-American Business Forum Launches in Damascus After Landmark U.S. Terror Rescission",
-      "source": "Syrian Observer",
-      "url": "https://syrianobserver.com/society/inaugural-syrian-american-business-forum-launches-in-damascus-after-landmark-u-s-terror-rescission.html",
-      "published_date": "2026-07-13T21:00:17+00:00",
-      "category": "Economy"
+      "title": "Gaza residents weigh in on election of new Hamas leader",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/20/gaza-residents-weigh-in-on-election-of-new-hamas-leader?traffic_source=rss",
+      "published_date": "2026-07-20T20:53:29+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "What does Khalil al-Hayya’s election win mean for Gaza?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/20/what-does-khalil-al-hayyas-election-win-mean-for-gaza?traffic_source=rss",
+      "published_date": "2026-07-20T19:43:02+00:00",
+      "category": "Local Events"
     },
     {
       "title": "After Macron’s Vows to Revive Christian Schools, Aleppo Bids Farewell to the Franciscan Sisters",
