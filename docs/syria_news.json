@@ -1,8 +1,22 @@
 {
   "country": "Syria",
-  "last_updated": "2026-07-22T12:23:00.510336+00:00",
-  "story_count": 31,
+  "last_updated": "2026-07-22T23:51:08.042855+00:00",
+  "story_count": 33,
   "stories": [
+    {
+      "title": "Western Sources: Aoun Rejects Syrian Role Inside Lebanon as Trump Urges Turkish Support for Border Security",
+      "source": "Syrian Observer",
+      "url": "https://syrianobserver.com/foreign-actors/western-sources-aoun-rejects-syrian-role-inside-lebanon-as-trump-urges-turkish-support-for-border-security.html",
+      "published_date": "2026-07-22T21:00:44+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Hamas’s new leader calls for permanent Gaza ceasefire",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/22/hamass-new-leader-calls-for-permanent-gaza-ceasefire?traffic_source=rss",
+      "published_date": "2026-07-22T17:02:50+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "How will Khalil al-Hayya’s leadership shape Hamas?",
       "source": "Al Jazeera",
@@ -44,6 +58,20 @@
       "url": "https://syrianobserver.com/foreign-actors/trump-says-sharaa-will-handle-hezbollah-differently-urges-israeli-redeployment-in-lebanon.html",
       "published_date": "2026-07-16T21:00:28+00:00",
       "category": "Diplomacy"
+    },
+    {
+      "title": "Pro-Assad Remnant Faction Fractures Within Hours as Internal Rift Hits ‘Syrian Arab Front’",
+      "source": "Syrian Observer",
+      "url": "https://syrianobserver.com/syrian-actors/pro-assad-remnant-faction-fractures-within-hours-as-internal-rift-hits-syrian-arab-front.html",
+      "published_date": "2026-07-22T21:00:22+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Gaza man returns home after family believed he was dead",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/22/gaza-man-returns-home-after-family-believed-he-was-dead?traffic_source=rss",
+      "published_date": "2026-07-22T19:59:42+00:00",
+      "category": "Military"
     },
     {
       "title": "Syria Launches National Strategy to Combat Money Laundering and Terrorist Financing with UN Support",
@@ -102,20 +130,6 @@
       "category": "Military"
     },
     {
-      "title": "Syria Establishes National University for Defense Sciences: A new institution will merge military training with engineering, technology, and strategic studies",
-      "source": "Syrian Observer",
-      "url": "https://syrianobserver.com/security/syria-establishes-national-university-for-defense-sciences-a-new-institution-will-merge-military-training-with-engineering-technology-and-strategic-studies.html",
-      "published_date": "2026-07-15T21:00:40+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Syrian authorities arrest ex-officer accused of chemical weapons crimes",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/15/syrian-authorities-arrest-ex-officer-accused-of-chemical-weapons-crimes?traffic_source=rss",
-      "published_date": "2026-07-15T18:58:58+00:00",
-      "category": "Military"
-    },
-    {
       "title": "Iraq signs 48 deals with US companies during PM’s visit to Washington",
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/news/2026/7/18/iraq-signs-48-deals-with-us-companies-during-pms-visit-to-washington?traffic_source=rss",
@@ -128,6 +142,13 @@
       "url": "https://www.aljazeera.com/news/2026/7/17/iraq-signs-deals-with-western-oil-firms-including-to-revive-syria-pipeline?traffic_source=rss",
       "published_date": "2026-07-17T22:19:19+00:00",
       "category": "Energy"
+    },
+    {
+      "title": "UN Says Syria’s Transition Has Reached Key Institutional Milestone",
+      "source": "Syrian Observer",
+      "url": "https://syrianobserver.com/syrian-actors/un-says-syrias-transition-has-reached-key-institutional-milestone.html",
+      "published_date": "2026-07-22T21:01:46+00:00",
+      "category": "Economy"
     },
     {
       "title": "Syrian people must not be failed again",
@@ -149,6 +170,20 @@
       "url": "https://syrianobserver.com/society/syrian-women-leave-traditional-jobs-for-home-based-businesses.html",
       "published_date": "2026-07-16T21:00:42+00:00",
       "category": "Economy"
+    },
+    {
+      "title": "Damascus Reaffirms Commitment to Diplomacy While Rejecting Foreign Occupation, Syrian Envoy Tells UN",
+      "source": "Syrian Observer",
+      "url": "https://syrianobserver.com/syrian-actors/damascus-reaffirms-commitment-to-diplomacy-while-rejecting-foreign-occupation-syrian-envoy-tells-un.html",
+      "published_date": "2026-07-22T21:00:43+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Trump push for Syrian intervention against Hezbollah ‘short-sighted’",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/features/2026/7/22/trump-push-for-syrian-intervention-against-hezbollah-short-sighted?traffic_source=rss",
+      "published_date": "2026-07-22T17:18:14+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Turkish Forces Withdraw from Bases in Afrin Countryside as Residents Return to Destroyed Homes",
@@ -197,27 +232,6 @@
       "source": "Syrian Observer",
       "url": "https://syrianobserver.com/foreign-actors/syria-and-germany-sign-agreement-to-form-joint-committee-for-strengthening-bilateral-cooperation.html",
       "published_date": "2026-07-16T21:00:32+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Israeli Forces Begin Hospital Construction in Mount Hermon Village Near Damascus Amid Local Resistance",
-      "source": "Syrian Observer",
-      "url": "https://syrianobserver.com/foreign-actors/israeli-forces-begin-hospital-construction-in-mount-hermon-village-near-damascus-amid-local-resistance.html",
-      "published_date": "2026-07-15T21:00:40+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Damascus University Students and Alumni Petition for Removal of MP Mudar Hamdan",
-      "source": "Syrian Observer",
-      "url": "https://syrianobserver.com/uncategorized/damascus-university-students-and-alumni-petition-for-removal-of-mp-mudar-hamdan.html",
-      "published_date": "2026-07-15T21:00:04+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Damascus University Students and Alumni Petition for Removal of MP Mudar Hamdan",
-      "source": "Syrian Observer",
-      "url": "https://syrianobserver.com/syrian-actors/damascus-university-students-and-alumni-petition-for-removal-of-mp-mudar-hamdan.html",
-      "published_date": "2026-07-15T21:00:04+00:00",
       "category": "Local Events"
     }
   ]
