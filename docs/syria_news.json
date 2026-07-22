@@ -1,7 +1,7 @@
 {
   "country": "Syria",
-  "last_updated": "2026-07-21T23:44:48.100223+00:00",
-  "story_count": 28,
+  "last_updated": "2026-07-22T12:23:00.510336+00:00",
+  "story_count": 31,
   "stories": [
     {
       "title": "How will Khalil al-Hayya’s leadership shape Hamas?",
@@ -44,6 +44,13 @@
       "url": "https://syrianobserver.com/foreign-actors/trump-says-sharaa-will-handle-hezbollah-differently-urges-israeli-redeployment-in-lebanon.html",
       "published_date": "2026-07-16T21:00:28+00:00",
       "category": "Diplomacy"
+    },
+    {
+      "title": "Syria Launches National Strategy to Combat Money Laundering and Terrorist Financing with UN Support",
+      "source": "Syrian Observer",
+      "url": "https://syrianobserver.com/society/syria-launches-national-strategy-to-combat-money-laundering-and-terrorist-financing-with-un-support.html",
+      "published_date": "2026-07-21T21:02:27+00:00",
+      "category": "Military"
     },
     {
       "title": "Israeli strikes in Gaza kill 12, including family of six, medics say",
@@ -123,6 +130,13 @@
       "category": "Energy"
     },
     {
+      "title": "Syrian people must not be failed again",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/opinions/2026/7/22/syrian-people-must-not-be-failed-again?traffic_source=rss",
+      "published_date": "2026-07-22T11:23:43+00:00",
+      "category": "Economy"
+    },
+    {
       "title": "Cancer Patients in Syria Driven into a Dangerous Black Market for Medicines",
       "source": "Syrian Observer",
       "url": "https://syrianobserver.com/society/cancer-patients-in-syria-driven-into-a-dangerous-black-market-for-medicines.html",
@@ -135,6 +149,13 @@
       "url": "https://syrianobserver.com/society/syrian-women-leave-traditional-jobs-for-home-based-businesses.html",
       "published_date": "2026-07-16T21:00:42+00:00",
       "category": "Economy"
+    },
+    {
+      "title": "Turkish Forces Withdraw from Bases in Afrin Countryside as Residents Return to Destroyed Homes",
+      "source": "Syrian Observer",
+      "url": "https://syrianobserver.com/foreign-actors/turkish-forces-withdraw-from-bases-in-afrin-countryside-as-residents-return-to-destroyed-homes.html",
+      "published_date": "2026-07-21T21:00:29+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Israeli forces open fire on children in Syrian village",
