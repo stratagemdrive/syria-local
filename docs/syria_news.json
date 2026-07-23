@@ -1,7 +1,7 @@
 {
   "country": "Syria",
-  "last_updated": "2026-07-22T23:51:08.042855+00:00",
-  "story_count": 33,
+  "last_updated": "2026-07-23T12:20:04.076262+00:00",
+  "story_count": 34,
   "stories": [
     {
       "title": "Western Sources: Aoun Rejects Syrian Role Inside Lebanon as Trump Urges Turkish Support for Border Security",
@@ -170,6 +170,13 @@
       "url": "https://syrianobserver.com/society/syrian-women-leave-traditional-jobs-for-home-based-businesses.html",
       "published_date": "2026-07-16T21:00:42+00:00",
       "category": "Economy"
+    },
+    {
+      "title": "‘Back from the dead’: The continuing agony over Gaza’s 9,500 missing people",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/features/2026/7/23/back-from-the-dead-the-continuing-agony-of-gazas-9500-missing-persons?traffic_source=rss",
+      "published_date": "2026-07-23T08:57:18+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Damascus Reaffirms Commitment to Diplomacy While Rejecting Foreign Occupation, Syrian Envoy Tells UN",
