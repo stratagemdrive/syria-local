@@ -1,7 +1,7 @@
 {
   "country": "Syria",
-  "last_updated": "2026-07-23T12:20:04.076262+00:00",
-  "story_count": 34,
+  "last_updated": "2026-07-23T23:45:13.323581+00:00",
+  "story_count": 27,
   "stories": [
     {
       "title": "Western Sources: Aoun Rejects Syrian Role Inside Lebanon as Trump Urges Turkish Support for Border Security",
@@ -43,20 +43,6 @@
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/7/18/venice-protesters-rally-against-us-ambassadors-superyacht-tour?traffic_source=rss",
       "published_date": "2026-07-18T03:37:54+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Syrian Foreign Minister Shibani Arrives in Riyadh for Wide-Ranging Talks with Saudi Counterpart",
-      "source": "Syrian Observer",
-      "url": "https://syrianobserver.com/foreign-actors/syrian-foreign-minister-shibani-arrives-in-riyadh-for-wide-ranging-talks-with-saudi-counterpart.html",
-      "published_date": "2026-07-16T21:00:48+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Trump Says Sharaa Will Handle Hezbollah “Differently,” Urges Israeli Redeployment in Lebanon",
-      "source": "Syrian Observer",
-      "url": "https://syrianobserver.com/foreign-actors/trump-says-sharaa-will-handle-hezbollah-differently-urges-israeli-redeployment-in-lebanon.html",
-      "published_date": "2026-07-16T21:00:28+00:00",
       "category": "Diplomacy"
     },
     {
@@ -109,27 +95,6 @@
       "category": "Military"
     },
     {
-      "title": "Syria says it foiled Hezbollah weapons shipment",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/16/syria-says-it-foiled-hezbollah-weapons-shipment?traffic_source=rss",
-      "published_date": "2026-07-16T20:30:29+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Syria seizes advanced weapons it says were bound for Lebanon’s Hezbollah",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/16/syria-seizes-advanced-weapons-it-says-were-bound-for-lebanons-hezbollah?traffic_source=rss",
-      "published_date": "2026-07-16T20:03:58+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "In Syria’s Jobar, locals struggle to rebuild their destroyed homes",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/features/2026/7/16/in-syrias-jobar-locals-struggle-to-rebuild-their-destroyed-homes?traffic_source=rss",
-      "published_date": "2026-07-16T17:54:46+00:00",
-      "category": "Military"
-    },
-    {
       "title": "Iraq signs 48 deals with US companies during PM’s visit to Washington",
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/news/2026/7/18/iraq-signs-48-deals-with-us-companies-during-pms-visit-to-washington?traffic_source=rss",
@@ -162,13 +127,6 @@
       "source": "Syrian Observer",
       "url": "https://syrianobserver.com/society/cancer-patients-in-syria-driven-into-a-dangerous-black-market-for-medicines.html",
       "published_date": "2026-07-20T21:01:21+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Syrian Women Leave Traditional Jobs for Home-Based Businesses",
-      "source": "Syrian Observer",
-      "url": "https://syrianobserver.com/society/syrian-women-leave-traditional-jobs-for-home-based-businesses.html",
-      "published_date": "2026-07-16T21:00:42+00:00",
       "category": "Economy"
     },
     {
@@ -232,13 +190,6 @@
       "source": "Syrian Observer",
       "url": "https://syrianobserver.com/society/after-macrons-vows-to-revive-christian-schools-aleppo-bids-farewell-to-the-franciscan-sisters.html",
       "published_date": "2026-07-19T21:01:20+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Syria and Germany Sign Agreement to Form Joint Committee for Strengthening Bilateral Cooperation",
-      "source": "Syrian Observer",
-      "url": "https://syrianobserver.com/foreign-actors/syria-and-germany-sign-agreement-to-form-joint-committee-for-strengthening-bilateral-cooperation.html",
-      "published_date": "2026-07-16T21:00:32+00:00",
       "category": "Local Events"
     }
   ]
