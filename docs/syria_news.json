@@ -1,7 +1,7 @@
 {
   "country": "Syria",
-  "last_updated": "2026-07-23T23:45:13.323581+00:00",
-  "story_count": 27,
+  "last_updated": "2026-07-24T12:15:13.745401+00:00",
+  "story_count": 29,
   "stories": [
     {
       "title": "Western Sources: Aoun Rejects Syrian Role Inside Lebanon as Trump Urges Turkish Support for Border Security",
@@ -88,11 +88,11 @@
       "category": "Military"
     },
     {
-      "title": "Syria seizes advanced weapons it says were bound for Lebanon’s Hezbollah",
+      "title": "Syria and Iraq sign deal to revive Kirkuk-Baniyas oil pipeline",
       "source": "Syrian Observer",
-      "url": "https://syrianobserver.com/youtube/syria-seizes-advanced-weapons-it-says-were-bound-for-lebanons-hezbollah.html",
-      "published_date": "2026-07-17T08:22:20+00:00",
-      "category": "Military"
+      "url": "https://syrianobserver.com/youtube/syria-and-iraq-sign-deal-to-revive-kirkuk-baniyas-oil-pipeline.html",
+      "published_date": "2026-07-24T08:34:35+00:00",
+      "category": "Energy"
     },
     {
       "title": "Iraq signs 48 deals with US companies during PM’s visit to Washington",
@@ -107,6 +107,13 @@
       "url": "https://www.aljazeera.com/news/2026/7/17/iraq-signs-deals-with-western-oil-firms-including-to-revive-syria-pipeline?traffic_source=rss",
       "published_date": "2026-07-17T22:19:19+00:00",
       "category": "Energy"
+    },
+    {
+      "title": "The Kirkuk–Baniyas Pipeline Returns to the Forefront: What Could Syria Gain?",
+      "source": "Syrian Observer",
+      "url": "https://syrianobserver.com/society/the-kirkuk-baniyas-pipeline-returns-to-the-forefront-what-could-syria-gain.html",
+      "published_date": "2026-07-23T21:00:06+00:00",
+      "category": "Economy"
     },
     {
       "title": "UN Says Syria’s Transition Has Reached Key Institutional Milestone",
@@ -128,6 +135,13 @@
       "url": "https://syrianobserver.com/society/cancer-patients-in-syria-driven-into-a-dangerous-black-market-for-medicines.html",
       "published_date": "2026-07-20T21:01:21+00:00",
       "category": "Economy"
+    },
+    {
+      "title": "Syrian Transitional Justice Court Sets July 29 for Verdict in Wassim al-Assad Case",
+      "source": "Syrian Observer",
+      "url": "https://syrianobserver.com/syrian-actors/syrian-transitional-justice-court-sets-july-29-for-verdict-in-wassim-al-assad-case.html",
+      "published_date": "2026-07-23T21:00:58+00:00",
+      "category": "Local Events"
     },
     {
       "title": "‘Back from the dead’: The continuing agony over Gaza’s 9,500 missing people",
