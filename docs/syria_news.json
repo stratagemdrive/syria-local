@@ -1,8 +1,15 @@
 {
   "country": "Syria",
-  "last_updated": "2026-07-24T23:51:47.598210+00:00",
+  "last_updated": "2026-07-25T11:59:00.170979+00:00",
   "story_count": 28,
   "stories": [
+    {
+      "title": "Guterres arrives in Syria in first official visit by a UN chief in 17 years",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/25/guterres-arrives-in-syria-in-first-official-visit-by-a-un-chief-in-17-years?traffic_source=rss",
+      "published_date": "2026-07-25T07:22:47+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Western Sources: Aoun Rejects Syrian Role Inside Lebanon as Trump Urges Turkish Support for Border Security",
       "source": "Syrian Observer",
@@ -36,13 +43,6 @@
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/news/2026/7/19/syrias-al-sharaa-reshuffles-security-and-intelligence-leadership?traffic_source=rss",
       "published_date": "2026-07-19T16:43:55+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Venice protesters rally against US ambassador’s superyacht tour",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/18/venice-protesters-rally-against-us-ambassadors-superyacht-tour?traffic_source=rss",
-      "published_date": "2026-07-18T03:37:54+00:00",
       "category": "Diplomacy"
     },
     {
