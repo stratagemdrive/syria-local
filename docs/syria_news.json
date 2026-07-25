@@ -1,8 +1,15 @@
 {
   "country": "Syria",
-  "last_updated": "2026-07-25T11:59:00.170979+00:00",
-  "story_count": 28,
+  "last_updated": "2026-07-25T23:47:08.676299+00:00",
+  "story_count": 30,
   "stories": [
+    {
+      "title": "Syrian FM calls for Israeli withdrawal in meeting with UN chief",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/25/syrian-fm-calls-for-israeli-withdrawal-in-meeting-with-un-chief?traffic_source=rss",
+      "published_date": "2026-07-25T15:52:19+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Guterres arrives in Syria in first official visit by a UN chief in 17 years",
       "source": "Al Jazeera",
@@ -44,6 +51,20 @@
       "url": "https://www.aljazeera.com/news/2026/7/19/syrias-al-sharaa-reshuffles-security-and-intelligence-leadership?traffic_source=rss",
       "published_date": "2026-07-19T16:43:55+00:00",
       "category": "Diplomacy"
+    },
+    {
+      "title": "Head of Hamas-led police in northern Gaza killed by Israeli strike",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/25/head-of-hamas-led-police-in-northern-gaza-killed-by-israeli-strike?traffic_source=rss",
+      "published_date": "2026-07-25T20:00:43+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "At least 35 killed after two buses collide in eastern Syria",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/25/at-least-35-killed-after-two-buses-collide-in-eastern-syria?traffic_source=rss",
+      "published_date": "2026-07-25T19:22:30+00:00",
+      "category": "Military"
     },
     {
       "title": "Pro-Assad Remnant Faction Fractures Within Hours as Internal Rift Hits ‘Syrian Arab Front’",
@@ -92,13 +113,6 @@
       "source": "Syrian Observer",
       "url": "https://syrianobserver.com/youtube/syria-and-iraq-sign-deal-to-revive-kirkuk-baniyas-oil-pipeline.html",
       "published_date": "2026-07-24T08:34:35+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Iraq signs 48 deals with US companies during PM’s visit to Washington",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/18/iraq-signs-48-deals-with-us-companies-during-pms-visit-to-washington?traffic_source=rss",
-      "published_date": "2026-07-18T14:23:33+00:00",
       "category": "Energy"
     },
     {
