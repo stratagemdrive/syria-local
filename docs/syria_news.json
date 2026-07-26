@@ -1,8 +1,36 @@
 {
   "country": "Syria",
-  "last_updated": "2026-07-26T11:57:10.477106+00:00",
-  "story_count": 30,
+  "last_updated": "2026-07-26T23:48:35.809416+00:00",
+  "story_count": 34,
   "stories": [
+    {
+      "title": "Unexpected New Regional Roles for Syria and Turkey",
+      "source": "Syrian Observer",
+      "url": "https://syrianobserver.com/foreign-actors/unexpected-new-regional-roles-for-syria-and-turkey.html",
+      "published_date": "2026-07-26T21:01:50+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Al-Sharaa outlines Syria’s approach to security with Israel and Lebanon",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/26/al-sharaa-outlines-syrias-approach-to-security-with-israel-and-lebanon?traffic_source=rss",
+      "published_date": "2026-07-26T19:27:57+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Al-Sharaa praises Trump’s decision to remove Syria from terrorism list",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/26/al-sharaa-praises-trumps-decision-to-remove-syria-from-terrorism-list?traffic_source=rss",
+      "published_date": "2026-07-26T18:08:48+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Israel launches military incursion into Syria amid UN condemnation",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/26/israel-launches-military-incursion-into-syria-amid-un-condemnation?traffic_source=rss",
+      "published_date": "2026-07-26T17:40:15+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Syrian FM calls for Israeli withdrawal in meeting with UN chief",
       "source": "Al Jazeera",
@@ -46,11 +74,11 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Syria’s Al-Sharaa reshuffles security and intelligence leadership",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/19/syrias-al-sharaa-reshuffles-security-and-intelligence-leadership?traffic_source=rss",
-      "published_date": "2026-07-19T16:43:55+00:00",
-      "category": "Diplomacy"
+      "title": "Sharaa: Syria Working Toward Security Agreement with Israel, Rejects Military Intervention in Lebanon",
+      "source": "Syrian Observer",
+      "url": "https://syrianobserver.com/foreign-actors/sharaa-syria-working-toward-security-agreement-with-israel-rejects-military-intervention-in-lebanon.html",
+      "published_date": "2026-07-26T21:00:00+00:00",
+      "category": "Military"
     },
     {
       "title": "Head of Hamas-led police in northern Gaza killed by Israeli strike",
@@ -107,6 +135,13 @@
       "url": "https://www.aljazeera.com/news/2026/7/20/hamas-names-khalil-al-hayya-as-new-leader-after-run-off-with-khaled-meshaal?traffic_source=rss",
       "published_date": "2026-07-20T11:27:04+00:00",
       "category": "Military"
+    },
+    {
+      "title": "Arab Interior Ministers’ Visits Signal New Security Phase for Syria",
+      "source": "Syrian Observer",
+      "url": "https://syrianobserver.com/foreign-actors/arab-interior-ministers-visits-signal-new-security-phase-for-syria.html",
+      "published_date": "2026-07-26T21:01:51+00:00",
+      "category": "Energy"
     },
     {
       "title": "Syria and Iraq sign deal to revive Kirkuk-Baniyas oil pipeline",
@@ -204,13 +239,6 @@
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/news/2026/7/20/what-does-khalil-al-hayyas-election-win-mean-for-gaza?traffic_source=rss",
       "published_date": "2026-07-20T19:43:02+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "After Macron’s Vows to Revive Christian Schools, Aleppo Bids Farewell to the Franciscan Sisters",
-      "source": "Syrian Observer",
-      "url": "https://syrianobserver.com/society/after-macrons-vows-to-revive-christian-schools-aleppo-bids-farewell-to-the-franciscan-sisters.html",
-      "published_date": "2026-07-19T21:01:20+00:00",
       "category": "Local Events"
     }
   ]
