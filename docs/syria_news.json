@@ -1,8 +1,15 @@
 {
   "country": "Syria",
-  "last_updated": "2026-07-26T23:48:35.809416+00:00",
+  "last_updated": "2026-07-27T13:34:15.413425+00:00",
   "story_count": 34,
   "stories": [
+    {
+      "title": "US and Iran pause strikes for third night to make space for talks, US ambassador says",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c5y45kdkynpo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-07-27T08:14:46+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Unexpected New Regional Roles for Syria and Turkey",
       "source": "Syrian Observer",
@@ -67,11 +74,11 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Trump says US strikes hit Iran in 'honour' of American soldiers killed",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cly52xzjd3qo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-07-20T11:18:40+00:00",
-      "category": "Diplomacy"
+      "title": "The Phantom Pain of Rojava review – Kurdish veterans of the war against IS tell story of courage and survival",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/film/2026/jul/27/the-phantom-pain-of-rojava-review-kurdish-veterans-of-the-war-against-is-tell-story-of-courage-and-survival",
+      "published_date": "2026-07-27T10:00:39+00:00",
+      "category": "Military"
     },
     {
       "title": "Sharaa: Syria Working Toward Security Agreement with Israel, Rejects Military Intervention in Lebanon",
@@ -127,13 +134,6 @@
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/cx25nzkyj50o?at_medium=RSS&at_campaign=rss",
       "published_date": "2026-07-20T14:02:31+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Hamas names Khalil al-Hayya as new leader after run-off with Khaled Meshaal",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/20/hamas-names-khalil-al-hayya-as-new-leader-after-run-off-with-khaled-meshaal?traffic_source=rss",
-      "published_date": "2026-07-20T11:27:04+00:00",
       "category": "Military"
     },
     {
