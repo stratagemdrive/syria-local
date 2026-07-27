@@ -1,8 +1,22 @@
 {
   "country": "Syria",
-  "last_updated": "2026-07-27T13:34:15.413425+00:00",
-  "story_count": 34,
+  "last_updated": "2026-07-27T23:50:57.452367+00:00",
+  "story_count": 32,
   "stories": [
+    {
+      "title": "US diplomats walk out as France addresses UN Security Council",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/27/us-diplomats-walk-out-as-france-addresses-un-security-council?traffic_source=rss",
+      "published_date": "2026-07-27T23:07:55+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Sharaa’s Interview: Is Democracy Losing its Appeal?",
+      "source": "Syrian Observer",
+      "url": "https://syrianobserver.com/syrian-actors/sharaas-interview-is-democracy-losing-its-appeal.html",
+      "published_date": "2026-07-27T21:01:23+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "US and Iran pause strikes for third night to make space for talks, US ambassador says",
       "source": "BBC News",
@@ -130,13 +144,6 @@
       "category": "Military"
     },
     {
-      "title": "Hamas names Khalil al-Hayya as new overall leader",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cx25nzkyj50o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-07-20T14:02:31+00:00",
-      "category": "Military"
-    },
-    {
       "title": "Arab Interior Ministers’ Visits Signal New Security Phase for Syria",
       "source": "Syrian Observer",
       "url": "https://syrianobserver.com/foreign-actors/arab-interior-ministers-visits-signal-new-security-phase-for-syria.html",
@@ -172,11 +179,11 @@
       "category": "Economy"
     },
     {
-      "title": "Cancer Patients in Syria Driven into a Dangerous Black Market for Medicines",
+      "title": "Woman Killed, Son Critically Injured in Sectarian Shooting in Homs",
       "source": "Syrian Observer",
-      "url": "https://syrianobserver.com/society/cancer-patients-in-syria-driven-into-a-dangerous-black-market-for-medicines.html",
-      "published_date": "2026-07-20T21:01:21+00:00",
-      "category": "Economy"
+      "url": "https://syrianobserver.com/syrian-actors/woman-killed-son-critically-injured-in-sectarian-shooting-in-homs.html",
+      "published_date": "2026-07-27T21:00:03+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Syrian Transitional Justice Court Sets July 29 for Verdict in Wassim al-Assad Case",
@@ -218,27 +225,6 @@
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/7/21/israeli-forces-open-fire-on-children-in-syrian-village?traffic_source=rss",
       "published_date": "2026-07-21T08:39:16+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Political Parties Are the Missing Architecture of the Syrian State",
-      "source": "Syrian Observer",
-      "url": "https://syrianobserver.com/syrian-actors/political-parties-are-the-missing-architecture-of-the-syrian-state.html",
-      "published_date": "2026-07-20T21:00:07+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Gaza residents weigh in on election of new Hamas leader",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/20/gaza-residents-weigh-in-on-election-of-new-hamas-leader?traffic_source=rss",
-      "published_date": "2026-07-20T20:53:29+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "What does Khalil al-Hayya’s election win mean for Gaza?",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/20/what-does-khalil-al-hayyas-election-win-mean-for-gaza?traffic_source=rss",
-      "published_date": "2026-07-20T19:43:02+00:00",
       "category": "Local Events"
     }
   ]
