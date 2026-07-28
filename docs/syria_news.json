@@ -1,7 +1,7 @@
 {
   "country": "Syria",
-  "last_updated": "2026-07-27T23:50:57.452367+00:00",
-  "story_count": 32,
+  "last_updated": "2026-07-28T12:50:21.300493+00:00",
+  "story_count": 31,
   "stories": [
     {
       "title": "US diplomats walk out as France addresses UN Security Council",
@@ -218,13 +218,6 @@
       "source": "Syrian Observer",
       "url": "https://syrianobserver.com/foreign-actors/turkish-forces-withdraw-from-bases-in-afrin-countryside-as-residents-return-to-destroyed-homes.html",
       "published_date": "2026-07-21T21:00:29+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Israeli forces open fire on children in Syrian village",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/21/israeli-forces-open-fire-on-children-in-syrian-village?traffic_source=rss",
-      "published_date": "2026-07-21T08:39:16+00:00",
       "category": "Local Events"
     }
   ]
