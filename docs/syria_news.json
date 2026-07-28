@@ -1,8 +1,36 @@
 {
   "country": "Syria",
-  "last_updated": "2026-07-28T12:50:21.300493+00:00",
-  "story_count": 31,
+  "last_updated": "2026-07-28T23:46:48.591444+00:00",
+  "story_count": 39,
   "stories": [
+    {
+      "title": "Syrian Diplomat in Washington Accused of Role in 2016 Kidnapping of American Journalist",
+      "source": "Syrian Observer",
+      "url": "https://syrianobserver.com/syrian-actors/syrian-diplomat-in-washington-accused-of-role-in-2016-kidnapping-of-american-journalist.html",
+      "published_date": "2026-07-28T21:00:35+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Syrian Foreign Minister receives outgoing Omani ambassador",
+      "source": "SANA",
+      "url": "https://sana.sy/en/syria/2332727/",
+      "published_date": "2026-07-28T14:07:05+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Syria, South Korea sign education grant, media cooperation agreements",
+      "source": "SANA",
+      "url": "https://sana.sy/en/politics/2332722/",
+      "published_date": "2026-07-28T13:47:16+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Regional leaders discuss security, cooperation amid Middle East tensions",
+      "source": "SANA",
+      "url": "https://sana.sy/en/middle-east/2332715/",
+      "published_date": "2026-07-28T12:53:35+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "US diplomats walk out as France addresses UN Security Council",
       "source": "Al Jazeera",
@@ -81,11 +109,46 @@
       "category": "Diplomacy"
     },
     {
-      "title": "How will Khalil al-Hayya’s leadership shape Hamas?",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/inside-story/2026/7/21/how-will-khalil-al-hayyas-leadership-shape-hamas?traffic_source=rss",
-      "published_date": "2026-07-21T21:03:58+00:00",
-      "category": "Diplomacy"
+      "title": "Israeli Forces Launch New Incursion into Western Daraa Countryside",
+      "source": "Syrian Observer",
+      "url": "https://syrianobserver.com/foreign-actors/israeli-forces-launch-new-incursion-into-western-daraa-countryside.html",
+      "published_date": "2026-07-28T21:01:58+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Syrian Security Forces Conduct Major Operations Against Militants in Jableh and ISIS Cells in Aleppo",
+      "source": "Syrian Observer",
+      "url": "https://syrianobserver.com/security/syrian-security-forces-conduct-major-operations-against-militants-in-jableh-and-isis-cells-in-aleppo.html",
+      "published_date": "2026-07-28T19:49:48+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Israeli occupation forces carry out new incursion into western Daraa countryside",
+      "source": "SANA",
+      "url": "https://sana.sy/en/syria/2332729/",
+      "published_date": "2026-07-28T14:06:35+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Gulf states back Omani plan for voluntary Iran transit fees in Strait of Hormuz, source",
+      "source": "SANA",
+      "url": "https://sana.sy/en/middle-east/2332710/",
+      "published_date": "2026-07-28T12:33:25+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "More than 247,000 killed, wounded in Israeli genocide war in Gaza Strip",
+      "source": "SANA",
+      "url": "https://sana.sy/en/middle-east/2332704/",
+      "published_date": "2026-07-28T11:15:42+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Syrian soldier martyred, another wounded in Latakia landmine blast",
+      "source": "SANA",
+      "url": "https://sana.sy/en/syria/2332701/",
+      "published_date": "2026-07-28T11:01:06+00:00",
+      "category": "Military"
     },
     {
       "title": "The Phantom Pain of Rojava review – Kurdish veterans of the war against IS tell story of courage and survival",
@@ -130,20 +193,6 @@
       "category": "Military"
     },
     {
-      "title": "Syria Launches National Strategy to Combat Money Laundering and Terrorist Financing with UN Support",
-      "source": "Syrian Observer",
-      "url": "https://syrianobserver.com/society/syria-launches-national-strategy-to-combat-money-laundering-and-terrorist-financing-with-un-support.html",
-      "published_date": "2026-07-21T21:02:27+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Israeli strikes in Gaza kill 12, including family of six, medics say",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c0qv0pdj18go?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-07-21T15:54:11+00:00",
-      "category": "Military"
-    },
-    {
       "title": "Arab Interior Ministers’ Visits Signal New Security Phase for Syria",
       "source": "Syrian Observer",
       "url": "https://syrianobserver.com/foreign-actors/arab-interior-ministers-visits-signal-new-security-phase-for-syria.html",
@@ -156,6 +205,13 @@
       "url": "https://syrianobserver.com/youtube/syria-and-iraq-sign-deal-to-revive-kirkuk-baniyas-oil-pipeline.html",
       "published_date": "2026-07-24T08:34:35+00:00",
       "category": "Energy"
+    },
+    {
+      "title": "Syria, Egypt discuss expanding economic ties, reviving joint business council",
+      "source": "SANA",
+      "url": "https://sana.sy/en/economic/2332713/",
+      "published_date": "2026-07-28T12:40:19+00:00",
+      "category": "Economy"
     },
     {
       "title": "The Kirkuk–Baniyas Pipeline Returns to the Forefront: What Could Syria Gain?",
@@ -177,6 +233,13 @@
       "url": "https://www.aljazeera.com/opinions/2026/7/22/syrian-people-must-not-be-failed-again?traffic_source=rss",
       "published_date": "2026-07-22T11:23:43+00:00",
       "category": "Economy"
+    },
+    {
+      "title": "Strong earthquake strikes southern Japan, no impact on nuclear plants",
+      "source": "SANA",
+      "url": "https://sana.sy/en/international/2332707/",
+      "published_date": "2026-07-28T11:28:17+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Woman Killed, Son Critically Injured in Sectarian Shooting in Homs",
@@ -211,13 +274,6 @@
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/features/2026/7/22/trump-push-for-syrian-intervention-against-hezbollah-short-sighted?traffic_source=rss",
       "published_date": "2026-07-22T17:18:14+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Turkish Forces Withdraw from Bases in Afrin Countryside as Residents Return to Destroyed Homes",
-      "source": "Syrian Observer",
-      "url": "https://syrianobserver.com/foreign-actors/turkish-forces-withdraw-from-bases-in-afrin-countryside-as-residents-return-to-destroyed-homes.html",
-      "published_date": "2026-07-21T21:00:29+00:00",
       "category": "Local Events"
     }
   ]
