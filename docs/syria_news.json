@@ -1,7 +1,7 @@
 {
   "country": "Syria",
-  "last_updated": "2026-07-29T12:56:40.198793+00:00",
-  "story_count": 38,
+  "last_updated": "2026-07-29T23:49:57.468536+00:00",
+  "story_count": 34,
   "stories": [
     {
       "title": "Syrian Diplomat in Washington Accused of Role in 2016 Kidnapping of American Journalist",
@@ -95,18 +95,11 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Western Sources: Aoun Rejects Syrian Role Inside Lebanon as Trump Urges Turkish Support for Border Security",
-      "source": "Syrian Observer",
-      "url": "https://syrianobserver.com/foreign-actors/western-sources-aoun-rejects-syrian-role-inside-lebanon-as-trump-urges-turkish-support-for-border-security.html",
-      "published_date": "2026-07-22T21:00:44+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Hamas’s new leader calls for permanent Gaza ceasefire",
+      "title": "New investigation shows how an Israeli settler escaped justice",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/22/hamass-new-leader-calls-for-permanent-gaza-ceasefire?traffic_source=rss",
-      "published_date": "2026-07-22T17:02:50+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news/2026/7/29/new-investigation-shows-how-an-israeli-settler-escaped-justice?traffic_source=rss",
+      "published_date": "2026-07-29T19:55:31+00:00",
+      "category": "Military"
     },
     {
       "title": "Israeli Forces Launch New Incursion into Western Daraa Countryside",
@@ -179,20 +172,6 @@
       "category": "Military"
     },
     {
-      "title": "Pro-Assad Remnant Faction Fractures Within Hours as Internal Rift Hits ‘Syrian Arab Front’",
-      "source": "Syrian Observer",
-      "url": "https://syrianobserver.com/syrian-actors/pro-assad-remnant-faction-fractures-within-hours-as-internal-rift-hits-syrian-arab-front.html",
-      "published_date": "2026-07-22T21:00:22+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Gaza man returns home after family believed he was dead",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/22/gaza-man-returns-home-after-family-believed-he-was-dead?traffic_source=rss",
-      "published_date": "2026-07-22T19:59:42+00:00",
-      "category": "Military"
-    },
-    {
       "title": "Arab Interior Ministers’ Visits Signal New Security Phase for Syria",
       "source": "Syrian Observer",
       "url": "https://syrianobserver.com/foreign-actors/arab-interior-ministers-visits-signal-new-security-phase-for-syria.html",
@@ -221,11 +200,18 @@
       "category": "Economy"
     },
     {
-      "title": "UN Says Syria’s Transition Has Reached Key Institutional Milestone",
+      "title": "Killing of Elderly Kurdish Returnee in Afrin Raises Fears over Civilian Safety",
       "source": "Syrian Observer",
-      "url": "https://syrianobserver.com/syrian-actors/un-says-syrias-transition-has-reached-key-institutional-milestone.html",
-      "published_date": "2026-07-22T21:01:46+00:00",
-      "category": "Economy"
+      "url": "https://syrianobserver.com/syrian-actors/killing-of-elderly-kurdish-returnee-in-afrin-raises-fears-over-civilian-safety.html",
+      "published_date": "2026-07-29T21:00:59+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Suweida, Syria’s Stalingrad: Khouloud Zghair on Identity, Exile and the Collapse of a Shared State",
+      "source": "Syrian Observer",
+      "url": "https://syrianobserver.com/syrian-actors/suweida-syrias-stalingrad-khouloud-zghair-on-identity-exile-and-the-collapse-of-a-shared-state.html",
+      "published_date": "2026-07-29T21:00:52+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Strong earthquake strikes southern Japan, no impact on nuclear plants",
@@ -253,20 +239,6 @@
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/features/2026/7/23/back-from-the-dead-the-continuing-agony-of-gazas-9500-missing-persons?traffic_source=rss",
       "published_date": "2026-07-23T08:57:18+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Damascus Reaffirms Commitment to Diplomacy While Rejecting Foreign Occupation, Syrian Envoy Tells UN",
-      "source": "Syrian Observer",
-      "url": "https://syrianobserver.com/syrian-actors/damascus-reaffirms-commitment-to-diplomacy-while-rejecting-foreign-occupation-syrian-envoy-tells-un.html",
-      "published_date": "2026-07-22T21:00:43+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Trump push for Syrian intervention against Hezbollah ‘short-sighted’",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/features/2026/7/22/trump-push-for-syrian-intervention-against-hezbollah-short-sighted?traffic_source=rss",
-      "published_date": "2026-07-22T17:18:14+00:00",
       "category": "Local Events"
     }
   ]
