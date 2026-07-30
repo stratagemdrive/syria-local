@@ -1,7 +1,7 @@
 {
   "country": "Syria",
-  "last_updated": "2026-07-30T12:25:44.145586+00:00",
-  "story_count": 35,
+  "last_updated": "2026-07-30T23:49:50.181626+00:00",
+  "story_count": 34,
   "stories": [
     {
       "title": "Syrian Diplomat in Washington Accused of Role in 2016 Kidnapping of American Journalist",
@@ -179,6 +179,13 @@
       "category": "Military"
     },
     {
+      "title": "UN demands end of Ugandan clampdown on dissent",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/30/un-demands-end-of-ugandan-clampdown-on-dissent?traffic_source=rss",
+      "published_date": "2026-07-30T18:52:34+00:00",
+      "category": "Energy"
+    },
+    {
       "title": "Arab Interior Ministers’ Visits Signal New Security Phase for Syria",
       "source": "Syrian Observer",
       "url": "https://syrianobserver.com/foreign-actors/arab-interior-ministers-visits-signal-new-security-phase-for-syria.html",
@@ -197,13 +204,6 @@
       "source": "SANA",
       "url": "https://sana.sy/en/economic/2332713/",
       "published_date": "2026-07-28T12:40:19+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "The Kirkuk–Baniyas Pipeline Returns to the Forefront: What Could Syria Gain?",
-      "source": "Syrian Observer",
-      "url": "https://syrianobserver.com/society/the-kirkuk-baniyas-pipeline-returns-to-the-forefront-what-could-syria-gain.html",
-      "published_date": "2026-07-23T21:00:06+00:00",
       "category": "Economy"
     },
     {
@@ -239,13 +239,6 @@
       "source": "Syrian Observer",
       "url": "https://syrianobserver.com/syrian-actors/woman-killed-son-critically-injured-in-sectarian-shooting-in-homs.html",
       "published_date": "2026-07-27T21:00:03+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Syrian Transitional Justice Court Sets July 29 for Verdict in Wassim al-Assad Case",
-      "source": "Syrian Observer",
-      "url": "https://syrianobserver.com/syrian-actors/syrian-transitional-justice-court-sets-july-29-for-verdict-in-wassim-al-assad-case.html",
-      "published_date": "2026-07-23T21:00:58+00:00",
       "category": "Local Events"
     }
   ]
