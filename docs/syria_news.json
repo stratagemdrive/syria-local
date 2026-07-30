@@ -1,7 +1,7 @@
 {
   "country": "Syria",
-  "last_updated": "2026-07-29T23:49:57.468536+00:00",
-  "story_count": 34,
+  "last_updated": "2026-07-30T12:25:44.145586+00:00",
+  "story_count": 35,
   "stories": [
     {
       "title": "Syrian Diplomat in Washington Accused of Role in 2016 Kidnapping of American Journalist",
@@ -93,6 +93,13 @@
       "url": "https://www.aljazeera.com/news/2026/7/25/guterres-arrives-in-syria-in-first-official-visit-by-a-un-chief-in-17-years?traffic_source=rss",
       "published_date": "2026-07-25T07:22:47+00:00",
       "category": "Diplomacy"
+    },
+    {
+      "title": "India’s arms sale to Israel risks complicity in Gaza genocide, Amnesty says",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/30/indias-arms-sale-to-israel-risks-complicity-in-gaza-genocide-amnesty-says?traffic_source=rss",
+      "published_date": "2026-07-30T07:13:24+00:00",
+      "category": "Military"
     },
     {
       "title": "New investigation shows how an Israeli settler escaped justice",
@@ -200,6 +207,13 @@
       "category": "Economy"
     },
     {
+      "title": "From Toronto to Damascus: Syrians return home aiming to rebuild country",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/30/from-toronto-damascus-syria-return-home?traffic_source=rss",
+      "published_date": "2026-07-30T09:43:50+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "Killing of Elderly Kurdish Returnee in Afrin Raises Fears over Civilian Safety",
       "source": "Syrian Observer",
       "url": "https://syrianobserver.com/syrian-actors/killing-of-elderly-kurdish-returnee-in-afrin-raises-fears-over-civilian-safety.html",
@@ -232,13 +246,6 @@
       "source": "Syrian Observer",
       "url": "https://syrianobserver.com/syrian-actors/syrian-transitional-justice-court-sets-july-29-for-verdict-in-wassim-al-assad-case.html",
       "published_date": "2026-07-23T21:00:58+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "‘Back from the dead’: The continuing agony over Gaza’s 9,500 missing people",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/features/2026/7/23/back-from-the-dead-the-continuing-agony-of-gazas-9500-missing-persons?traffic_source=rss",
-      "published_date": "2026-07-23T08:57:18+00:00",
       "category": "Local Events"
     }
   ]
