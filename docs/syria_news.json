@@ -1,8 +1,15 @@
 {
   "country": "Syria",
-  "last_updated": "2026-07-31T12:51:10.210845+00:00",
-  "story_count": 38,
+  "last_updated": "2026-07-31T23:49:22.841319+00:00",
+  "story_count": 43,
   "stories": [
+    {
+      "title": "Poland protests to Russian ambassador over missile incursion",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/31/poland-protests-to-russian-ambassador-over-missile-incursion?traffic_source=rss",
+      "published_date": "2026-07-31T19:48:17+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Syrian Diplomat in Washington Accused of Role in 2016 Kidnapping of American Journalist",
       "source": "Syrian Observer",
@@ -93,6 +100,27 @@
       "url": "https://www.aljazeera.com/news/2026/7/25/guterres-arrives-in-syria-in-first-official-visit-by-a-un-chief-in-17-years?traffic_source=rss",
       "published_date": "2026-07-25T07:22:47+00:00",
       "category": "Diplomacy"
+    },
+    {
+      "title": "Trump says US has ‘understanding’ with Israel on Hamas disarmament deal",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/31/trump-says-us-has-understanding-with-israel-on-hamas-disarmament-deal?traffic_source=rss",
+      "published_date": "2026-07-31T19:18:54+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "What's in the Gaza peace deal roadmap?",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c20e94k2ex5o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-07-31T16:00:56+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Bowen: Plan for Hamas to disarm faces big obstacles, yet it offers rare hope for Gaza",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c2dkje4p4klo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-07-31T15:18:31+00:00",
+      "category": "Military"
     },
     {
       "title": "Iran war live: IRGC claims attack on Kuwait; Gaza peace deal announced",
@@ -226,6 +254,13 @@
       "url": "https://sana.sy/en/economic/2332713/",
       "published_date": "2026-07-28T12:40:19+00:00",
       "category": "Economy"
+    },
+    {
+      "title": "World reacts with cautious optimism to Hamas disarmament agreement",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/31/world-reacts-with-cautious-optimism-to-hamas-disarmament-agreement?traffic_source=rss",
+      "published_date": "2026-07-31T18:51:50+00:00",
+      "category": "Local Events"
     },
     {
       "title": "A New Security Triangle in Damascus: Centralized Decision-Making or Redistribution of Power?",
