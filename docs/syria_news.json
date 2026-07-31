@@ -1,7 +1,7 @@
 {
   "country": "Syria",
-  "last_updated": "2026-07-30T23:49:50.181626+00:00",
-  "story_count": 34,
+  "last_updated": "2026-07-31T12:51:10.210845+00:00",
+  "story_count": 38,
   "stories": [
     {
       "title": "Syrian Diplomat in Washington Accused of Role in 2016 Kidnapping of American Journalist",
@@ -95,6 +95,27 @@
       "category": "Diplomacy"
     },
     {
+      "title": "Iran war live: IRGC claims attack on Kuwait; Gaza peace deal announced",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/7/31/iran-war-live-irgc-claims-retaliatory-attack-on-kuwait?traffic_source=rss",
+      "published_date": "2026-07-31T06:49:38+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "If Hamas disarmament plan holds, it could mark first credible step to ending Gaza war",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c9d8gd87d83o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-07-31T04:25:49+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Five ISIS Cell Members Arrested in Deir ez-Zor as Assassinations Chief Killed",
+      "source": "Syrian Observer",
+      "url": "https://syrianobserver.com/security/five-isis-cell-members-arrested-in-deir-ez-zor-as-assassinations-chief-is-killed.html",
+      "published_date": "2026-07-30T21:00:47+00:00",
+      "category": "Military"
+    },
+    {
       "title": "India’s arms sale to Israel risks complicity in Gaza genocide, Amnesty says",
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/news/2026/7/30/indias-arms-sale-to-israel-risks-complicity-in-gaza-genocide-amnesty-says?traffic_source=rss",
@@ -179,6 +200,13 @@
       "category": "Military"
     },
     {
+      "title": "Sharaa Links Lebanon’s Stability to Regional Energy and State Sovereignty",
+      "source": "Syrian Observer",
+      "url": "https://syrianobserver.com/foreign-actors/sharaa-links-lebanons-stability-to-regional-energy-and-state-sovereignty.html",
+      "published_date": "2026-07-30T21:01:47+00:00",
+      "category": "Energy"
+    },
+    {
       "title": "UN demands end of Ugandan clampdown on dissent",
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/news/2026/7/30/un-demands-end-of-ugandan-clampdown-on-dissent?traffic_source=rss",
@@ -193,18 +221,18 @@
       "category": "Energy"
     },
     {
-      "title": "Syria and Iraq sign deal to revive Kirkuk-Baniyas oil pipeline",
-      "source": "Syrian Observer",
-      "url": "https://syrianobserver.com/youtube/syria-and-iraq-sign-deal-to-revive-kirkuk-baniyas-oil-pipeline.html",
-      "published_date": "2026-07-24T08:34:35+00:00",
-      "category": "Energy"
-    },
-    {
       "title": "Syria, Egypt discuss expanding economic ties, reviving joint business council",
       "source": "SANA",
       "url": "https://sana.sy/en/economic/2332713/",
       "published_date": "2026-07-28T12:40:19+00:00",
       "category": "Economy"
+    },
+    {
+      "title": "A New Security Triangle in Damascus: Centralized Decision-Making or Redistribution of Power?",
+      "source": "Syrian Observer",
+      "url": "https://syrianobserver.com/security/a-new-security-triangle-in-damascus-centralized-decision-making-or-redistribution-of-power.html",
+      "published_date": "2026-07-30T21:00:04+00:00",
+      "category": "Local Events"
     },
     {
       "title": "From Toronto to Damascus: Syrians return home aiming to rebuild country",
