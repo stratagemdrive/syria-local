@@ -1,7 +1,7 @@
 {
   "country": "Syria",
-  "last_updated": "2026-08-01T11:57:57.092243+00:00",
-  "story_count": 43,
+  "last_updated": "2026-08-01T23:44:42.910737+00:00",
+  "story_count": 41,
   "stories": [
     {
       "title": "Poland protests to Russian ambassador over missile incursion",
@@ -88,11 +88,11 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Syrian FM calls for Israeli withdrawal in meeting with UN chief",
+      "title": "Israeli forces detain residents and demolish homes in southern Syria",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/25/syrian-fm-calls-for-israeli-withdrawal-in-meeting-with-un-chief?traffic_source=rss",
-      "published_date": "2026-07-25T15:52:19+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/1/israeli-forces-detain-residents-and-demolish-homes-in-southern-syria?traffic_source=rss",
+      "published_date": "2026-08-01T17:28:52+00:00",
+      "category": "Military"
     },
     {
       "title": "Israel launches attacks across Gaza one day after Hamas agrees to disarm",
@@ -211,20 +211,6 @@
       "source": "Syrian Observer",
       "url": "https://syrianobserver.com/foreign-actors/sharaa-syria-working-toward-security-agreement-with-israel-rejects-military-intervention-in-lebanon.html",
       "published_date": "2026-07-26T21:00:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Head of Hamas-led police in northern Gaza killed by Israeli strike",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/25/head-of-hamas-led-police-in-northern-gaza-killed-by-israeli-strike?traffic_source=rss",
-      "published_date": "2026-07-25T20:00:43+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "At least 35 killed after two buses collide in eastern Syria",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/25/at-least-35-killed-after-two-buses-collide-in-eastern-syria?traffic_source=rss",
-      "published_date": "2026-07-25T19:22:30+00:00",
       "category": "Military"
     },
     {
