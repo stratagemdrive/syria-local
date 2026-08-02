@@ -1,8 +1,15 @@
 {
   "country": "Syria",
-  "last_updated": "2026-08-02T11:56:44.065389+00:00",
+  "last_updated": "2026-08-02T23:45:55.301864+00:00",
   "story_count": 41,
   "stories": [
+    {
+      "title": "Syrian President Sharaa, Saudi Crown Prince Discuss Bilateral Ties and Regional Escalation",
+      "source": "Syrian Observer",
+      "url": "https://syrianobserver.com/foreign-actors/syrian-president-sharaa-saudi-crown-prince-discuss-bilateral-ties-and-regional-escalation.html",
+      "published_date": "2026-08-02T21:00:39+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Poland protests to Russian ambassador over missile incursion",
       "source": "Al Jazeera",
@@ -60,32 +67,18 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Unexpected New Regional Roles for Syria and Turkey",
-      "source": "Syrian Observer",
-      "url": "https://syrianobserver.com/foreign-actors/unexpected-new-regional-roles-for-syria-and-turkey.html",
-      "published_date": "2026-07-26T21:01:50+00:00",
-      "category": "Diplomacy"
+      "title": "Sudan army drone attack on Darfur kills 35, rights group says",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/8/2/sudan-army-drone-attack-on-darfur-kills-35-rights-group-says?traffic_source=rss",
+      "published_date": "2026-08-02T22:51:09+00:00",
+      "category": "Military"
     },
     {
-      "title": "Al-Sharaa outlines Syria’s approach to security with Israel and Lebanon",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/26/al-sharaa-outlines-syrias-approach-to-security-with-israel-and-lebanon?traffic_source=rss",
-      "published_date": "2026-07-26T19:27:57+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Al-Sharaa praises Trump’s decision to remove Syria from terrorism list",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/26/al-sharaa-praises-trumps-decision-to-remove-syria-from-terrorism-list?traffic_source=rss",
-      "published_date": "2026-07-26T18:08:48+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Israel launches military incursion into Syria amid UN condemnation",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/26/israel-launches-military-incursion-into-syria-amid-un-condemnation?traffic_source=rss",
-      "published_date": "2026-07-26T17:40:15+00:00",
-      "category": "Diplomacy"
+      "title": "At least 13 killed in Israeli strikes on Gaza after Hamas agree disarmament deal",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/czjlvvkzj20o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-08-02T15:50:59+00:00",
+      "category": "Military"
     },
     {
       "title": "Israeli forces detain residents and demolish homes in southern Syria",
@@ -99,6 +92,13 @@
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/8/1/israel-launches-attacks-across-gaza-one-day-after-hamas-agrees-to-disarm?traffic_source=rss",
       "published_date": "2026-08-01T00:48:37+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Israeli official says troops won't pull back in Gaza without 'genuine' Hamas disarmament",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cd9wjj4qleeo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-07-31T20:58:27+00:00",
       "category": "Military"
     },
     {
@@ -207,13 +207,6 @@
       "category": "Military"
     },
     {
-      "title": "Sharaa: Syria Working Toward Security Agreement with Israel, Rejects Military Intervention in Lebanon",
-      "source": "Syrian Observer",
-      "url": "https://syrianobserver.com/foreign-actors/sharaa-syria-working-toward-security-agreement-with-israel-rejects-military-intervention-in-lebanon.html",
-      "published_date": "2026-07-26T21:00:00+00:00",
-      "category": "Military"
-    },
-    {
       "title": "Sharaa Links Lebanon’s Stability to Regional Energy and State Sovereignty",
       "source": "Syrian Observer",
       "url": "https://syrianobserver.com/foreign-actors/sharaa-links-lebanons-stability-to-regional-energy-and-state-sovereignty.html",
@@ -228,11 +221,11 @@
       "category": "Energy"
     },
     {
-      "title": "Arab Interior Ministers’ Visits Signal New Security Phase for Syria",
+      "title": "As Bank Financing Knocks on Syria’s Door, Who Guarantees the Funds—and Who Ultimately Pays the Debt?",
       "source": "Syrian Observer",
-      "url": "https://syrianobserver.com/foreign-actors/arab-interior-ministers-visits-signal-new-security-phase-for-syria.html",
-      "published_date": "2026-07-26T21:01:51+00:00",
-      "category": "Energy"
+      "url": "https://syrianobserver.com/society/as-bank-financing-knocks-on-syrias-door-who-guarantees-the-funds-and-who-ultimately-pays-the-debt.html",
+      "published_date": "2026-08-02T21:02:10+00:00",
+      "category": "Economy"
     },
     {
       "title": "Syria, Egypt discuss expanding economic ties, reviving joint business council",
@@ -240,6 +233,13 @@
       "url": "https://sana.sy/en/economic/2332713/",
       "published_date": "2026-07-28T12:40:19+00:00",
       "category": "Economy"
+    },
+    {
+      "title": "Syria Interior Ministry Moves to Release Ain Mneen Detainees Amid Protests, Shop Closures and Municipal Resignations",
+      "source": "Syrian Observer",
+      "url": "https://syrianobserver.com/syrian-actors/syria-interior-ministry-moves-to-release-ain-mneen-detainees-amid-protests-shop-closures-and-municipal-resignations.html",
+      "published_date": "2026-08-02T21:03:44+00:00",
+      "category": "Local Events"
     },
     {
       "title": "World reacts with cautious optimism to Hamas disarmament agreement",
