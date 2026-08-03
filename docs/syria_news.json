@@ -1,8 +1,15 @@
 {
   "country": "Syria",
-  "last_updated": "2026-08-02T23:45:55.301864+00:00",
+  "last_updated": "2026-08-03T13:34:46.896287+00:00",
   "story_count": 41,
   "stories": [
+    {
+      "title": "Palestine’s new ambassador to Spain calls for deeper friendship",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/3/palestines-new-ambassador-to-spain-calls-for-deeper-friendship?traffic_source=rss",
+      "published_date": "2026-08-03T12:09:19+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Syrian President Sharaa, Saudi Crown Prince Discuss Bilateral Ties and Regional Escalation",
       "source": "Syrian Observer",
@@ -57,13 +64,6 @@
       "source": "Syrian Observer",
       "url": "https://syrianobserver.com/syrian-actors/sharaas-interview-is-democracy-losing-its-appeal.html",
       "published_date": "2026-07-27T21:01:23+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "US and Iran pause strikes for third night to make space for talks, US ambassador says",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c5y45kdkynpo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-07-27T08:14:46+00:00",
       "category": "Diplomacy"
     },
     {
@@ -200,11 +200,11 @@
       "category": "Military"
     },
     {
-      "title": "The Phantom Pain of Rojava review – Kurdish veterans of the war against IS tell story of courage and survival",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/film/2026/jul/27/the-phantom-pain-of-rojava-review-kurdish-veterans-of-the-war-against-is-tell-story-of-courage-and-survival",
-      "published_date": "2026-07-27T10:00:39+00:00",
-      "category": "Military"
+      "title": "Dangerous summers: How heatwaves and wildfires change life across Europe",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/features/2026/8/3/new-summers-how-heatwaves-and-wildfires-change-life-across?traffic_source=rss",
+      "published_date": "2026-08-03T09:13:59+00:00",
+      "category": "Energy"
     },
     {
       "title": "Sharaa Links Lebanon’s Stability to Regional Energy and State Sovereignty",
