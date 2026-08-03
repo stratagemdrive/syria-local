@@ -1,8 +1,15 @@
 {
   "country": "Syria",
-  "last_updated": "2026-08-03T13:34:46.896287+00:00",
-  "story_count": 41,
+  "last_updated": "2026-08-03T23:56:31.573914+00:00",
+  "story_count": 40,
   "stories": [
+    {
+      "title": "Iraqi Kurdish regional leader meets Syrian president in Damascus",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/8/3/iraqi-kurdish-regional-leader-meets-syrian-president-in-damascus?traffic_source=rss",
+      "published_date": "2026-08-03T16:12:55+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Palestine’s new ambassador to Spain calls for deeper friendship",
       "source": "Al Jazeera",
@@ -53,18 +60,18 @@
       "category": "Diplomacy"
     },
     {
-      "title": "US diplomats walk out as France addresses UN Security Council",
+      "title": "Will Israel withdraw from Gaza if Hamas disarms?",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/27/us-diplomats-walk-out-as-france-addresses-un-security-council?traffic_source=rss",
-      "published_date": "2026-07-27T23:07:55+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/video/inside-story/2026/8/3/will-israel-withdraw-from-gaza-if-hamas-disarms?traffic_source=rss",
+      "published_date": "2026-08-03T21:05:11+00:00",
+      "category": "Military"
     },
     {
-      "title": "Sharaa’s Interview: Is Democracy Losing its Appeal?",
-      "source": "Syrian Observer",
-      "url": "https://syrianobserver.com/syrian-actors/sharaas-interview-is-democracy-losing-its-appeal.html",
-      "published_date": "2026-07-27T21:01:23+00:00",
-      "category": "Diplomacy"
+      "title": "Clergy members arrested while protesting at Senate office",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/3/clergy-members-arrested-while-protesting-at-senate-office?traffic_source=rss",
+      "published_date": "2026-08-03T19:53:59+00:00",
+      "category": "Military"
     },
     {
       "title": "Sudan army drone attack on Darfur kills 35, rights group says",
@@ -193,13 +200,6 @@
       "category": "Military"
     },
     {
-      "title": "Syrian soldier martyred, another wounded in Latakia landmine blast",
-      "source": "SANA",
-      "url": "https://sana.sy/en/syria/2332701/",
-      "published_date": "2026-07-28T11:01:06+00:00",
-      "category": "Military"
-    },
-    {
       "title": "Dangerous summers: How heatwaves and wildfires change life across Europe",
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/features/2026/8/3/new-summers-how-heatwaves-and-wildfires-change-life-across?traffic_source=rss",
@@ -281,13 +281,6 @@
       "source": "SANA",
       "url": "https://sana.sy/en/international/2332707/",
       "published_date": "2026-07-28T11:28:17+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Woman Killed, Son Critically Injured in Sectarian Shooting in Homs",
-      "source": "Syrian Observer",
-      "url": "https://syrianobserver.com/syrian-actors/woman-killed-son-critically-injured-in-sectarian-shooting-in-homs.html",
-      "published_date": "2026-07-27T21:00:03+00:00",
       "category": "Local Events"
     }
   ]
