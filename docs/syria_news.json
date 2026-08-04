@@ -1,8 +1,22 @@
 {
   "country": "Syria",
-  "last_updated": "2026-08-04T12:54:21.156619+00:00",
-  "story_count": 35,
+  "last_updated": "2026-08-04T23:50:48.519993+00:00",
+  "story_count": 36,
   "stories": [
+    {
+      "title": "Hezbollah Signals Openness to Dialogue with Syria’s New Leadership",
+      "source": "Syrian Observer",
+      "url": "https://syrianobserver.com/syrian-actors/hezbollah-signals-openness-to-dialogue-with-syrias-new-leadership.html",
+      "published_date": "2026-08-04T21:00:02+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "High-Level Syrian–Kurdish Summit: Strategic Implications for Economic Integration and SDF Transition",
+      "source": "Syrian Observer",
+      "url": "https://syrianobserver.com/syrian-actors/high-level-syrian-kurdish-summit-strategic-implications-for-economic-integration-and-sdf-transition.html",
+      "published_date": "2026-08-03T21:00:41+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Iraqi Kurdish regional leader meets Syrian president in Damascus",
       "source": "Al Jazeera",
@@ -32,31 +46,24 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Syrian Diplomat in Washington Accused of Role in 2016 Kidnapping of American Journalist",
+      "title": "Syrian Military Deploys Forces to Iraqi and Lebanese Borders Following High-Level Security Assessment",
       "source": "Syrian Observer",
-      "url": "https://syrianobserver.com/syrian-actors/syrian-diplomat-in-washington-accused-of-role-in-2016-kidnapping-of-american-journalist.html",
-      "published_date": "2026-07-28T21:00:35+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Syrian Foreign Minister receives outgoing Omani ambassador",
-      "source": "SANA",
-      "url": "https://sana.sy/en/syria/2332727/",
-      "published_date": "2026-07-28T14:07:05+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Syria, South Korea sign education grant, media cooperation agreements",
-      "source": "SANA",
-      "url": "https://sana.sy/en/politics/2332722/",
-      "published_date": "2026-07-28T13:47:16+00:00",
-      "category": "Diplomacy"
+      "url": "https://syrianobserver.com/syrian-actors/syrian-military-deploys-forces-to-iraqi-and-lebanese-borders-following-high-level-security-assessment.html",
+      "published_date": "2026-08-04T21:00:20+00:00",
+      "category": "Military"
     },
     {
       "title": "Will Israel withdraw from Gaza if Hamas disarms?",
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/video/inside-story/2026/8/3/will-israel-withdraw-from-gaza-if-hamas-disarms?traffic_source=rss",
       "published_date": "2026-08-03T21:05:11+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Integration or Dissolution? The Final Chapter of the SDF",
+      "source": "Syrian Observer",
+      "url": "https://syrianobserver.com/syrian-actors/integration-or-dissolution-the-final-chapter-of-the-sdf.html",
+      "published_date": "2026-08-03T21:00:06+00:00",
       "category": "Military"
     },
     {
@@ -158,27 +165,6 @@
       "category": "Military"
     },
     {
-      "title": "Israeli Forces Launch New Incursion into Western Daraa Countryside",
-      "source": "Syrian Observer",
-      "url": "https://syrianobserver.com/foreign-actors/israeli-forces-launch-new-incursion-into-western-daraa-countryside.html",
-      "published_date": "2026-07-28T21:01:58+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Syrian Security Forces Conduct Major Operations Against Militants in Jableh and ISIS Cells in Aleppo",
-      "source": "Syrian Observer",
-      "url": "https://syrianobserver.com/security/syrian-security-forces-conduct-major-operations-against-militants-in-jableh-and-isis-cells-in-aleppo.html",
-      "published_date": "2026-07-28T19:49:48+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Israeli occupation forces carry out new incursion into western Daraa countryside",
-      "source": "SANA",
-      "url": "https://sana.sy/en/syria/2332729/",
-      "published_date": "2026-07-28T14:06:35+00:00",
-      "category": "Military"
-    },
-    {
       "title": "Dangerous summers: How heatwaves and wildfires change life across Europe",
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/features/2026/8/3/new-summers-how-heatwaves-and-wildfires-change-life-across?traffic_source=rss",
@@ -200,11 +186,32 @@
       "category": "Energy"
     },
     {
+      "title": "IMF Projects Continued Strong Growth for Syrian Economy in 2027",
+      "source": "Syrian Observer",
+      "url": "https://syrianobserver.com/society/imf-projects-continued-strong-growth-for-syrian-economy-in-2027.html",
+      "published_date": "2026-08-04T21:00:48+00:00",
+      "category": "Economy"
+    },
+    {
       "title": "As Bank Financing Knocks on Syria’s Door, Who Guarantees the Funds—and Who Ultimately Pays the Debt?",
       "source": "Syrian Observer",
       "url": "https://syrianobserver.com/society/as-bank-financing-knocks-on-syrias-door-who-guarantees-the-funds-and-who-ultimately-pays-the-debt.html",
       "published_date": "2026-08-02T21:02:10+00:00",
       "category": "Economy"
+    },
+    {
+      "title": "Impunity Fuels Retaliatory Killings and Sectarian Division Across Syria",
+      "source": "Syrian Observer",
+      "url": "https://syrianobserver.com/syrian-actors/impunity-fuels-retaliatory-killings-and-sectarian-division-across-syria.html",
+      "published_date": "2026-08-04T21:00:18+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "President Sharaa Outlines Syria’s Transitional Trajectory, Ideological Reassessment, and Emerging Governance Model in Al Jazeera Interview",
+      "source": "Syrian Observer",
+      "url": "https://syrianobserver.com/syrian-actors/president-sharaa-outlines-syrias-transitional-trajectory-ideological-reassessment-and-emerging-governance-model-in-al-jazeera-interview.html",
+      "published_date": "2026-08-03T21:00:05+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Syria Interior Ministry Moves to Release Ain Mneen Detainees Amid Protests, Shop Closures and Municipal Resignations",
