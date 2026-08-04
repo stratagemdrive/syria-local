@@ -1,7 +1,7 @@
 {
   "country": "Syria",
-  "last_updated": "2026-08-03T23:56:31.573914+00:00",
-  "story_count": 40,
+  "last_updated": "2026-08-04T12:54:21.156619+00:00",
+  "story_count": 35,
   "stories": [
     {
       "title": "Iraqi Kurdish regional leader meets Syrian president in Damascus",
@@ -50,13 +50,6 @@
       "source": "SANA",
       "url": "https://sana.sy/en/politics/2332722/",
       "published_date": "2026-07-28T13:47:16+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Regional leaders discuss security, cooperation amid Middle East tensions",
-      "source": "SANA",
-      "url": "https://sana.sy/en/middle-east/2332715/",
-      "published_date": "2026-07-28T12:53:35+00:00",
       "category": "Diplomacy"
     },
     {
@@ -186,20 +179,6 @@
       "category": "Military"
     },
     {
-      "title": "Gulf states back Omani plan for voluntary Iran transit fees in Strait of Hormuz, source",
-      "source": "SANA",
-      "url": "https://sana.sy/en/middle-east/2332710/",
-      "published_date": "2026-07-28T12:33:25+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "More than 247,000 killed, wounded in Israeli genocide war in Gaza Strip",
-      "source": "SANA",
-      "url": "https://sana.sy/en/middle-east/2332704/",
-      "published_date": "2026-07-28T11:15:42+00:00",
-      "category": "Military"
-    },
-    {
       "title": "Dangerous summers: How heatwaves and wildfires change life across Europe",
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/features/2026/8/3/new-summers-how-heatwaves-and-wildfires-change-life-across?traffic_source=rss",
@@ -225,13 +204,6 @@
       "source": "Syrian Observer",
       "url": "https://syrianobserver.com/society/as-bank-financing-knocks-on-syrias-door-who-guarantees-the-funds-and-who-ultimately-pays-the-debt.html",
       "published_date": "2026-08-02T21:02:10+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Syria, Egypt discuss expanding economic ties, reviving joint business council",
-      "source": "SANA",
-      "url": "https://sana.sy/en/economic/2332713/",
-      "published_date": "2026-07-28T12:40:19+00:00",
       "category": "Economy"
     },
     {
@@ -274,13 +246,6 @@
       "source": "Syrian Observer",
       "url": "https://syrianobserver.com/syrian-actors/suweida-syrias-stalingrad-khouloud-zghair-on-identity-exile-and-the-collapse-of-a-shared-state.html",
       "published_date": "2026-07-29T21:00:52+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Strong earthquake strikes southern Japan, no impact on nuclear plants",
-      "source": "SANA",
-      "url": "https://sana.sy/en/international/2332707/",
-      "published_date": "2026-07-28T11:28:17+00:00",
       "category": "Local Events"
     }
   ]
