@@ -1,7 +1,7 @@
 {
   "country": "Syria",
-  "last_updated": "2026-08-05T12:48:41.328725+00:00",
-  "story_count": 36,
+  "last_updated": "2026-08-05T23:44:06.944406+00:00",
+  "story_count": 34,
   "stories": [
     {
       "title": "Hezbollah Signals Openness to Dialogue with Syria’s New Leadership",
@@ -158,13 +158,6 @@
       "category": "Military"
     },
     {
-      "title": "New investigation shows how an Israeli settler escaped justice",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/29/new-investigation-shows-how-an-israeli-settler-escaped-justice?traffic_source=rss",
-      "published_date": "2026-07-29T19:55:31+00:00",
-      "category": "Military"
-    },
-    {
       "title": "Dangerous summers: How heatwaves and wildfires change life across Europe",
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/features/2026/8/3/new-summers-how-heatwaves-and-wildfires-change-life-across?traffic_source=rss",
@@ -198,6 +191,13 @@
       "url": "https://syrianobserver.com/society/as-bank-financing-knocks-on-syrias-door-who-guarantees-the-funds-and-who-ultimately-pays-the-debt.html",
       "published_date": "2026-08-02T21:02:10+00:00",
       "category": "Economy"
+    },
+    {
+      "title": "Malaysia vows not to return Rohingya refugees to Myanmar if lives at risk",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/8/5/malaysia-will-not-return-rohingya-refugees-to-myanmar-if-lives-are-at-risk?traffic_source=rss",
+      "published_date": "2026-08-05T18:40:06+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Impunity Fuels Retaliatory Killings and Sectarian Division Across Syria",
@@ -239,20 +239,6 @@
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/news/2026/7/30/from-toronto-damascus-syria-return-home?traffic_source=rss",
       "published_date": "2026-07-30T09:43:50+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Killing of Elderly Kurdish Returnee in Afrin Raises Fears over Civilian Safety",
-      "source": "Syrian Observer",
-      "url": "https://syrianobserver.com/syrian-actors/killing-of-elderly-kurdish-returnee-in-afrin-raises-fears-over-civilian-safety.html",
-      "published_date": "2026-07-29T21:00:59+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Suweida, Syria’s Stalingrad: Khouloud Zghair on Identity, Exile and the Collapse of a Shared State",
-      "source": "Syrian Observer",
-      "url": "https://syrianobserver.com/syrian-actors/suweida-syrias-stalingrad-khouloud-zghair-on-identity-exile-and-the-collapse-of-a-shared-state.html",
-      "published_date": "2026-07-29T21:00:52+00:00",
       "category": "Local Events"
     }
   ]
