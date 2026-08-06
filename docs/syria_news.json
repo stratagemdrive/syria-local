@@ -1,8 +1,15 @@
 {
   "country": "Syria",
-  "last_updated": "2026-08-05T23:44:06.944406+00:00",
-  "story_count": 34,
+  "last_updated": "2026-08-06T12:52:45.686198+00:00",
+  "story_count": 35,
   "stories": [
+    {
+      "title": "Political Calculations Drive Potential Engagement Between Syrian Leadership and Hezbollah Despite Legacy of Conflict",
+      "source": "Syrian Observer",
+      "url": "https://syrianobserver.com/syrian-actors/political-calculations-drive-potential-engagement-between-syrian-leadership-and-hezbollah-despite-legacy-of-conflict.html",
+      "published_date": "2026-08-05T21:01:46+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Hezbollah Signals Openness to Dialogue with Syria’s New Leadership",
       "source": "Syrian Observer",
@@ -151,13 +158,6 @@
       "category": "Military"
     },
     {
-      "title": "India’s arms sale to Israel risks complicity in Gaza genocide, Amnesty says",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/30/indias-arms-sale-to-israel-risks-complicity-in-gaza-genocide-amnesty-says?traffic_source=rss",
-      "published_date": "2026-07-30T07:13:24+00:00",
-      "category": "Military"
-    },
-    {
       "title": "Dangerous summers: How heatwaves and wildfires change life across Europe",
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/features/2026/8/3/new-summers-how-heatwaves-and-wildfires-change-life-across?traffic_source=rss",
@@ -179,6 +179,13 @@
       "category": "Energy"
     },
     {
+      "title": "From Exile to Damascus: Our New Chapter Begins",
+      "source": "Syria Direct",
+      "url": "https://syriadirect.org/from-exile-to-damascus-our-new-chapter-begins/",
+      "published_date": "2026-08-06T08:45:12+00:00",
+      "category": "Economy"
+    },
+    {
       "title": "IMF Projects Continued Strong Growth for Syrian Economy in 2027",
       "source": "Syrian Observer",
       "url": "https://syrianobserver.com/society/imf-projects-continued-strong-growth-for-syrian-economy-in-2027.html",
@@ -191,6 +198,13 @@
       "url": "https://syrianobserver.com/society/as-bank-financing-knocks-on-syrias-door-who-guarantees-the-funds-and-who-ultimately-pays-the-debt.html",
       "published_date": "2026-08-02T21:02:10+00:00",
       "category": "Economy"
+    },
+    {
+      "title": "Sharaa Meets Mazloum Abdi and Ilham Ahmed in Damascus as Regional Integration Efforts Continue",
+      "source": "Syrian Observer",
+      "url": "https://syrianobserver.com/syrian-actors/sharaa-meets-mazloum-abdi-and-ilham-ahmed-in-damascus-as-regional-integration-efforts-continue.html",
+      "published_date": "2026-08-05T21:02:31+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Malaysia vows not to return Rohingya refugees to Myanmar if lives at risk",
@@ -232,13 +246,6 @@
       "source": "Syrian Observer",
       "url": "https://syrianobserver.com/security/a-new-security-triangle-in-damascus-centralized-decision-making-or-redistribution-of-power.html",
       "published_date": "2026-07-30T21:00:04+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "From Toronto to Damascus: Syrians return home aiming to rebuild country",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/30/from-toronto-damascus-syria-return-home?traffic_source=rss",
-      "published_date": "2026-07-30T09:43:50+00:00",
       "category": "Local Events"
     }
   ]
