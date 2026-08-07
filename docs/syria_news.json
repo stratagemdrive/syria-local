@@ -1,7 +1,7 @@
 {
   "country": "Syria",
-  "last_updated": "2026-08-06T12:52:45.686198+00:00",
-  "story_count": 35,
+  "last_updated": "2026-08-07T01:39:10.000278+00:00",
+  "story_count": 33,
   "stories": [
     {
       "title": "Political Calculations Drive Potential Engagement Between Syrian Leadership and Hezbollah Despite Legacy of Conflict",
@@ -51,6 +51,20 @@
       "url": "https://www.aljazeera.com/news/2026/7/31/poland-protests-to-russian-ambassador-over-missile-incursion?traffic_source=rss",
       "published_date": "2026-07-31T19:48:17+00:00",
       "category": "Diplomacy"
+    },
+    {
+      "title": "Deadly explosion on minibus near Damascus",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/6/deadly-explosion-on-minibus-near-damascus?traffic_source=rss",
+      "published_date": "2026-08-06T19:41:09+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Rights groups say Israeli attack that killed Lebanese journalist an apparent war crime",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cx2md67y3nlo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-08-06T14:20:15+00:00",
+      "category": "Military"
     },
     {
       "title": "Syrian Military Deploys Forces to Iraqi and Lebanese Borders Following High-Level Security Assessment",
@@ -151,31 +165,10 @@
       "category": "Military"
     },
     {
-      "title": "Five ISIS Cell Members Arrested in Deir ez-Zor as Assassinations Chief Killed",
-      "source": "Syrian Observer",
-      "url": "https://syrianobserver.com/security/five-isis-cell-members-arrested-in-deir-ez-zor-as-assassinations-chief-is-killed.html",
-      "published_date": "2026-07-30T21:00:47+00:00",
-      "category": "Military"
-    },
-    {
       "title": "Dangerous summers: How heatwaves and wildfires change life across Europe",
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/features/2026/8/3/new-summers-how-heatwaves-and-wildfires-change-life-across?traffic_source=rss",
       "published_date": "2026-08-03T09:13:59+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Sharaa Links Lebanon’s Stability to Regional Energy and State Sovereignty",
-      "source": "Syrian Observer",
-      "url": "https://syrianobserver.com/foreign-actors/sharaa-links-lebanons-stability-to-regional-energy-and-state-sovereignty.html",
-      "published_date": "2026-07-30T21:01:47+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "UN demands end of Ugandan clampdown on dissent",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/30/un-demands-end-of-ugandan-clampdown-on-dissent?traffic_source=rss",
-      "published_date": "2026-07-30T18:52:34+00:00",
       "category": "Energy"
     },
     {
@@ -239,13 +232,6 @@
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/news/2026/7/31/world-reacts-with-cautious-optimism-to-hamas-disarmament-agreement?traffic_source=rss",
       "published_date": "2026-07-31T18:51:50+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "A New Security Triangle in Damascus: Centralized Decision-Making or Redistribution of Power?",
-      "source": "Syrian Observer",
-      "url": "https://syrianobserver.com/security/a-new-security-triangle-in-damascus-centralized-decision-making-or-redistribution-of-power.html",
-      "published_date": "2026-07-30T21:00:04+00:00",
       "category": "Local Events"
     }
   ]
