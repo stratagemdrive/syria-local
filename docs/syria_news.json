@@ -1,7 +1,7 @@
 {
   "country": "Syria",
-  "last_updated": "2026-08-07T11:39:45.893241+00:00",
-  "story_count": 32,
+  "last_updated": "2026-08-07T23:21:46.072306+00:00",
+  "story_count": 26,
   "stories": [
     {
       "title": "Political Calculations Drive Potential Engagement Between Syrian Leadership and Hezbollah Despite Legacy of Conflict",
@@ -43,13 +43,6 @@
       "source": "Syrian Observer",
       "url": "https://syrianobserver.com/foreign-actors/syrian-president-sharaa-saudi-crown-prince-discuss-bilateral-ties-and-regional-escalation.html",
       "published_date": "2026-08-02T21:00:39+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Poland protests to Russian ambassador over missile incursion",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/31/poland-protests-to-russian-ambassador-over-missile-incursion?traffic_source=rss",
-      "published_date": "2026-07-31T19:48:17+00:00",
       "category": "Diplomacy"
     },
     {
@@ -123,34 +116,6 @@
       "category": "Military"
     },
     {
-      "title": "Israeli official says troops won't pull back in Gaza without 'genuine' Hamas disarmament",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cd9wjj4qleeo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-07-31T20:58:27+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Trump says US has ‘understanding’ with Israel on Hamas disarmament deal",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/31/trump-says-us-has-understanding-with-israel-on-hamas-disarmament-deal?traffic_source=rss",
-      "published_date": "2026-07-31T19:18:54+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "What's in the Gaza peace deal roadmap?",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c20e94k2ex5o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-07-31T16:00:56+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Bowen: Plan for Hamas to disarm faces big obstacles, yet it offers rare hope for Gaza",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c2dkje4p4klo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-07-31T15:18:31+00:00",
-      "category": "Military"
-    },
-    {
       "title": "Dangerous summers: How heatwaves and wildfires change life across Europe",
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/features/2026/8/3/new-summers-how-heatwaves-and-wildfires-change-life-across?traffic_source=rss",
@@ -218,13 +183,6 @@
       "source": "Syrian Observer",
       "url": "https://syrianobserver.com/syrian-actors/syria-interior-ministry-moves-to-release-ain-mneen-detainees-amid-protests-shop-closures-and-municipal-resignations.html",
       "published_date": "2026-08-02T21:03:44+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "World reacts with cautious optimism to Hamas disarmament agreement",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/31/world-reacts-with-cautious-optimism-to-hamas-disarmament-agreement?traffic_source=rss",
-      "published_date": "2026-07-31T18:51:50+00:00",
       "category": "Local Events"
     }
   ]
