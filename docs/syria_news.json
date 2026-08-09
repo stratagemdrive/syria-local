@@ -1,8 +1,15 @@
 {
   "country": "Syria",
-  "last_updated": "2026-08-09T11:22:03.648810+00:00",
-  "story_count": 25,
+  "last_updated": "2026-08-09T23:17:21.095502+00:00",
+  "story_count": 24,
   "stories": [
+    {
+      "title": "Lebanon Arrests Former Syrian Regime General Adel Issa After Visit to Syrian Embassy in Beirut",
+      "source": "Syrian Observer",
+      "url": "https://syrianobserver.com/foreign-actors/lebanon-arrests-former-syrian-regime-general-adel-issa-after-visit-to-syrian-embassy-in-beirut.html",
+      "published_date": "2026-08-09T21:00:53+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Lebanon ‘detains’ former al-Assad-era general, weighs handing him to Syria",
       "source": "Al Jazeera",
@@ -46,11 +53,11 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Syrian President Sharaa, Saudi Crown Prince Discuss Bilateral Ties and Regional Escalation",
-      "source": "Syrian Observer",
-      "url": "https://syrianobserver.com/foreign-actors/syrian-president-sharaa-saudi-crown-prince-discuss-bilateral-ties-and-regional-escalation.html",
-      "published_date": "2026-08-02T21:00:39+00:00",
-      "category": "Diplomacy"
+      "title": "Israel rejects Trump's 15-point plan for Gaza, Netanyahu says",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c5yw4lpe0yeo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-08-09T21:25:04+00:00",
+      "category": "Military"
     },
     {
       "title": "Deadly explosion on minibus near Damascus",
@@ -95,18 +102,11 @@
       "category": "Military"
     },
     {
-      "title": "Sudan army drone attack on Darfur kills 35, rights group says",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/2/sudan-army-drone-attack-on-darfur-kills-35-rights-group-says?traffic_source=rss",
-      "published_date": "2026-08-02T22:51:09+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "At least 13 killed in Israeli strikes on Gaza after Hamas agree disarmament deal",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/czjlvvkzj20o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-08-02T15:50:59+00:00",
-      "category": "Military"
+      "title": "Syrian Petroleum Company Approves $184.8M Direct Contract with Capital-Light Firm, Including $27.7M Advance Payment",
+      "source": "Syrian Observer",
+      "url": "https://syrianobserver.com/society/syrian-petroleum-company-approves-184-8m-direct-contract-with-capital-light-firm-including-27-7m-advance-payment.html",
+      "published_date": "2026-08-09T21:01:56+00:00",
+      "category": "Energy"
     },
     {
       "title": "Dangerous summers: How heatwaves and wildfires change life across Europe",
@@ -130,11 +130,11 @@
       "category": "Economy"
     },
     {
-      "title": "As Bank Financing Knocks on Syria’s Door, Who Guarantees the Funds—and Who Ultimately Pays the Debt?",
+      "title": "Damascus Retakes Control of Hmeimeem Airport and Tartous Berth as Russian Presence Is Reorganised",
       "source": "Syrian Observer",
-      "url": "https://syrianobserver.com/society/as-bank-financing-knocks-on-syrias-door-who-guarantees-the-funds-and-who-ultimately-pays-the-debt.html",
-      "published_date": "2026-08-02T21:02:10+00:00",
-      "category": "Economy"
+      "url": "https://syrianobserver.com/foreign-actors/damascus-retakes-control-of-hmeimeem-airport-and-tartous-berth-as-russian-presence-is-reorganised.html",
+      "published_date": "2026-08-09T21:02:42+00:00",
+      "category": "Local Events"
     },
     {
       "title": "New Convoy Returns to Hama as Returnees Grapple with Absence of Services",
@@ -169,13 +169,6 @@
       "source": "Syrian Observer",
       "url": "https://syrianobserver.com/syrian-actors/president-sharaa-outlines-syrias-transitional-trajectory-ideological-reassessment-and-emerging-governance-model-in-al-jazeera-interview.html",
       "published_date": "2026-08-03T21:00:05+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Syria Interior Ministry Moves to Release Ain Mneen Detainees Amid Protests, Shop Closures and Municipal Resignations",
-      "source": "Syrian Observer",
-      "url": "https://syrianobserver.com/syrian-actors/syria-interior-ministry-moves-to-release-ain-mneen-detainees-amid-protests-shop-closures-and-municipal-resignations.html",
-      "published_date": "2026-08-02T21:03:44+00:00",
       "category": "Local Events"
     }
   ]
