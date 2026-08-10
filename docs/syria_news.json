@@ -1,8 +1,15 @@
 {
   "country": "Syria",
-  "last_updated": "2026-08-10T11:42:23.693057+00:00",
-  "story_count": 23,
+  "last_updated": "2026-08-10T23:22:26.928220+00:00",
+  "story_count": 19,
   "stories": [
+    {
+      "title": "Syria and Turkey Establish High-Level Coordination Council to Formalize Security and Economic Cooperation",
+      "source": "Syrian Observer",
+      "url": "https://syrianobserver.com/foreign-actors/syria-and-turkey-establish-high-level-coordination-council-to-formalize-security-and-economic-cooperation.html",
+      "published_date": "2026-08-10T21:00:58+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Lebanon Arrests Former Syrian Regime General Adel Issa After Visit to Syrian Embassy in Beirut",
       "source": "Syrian Observer",
@@ -29,27 +36,6 @@
       "source": "Syrian Observer",
       "url": "https://syrianobserver.com/syrian-actors/hezbollah-signals-openness-to-dialogue-with-syrias-new-leadership.html",
       "published_date": "2026-08-04T21:00:02+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "High-Level Syrian–Kurdish Summit: Strategic Implications for Economic Integration and SDF Transition",
-      "source": "Syrian Observer",
-      "url": "https://syrianobserver.com/syrian-actors/high-level-syrian-kurdish-summit-strategic-implications-for-economic-integration-and-sdf-transition.html",
-      "published_date": "2026-08-03T21:00:41+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Iraqi Kurdish regional leader meets Syrian president in Damascus",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/3/iraqi-kurdish-regional-leader-meets-syrian-president-in-damascus?traffic_source=rss",
-      "published_date": "2026-08-03T16:12:55+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Palestine’s new ambassador to Spain calls for deeper friendship",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/3/palestines-new-ambassador-to-spain-calls-for-deeper-friendship?traffic_source=rss",
-      "published_date": "2026-08-03T12:09:19+00:00",
       "category": "Diplomacy"
     },
     {
@@ -81,32 +67,18 @@
       "category": "Military"
     },
     {
-      "title": "Will Israel withdraw from Gaza if Hamas disarms?",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/inside-story/2026/8/3/will-israel-withdraw-from-gaza-if-hamas-disarms?traffic_source=rss",
-      "published_date": "2026-08-03T21:05:11+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Integration or Dissolution? The Final Chapter of the SDF",
-      "source": "Syrian Observer",
-      "url": "https://syrianobserver.com/syrian-actors/integration-or-dissolution-the-final-chapter-of-the-sdf.html",
-      "published_date": "2026-08-03T21:00:06+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Clergy members arrested while protesting at Senate office",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/3/clergy-members-arrested-while-protesting-at-senate-office?traffic_source=rss",
-      "published_date": "2026-08-03T19:53:59+00:00",
-      "category": "Military"
-    },
-    {
       "title": "Syrian Petroleum Company Approves $184.8M Direct Contract with Capital-Light Firm, Including $27.7M Advance Payment",
       "source": "Syrian Observer",
       "url": "https://syrianobserver.com/society/syrian-petroleum-company-approves-184-8m-direct-contract-with-capital-light-firm-including-27-7m-advance-payment.html",
       "published_date": "2026-08-09T21:01:56+00:00",
       "category": "Energy"
+    },
+    {
+      "title": "Syria’s Reconstruction Risks Deepening Inequality Without National Plan, Policy Brief Warns",
+      "source": "Syrian Observer",
+      "url": "https://syrianobserver.com/society/syrias-reconstruction-risks-deepening-inequality-without-national-plan-policy-brief-warns.html",
+      "published_date": "2026-08-10T21:00:14+00:00",
+      "category": "Economy"
     },
     {
       "title": "From Exile to Damascus: Our New Chapter Begins",
@@ -121,6 +93,13 @@
       "url": "https://syrianobserver.com/society/imf-projects-continued-strong-growth-for-syrian-economy-in-2027.html",
       "published_date": "2026-08-04T21:00:48+00:00",
       "category": "Economy"
+    },
+    {
+      "title": "A Fragile Homecoming: Ras al-Ain’s First Return Convoy Confronts the Realities of a Divided Landscape",
+      "source": "Syrian Observer",
+      "url": "https://syrianobserver.com/refugees/a-fragile-homecoming-ras-al-ains-first-return-convoy-confronts-the-realities-of-a-divided-landscape.html",
+      "published_date": "2026-08-10T21:00:26+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Damascus Retakes Control of Hmeimeem Airport and Tartous Berth as Russian Presence Is Reorganised",
@@ -155,13 +134,6 @@
       "source": "Syrian Observer",
       "url": "https://syrianobserver.com/syrian-actors/impunity-fuels-retaliatory-killings-and-sectarian-division-across-syria.html",
       "published_date": "2026-08-04T21:00:18+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "President Sharaa Outlines Syria’s Transitional Trajectory, Ideological Reassessment, and Emerging Governance Model in Al Jazeera Interview",
-      "source": "Syrian Observer",
-      "url": "https://syrianobserver.com/syrian-actors/president-sharaa-outlines-syrias-transitional-trajectory-ideological-reassessment-and-emerging-governance-model-in-al-jazeera-interview.html",
-      "published_date": "2026-08-03T21:00:05+00:00",
       "category": "Local Events"
     }
   ]
