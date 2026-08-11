@@ -1,7 +1,7 @@
 {
   "country": "Syria",
-  "last_updated": "2026-08-10T23:22:26.928220+00:00",
-  "story_count": 19,
+  "last_updated": "2026-08-11T11:38:47.668310+00:00",
+  "story_count": 23,
   "stories": [
     {
       "title": "Syria and Turkey Establish High-Level Coordination Council to Formalize Security and Economic Cooperation",
@@ -37,6 +37,27 @@
       "url": "https://syrianobserver.com/syrian-actors/hezbollah-signals-openness-to-dialogue-with-syrias-new-leadership.html",
       "published_date": "2026-08-04T21:00:02+00:00",
       "category": "Diplomacy"
+    },
+    {
+      "title": "Ousted Syrian dictator Bashar al-Assad sentenced to death in absentia",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/ce34dkpnyg7o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-08-11T10:43:07+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Syrian court sentences Bashar al-Assad to death in absentia for war crimes",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/aug/11/syria-bashar-al-assad-death-sentence-war-crimes",
+      "published_date": "2026-08-11T10:40:45+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "The Plunder of Syria: Syria’s Greatest Archaeological Losses Came After IS",
+      "source": "Syria Direct",
+      "url": "https://syriadirect.org/the-plunder-of-syria-syrias-greatest-archaeological-losses-came-after-is/",
+      "published_date": "2026-08-10T06:57:38+00:00",
+      "category": "Military"
     },
     {
       "title": "Israel rejects Trump's 15-point plan for Gaza, Netanyahu says",
@@ -93,6 +114,13 @@
       "url": "https://syrianobserver.com/society/imf-projects-continued-strong-growth-for-syrian-economy-in-2027.html",
       "published_date": "2026-08-04T21:00:48+00:00",
       "category": "Economy"
+    },
+    {
+      "title": "Who is Atef Najib, former Syrian official sentenced to death with al-Assad?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/8/11/who-is-atef-najib-former-syrian-official-sentenced-to-death-with-al-assad?traffic_source=rss",
+      "published_date": "2026-08-11T10:03:25+00:00",
+      "category": "Local Events"
     },
     {
       "title": "A Fragile Homecoming: Ras al-Ain’s First Return Convoy Confronts the Realities of a Divided Landscape",
