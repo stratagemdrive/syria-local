@@ -1,8 +1,15 @@
 {
   "country": "Syria",
-  "last_updated": "2026-08-11T11:38:47.668310+00:00",
+  "last_updated": "2026-08-11T23:26:49.512448+00:00",
   "story_count": 23,
   "stories": [
+    {
+      "title": "Rights groups launch new legal challenge to Trump campaign against ICC",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/8/11/rights-groups-launch-new-legal-challenge-to-trump-campaign-against-icc?traffic_source=rss",
+      "published_date": "2026-08-11T18:18:44+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Syria and Turkey Establish High-Level Coordination Council to Formalize Security and Economic Cooperation",
       "source": "Syrian Observer",
@@ -29,13 +36,6 @@
       "source": "Syrian Observer",
       "url": "https://syrianobserver.com/syrian-actors/political-calculations-drive-potential-engagement-between-syrian-leadership-and-hezbollah-despite-legacy-of-conflict.html",
       "published_date": "2026-08-05T21:01:46+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Hezbollah Signals Openness to Dialogue with Syria’s New Leadership",
-      "source": "Syrian Observer",
-      "url": "https://syrianobserver.com/syrian-actors/hezbollah-signals-openness-to-dialogue-with-syrias-new-leadership.html",
-      "published_date": "2026-08-04T21:00:02+00:00",
       "category": "Diplomacy"
     },
     {
@@ -81,13 +81,6 @@
       "category": "Military"
     },
     {
-      "title": "Syrian Military Deploys Forces to Iraqi and Lebanese Borders Following High-Level Security Assessment",
-      "source": "Syrian Observer",
-      "url": "https://syrianobserver.com/syrian-actors/syrian-military-deploys-forces-to-iraqi-and-lebanese-borders-following-high-level-security-assessment.html",
-      "published_date": "2026-08-04T21:00:20+00:00",
-      "category": "Military"
-    },
-    {
       "title": "Syrian Petroleum Company Approves $184.8M Direct Contract with Capital-Light Firm, Including $27.7M Advance Payment",
       "source": "Syrian Observer",
       "url": "https://syrianobserver.com/society/syrian-petroleum-company-approves-184-8m-direct-contract-with-capital-light-firm-including-27-7m-advance-payment.html",
@@ -109,11 +102,25 @@
       "category": "Economy"
     },
     {
-      "title": "IMF Projects Continued Strong Growth for Syrian Economy in 2027",
-      "source": "Syrian Observer",
-      "url": "https://syrianobserver.com/society/imf-projects-continued-strong-growth-for-syrian-economy-in-2027.html",
-      "published_date": "2026-08-04T21:00:48+00:00",
-      "category": "Economy"
+      "title": "‘Justice at last’: Syrians react to Assad death sentence",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/11/justice-at-last-syrians-react-to-assad-death-sentence?traffic_source=rss",
+      "published_date": "2026-08-11T18:32:42+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Brazil’s Supreme Court to weigh cases that could weaken Amazon protections",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/8/11/brazils-supreme-court-to-weigh-cases-that-could-weaken-amazon-protections?traffic_source=rss",
+      "published_date": "2026-08-11T18:00:01+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Syrian court sentences Bashar al-Assad and Atef Najib to death",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/11/syrian-court-sentences-bashar-al-assad-and-atef-najib-to-death?traffic_source=rss",
+      "published_date": "2026-08-11T17:59:50+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Who is Atef Najib, former Syrian official sentenced to death with al-Assad?",
@@ -155,13 +162,6 @@
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/news/2026/8/5/malaysia-will-not-return-rohingya-refugees-to-myanmar-if-lives-are-at-risk?traffic_source=rss",
       "published_date": "2026-08-05T18:40:06+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Impunity Fuels Retaliatory Killings and Sectarian Division Across Syria",
-      "source": "Syrian Observer",
-      "url": "https://syrianobserver.com/syrian-actors/impunity-fuels-retaliatory-killings-and-sectarian-division-across-syria.html",
-      "published_date": "2026-08-04T21:00:18+00:00",
       "category": "Local Events"
     }
   ]
