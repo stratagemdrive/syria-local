@@ -1,8 +1,15 @@
 {
   "country": "Syria",
-  "last_updated": "2026-08-11T23:26:49.512448+00:00",
-  "story_count": 23,
+  "last_updated": "2026-08-12T11:41:02.981301+00:00",
+  "story_count": 26,
   "stories": [
+    {
+      "title": "Revised Memory: What Ahmad al-Sharaa Said—and Chose Not to Say—on Al-Muqābala",
+      "source": "Syrian Observer",
+      "url": "https://syrianobserver.com/syrian-actors/revised-memory-what-ahmed-al-sharaa-said-and-chose-not-to-say-on-al-muqabala.html",
+      "published_date": "2026-08-11T21:00:44+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Rights groups launch new legal challenge to Trump campaign against ICC",
       "source": "Al Jazeera",
@@ -81,6 +88,13 @@
       "category": "Military"
     },
     {
+      "title": "U.S. Brokers Deal to Remove Nuclear Material from Secret Syrian Site",
+      "source": "Syrian Observer",
+      "url": "https://syrianobserver.com/foreign-actors/u-s-brokers-deal-to-remove-nuclear-material-from-secret-syrian-site.html",
+      "published_date": "2026-08-11T21:01:51+00:00",
+      "category": "Energy"
+    },
+    {
       "title": "Syrian Petroleum Company Approves $184.8M Direct Contract with Capital-Light Firm, Including $27.7M Advance Payment",
       "source": "Syrian Observer",
       "url": "https://syrianobserver.com/society/syrian-petroleum-company-approves-184-8m-direct-contract-with-capital-light-firm-including-27-7m-advance-payment.html",
@@ -100,6 +114,13 @@
       "url": "https://syriadirect.org/from-exile-to-damascus-our-new-chapter-begins/",
       "published_date": "2026-08-06T08:45:12+00:00",
       "category": "Economy"
+    },
+    {
+      "title": "Damascus Criminal Court Sentences Ousted President Bashar al-Assad and Senior Regime Figures to Death",
+      "source": "Syrian Observer",
+      "url": "https://syrianobserver.com/syrian-actors/damascus-criminal-court-sentences-ousted-president-bashar-al-assad-and-senior-regime-figures-to-death.html",
+      "published_date": "2026-08-11T21:02:30+00:00",
+      "category": "Local Events"
     },
     {
       "title": "‘Justice at last’: Syrians react to Assad death sentence",
