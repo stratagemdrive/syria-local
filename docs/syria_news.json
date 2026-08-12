@@ -1,6 +1,6 @@
 {
   "country": "Syria",
-  "last_updated": "2026-08-12T11:41:02.981301+00:00",
+  "last_updated": "2026-08-12T23:27:17.427626+00:00",
   "story_count": 26,
   "stories": [
     {
@@ -39,11 +39,11 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Political Calculations Drive Potential Engagement Between Syrian Leadership and Hezbollah Despite Legacy of Conflict",
-      "source": "Syrian Observer",
-      "url": "https://syrianobserver.com/syrian-actors/political-calculations-drive-potential-engagement-between-syrian-leadership-and-hezbollah-despite-legacy-of-conflict.html",
-      "published_date": "2026-08-05T21:01:46+00:00",
-      "category": "Diplomacy"
+      "title": "Israel vows to keep troops in Lebanon, Gaza and Syria",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/12/israel-vows-to-keep-troops-in-lebanon-gaza-and-syria?traffic_source=rss",
+      "published_date": "2026-08-12T20:26:07+00:00",
+      "category": "Military"
     },
     {
       "title": "Ousted Syrian dictator Bashar al-Assad sentenced to death in absentia",
@@ -116,6 +116,20 @@
       "category": "Economy"
     },
     {
+      "title": "Can Syria deliver transitional justice?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/inside-story/2026/8/12/can-syria-deliver-transitional-justice?traffic_source=rss",
+      "published_date": "2026-08-12T20:53:26+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "‘Platformicide’ of Palestine: Activists struggle to be heard on Meta",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/8/12/platformicide-of-palestine-activists-struggle-to-be-heard-on-meta?traffic_source=rss",
+      "published_date": "2026-08-12T20:15:38+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "Damascus Criminal Court Sentences Ousted President Bashar al-Assad and Senior Regime Figures to Death",
       "source": "Syrian Observer",
       "url": "https://syrianobserver.com/syrian-actors/damascus-criminal-court-sentences-ousted-president-bashar-al-assad-and-senior-regime-figures-to-death.html",
@@ -169,20 +183,6 @@
       "source": "Syrian Observer",
       "url": "https://syrianobserver.com/refugees/new-convoy-returns-to-hama-as-returnees-grapple-with-absence-of-services.html",
       "published_date": "2026-08-06T21:01:40+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Sharaa Meets Mazloum Abdi and Ilham Ahmed in Damascus as Regional Integration Efforts Continue",
-      "source": "Syrian Observer",
-      "url": "https://syrianobserver.com/syrian-actors/sharaa-meets-mazloum-abdi-and-ilham-ahmed-in-damascus-as-regional-integration-efforts-continue.html",
-      "published_date": "2026-08-05T21:02:31+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Malaysia vows not to return Rohingya refugees to Myanmar if lives at risk",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/5/malaysia-will-not-return-rohingya-refugees-to-myanmar-if-lives-are-at-risk?traffic_source=rss",
-      "published_date": "2026-08-05T18:40:06+00:00",
       "category": "Local Events"
     }
   ]
