@@ -1,8 +1,15 @@
 {
   "country": "Syria",
-  "last_updated": "2026-08-12T23:27:17.427626+00:00",
-  "story_count": 26,
+  "last_updated": "2026-08-13T11:41:07.679009+00:00",
+  "story_count": 31,
   "stories": [
+    {
+      "title": "Shibani and Nawaf Salam Discuss Strengthening Syrian-Lebanese Cooperation",
+      "source": "Syrian Observer",
+      "url": "https://syrianobserver.com/foreign-actors/shibani-and-nawaf-salam-discuss-strengthening-syrian-lebanese-cooperation.html",
+      "published_date": "2026-08-12T21:01:37+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Revised Memory: What Ahmad al-Sharaa Said—and Chose Not to Say—on Al-Muqābala",
       "source": "Syrian Observer",
@@ -37,6 +44,27 @@
       "url": "https://www.aljazeera.com/news/2026/8/8/lebanon-detains-former-al-assad-era-general-weighs-handing-him-to-syria?traffic_source=rss",
       "published_date": "2026-08-08T15:42:03+00:00",
       "category": "Diplomacy"
+    },
+    {
+      "title": "Civilian deaths in Ukraine in July hit highest level since May 2022: UN",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/8/13/civilian-deaths-in-ukraine-in-july-hit-highest-level-since-may-2022-un?traffic_source=rss",
+      "published_date": "2026-08-13T11:14:35+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Trilateral Syrian–Jordanian–Iraqi Security Summit in Amman Focuses on Border Protection, with CENTCOM Commander Present",
+      "source": "Syrian Observer",
+      "url": "https://syrianobserver.com/security/trilateral-syrian-jordanian-iraqi-security-summit-in-amman-focuses-on-border-protection-with-centcom-commander-present.html",
+      "published_date": "2026-08-12T21:00:55+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Interior Ministry Faces Accusations of Fabricating ISIS Cell Arrest After Deleting Quneitra Announcement",
+      "source": "Syrian Observer",
+      "url": "https://syrianobserver.com/security/interior-ministry-faces-accusations-of-fabricating-isis-cell-arrest-after-deleting-quneitra-announcement.html",
+      "published_date": "2026-08-12T21:00:00+00:00",
+      "category": "Military"
     },
     {
       "title": "Israel vows to keep troops in Lebanon, Gaza and Syria",
@@ -109,11 +137,18 @@
       "category": "Economy"
     },
     {
-      "title": "From Exile to Damascus: Our New Chapter Begins",
-      "source": "Syria Direct",
-      "url": "https://syriadirect.org/from-exile-to-damascus-our-new-chapter-begins/",
-      "published_date": "2026-08-06T08:45:12+00:00",
-      "category": "Economy"
+      "title": "Palestinian women in Gaza face legal hurdles in divorce struggles",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/features/2026/8/13/palestinian-women-in-gaza-face-legal-hurdles-in-divorce-struggles?traffic_source=rss",
+      "published_date": "2026-08-13T07:01:35+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Protesters Demand Trial for Businessman Mohammad Hamsho as Boycott Campaign Expands Across Damascus",
+      "source": "Syrian Observer",
+      "url": "https://syrianobserver.com/syrian-actors/protesters-demand-trial-for-businessman-mohammad-hamsho-as-boycott-campaign-expands-across-damascus.html",
+      "published_date": "2026-08-12T21:01:40+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Can Syria deliver transitional justice?",
