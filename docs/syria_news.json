@@ -1,7 +1,7 @@
 {
   "country": "Syria",
-  "last_updated": "2026-08-13T11:41:07.679009+00:00",
-  "story_count": 31,
+  "last_updated": "2026-08-13T23:28:01.692200+00:00",
+  "story_count": 28,
   "stories": [
     {
       "title": "Shibani and Nawaf Salam Discuss Strengthening Syrian-Lebanese Cooperation",
@@ -102,20 +102,6 @@
       "category": "Military"
     },
     {
-      "title": "Deadly explosion on minibus near Damascus",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/6/deadly-explosion-on-minibus-near-damascus?traffic_source=rss",
-      "published_date": "2026-08-06T19:41:09+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Rights groups say Israeli attack that killed Lebanese journalist an apparent war crime",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cx2md67y3nlo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-08-06T14:20:15+00:00",
-      "category": "Military"
-    },
-    {
       "title": "U.S. Brokers Deal to Remove Nuclear Material from Secret Syrian Site",
       "source": "Syrian Observer",
       "url": "https://syrianobserver.com/foreign-actors/u-s-brokers-deal-to-remove-nuclear-material-from-secret-syrian-site.html",
@@ -211,13 +197,6 @@
       "source": "Syrian Observer",
       "url": "https://syrianobserver.com/foreign-actors/damascus-retakes-control-of-hmeimeem-airport-and-tartous-berth-as-russian-presence-is-reorganised.html",
       "published_date": "2026-08-09T21:02:42+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "New Convoy Returns to Hama as Returnees Grapple with Absence of Services",
-      "source": "Syrian Observer",
-      "url": "https://syrianobserver.com/refugees/new-convoy-returns-to-hama-as-returnees-grapple-with-absence-of-services.html",
-      "published_date": "2026-08-06T21:01:40+00:00",
       "category": "Local Events"
     }
   ]
