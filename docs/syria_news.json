@@ -1,8 +1,15 @@
 {
   "country": "Syria",
-  "last_updated": "2026-08-14T11:39:13.951731+00:00",
-  "story_count": 32,
+  "last_updated": "2026-08-14T23:09:33.812481+00:00",
+  "story_count": 33,
   "stories": [
+    {
+      "title": "Ahmed al-Sharaa: A New Vision for Syria",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/al-jazeera-world/2026/8/14/ahmed-al-sharaa-a-new-vision-for-syria?traffic_source=rss",
+      "published_date": "2026-08-14T15:00:00+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Shibani and Nawaf Salam Discuss Strengthening Syrian-Lebanese Cooperation",
       "source": "Syrian Observer",
