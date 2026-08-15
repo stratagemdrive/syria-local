@@ -1,8 +1,15 @@
 {
   "country": "Syria",
-  "last_updated": "2026-08-15T11:13:26.724689+00:00",
+  "last_updated": "2026-08-15T23:08:06.048697+00:00",
   "story_count": 34,
   "stories": [
+    {
+      "title": "Canadian petition to expel US ambassador gains over 170,000 signatures",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/8/15/canadian-petition-to-expel-us-ambassador-gains-over-170000-signatures?traffic_source=rss",
+      "published_date": "2026-08-15T20:09:33+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "A Syrian intervention in Lebanon would be too costly for Damascus",
       "source": "Al Jazeera",
@@ -50,13 +57,6 @@
       "source": "Syrian Observer",
       "url": "https://syrianobserver.com/foreign-actors/lebanon-arrests-former-syrian-regime-general-adel-issa-after-visit-to-syrian-embassy-in-beirut.html",
       "published_date": "2026-08-09T21:00:53+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Lebanon ‘detains’ former al-Assad-era general, weighs handing him to Syria",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/8/lebanon-detains-former-al-assad-era-general-weighs-handing-him-to-syria?traffic_source=rss",
-      "published_date": "2026-08-08T15:42:03+00:00",
       "category": "Diplomacy"
     },
     {
