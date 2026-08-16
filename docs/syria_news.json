@@ -1,8 +1,22 @@
 {
   "country": "Syria",
-  "last_updated": "2026-08-16T11:13:26.479204+00:00",
-  "story_count": 34,
+  "last_updated": "2026-08-16T23:07:34.807030+00:00",
+  "story_count": 33,
   "stories": [
+    {
+      "title": "Trump envoy Kushner meets Hamas leader to push Gaza peace plan",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c77gg5vn44yo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-08-16T19:58:14+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Kushner meets Hamas leaders in Egypt to push Trump’s Gaza plan",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/8/16/kushner-meets-hamas-in-egypt-to-push-trumps-gaza-plan?traffic_source=rss",
+      "published_date": "2026-08-16T19:23:28+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Canadian petition to expel US ambassador gains over 170,000 signatures",
       "source": "Al Jazeera",
@@ -50,13 +64,6 @@
       "source": "Syrian Observer",
       "url": "https://syrianobserver.com/foreign-actors/syria-and-turkey-establish-high-level-coordination-council-to-formalize-security-and-economic-cooperation.html",
       "published_date": "2026-08-10T21:00:58+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Lebanon Arrests Former Syrian Regime General Adel Issa After Visit to Syrian Embassy in Beirut",
-      "source": "Syrian Observer",
-      "url": "https://syrianobserver.com/foreign-actors/lebanon-arrests-former-syrian-regime-general-adel-issa-after-visit-to-syrian-embassy-in-beirut.html",
-      "published_date": "2026-08-09T21:00:53+00:00",
       "category": "Diplomacy"
     },
     {
@@ -123,24 +130,10 @@
       "category": "Military"
     },
     {
-      "title": "Israel rejects Trump's 15-point plan for Gaza, Netanyahu says",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c5yw4lpe0yeo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-08-09T21:25:04+00:00",
-      "category": "Military"
-    },
-    {
       "title": "U.S. Brokers Deal to Remove Nuclear Material from Secret Syrian Site",
       "source": "Syrian Observer",
       "url": "https://syrianobserver.com/foreign-actors/u-s-brokers-deal-to-remove-nuclear-material-from-secret-syrian-site.html",
       "published_date": "2026-08-11T21:01:51+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Syrian Petroleum Company Approves $184.8M Direct Contract with Capital-Light Firm, Including $27.7M Advance Payment",
-      "source": "Syrian Observer",
-      "url": "https://syrianobserver.com/society/syrian-petroleum-company-approves-184-8m-direct-contract-with-capital-light-firm-including-27-7m-advance-payment.html",
-      "published_date": "2026-08-09T21:01:56+00:00",
       "category": "Energy"
     },
     {
@@ -156,6 +149,13 @@
       "url": "https://syrianobserver.com/society/syrias-reconstruction-risks-deepening-inequality-without-national-plan-policy-brief-warns.html",
       "published_date": "2026-08-10T21:00:14+00:00",
       "category": "Economy"
+    },
+    {
+      "title": "Syria’s wells run dry, old grievances run deep",
+      "source": "Syria Direct",
+      "url": "https://syriadirect.org/syrias-wells-run-dry-old-grievances-run-deep/",
+      "published_date": "2026-08-16T18:39:54+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Faiq Zaidan in Damascus: Syrian–Iraqi Judicial Talks with the Detainee File on the Table",
@@ -232,13 +232,6 @@
       "source": "Syrian Observer",
       "url": "https://syrianobserver.com/refugees/a-fragile-homecoming-ras-al-ains-first-return-convoy-confronts-the-realities-of-a-divided-landscape.html",
       "published_date": "2026-08-10T21:00:26+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Damascus Retakes Control of Hmeimeem Airport and Tartous Berth as Russian Presence Is Reorganised",
-      "source": "Syrian Observer",
-      "url": "https://syrianobserver.com/foreign-actors/damascus-retakes-control-of-hmeimeem-airport-and-tartous-berth-as-russian-presence-is-reorganised.html",
-      "published_date": "2026-08-09T21:02:42+00:00",
       "category": "Local Events"
     }
   ]
