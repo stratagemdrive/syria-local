@@ -1,8 +1,22 @@
 {
   "country": "Syria",
-  "last_updated": "2026-08-16T23:07:34.807030+00:00",
-  "story_count": 33,
+  "last_updated": "2026-08-17T11:18:57.812393+00:00",
+  "story_count": 35,
   "stories": [
+    {
+      "title": "Presidential Envoy Meets SDF Commander Mazloum Abdi to Discuss Hasakah Security and Acceleration of Integration Process",
+      "source": "Syrian Observer",
+      "url": "https://syrianobserver.com/syrian-actors/presidential-envoy-meets-sdf-commander-mazloum-abdi-to-discuss-hasakah-security-and-acceleration-of-integration-process.html",
+      "published_date": "2026-08-16T21:01:50+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "The Democracy Ahmad al-Sharaa Avoids Naming",
+      "source": "Syrian Observer",
+      "url": "https://syrianobserver.com/syrian-actors/the-democracy-ahmad-al-sharaa-avoids-naming.html",
+      "published_date": "2026-08-16T21:00:15+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Trump envoy Kushner meets Hamas leader to push Gaza peace plan",
       "source": "BBC News",
@@ -67,6 +81,13 @@
       "category": "Diplomacy"
     },
     {
+      "title": "Top SDF Commander Says Dissolution of Forces and Autonomous Administration to Be Declared Within Days",
+      "source": "Syrian Observer",
+      "url": "https://syrianobserver.com/syrian-actors/top-sdf-commander-says-dissolution-of-forces-and-autonomous-administration-to-be-declared-within-days.html",
+      "published_date": "2026-08-16T21:02:23+00:00",
+      "category": "Military"
+    },
+    {
       "title": "Rebuilding Aleppo: Syria’s war-torn economic capital enjoys gradual rebirth • FRANCE 24 English",
       "source": "Syrian Observer",
       "url": "https://syrianobserver.com/youtube/rebuilding-aleppo-syrias-war-torn-economic-capital-enjoys-gradual-rebirth-france-24-english.html",
@@ -120,13 +141,6 @@
       "source": "The Guardian",
       "url": "https://www.theguardian.com/world/2026/aug/11/syria-bashar-al-assad-death-sentence-war-crimes",
       "published_date": "2026-08-11T10:40:45+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "The Plunder of Syria: Syria’s Greatest Archaeological Losses Came After IS",
-      "source": "Syria Direct",
-      "url": "https://syriadirect.org/the-plunder-of-syria-syrias-greatest-archaeological-losses-came-after-is/",
-      "published_date": "2026-08-10T06:57:38+00:00",
       "category": "Military"
     },
     {
