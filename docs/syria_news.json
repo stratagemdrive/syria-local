@@ -1,8 +1,15 @@
 {
   "country": "Syria",
-  "last_updated": "2026-08-17T11:18:57.812393+00:00",
+  "last_updated": "2026-08-17T23:10:16.226136+00:00",
   "story_count": 35,
   "stories": [
+    {
+      "title": "Palestinians, Israelis sceptical of Gaza plan as Kushner visits region",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/17/palestinians-israelis-sceptical-of-gaza-plan-as-kushner-visits-region?traffic_source=rss",
+      "published_date": "2026-08-17T16:50:15+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Presidential Envoy Meets SDF Commander Mazloum Abdi to Discuss Hasakah Security and Acceleration of Integration Process",
       "source": "Syrian Observer",
@@ -74,11 +81,11 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Syria and Turkey Establish High-Level Coordination Council to Formalize Security and Economic Cooperation",
+      "title": "Energy Companies Return to Syria: Who Holds the Terms of the New Contracts?",
       "source": "Syrian Observer",
-      "url": "https://syrianobserver.com/foreign-actors/syria-and-turkey-establish-high-level-coordination-council-to-formalize-security-and-economic-cooperation.html",
-      "published_date": "2026-08-10T21:00:58+00:00",
-      "category": "Diplomacy"
+      "url": "https://syrianobserver.com/society/energy-companies-return-to-syria-who-holds-the-terms-of-the-new-contracts.html",
+      "published_date": "2026-08-17T21:00:12+00:00",
+      "category": "Military"
     },
     {
       "title": "Top SDF Commander Says Dissolution of Forces and Autonomous Administration to Be Declared Within Days",
@@ -158,11 +165,11 @@
       "category": "Economy"
     },
     {
-      "title": "Syria’s Reconstruction Risks Deepening Inequality Without National Plan, Policy Brief Warns",
+      "title": "Syria’s New State Faces an Old Test: Death in Custody",
       "source": "Syrian Observer",
-      "url": "https://syrianobserver.com/society/syrias-reconstruction-risks-deepening-inequality-without-national-plan-policy-brief-warns.html",
-      "published_date": "2026-08-10T21:00:14+00:00",
-      "category": "Economy"
+      "url": "https://syrianobserver.com/syrian-actors/syrias-new-state-faces-an-old-test-death-in-custody.html",
+      "published_date": "2026-08-17T21:02:18+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Syria’s wells run dry, old grievances run deep",
@@ -239,13 +246,6 @@
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/news/2026/8/11/who-is-atef-najib-former-syrian-official-sentenced-to-death-with-al-assad?traffic_source=rss",
       "published_date": "2026-08-11T10:03:25+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "A Fragile Homecoming: Ras al-Ain’s First Return Convoy Confronts the Realities of a Divided Landscape",
-      "source": "Syrian Observer",
-      "url": "https://syrianobserver.com/refugees/a-fragile-homecoming-ras-al-ains-first-return-convoy-confronts-the-realities-of-a-divided-landscape.html",
-      "published_date": "2026-08-10T21:00:26+00:00",
       "category": "Local Events"
     }
   ]
