@@ -1,7 +1,7 @@
 {
   "country": "Syria",
-  "last_updated": "2026-08-17T23:10:16.226136+00:00",
-  "story_count": 35,
+  "last_updated": "2026-08-18T11:18:55.274256+00:00",
+  "story_count": 34,
   "stories": [
     {
       "title": "Palestinians, Israelis sceptical of Gaza plan as Kushner visits region",
@@ -81,6 +81,20 @@
       "category": "Diplomacy"
     },
     {
+      "title": "Eight air strikes hit airbase in Syria’s Idlib",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/8/18/eight-air-strikes-hit-airbase-in-syrias-idlib?traffic_source=rss",
+      "published_date": "2026-08-18T10:11:53+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Syrian court sentences Wassim al-Assad to death for war crimes",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/8/18/syrian-court-sentences-wassim-al-assad-to?traffic_source=rss",
+      "published_date": "2026-08-18T08:23:59+00:00",
+      "category": "Military"
+    },
+    {
       "title": "Energy Companies Return to Syria: Who Holds the Terms of the New Contracts?",
       "source": "Syrian Observer",
       "url": "https://syrianobserver.com/society/energy-companies-return-to-syria-who-holds-the-terms-of-the-new-contracts.html",
@@ -134,20 +148,6 @@
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/8/12/israel-vows-to-keep-troops-in-lebanon-gaza-and-syria?traffic_source=rss",
       "published_date": "2026-08-12T20:26:07+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Ousted Syrian dictator Bashar al-Assad sentenced to death in absentia",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/ce34dkpnyg7o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-08-11T10:43:07+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Syrian court sentences Bashar al-Assad to death in absentia for war crimes",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/aug/11/syria-bashar-al-assad-death-sentence-war-crimes",
-      "published_date": "2026-08-11T10:40:45+00:00",
       "category": "Military"
     },
     {
@@ -239,13 +239,6 @@
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/8/11/syrian-court-sentences-bashar-al-assad-and-atef-najib-to-death?traffic_source=rss",
       "published_date": "2026-08-11T17:59:50+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Who is Atef Najib, former Syrian official sentenced to death with al-Assad?",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/11/who-is-atef-najib-former-syrian-official-sentenced-to-death-with-al-assad?traffic_source=rss",
-      "published_date": "2026-08-11T10:03:25+00:00",
       "category": "Local Events"
     }
   ]
