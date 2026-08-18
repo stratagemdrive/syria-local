@@ -1,7 +1,7 @@
 {
   "country": "Syria",
-  "last_updated": "2026-08-18T11:18:55.274256+00:00",
-  "story_count": 34,
+  "last_updated": "2026-08-18T23:10:01.734654+00:00",
+  "story_count": 29,
   "stories": [
     {
       "title": "Palestinians, Israelis sceptical of Gaza plan as Kushner visits region",
@@ -67,18 +67,11 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Revised Memory: What Ahmad al-Sharaa Said—and Chose Not to Say—on Al-Muqābala",
-      "source": "Syrian Observer",
-      "url": "https://syrianobserver.com/syrian-actors/revised-memory-what-ahmed-al-sharaa-said-and-chose-not-to-say-on-al-muqabala.html",
-      "published_date": "2026-08-11T21:00:44+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Rights groups launch new legal challenge to Trump campaign against ICC",
+      "title": "Analysis: Syrian airbase attack is an Israeli message to Damascus, Ankara",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/11/rights-groups-launch-new-legal-challenge-to-trump-campaign-against-icc?traffic_source=rss",
-      "published_date": "2026-08-11T18:18:44+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/features/2026/8/18/analysis-syrian-airbase-attack-is-an-israeli-message-to-damascus-ankara?traffic_source=rss",
+      "published_date": "2026-08-18T17:51:46+00:00",
+      "category": "Military"
     },
     {
       "title": "Eight air strikes hit airbase in Syria’s Idlib",
@@ -151,18 +144,18 @@
       "category": "Military"
     },
     {
-      "title": "U.S. Brokers Deal to Remove Nuclear Material from Secret Syrian Site",
-      "source": "Syrian Observer",
-      "url": "https://syrianobserver.com/foreign-actors/u-s-brokers-deal-to-remove-nuclear-material-from-secret-syrian-site.html",
-      "published_date": "2026-08-11T21:01:51+00:00",
-      "category": "Energy"
-    },
-    {
       "title": "Syrian Finance Minister Meets World Bank Regional Director to Discuss Support for Financial Reform and Sustainable Development",
       "source": "Syrian Observer",
       "url": "https://syrianobserver.com/society/syrian-finance-minister-meets-world-bank-regional-director-to-discuss-support-for-financial-reform-and-sustainable-development.html",
       "published_date": "2026-08-13T21:00:26+00:00",
       "category": "Economy"
+    },
+    {
+      "title": "Death and alleged torture of man in detention sparks protests in Syria",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/aug/18/death-alleged-torture-man-detention-sparks-protests-syria",
+      "published_date": "2026-08-18T16:03:24+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Syria’s New State Faces an Old Test: Death in Custody",
@@ -211,34 +204,6 @@
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/news/2026/8/12/platformicide-of-palestine-activists-struggle-to-be-heard-on-meta?traffic_source=rss",
       "published_date": "2026-08-12T20:15:38+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Damascus Criminal Court Sentences Ousted President Bashar al-Assad and Senior Regime Figures to Death",
-      "source": "Syrian Observer",
-      "url": "https://syrianobserver.com/syrian-actors/damascus-criminal-court-sentences-ousted-president-bashar-al-assad-and-senior-regime-figures-to-death.html",
-      "published_date": "2026-08-11T21:02:30+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "‘Justice at last’: Syrians react to Assad death sentence",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/11/justice-at-last-syrians-react-to-assad-death-sentence?traffic_source=rss",
-      "published_date": "2026-08-11T18:32:42+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Brazil’s Supreme Court to weigh cases that could weaken Amazon protections",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/11/brazils-supreme-court-to-weigh-cases-that-could-weaken-amazon-protections?traffic_source=rss",
-      "published_date": "2026-08-11T18:00:01+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Syrian court sentences Bashar al-Assad and Atef Najib to death",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/11/syrian-court-sentences-bashar-al-assad-and-atef-najib-to-death?traffic_source=rss",
-      "published_date": "2026-08-11T17:59:50+00:00",
       "category": "Local Events"
     }
   ]
