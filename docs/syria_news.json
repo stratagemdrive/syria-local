@@ -1,8 +1,15 @@
 {
   "country": "Syria",
-  "last_updated": "2026-08-19T11:18:46.232764+00:00",
-  "story_count": 34,
+  "last_updated": "2026-08-19T23:11:17.269913+00:00",
+  "story_count": 29,
   "stories": [
+    {
+      "title": "What’s behind Israel’s latest attack on Syria?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/inside-story/2026/8/19/whats-behind-israels-latest-attack-on-syria?traffic_source=rss",
+      "published_date": "2026-08-19T20:18:40+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Syria Condemns Israeli Strikes on Idlib Airbase as US Envoy Warns Against Escalation",
       "source": "Syrian Observer",
@@ -64,13 +71,6 @@
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/video/al-jazeera-world/2026/8/14/ahmed-al-sharaa-a-new-vision-for-syria?traffic_source=rss",
       "published_date": "2026-08-14T15:00:00+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Shibani and Nawaf Salam Discuss Strengthening Syrian-Lebanese Cooperation",
-      "source": "Syrian Observer",
-      "url": "https://syrianobserver.com/foreign-actors/shibani-and-nawaf-salam-discuss-strengthening-syrian-lebanese-cooperation.html",
-      "published_date": "2026-08-12T21:01:37+00:00",
       "category": "Diplomacy"
     },
     {
@@ -144,27 +144,6 @@
       "category": "Military"
     },
     {
-      "title": "Trilateral Syrian–Jordanian–Iraqi Security Summit in Amman Focuses on Border Protection, with CENTCOM Commander Present",
-      "source": "Syrian Observer",
-      "url": "https://syrianobserver.com/security/trilateral-syrian-jordanian-iraqi-security-summit-in-amman-focuses-on-border-protection-with-centcom-commander-present.html",
-      "published_date": "2026-08-12T21:00:55+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Interior Ministry Faces Accusations of Fabricating ISIS Cell Arrest After Deleting Quneitra Announcement",
-      "source": "Syrian Observer",
-      "url": "https://syrianobserver.com/security/interior-ministry-faces-accusations-of-fabricating-isis-cell-arrest-after-deleting-quneitra-announcement.html",
-      "published_date": "2026-08-12T21:00:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Israel vows to keep troops in Lebanon, Gaza and Syria",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/12/israel-vows-to-keep-troops-in-lebanon-gaza-and-syria?traffic_source=rss",
-      "published_date": "2026-08-12T20:26:07+00:00",
-      "category": "Military"
-    },
-    {
       "title": "Shibani and Grossi Highlight Renewed Damascus–IAEA Cooperation on Peaceful Nuclear Energy",
       "source": "Syrian Observer",
       "url": "https://syrianobserver.com/syrian-actors/shibani-and-grossi-highlight-renewed-damascus-iaea-cooperation-on-peaceful-nuclear-energy.html",
@@ -177,6 +156,13 @@
       "url": "https://syrianobserver.com/society/syrian-finance-minister-meets-world-bank-regional-director-to-discuss-support-for-financial-reform-and-sustainable-development.html",
       "published_date": "2026-08-13T21:00:26+00:00",
       "category": "Economy"
+    },
+    {
+      "title": "Hamas condemns ‘new war crime’ as Israel kills 10 in crowded Gaza hubs",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/8/19/hamas-condemns-new-war-crime-as-israel-kills-10-in-crowded-gaza-hubs?traffic_source=rss",
+      "published_date": "2026-08-19T17:14:21+00:00",
+      "category": "Local Events"
     },
     {
       "title": "US condemns 'unnecessary escalation' after Israeli airstrikes on Syrian airbase",
@@ -218,27 +204,6 @@
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/features/2026/8/13/palestinian-women-in-gaza-face-legal-hurdles-in-divorce-struggles?traffic_source=rss",
       "published_date": "2026-08-13T07:01:35+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Protesters Demand Trial for Businessman Mohammad Hamsho as Boycott Campaign Expands Across Damascus",
-      "source": "Syrian Observer",
-      "url": "https://syrianobserver.com/syrian-actors/protesters-demand-trial-for-businessman-mohammad-hamsho-as-boycott-campaign-expands-across-damascus.html",
-      "published_date": "2026-08-12T21:01:40+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Can Syria deliver transitional justice?",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/inside-story/2026/8/12/can-syria-deliver-transitional-justice?traffic_source=rss",
-      "published_date": "2026-08-12T20:53:26+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "‘Platformicide’ of Palestine: Activists struggle to be heard on Meta",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/12/platformicide-of-palestine-activists-struggle-to-be-heard-on-meta?traffic_source=rss",
-      "published_date": "2026-08-12T20:15:38+00:00",
       "category": "Local Events"
     }
   ]
