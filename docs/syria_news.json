@@ -1,8 +1,22 @@
 {
   "country": "Syria",
-  "last_updated": "2026-08-19T23:11:17.269913+00:00",
-  "story_count": 29,
+  "last_updated": "2026-08-20T11:19:56.456814+00:00",
+  "story_count": 35,
   "stories": [
+    {
+      "title": "Australia 'outraged' after Israel decides not to open criminal investigation into killing of aid worker in Gaza",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cp87g29r718o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-08-20T07:33:11+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Australian anger as Israel drops World Central Kitchen deaths case",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/20/australian-anger-as-israel-drops-world-central-kitchen-deaths-case?traffic_source=rss",
+      "published_date": "2026-08-20T05:43:01+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "What’s behind Israel’s latest attack on Syria?",
       "source": "Al Jazeera",
@@ -74,6 +88,41 @@
       "category": "Diplomacy"
     },
     {
+      "title": "Syrian official says ‘no plans’ to establish Turkish military presence",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/8/20/syrian-official-says-no-plans-to-establish-turkish-military-presence?traffic_source=rss",
+      "published_date": "2026-08-20T10:16:08+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Ties of blood: The afterlife of Syria’s jihadist networks from Aleppo to Berlin",
+      "source": "Syria Direct",
+      "url": "https://syriadirect.org/ties-of-blood-the-afterlife-of-syrias-jihadist-networks-from-aleppo-to-berlin/",
+      "published_date": "2026-08-20T09:44:13+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Netanyahu warns Israel will not tolerate Turkish military presence in Syria",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/20/20-08-clip-netanyahu-turkey-sot-il?traffic_source=rss",
+      "published_date": "2026-08-20T07:50:07+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Israeli Strike on Abu al-Duhur Exposes Wider Dispute Over Türkiye’s Role and Syria’s Rearmament",
+      "source": "Syrian Observer",
+      "url": "https://syrianobserver.com/foreign-actors/israeli-strike-on-abu-al-duhur-exposes-wider-dispute-over-turkiyes-role-and-syrias-rearmament.html",
+      "published_date": "2026-08-19T21:02:44+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Removing Sipan Hemo from the Red List: Is Ankara Recasting Its Relationship with the SDF through Damascus?",
+      "source": "Syrian Observer",
+      "url": "https://syrianobserver.com/syrian-actors/removing-sipan-hemo-from-the-red-list-is-ankara-recasting-its-relationship-with-the-sdf-through-damascus.html",
+      "published_date": "2026-08-19T21:00:24+00:00",
+      "category": "Military"
+    },
+    {
       "title": "Lebanon Approves Extradition of Former Syrian Army General for Trial in Damascus",
       "source": "Syrian Observer",
       "url": "https://syrianobserver.com/foreign-actors/lebanon-approves-extradition-of-former-syrian-army-general-for-trial-in-damascus.html",
@@ -137,11 +186,11 @@
       "category": "Military"
     },
     {
-      "title": "Civilian deaths in Ukraine in July hit highest level since May 2022: UN",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/13/civilian-deaths-in-ukraine-in-july-hit-highest-level-since-may-2022-un?traffic_source=rss",
-      "published_date": "2026-08-13T11:14:35+00:00",
-      "category": "Military"
+      "title": "Syria Weighs Economic and Strategic Gains of Proposed $15 Billion Iraqi Oil Pipeline",
+      "source": "Syrian Observer",
+      "url": "https://syrianobserver.com/society/syria-weighs-economic-and-strategic-gains-of-proposed-15-billion-iraqi-oil-pipeline.html",
+      "published_date": "2026-08-19T21:00:36+00:00",
+      "category": "Energy"
     },
     {
       "title": "Shibani and Grossi Highlight Renewed Damascus–IAEA Cooperation on Peaceful Nuclear Energy",
@@ -197,13 +246,6 @@
       "source": "Syrian Observer",
       "url": "https://syrianobserver.com/foreign-actors/faiq-zaidan-in-damascus-syrian-iraqi-judicial-talks-with-the-detainee-file-on-the-table.html",
       "published_date": "2026-08-13T21:01:10+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Palestinian women in Gaza face legal hurdles in divorce struggles",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/features/2026/8/13/palestinian-women-in-gaza-face-legal-hurdles-in-divorce-struggles?traffic_source=rss",
-      "published_date": "2026-08-13T07:01:35+00:00",
       "category": "Local Events"
     }
   ]
