@@ -1,6 +1,6 @@
 {
   "country": "Syria",
-  "last_updated": "2026-08-21T11:18:51.141306+00:00",
+  "last_updated": "2026-08-21T23:11:00.326706+00:00",
   "story_count": 39,
   "stories": [
     {
@@ -92,13 +92,6 @@
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/opinions/2026/8/15/a-syrian-intervention-in-lebanon-would-be-too-costly-for-damascus?traffic_source=rss",
       "published_date": "2026-08-15T07:27:32+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Ahmed al-Sharaa: A New Vision for Syria",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/al-jazeera-world/2026/8/14/ahmed-al-sharaa-a-new-vision-for-syria?traffic_source=rss",
-      "published_date": "2026-08-14T15:00:00+00:00",
       "category": "Diplomacy"
     },
     {
@@ -205,6 +198,13 @@
       "url": "https://syrianobserver.com/syrian-actors/top-sdf-commander-says-dissolution-of-forces-and-autonomous-administration-to-be-declared-within-days.html",
       "published_date": "2026-08-16T21:02:23+00:00",
       "category": "Military"
+    },
+    {
+      "title": "Secret tunnel becomes museum for Syria chemical attack and siege of Ghouta",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/21/08-21-26-ghouta-chemical-attack-anniversary-sv?traffic_source=rss",
+      "published_date": "2026-08-21T18:55:22+00:00",
+      "category": "Energy"
     },
     {
       "title": "Syria Weighs Economic and Strategic Gains of Proposed $15 Billion Iraqi Oil Pipeline",
