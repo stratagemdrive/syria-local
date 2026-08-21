@@ -1,8 +1,22 @@
 {
   "country": "Syria",
-  "last_updated": "2026-08-20T23:13:27.636865+00:00",
-  "story_count": 36,
+  "last_updated": "2026-08-21T11:18:51.141306+00:00",
+  "story_count": 39,
   "stories": [
+    {
+      "title": "Shibani Meets Pakistani Foreign Minister to Discuss Strengthening Bilateral Ties and Regional Developments",
+      "source": "Syrian Observer",
+      "url": "https://syrianobserver.com/syrian-actors/shibani-meets-pakistani-foreign-minister-to-discuss-strengthening-bilateral-ties-and-regional-developments.html",
+      "published_date": "2026-08-20T21:01:18+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Barack: Washington Working to Reactivate Communication Channel Between Syria and Israel",
+      "source": "Syrian Observer",
+      "url": "https://syrianobserver.com/foreign-actors/barack-washington-working-to-reactivate-communication-channel-between-syria-and-israel.html",
+      "published_date": "2026-08-20T21:00:42+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Australia 'outraged' after Israel decides not to open criminal investigation into killing of aid worker in Gaza",
       "source": "BBC News",
@@ -92,6 +106,13 @@
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/8/20/the-cost-of-rebuilding-family-homes-in-war-ravaged-syria?traffic_source=rss",
       "published_date": "2026-08-20T22:51:51+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "From Abu al-Duhur to the New Military: How Israel Is Expanding Its Red Lines in Syria",
+      "source": "Syrian Observer",
+      "url": "https://syrianobserver.com/syrian-actors/from-abu-al-duhur-to-the-new-military-how-israel-is-expanding-its-red-lines-in-syria.html",
+      "published_date": "2026-08-20T21:00:38+00:00",
       "category": "Military"
     },
     {
@@ -186,13 +207,6 @@
       "category": "Military"
     },
     {
-      "title": "Rebuilding Aleppo: Syria’s war-torn economic capital enjoys gradual rebirth • FRANCE 24 English",
-      "source": "Syrian Observer",
-      "url": "https://syrianobserver.com/youtube/rebuilding-aleppo-syrias-war-torn-economic-capital-enjoys-gradual-rebirth-france-24-english.html",
-      "published_date": "2026-08-14T08:11:33+00:00",
-      "category": "Military"
-    },
-    {
       "title": "Syria Weighs Economic and Strategic Gains of Proposed $15 Billion Iraqi Oil Pipeline",
       "source": "Syrian Observer",
       "url": "https://syrianobserver.com/society/syria-weighs-economic-and-strategic-gains-of-proposed-15-billion-iraqi-oil-pipeline.html",
@@ -205,6 +219,13 @@
       "url": "https://syrianobserver.com/syrian-actors/shibani-and-grossi-highlight-renewed-damascus-iaea-cooperation-on-peaceful-nuclear-energy.html",
       "published_date": "2026-08-18T21:01:57+00:00",
       "category": "Energy"
+    },
+    {
+      "title": "Japan Set to Lift Sanctions on 16 Syrian Entities and Deepen Economic Cooperation with Damascus",
+      "source": "Syrian Observer",
+      "url": "https://syrianobserver.com/foreign-actors/japan-set-to-lift-sanctions-on-16-syrian-entities-and-deepen-economic-cooperation-with-damascus.html",
+      "published_date": "2026-08-20T21:00:09+00:00",
+      "category": "Economy"
     },
     {
       "title": "Syria’s civil society navigates post-Assad era: Partnership or control?",
