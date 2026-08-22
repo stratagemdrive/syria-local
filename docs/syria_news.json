@@ -1,8 +1,15 @@
 {
   "country": "Syria",
-  "last_updated": "2026-08-22T11:14:18.965978+00:00",
-  "story_count": 38,
+  "last_updated": "2026-08-22T23:08:19.134972+00:00",
+  "story_count": 40,
   "stories": [
+    {
+      "title": "Envoy says Israel did not give the US notice before strikes on Syrian base",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/8/22/envoy-says-israel-did-not-give-the-us-notice-before-strikes-on-syrian-base?traffic_source=rss",
+      "published_date": "2026-08-22T19:18:02+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Shibani Meets Pakistani Foreign Minister to Discuss Strengthening Bilateral Ties and Regional Developments",
       "source": "Syrian Observer",
@@ -81,11 +88,11 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Canadian petition to expel US ambassador gains over 170,000 signatures",
+      "title": "Open-air cinema brings movie nights back to Khartoum",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/15/canadian-petition-to-expel-us-ambassador-gains-over-170000-signatures?traffic_source=rss",
-      "published_date": "2026-08-15T20:09:33+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/22/08-22-26-sudan-movie-night-sv?traffic_source=rss",
+      "published_date": "2026-08-22T21:27:22+00:00",
+      "category": "Military"
     },
     {
       "title": "The cost of rebuilding family homes in war-ravaged Syria",
@@ -219,6 +226,13 @@
       "url": "https://syrianobserver.com/foreign-actors/japan-set-to-lift-sanctions-on-16-syrian-entities-and-deepen-economic-cooperation-with-damascus.html",
       "published_date": "2026-08-20T21:00:09+00:00",
       "category": "Economy"
+    },
+    {
+      "title": "Israel’s Chief Rabbi says Palestinians are not a people and have no rights",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/22/08-22-26-israel-rabbi-palestinians-clip?traffic_source=rss",
+      "published_date": "2026-08-22T17:54:52+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Syria’s civil society navigates post-Assad era: Partnership or control?",
