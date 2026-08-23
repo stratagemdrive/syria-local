@@ -1,8 +1,15 @@
 {
   "country": "Syria",
-  "last_updated": "2026-08-23T11:14:36.752490+00:00",
-  "story_count": 40,
+  "last_updated": "2026-08-23T23:08:35.624821+00:00",
+  "story_count": 35,
   "stories": [
+    {
+      "title": "US envoy Tom Barrack retracts comment that Syria’s Golan is occupied",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/8/23/us-envoy-tom-barrack-retracts-comment-that-syrias-golan-is-occupied?traffic_source=rss",
+      "published_date": "2026-08-23T21:23:05+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Envoy says Israel did not give the US notice before strikes on Syrian base",
       "source": "Al Jazeera",
@@ -57,34 +64,6 @@
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/8/17/palestinians-israelis-sceptical-of-gaza-plan-as-kushner-visits-region?traffic_source=rss",
       "published_date": "2026-08-17T16:50:15+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Presidential Envoy Meets SDF Commander Mazloum Abdi to Discuss Hasakah Security and Acceleration of Integration Process",
-      "source": "Syrian Observer",
-      "url": "https://syrianobserver.com/syrian-actors/presidential-envoy-meets-sdf-commander-mazloum-abdi-to-discuss-hasakah-security-and-acceleration-of-integration-process.html",
-      "published_date": "2026-08-16T21:01:50+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "The Democracy Ahmad al-Sharaa Avoids Naming",
-      "source": "Syrian Observer",
-      "url": "https://syrianobserver.com/syrian-actors/the-democracy-ahmad-al-sharaa-avoids-naming.html",
-      "published_date": "2026-08-16T21:00:15+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Trump envoy Kushner meets Hamas leader to push Gaza peace plan",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c77gg5vn44yo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-08-16T19:58:14+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Kushner meets Hamas leaders in Egypt to push Trump’s Gaza plan",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/16/kushner-meets-hamas-in-egypt-to-push-trumps-gaza-plan?traffic_source=rss",
-      "published_date": "2026-08-16T19:23:28+00:00",
       "category": "Diplomacy"
     },
     {
@@ -193,13 +172,6 @@
       "category": "Military"
     },
     {
-      "title": "Top SDF Commander Says Dissolution of Forces and Autonomous Administration to Be Declared Within Days",
-      "source": "Syrian Observer",
-      "url": "https://syrianobserver.com/syrian-actors/top-sdf-commander-says-dissolution-of-forces-and-autonomous-administration-to-be-declared-within-days.html",
-      "published_date": "2026-08-16T21:02:23+00:00",
-      "category": "Military"
-    },
-    {
       "title": "Secret tunnel becomes museum for Syria chemical attack and siege of Ghouta",
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/8/21/08-21-26-ghouta-chemical-attack-anniversary-sv?traffic_source=rss",
@@ -274,13 +246,6 @@
       "source": "Syrian Observer",
       "url": "https://syrianobserver.com/syrian-actors/syrias-new-state-faces-an-old-test-death-in-custody.html",
       "published_date": "2026-08-17T21:02:18+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Syria’s wells run dry, old grievances run deep",
-      "source": "Syria Direct",
-      "url": "https://syriadirect.org/syrias-wells-run-dry-old-grievances-run-deep/",
-      "published_date": "2026-08-16T18:39:54+00:00",
       "category": "Local Events"
     }
   ]
