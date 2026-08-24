@@ -1,8 +1,15 @@
 {
   "country": "Syria",
-  "last_updated": "2026-08-24T11:19:58.579592+00:00",
-  "story_count": 42,
+  "last_updated": "2026-08-24T23:11:58.280218+00:00",
+  "story_count": 39,
   "stories": [
+    {
+      "title": "US removes Syria from ‘state sponsor of terrorism’ list",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/8/24/us-removes-syria-from-state-sponsor-of-terrorism-list?traffic_source=rss",
+      "published_date": "2026-08-24T22:32:26+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "US envoy Tom Barrack retracts comment that Syria’s Golan is occupied",
       "source": "Al Jazeera",
@@ -64,20 +71,6 @@
       "source": "Syrian Observer",
       "url": "https://syrianobserver.com/foreign-actors/syria-condemns-israeli-strikes-on-idlib-airbase-as-us-envoy-warns-against-escalation.html",
       "published_date": "2026-08-18T21:02:46+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Palestinians, Israelis sceptical of Gaza plan as Kushner visits region",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/17/palestinians-israelis-sceptical-of-gaza-plan-as-kushner-visits-region?traffic_source=rss",
-      "published_date": "2026-08-17T16:50:15+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Kushner hails 'very good' meeting with Netanyahu after Hamas talks on Gaza peace plan",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c77gg5vn44yo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-08-17T16:02:58+00:00",
       "category": "Diplomacy"
     },
     {
@@ -200,13 +193,6 @@
       "category": "Military"
     },
     {
-      "title": "Energy Companies Return to Syria: Who Holds the Terms of the New Contracts?",
-      "source": "Syrian Observer",
-      "url": "https://syrianobserver.com/society/energy-companies-return-to-syria-who-holds-the-terms-of-the-new-contracts.html",
-      "published_date": "2026-08-17T21:00:12+00:00",
-      "category": "Military"
-    },
-    {
       "title": "Secret tunnel becomes museum for Syria chemical attack and siege of Ghouta",
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/8/21/08-21-26-ghouta-chemical-attack-anniversary-sv?traffic_source=rss",
@@ -288,13 +274,6 @@
       "source": "The Guardian",
       "url": "https://www.theguardian.com/world/2026/aug/18/death-alleged-torture-man-detention-sparks-protests-syria",
       "published_date": "2026-08-18T16:03:24+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Syria’s New State Faces an Old Test: Death in Custody",
-      "source": "Syrian Observer",
-      "url": "https://syrianobserver.com/syrian-actors/syrias-new-state-faces-an-old-test-death-in-custody.html",
-      "published_date": "2026-08-17T21:02:18+00:00",
       "category": "Local Events"
     }
   ]
