@@ -1,13 +1,20 @@
 {
   "country": "Syria",
-  "last_updated": "2026-08-23T23:08:35.624821+00:00",
-  "story_count": 35,
+  "last_updated": "2026-08-24T11:19:58.579592+00:00",
+  "story_count": 42,
   "stories": [
     {
       "title": "US envoy Tom Barrack retracts comment that Syria’s Golan is occupied",
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/news/2026/8/23/us-envoy-tom-barrack-retracts-comment-that-syrias-golan-is-occupied?traffic_source=rss",
       "published_date": "2026-08-23T21:23:05+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Syrian Foreign Minister Assaad Al-Shibani Meets Mossad Director Roman Gofman in Jordan Following Abu al-Duhur Airstrikes",
+      "source": "Syrian Observer",
+      "url": "https://syrianobserver.com/foreign-actors/syrian-foreign-minister-assaad-al-shibani-meets-mossad-director-roman-gofman-in-jordan-following-abu-al-duhur-airstrikes.html",
+      "published_date": "2026-08-23T21:01:26+00:00",
       "category": "Diplomacy"
     },
     {
@@ -65,6 +72,34 @@
       "url": "https://www.aljazeera.com/video/newsfeed/2026/8/17/palestinians-israelis-sceptical-of-gaza-plan-as-kushner-visits-region?traffic_source=rss",
       "published_date": "2026-08-17T16:50:15+00:00",
       "category": "Diplomacy"
+    },
+    {
+      "title": "Kushner hails 'very good' meeting with Netanyahu after Hamas talks on Gaza peace plan",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c77gg5vn44yo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-08-17T16:02:58+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "‘Barrel bomb mufti’ Ahmad Hassoun handed life sentence in Syria trial",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/8/24/hold-ahmad-hassoun-assads-barrel-bomb-mufti-faces-death-penalty?traffic_source=rss",
+      "published_date": "2026-08-24T08:18:12+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Sipan Hemo Warns of Israeli Attempts to Undermine SDF Integration into Syrian State Institutions",
+      "source": "Syrian Observer",
+      "url": "https://syrianobserver.com/syrian-actors/sipan-hemo-warns-of-israeli-attempts-to-undermine-sdf-integration-into-syrian-state-institutions.html",
+      "published_date": "2026-08-24T06:53:53+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Syria says Israeli strike near Damascus violation of international law",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c2dkdegr2xeo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-08-22T21:42:42+00:00",
+      "category": "Military"
     },
     {
       "title": "Open-air cinema brings movie nights back to Khartoum",
@@ -198,6 +233,20 @@
       "url": "https://syrianobserver.com/foreign-actors/japan-set-to-lift-sanctions-on-16-syrian-entities-and-deepen-economic-cooperation-with-damascus.html",
       "published_date": "2026-08-20T21:00:09+00:00",
       "category": "Economy"
+    },
+    {
+      "title": "Is Everyday Alawite Life a Crime?",
+      "source": "Syrian Observer",
+      "url": "https://syrianobserver.com/society/is-everyday-alawite-life-a-crime.html",
+      "published_date": "2026-08-23T21:00:49+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Brief Closure of the Damascus–Suweida Highway Threatens Special Exam Session",
+      "source": "Syrian Observer",
+      "url": "https://syrianobserver.com/syrian-actors/brief-closure-of-the-damascus-suweida-highway-threatens-special-exam-session.html",
+      "published_date": "2026-08-23T21:00:16+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Israel’s Chief Rabbi says Palestinians are not a people and have no rights",
