@@ -1,7 +1,7 @@
 {
   "country": "Syria",
-  "last_updated": "2026-08-25T11:20:42.159994+00:00",
-  "story_count": 44,
+  "last_updated": "2026-08-25T23:14:09.203907+00:00",
+  "story_count": 42,
   "stories": [
     {
       "title": "Syrian president thanks nation for getting off US state terror list",
@@ -88,11 +88,18 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Syria Condemns Israeli Strikes on Idlib Airbase as US Envoy Warns Against Escalation",
-      "source": "Syrian Observer",
-      "url": "https://syrianobserver.com/foreign-actors/syria-condemns-israeli-strikes-on-idlib-airbase-as-us-envoy-warns-against-escalation.html",
-      "published_date": "2026-08-18T21:02:46+00:00",
-      "category": "Diplomacy"
+      "title": "Syrian Democratic Forces announce their dissolution",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/25/syrian-democratic-forces-announce-their-dissolution?traffic_source=rss",
+      "published_date": "2026-08-25T21:09:05+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Kurdish-led forces in Syria dissolve after merging with army",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/8/25/kurdish-led-forces-in-syria-dissolve-after-merging-with-the-army?traffic_source=rss",
+      "published_date": "2026-08-25T19:13:52+00:00",
+      "category": "Military"
     },
     {
       "title": "Life Sentence Closes Chapter on Ahmad Hassoun: Former Assad Mufti Behind Bars",
@@ -200,27 +207,6 @@
       "category": "Military"
     },
     {
-      "title": "Lebanon Approves Extradition of Former Syrian Army General for Trial in Damascus",
-      "source": "Syrian Observer",
-      "url": "https://syrianobserver.com/foreign-actors/lebanon-approves-extradition-of-former-syrian-army-general-for-trial-in-damascus.html",
-      "published_date": "2026-08-18T21:00:35+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Internal Security Forces Arrest Senior ISIS Commander in Aleppo Countryside",
-      "source": "Syrian Observer",
-      "url": "https://syrianobserver.com/security/internal-security-forces-arrest-senior-isis-commander-in-aleppo-countryside.html",
-      "published_date": "2026-08-18T21:00:12+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Analysis: Syrian airbase attack is an Israeli message to Damascus, Ankara",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/features/2026/8/18/analysis-syrian-airbase-attack-is-an-israeli-message-to-damascus-ankara?traffic_source=rss",
-      "published_date": "2026-08-18T17:51:46+00:00",
-      "category": "Military"
-    },
-    {
       "title": "Secret tunnel becomes museum for Syria chemical attack and siege of Ghouta",
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/8/21/08-21-26-ghouta-chemical-attack-anniversary-sv?traffic_source=rss",
@@ -235,11 +221,18 @@
       "category": "Energy"
     },
     {
-      "title": "Shibani and Grossi Highlight Renewed Damascus–IAEA Cooperation on Peaceful Nuclear Energy",
-      "source": "Syrian Observer",
-      "url": "https://syrianobserver.com/syrian-actors/shibani-and-grossi-highlight-renewed-damascus-iaea-cooperation-on-peaceful-nuclear-energy.html",
-      "published_date": "2026-08-18T21:01:57+00:00",
-      "category": "Energy"
+      "title": "Syria’s economy poised for improvement after US sanctions removal",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/8/25/syrias-economy-poised-for-improvement-after-us-sanctions-removal?traffic_source=rss",
+      "published_date": "2026-08-25T18:43:42+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Syria ‘shakes off’ past with removal from US ‘terror’ list, says al-Sharaa",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/8/25/syriashakes-offpast-with-removal-from-us-terror-list-says-al-sharaa?traffic_source=rss",
+      "published_date": "2026-08-25T18:13:37+00:00",
+      "category": "Economy"
     },
     {
       "title": "Japan Set to Lift Sanctions on 16 Syrian Entities and Deepen Economic Cooperation with Damascus",
@@ -302,13 +295,6 @@
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/c62vy3wl31lo?at_medium=RSS&at_campaign=rss",
       "published_date": "2026-08-19T00:48:16+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Death and alleged torture of man in detention sparks protests in Syria",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/aug/18/death-alleged-torture-man-detention-sparks-protests-syria",
-      "published_date": "2026-08-18T16:03:24+00:00",
       "category": "Local Events"
     }
   ]
