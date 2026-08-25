@@ -1,13 +1,34 @@
 {
   "country": "Syria",
-  "last_updated": "2026-08-24T23:11:58.280218+00:00",
-  "story_count": 39,
+  "last_updated": "2026-08-25T11:20:42.159994+00:00",
+  "story_count": 44,
   "stories": [
+    {
+      "title": "Syrian president thanks nation for getting off US state terror list",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/25/syrian-president-thanks-nation-for-getting-off-us-state-terror-list?traffic_source=rss",
+      "published_date": "2026-08-25T04:38:24+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "US removes Syria from list of state sponsors of terrorism",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c33knmyl0y5o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-08-25T00:17:25+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "US removes Syria from ‘state sponsor of terrorism’ list",
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/news/2026/8/24/us-removes-syria-from-state-sponsor-of-terrorism-list?traffic_source=rss",
       "published_date": "2026-08-24T22:32:26+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "A Deal on Paper, Dead on Arrival: What Syria and Israel Actually Agreed To",
+      "source": "Syrian Observer",
+      "url": "https://syrianobserver.com/foreign-actors/a-deal-on-paper-dead-on-arrival-what-syria-and-israel-actually-agreed-to.html",
+      "published_date": "2026-08-24T21:01:44+00:00",
       "category": "Diplomacy"
     },
     {
@@ -72,6 +93,27 @@
       "url": "https://syrianobserver.com/foreign-actors/syria-condemns-israeli-strikes-on-idlib-airbase-as-us-envoy-warns-against-escalation.html",
       "published_date": "2026-08-18T21:02:46+00:00",
       "category": "Diplomacy"
+    },
+    {
+      "title": "Life Sentence Closes Chapter on Ahmad Hassoun: Former Assad Mufti Behind Bars",
+      "source": "Syrian Observer",
+      "url": "https://syrianobserver.com/syrian-actors/life-sentence-closes-chapter-on-ahmad-hassoun-former-assad-mufti-behind-bars.html",
+      "published_date": "2026-08-24T21:02:30+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Syrian Officials and SDF Leaders Hold High-Level Talks in Damascus",
+      "source": "Syrian Observer",
+      "url": "https://syrianobserver.com/syrian-actors/syrian-officials-and-sdf-leaders-hold-high-level-talks-in-damascus.html",
+      "published_date": "2026-08-24T21:01:14+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Syria court sentences Assad-era grand mufti to life in prison",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cd68ygy73v4o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-08-24T20:10:28+00:00",
+      "category": "Military"
     },
     {
       "title": "‘Barrel bomb mufti’ Ahmad Hassoun handed life sentence in Syria trial",
@@ -179,20 +221,6 @@
       "category": "Military"
     },
     {
-      "title": "Eight air strikes hit airbase in Syria’s Idlib",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/18/eight-air-strikes-hit-airbase-in-syrias-idlib?traffic_source=rss",
-      "published_date": "2026-08-18T10:11:53+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Syrian court sentences Wassim al-Assad to death for war crimes",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/18/syrian-court-sentences-wassim-al-assad-to?traffic_source=rss",
-      "published_date": "2026-08-18T08:23:59+00:00",
-      "category": "Military"
-    },
-    {
       "title": "Secret tunnel becomes museum for Syria chemical attack and siege of Ghouta",
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/8/21/08-21-26-ghouta-chemical-attack-anniversary-sv?traffic_source=rss",
@@ -219,6 +247,13 @@
       "url": "https://syrianobserver.com/foreign-actors/japan-set-to-lift-sanctions-on-16-syrian-entities-and-deepen-economic-cooperation-with-damascus.html",
       "published_date": "2026-08-20T21:00:09+00:00",
       "category": "Economy"
+    },
+    {
+      "title": "The ear witness: Turner-winner Lawrence Abu Hamdan and his ‘sound evidence’ exposés of human rights abuses",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/artanddesign/2026/aug/25/ear-witness-turner-winner-lawrence-abu-hamdan-earshot-sound-evidence-exposees-of-human-rights-abuses",
+      "published_date": "2026-08-25T04:00:47+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Is Everyday Alawite Life a Crime?",
