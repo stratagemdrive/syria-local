@@ -1,8 +1,15 @@
 {
   "country": "Syria",
-  "last_updated": "2026-08-25T23:14:09.203907+00:00",
-  "story_count": 42,
+  "last_updated": "2026-08-26T11:21:51.293344+00:00",
+  "story_count": 44,
   "stories": [
+    {
+      "title": "U.S. Formally Rescinds Syria’s State Sponsor of Terrorism Designation, Signaling Shift Toward Economic Recovery",
+      "source": "Syrian Observer",
+      "url": "https://syrianobserver.com/foreign-actors/u-s-formally-rescinds-syrias-state-sponsor-of-terrorism-designation-signaling-shift-toward-economic-recovery.html",
+      "published_date": "2026-08-25T21:01:31+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Syrian president thanks nation for getting off US state terror list",
       "source": "Al Jazeera",
@@ -242,6 +249,20 @@
       "category": "Economy"
     },
     {
+      "title": "Saudi Firm Launches ‘Cham View’ in Damascus: Syria’s Largest Residential Project to Deliver More Than 10,000 Units",
+      "source": "Syrian Observer",
+      "url": "https://syrianobserver.com/uncategorized/saudi-firm-launches-cham-view-in-damascus-syrias-largest-residential-project-to-deliver-more-than-10000-units.html",
+      "published_date": "2026-08-25T21:00:17+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Jordan Meeting Fails to Halt Israeli Incursions into Southern Syria",
+      "source": "Syrian Observer",
+      "url": "https://syrianobserver.com/foreign-actors/jordan-meeting-fails-to-halt-israeli-incursions-into-southern-syria.html",
+      "published_date": "2026-08-25T21:00:09+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "The ear witness: Turner-winner Lawrence Abu Hamdan and his ‘sound evidence’ exposés of human rights abuses",
       "source": "The Guardian",
       "url": "https://www.theguardian.com/artanddesign/2026/aug/25/ear-witness-turner-winner-lawrence-abu-hamdan-earshot-sound-evidence-exposees-of-human-rights-abuses",
@@ -288,13 +309,6 @@
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/news/2026/8/19/hamas-condemns-new-war-crime-as-israel-kills-10-in-crowded-gaza-hubs?traffic_source=rss",
       "published_date": "2026-08-19T17:14:21+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "US condemns 'unnecessary escalation' after Israeli airstrikes on Syrian airbase",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c62vy3wl31lo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-08-19T00:48:16+00:00",
       "category": "Local Events"
     }
   ]
