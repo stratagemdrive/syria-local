@@ -1,8 +1,15 @@
 {
   "country": "Syria",
-  "last_updated": "2026-08-27T20:52:29.422237+00:00",
-  "story_count": 38,
+  "last_updated": "2026-08-28T06:24:16.344270+00:00",
+  "story_count": 37,
   "stories": [
+    {
+      "title": "Syria’s president appoints ex-commander of Kurdish-led SDF as advisor",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/8/27/syrias-president-appoints-ex-commander-of-kurdish-led-sdf-as-advisor?traffic_source=rss",
+      "published_date": "2026-08-27T23:09:41+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Board of Peace's Gaza envoy criticises Israeli strikes and Hamas actions",
       "source": "BBC News",
@@ -81,18 +88,11 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Shibani Meets Pakistani Foreign Minister to Discuss Strengthening Bilateral Ties and Regional Developments",
-      "source": "Syrian Observer",
-      "url": "https://syrianobserver.com/syrian-actors/shibani-meets-pakistani-foreign-minister-to-discuss-strengthening-bilateral-ties-and-regional-developments.html",
-      "published_date": "2026-08-20T21:01:18+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Barack: Washington Working to Reactivate Communication Channel Between Syria and Israel",
-      "source": "Syrian Observer",
-      "url": "https://syrianobserver.com/foreign-actors/barack-washington-working-to-reactivate-communication-channel-between-syria-and-israel.html",
-      "published_date": "2026-08-20T21:00:42+00:00",
-      "category": "Diplomacy"
+      "title": "Fired Stars and Stripes journalists sue Trump administration for censorship",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/8/28/fired-stars-and-stripes-journalists-sue-trump-administration-for-censorship?traffic_source=rss",
+      "published_date": "2026-08-28T02:16:50+00:00",
+      "category": "Military"
     },
     {
       "title": "Syria Advances National Integration Deal as SDF Dissolves and Kurdish Language Gains Official Recognition; International Community Welcomes Move",
@@ -165,25 +165,18 @@
       "category": "Military"
     },
     {
-      "title": "The cost of rebuilding family homes in war-ravaged Syria",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/20/the-cost-of-rebuilding-family-homes-in-war-ravaged-syria?traffic_source=rss",
-      "published_date": "2026-08-20T22:51:51+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "From Abu al-Duhur to the New Military: How Israel Is Expanding Its Red Lines in Syria",
-      "source": "Syrian Observer",
-      "url": "https://syrianobserver.com/syrian-actors/from-abu-al-duhur-to-the-new-military-how-israel-is-expanding-its-red-lines-in-syria.html",
-      "published_date": "2026-08-20T21:00:38+00:00",
-      "category": "Military"
-    },
-    {
       "title": "Secret tunnel becomes museum for Syria chemical attack and siege of Ghouta",
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/8/21/08-21-26-ghouta-chemical-attack-anniversary-sv?traffic_source=rss",
       "published_date": "2026-08-21T18:55:22+00:00",
       "category": "Energy"
+    },
+    {
+      "title": "President Sharaa and Saudi-Syrian Business Council Explore Expanded Investment Channels",
+      "source": "Syrian Observer",
+      "url": "https://syrianobserver.com/society/president-sharaa-and-saudi-syrian-business-council-explore-expanded-investment-channels.html",
+      "published_date": "2026-08-27T21:00:10+00:00",
+      "category": "Economy"
     },
     {
       "title": "Syria Courts Turkish and Saudi Investment as Reconstruction Push Accelerates",
@@ -207,11 +200,11 @@
       "category": "Economy"
     },
     {
-      "title": "Japan Set to Lift Sanctions on 16 Syrian Entities and Deepen Economic Cooperation with Damascus",
+      "title": "Suweida Excluded from Syria–Israel Channels as Signs of Rapprochement with Damascus Emerge",
       "source": "Syrian Observer",
-      "url": "https://syrianobserver.com/foreign-actors/japan-set-to-lift-sanctions-on-16-syrian-entities-and-deepen-economic-cooperation-with-damascus.html",
-      "published_date": "2026-08-20T21:00:09+00:00",
-      "category": "Economy"
+      "url": "https://syrianobserver.com/syrian-actors/suweida-excluded-from-syria-israel-channels-as-signs-of-rapprochement-with-damascus-emerge.html",
+      "published_date": "2026-08-27T21:01:39+00:00",
+      "category": "Local Events"
     },
     {
       "title": "New archaeological finds in Afrin amid reports of looting and vandalism",
