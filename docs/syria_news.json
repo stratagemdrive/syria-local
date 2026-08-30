@@ -1,8 +1,15 @@
 {
   "country": "Syria",
-  "last_updated": "2026-08-29T15:23:43.380266+00:00",
-  "story_count": 41,
+  "last_updated": "2026-08-30T00:49:29.790567+00:00",
+  "story_count": 39,
   "stories": [
+    {
+      "title": "Turkiye summons Ukraine ambassador over Black Sea attacks",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/8/29/turkiye-summons-ukraine-ambassador-over-black-sea-attacks-2?traffic_source=rss",
+      "published_date": "2026-08-29T17:41:57+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Syria’s president appoints ex-commander of Kurdish-led SDF as advisor",
       "source": "Al Jazeera",
@@ -78,13 +85,6 @@
       "source": "Syrian Observer",
       "url": "https://syrianobserver.com/foreign-actors/syrian-foreign-minister-assaad-al-shibani-meets-mossad-director-roman-gofman-in-jordan-following-abu-al-duhur-airstrikes.html",
       "published_date": "2026-08-23T21:01:26+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Envoy says Israel did not give the US notice before strikes on Syrian base",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/22/envoy-says-israel-did-not-give-the-us-notice-before-strikes-on-syrian-base?traffic_source=rss",
-      "published_date": "2026-08-22T19:18:02+00:00",
       "category": "Diplomacy"
     },
     {
@@ -172,20 +172,6 @@
       "category": "Military"
     },
     {
-      "title": "Syria says Israeli strike near Damascus violation of international law",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c2dkdegr2xeo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-08-22T21:42:42+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Open-air cinema brings movie nights back to Khartoum",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/22/08-22-26-sudan-movie-night-sv?traffic_source=rss",
-      "published_date": "2026-08-22T21:27:22+00:00",
-      "category": "Military"
-    },
-    {
       "title": "President Sharaa and Saudi-Syrian Business Council Explore Expanded Investment Channels",
       "source": "Syrian Observer",
       "url": "https://syrianobserver.com/society/president-sharaa-and-saudi-syrian-business-council-explore-expanded-investment-channels.html",
@@ -212,6 +198,13 @@
       "url": "https://www.aljazeera.com/news/2026/8/25/syriashakes-offpast-with-removal-from-us-terror-list-says-al-sharaa?traffic_source=rss",
       "published_date": "2026-08-25T18:13:37+00:00",
       "category": "Economy"
+    },
+    {
+      "title": "Spectacular fireworks over Damascus as ‘Syria Shines Again’",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/29/spectacular-fireworks-over-damascus-as-syria-shines?traffic_source=rss",
+      "published_date": "2026-08-29T23:34:11+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Thousands take part in March on Washington to promote voting rights",
@@ -281,13 +274,6 @@
       "source": "Syrian Observer",
       "url": "https://syrianobserver.com/syrian-actors/brief-closure-of-the-damascus-suweida-highway-threatens-special-exam-session.html",
       "published_date": "2026-08-23T21:00:16+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Israel’s Chief Rabbi says Palestinians are not a people and have no rights",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/22/08-22-26-israel-rabbi-palestinians-clip?traffic_source=rss",
-      "published_date": "2026-08-22T17:54:52+00:00",
       "category": "Local Events"
     }
   ]
