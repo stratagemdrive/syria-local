@@ -1,7 +1,7 @@
 {
   "country": "Syria",
-  "last_updated": "2026-08-31T00:56:57.147372+00:00",
-  "story_count": 36,
+  "last_updated": "2026-08-31T17:47:06.417748+00:00",
+  "story_count": 38,
   "stories": [
     {
       "title": "‘Opening a new chapter’: Syria reopens embassy in Libya after talks",
@@ -151,20 +151,6 @@
       "category": "Military"
     },
     {
-      "title": "‘Barrel bomb mufti’ Ahmad Hassoun handed life sentence in Syria trial",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/24/hold-ahmad-hassoun-assads-barrel-bomb-mufti-faces-death-penalty?traffic_source=rss",
-      "published_date": "2026-08-24T08:18:12+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Sipan Hemo Warns of Israeli Attempts to Undermine SDF Integration into Syrian State Institutions",
-      "source": "Syrian Observer",
-      "url": "https://syrianobserver.com/syrian-actors/sipan-hemo-warns-of-israeli-attempts-to-undermine-sdf-integration-into-syrian-state-institutions.html",
-      "published_date": "2026-08-24T06:53:53+00:00",
-      "category": "Military"
-    },
-    {
       "title": "President Sharaa and Saudi-Syrian Business Council Explore Expanded Investment Channels",
       "source": "Syrian Observer",
       "url": "https://syrianobserver.com/society/president-sharaa-and-saudi-syrian-business-council-explore-expanded-investment-channels.html",
@@ -191,6 +177,34 @@
       "url": "https://www.aljazeera.com/news/2026/8/25/syriashakes-offpast-with-removal-from-us-terror-list-says-al-sharaa?traffic_source=rss",
       "published_date": "2026-08-25T18:13:37+00:00",
       "category": "Economy"
+    },
+    {
+      "title": "More Than 177,000 Syrians Remain Forcibly Disappeared Since 2011, Rights Group Says",
+      "source": "Syrian Observer",
+      "url": "https://syrianobserver.com/syrian-actors/more-than-177000-syrians-remain-forcibly-disappeared-since-2011-rights-group-says.html",
+      "published_date": "2026-08-30T21:02:42+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Suweida Students Barred from Exams; UN Urges Protection of Their Right to Education",
+      "source": "Syrian Observer",
+      "url": "https://syrianobserver.com/syrian-actors/suweida-students-barred-from-exams-un-urges-protection-of-their-right-to-education.html",
+      "published_date": "2026-08-30T21:02:30+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Homs Mega-Project Draws Buyers as Questions Persist Over Developer and Execution",
+      "source": "Syrian Observer",
+      "url": "https://syrianobserver.com/society/homs-mega-project-draws-buyers-as-questions-persist-over-developer-and-execution.html",
+      "published_date": "2026-08-30T21:01:43+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Sit-In in Central Damascus Rejects Dispossession and the Legacy of Seizure",
+      "source": "Syrian Observer",
+      "url": "https://syrianobserver.com/society/sit-in-in-central-damascus-rejects-dispossession-and-the-legacy-of-seizure.html",
+      "published_date": "2026-08-30T21:00:32+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Spectacular fireworks over Damascus as ‘Syria Shines Again’",
