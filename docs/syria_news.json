@@ -1,8 +1,15 @@
 {
   "country": "Syria",
-  "last_updated": "2026-08-30T15:08:21.355250+00:00",
-  "story_count": 39,
+  "last_updated": "2026-08-31T00:56:57.147372+00:00",
+  "story_count": 36,
   "stories": [
+    {
+      "title": "‘Opening a new chapter’: Syria reopens embassy in Libya after talks",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/8/30/opening-a-new-chapter-syria-to-reopen-embassy-in-libya-after-talks?traffic_source=rss",
+      "published_date": "2026-08-30T20:38:56+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Turkiye summons Ukraine ambassador over Black Sea attacks",
       "source": "Al Jazeera",
@@ -71,20 +78,6 @@
       "source": "Syrian Observer",
       "url": "https://syrianobserver.com/foreign-actors/a-deal-on-paper-dead-on-arrival-what-syria-and-israel-actually-agreed-to.html",
       "published_date": "2026-08-24T21:01:44+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "US envoy Tom Barrack retracts comment that Syria’s Golan is occupied",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/23/us-envoy-tom-barrack-retracts-comment-that-syrias-golan-is-occupied?traffic_source=rss",
-      "published_date": "2026-08-23T21:23:05+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Syrian Foreign Minister Assaad Al-Shibani Meets Mossad Director Roman Gofman in Jordan Following Abu al-Duhur Airstrikes",
-      "source": "Syrian Observer",
-      "url": "https://syrianobserver.com/foreign-actors/syrian-foreign-minister-assaad-al-shibani-meets-mossad-director-roman-gofman-in-jordan-following-abu-al-duhur-airstrikes.html",
-      "published_date": "2026-08-23T21:01:26+00:00",
       "category": "Diplomacy"
     },
     {
@@ -260,20 +253,6 @@
       "source": "The Guardian",
       "url": "https://www.theguardian.com/artanddesign/2026/aug/25/ear-witness-turner-winner-lawrence-abu-hamdan-earshot-sound-evidence-exposees-of-human-rights-abuses",
       "published_date": "2026-08-25T04:00:47+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Is Everyday Alawite Life a Crime?",
-      "source": "Syrian Observer",
-      "url": "https://syrianobserver.com/society/is-everyday-alawite-life-a-crime.html",
-      "published_date": "2026-08-23T21:00:49+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Brief Closure of the Damascus–Suweida Highway Threatens Special Exam Session",
-      "source": "Syrian Observer",
-      "url": "https://syrianobserver.com/syrian-actors/brief-closure-of-the-damascus-suweida-highway-threatens-special-exam-session.html",
-      "published_date": "2026-08-23T21:00:16+00:00",
       "category": "Local Events"
     }
   ]
