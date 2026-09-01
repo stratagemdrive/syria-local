@@ -1,8 +1,15 @@
 {
   "country": "Syria",
-  "last_updated": "2026-09-01T01:28:11.840569+00:00",
-  "story_count": 33,
+  "last_updated": "2026-09-01T15:21:42.516054+00:00",
+  "story_count": 37,
   "stories": [
+    {
+      "title": "Is the Relationship Between Religion and State Being Redefined in Syria?",
+      "source": "Syrian Observer",
+      "url": "https://syrianobserver.com/uncategorized/is-the-relationship-between-religion-and-state-being-redefined-in-syria.html",
+      "published_date": "2026-08-31T21:00:54+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "‘Opening a new chapter’: Syria reopens embassy in Libya after talks",
       "source": "Al Jazeera",
@@ -53,11 +60,18 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Syrian president thanks nation for getting off US state terror list",
+      "title": "Israel says senior Hamas member seized as strikes kill three during Gaza raid",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c1wxex4vg35o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-09-01T12:58:44+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "At least five killed as ammunition-laden vehicle explodes in Syria’s Idlib",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/25/syrian-president-thanks-nation-for-getting-off-us-state-terror-list?traffic_source=rss",
-      "published_date": "2026-08-25T04:38:24+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news/2026/9/1/two-killed-in-explosion-of-ammunition-laden-vehicle-in-syrias-idlib?traffic_source=rss",
+      "published_date": "2026-09-01T11:43:28+00:00",
+      "category": "Military"
     },
     {
       "title": "Three minors killed in Colombia armed group crackdown",
@@ -144,6 +158,27 @@
       "category": "Economy"
     },
     {
+      "title": "Damascus goes car-free for 24 hours",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/1/damascus-goes-car-free-for-24-hours?traffic_source=rss",
+      "published_date": "2026-09-01T11:53:53+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "President Sharaa in Daraa: Domestic Outreach or Strategic Signal Abroad?",
+      "source": "Syrian Observer",
+      "url": "https://syrianobserver.com/syrian-actors/president-sharaa-in-daraa-domestic-outreach-or-strategic-signal-abroad.html",
+      "published_date": "2026-08-31T21:02:53+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "UAE Group Signs Landmark $7 Billion Agreement for “New Damascus” Urban Mega-Project",
+      "source": "Syrian Observer",
+      "url": "https://syrianobserver.com/society/uae-group-signs-landmark-7-billion-agreement-for-new-damascus-urban-mega-project.html",
+      "published_date": "2026-08-31T21:01:38+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "More Than 177,000 Syrians Remain Forcibly Disappeared Since 2011, Rights Group Says",
       "source": "Syrian Observer",
       "url": "https://syrianobserver.com/syrian-actors/more-than-177000-syrians-remain-forcibly-disappeared-since-2011-rights-group-says.html",
@@ -225,13 +260,6 @@
       "source": "Syrian Observer",
       "url": "https://syrianobserver.com/foreign-actors/jordan-meeting-fails-to-halt-israeli-incursions-into-southern-syria.html",
       "published_date": "2026-08-25T21:00:09+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "The ear witness: Turner-winner Lawrence Abu Hamdan and his ‘sound evidence’ exposés of human rights abuses",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/artanddesign/2026/aug/25/ear-witness-turner-winner-lawrence-abu-hamdan-earshot-sound-evidence-exposees-of-human-rights-abuses",
-      "published_date": "2026-08-25T04:00:47+00:00",
       "category": "Local Events"
     }
   ]
