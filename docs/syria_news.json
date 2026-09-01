@@ -1,7 +1,7 @@
 {
   "country": "Syria",
-  "last_updated": "2026-08-31T17:47:06.417748+00:00",
-  "story_count": 38,
+  "last_updated": "2026-09-01T01:28:11.840569+00:00",
+  "story_count": 33,
   "stories": [
     {
       "title": "‘Opening a new chapter’: Syria reopens embassy in Libya after talks",
@@ -60,25 +60,11 @@
       "category": "Diplomacy"
     },
     {
-      "title": "US removes Syria from list of state sponsors of terrorism",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c33knmyl0y5o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-08-25T00:17:25+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "US removes Syria from ‘state sponsor of terrorism’ list",
+      "title": "Three minors killed in Colombia armed group crackdown",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/24/us-removes-syria-from-state-sponsor-of-terrorism-list?traffic_source=rss",
-      "published_date": "2026-08-24T22:32:26+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "A Deal on Paper, Dead on Arrival: What Syria and Israel Actually Agreed To",
-      "source": "Syrian Observer",
-      "url": "https://syrianobserver.com/foreign-actors/a-deal-on-paper-dead-on-arrival-what-syria-and-israel-actually-agreed-to.html",
-      "published_date": "2026-08-24T21:01:44+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news/2026/8/31/three-minors-killed-in-colombia-armed-group-crackdown?traffic_source=rss",
+      "published_date": "2026-08-31T22:30:23+00:00",
+      "category": "Military"
     },
     {
       "title": "Gunfire, blasts heard in several areas of Niger capital Niamey",
@@ -127,27 +113,6 @@
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/news/2026/8/25/kurdish-led-forces-in-syria-dissolve-after-merging-with-the-army?traffic_source=rss",
       "published_date": "2026-08-25T19:13:52+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Life Sentence Closes Chapter on Ahmad Hassoun: Former Assad Mufti Behind Bars",
-      "source": "Syrian Observer",
-      "url": "https://syrianobserver.com/syrian-actors/life-sentence-closes-chapter-on-ahmad-hassoun-former-assad-mufti-behind-bars.html",
-      "published_date": "2026-08-24T21:02:30+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Syrian Officials and SDF Leaders Hold High-Level Talks in Damascus",
-      "source": "Syrian Observer",
-      "url": "https://syrianobserver.com/syrian-actors/syrian-officials-and-sdf-leaders-hold-high-level-talks-in-damascus.html",
-      "published_date": "2026-08-24T21:01:14+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Syria court sentences Assad-era grand mufti to life in prison",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cd68ygy73v4o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-08-24T20:10:28+00:00",
       "category": "Military"
     },
     {
