@@ -1,8 +1,15 @@
 {
   "country": "Syria",
-  "last_updated": "2026-09-02T00:36:20.213772+00:00",
-  "story_count": 31,
+  "last_updated": "2026-09-02T14:52:28.188767+00:00",
+  "story_count": 37,
   "stories": [
+    {
+      "title": "More than 900 killed in Gaza this year despite ceasefire, Hamas-run health ministry says",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c7708dy33pdo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-09-02T11:51:46+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Is the Relationship Between Religion and State Being Redefined in Syria?",
       "source": "Syrian Observer",
@@ -51,6 +58,20 @@
       "url": "https://syrianobserver.com/foreign-actors/presidents-sharaa-and-putin-discuss-bilateral-relations-and-economic-cooperation-in-phone-call.html",
       "published_date": "2026-08-26T21:00:26+00:00",
       "category": "Diplomacy"
+    },
+    {
+      "title": "Munitions-Laden Car Explosion in Binnish Kills Five",
+      "source": "Syrian Observer",
+      "url": "https://syrianobserver.com/security/munitions-laden-car-explosion-in-binnish-kills-five.html",
+      "published_date": "2026-09-01T21:00:11+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "“New Damascus”: The $7 Billion Dream Collides With Syria’s Economic Reality",
+      "source": "Syrian Observer",
+      "url": "https://syrianobserver.com/society/new-damascus-the-7-billion-dream-collides-with-syrias-economic-reality.html",
+      "published_date": "2026-09-01T21:00:10+00:00",
+      "category": "Military"
     },
     {
       "title": "Munitions vehicle explodes killing five in Idlib",
@@ -116,6 +137,13 @@
       "category": "Military"
     },
     {
+      "title": "Syria’s Wheat Production Approaches Three Million Tons — Has the Country Achieved Self-Sufficiency?",
+      "source": "Syrian Observer",
+      "url": "https://syrianobserver.com/society/syrias-wheat-production-approaches-three-million-tons-has-the-country-achieved-self-sufficiency.html",
+      "published_date": "2026-09-01T21:00:12+00:00",
+      "category": "Economy"
+    },
+    {
       "title": "President Sharaa and Saudi-Syrian Business Council Explore Expanded Investment Channels",
       "source": "Syrian Observer",
       "url": "https://syrianobserver.com/society/president-sharaa-and-saudi-syrian-business-council-explore-expanded-investment-channels.html",
@@ -130,10 +158,24 @@
       "category": "Economy"
     },
     {
+      "title": "In Syrian-Led Initiative, UN Establishes International Day for Women Searching for Missing Persons",
+      "source": "Syrian Observer",
+      "url": "https://syrianobserver.com/syrian-actors/in-syrian-led-initiative-un-establishes-international-day-for-women-searching-for-missing-persons.html",
+      "published_date": "2026-09-01T21:02:48+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "Damascus goes car-free for 24 hours",
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/9/1/damascus-goes-car-free-for-24-hours?traffic_source=rss",
       "published_date": "2026-09-01T11:53:53+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "The Libyan odyssey: For Syrians stranded in Libya, Assad’s fall has not ended their journey home",
+      "source": "Syria Direct",
+      "url": "https://syriadirect.org/the-libyan-odyssey-for-syrians-stranded-in-libya-assads-fall-has-not-ended-their-journey-home/",
+      "published_date": "2026-09-01T08:04:39+00:00",
       "category": "Local Events"
     },
     {
