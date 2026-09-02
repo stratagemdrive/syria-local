@@ -1,7 +1,7 @@
 {
   "country": "Syria",
-  "last_updated": "2026-09-01T15:21:42.516054+00:00",
-  "story_count": 37,
+  "last_updated": "2026-09-02T00:36:20.213772+00:00",
+  "story_count": 31,
   "stories": [
     {
       "title": "Is the Relationship Between Religion and State Being Redefined in Syria?",
@@ -53,11 +53,11 @@
       "category": "Diplomacy"
     },
     {
-      "title": "U.S. Formally Rescinds Syria’s State Sponsor of Terrorism Designation, Signaling Shift Toward Economic Recovery",
-      "source": "Syrian Observer",
-      "url": "https://syrianobserver.com/foreign-actors/u-s-formally-rescinds-syrias-state-sponsor-of-terrorism-designation-signaling-shift-toward-economic-recovery.html",
-      "published_date": "2026-08-25T21:01:31+00:00",
-      "category": "Diplomacy"
+      "title": "Munitions vehicle explodes killing five in Idlib",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/1/munitions-vehicle-explodes-killing-five-in-idlib?traffic_source=rss",
+      "published_date": "2026-09-01T19:46:53+00:00",
+      "category": "Military"
     },
     {
       "title": "Israel says senior Hamas member seized as strikes kill three during Gaza raid",
@@ -116,20 +116,6 @@
       "category": "Military"
     },
     {
-      "title": "Syrian Democratic Forces announce their dissolution",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/25/syrian-democratic-forces-announce-their-dissolution?traffic_source=rss",
-      "published_date": "2026-08-25T21:09:05+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Kurdish-led forces in Syria dissolve after merging with army",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/25/kurdish-led-forces-in-syria-dissolve-after-merging-with-the-army?traffic_source=rss",
-      "published_date": "2026-08-25T19:13:52+00:00",
-      "category": "Military"
-    },
-    {
       "title": "President Sharaa and Saudi-Syrian Business Council Explore Expanded Investment Channels",
       "source": "Syrian Observer",
       "url": "https://syrianobserver.com/society/president-sharaa-and-saudi-syrian-business-council-explore-expanded-investment-channels.html",
@@ -141,20 +127,6 @@
       "source": "Syrian Observer",
       "url": "https://syrianobserver.com/society/syria-courts-turkish-and-saudi-investment-as-reconstruction-push-accelerates.html",
       "published_date": "2026-08-26T21:00:24+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Syria’s economy poised for improvement after US sanctions removal",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/25/syrias-economy-poised-for-improvement-after-us-sanctions-removal?traffic_source=rss",
-      "published_date": "2026-08-25T18:43:42+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Syria ‘shakes off’ past with removal from US ‘terror’ list, says al-Sharaa",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/25/syriashakes-offpast-with-removal-from-us-terror-list-says-al-sharaa?traffic_source=rss",
-      "published_date": "2026-08-25T18:13:37+00:00",
       "category": "Economy"
     },
     {
@@ -246,20 +218,6 @@
       "source": "Syrian Observer",
       "url": "https://syrianobserver.com/syrian-actors/investigation-underway-in-northern-aleppo-following-murder-of-local-sufi-imam.html",
       "published_date": "2026-08-26T21:00:57+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Saudi Firm Launches ‘Cham View’ in Damascus: Syria’s Largest Residential Project to Deliver More Than 10,000 Units",
-      "source": "Syrian Observer",
-      "url": "https://syrianobserver.com/uncategorized/saudi-firm-launches-cham-view-in-damascus-syrias-largest-residential-project-to-deliver-more-than-10000-units.html",
-      "published_date": "2026-08-25T21:00:17+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Jordan Meeting Fails to Halt Israeli Incursions into Southern Syria",
-      "source": "Syrian Observer",
-      "url": "https://syrianobserver.com/foreign-actors/jordan-meeting-fails-to-halt-israeli-incursions-into-southern-syria.html",
-      "published_date": "2026-08-25T21:00:09+00:00",
       "category": "Local Events"
     }
   ]
