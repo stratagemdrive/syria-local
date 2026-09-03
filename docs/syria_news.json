@@ -1,7 +1,7 @@
 {
   "country": "Syria",
-  "last_updated": "2026-09-02T14:52:28.188767+00:00",
-  "story_count": 37,
+  "last_updated": "2026-09-03T00:46:36.535133+00:00",
+  "story_count": 33,
   "stories": [
     {
       "title": "More than 900 killed in Gaza this year despite ceasefire, Hamas-run health ministry says",
@@ -50,13 +50,6 @@
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/8/27/syrias-president-makes-first-visa-payment-after-sanctions-removal?traffic_source=rss",
       "published_date": "2026-08-27T01:08:19+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Presidents Sharaa and Putin Discuss Bilateral Relations and Economic Cooperation in Phone Call",
-      "source": "Syrian Observer",
-      "url": "https://syrianobserver.com/foreign-actors/presidents-sharaa-and-putin-discuss-bilateral-relations-and-economic-cooperation-in-phone-call.html",
-      "published_date": "2026-08-26T21:00:26+00:00",
       "category": "Diplomacy"
     },
     {
@@ -130,13 +123,6 @@
       "category": "Military"
     },
     {
-      "title": "Syria Advances National Integration Deal as SDF Dissolves and Kurdish Language Gains Official Recognition; International Community Welcomes Move",
-      "source": "Syrian Observer",
-      "url": "https://syrianobserver.com/syrian-actors/syria-advances-national-integration-deal-as-sdf-dissolves-and-kurdish-language-gains-official-recognition-international-community-welcomes-move.html",
-      "published_date": "2026-08-26T21:02:44+00:00",
-      "category": "Military"
-    },
-    {
       "title": "Syria’s Wheat Production Approaches Three Million Tons — Has the Country Achieved Self-Sufficiency?",
       "source": "Syrian Observer",
       "url": "https://syrianobserver.com/society/syrias-wheat-production-approaches-three-million-tons-has-the-country-achieved-self-sufficiency.html",
@@ -148,13 +134,6 @@
       "source": "Syrian Observer",
       "url": "https://syrianobserver.com/society/president-sharaa-and-saudi-syrian-business-council-explore-expanded-investment-channels.html",
       "published_date": "2026-08-27T21:00:10+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Syria Courts Turkish and Saudi Investment as Reconstruction Push Accelerates",
-      "source": "Syrian Observer",
-      "url": "https://syrianobserver.com/society/syria-courts-turkish-and-saudi-investment-as-reconstruction-push-accelerates.html",
-      "published_date": "2026-08-26T21:00:24+00:00",
       "category": "Economy"
     },
     {
@@ -253,13 +232,6 @@
       "source": "Syria Direct",
       "url": "https://syriadirect.org/new-archaeological-finds-in-afrin-amid-reports-of-looting-and-vandalism/",
       "published_date": "2026-08-27T13:55:27+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Investigation Underway in Northern Aleppo Following Murder of Local Sufi Imam",
-      "source": "Syrian Observer",
-      "url": "https://syrianobserver.com/syrian-actors/investigation-underway-in-northern-aleppo-following-murder-of-local-sufi-imam.html",
-      "published_date": "2026-08-26T21:00:57+00:00",
       "category": "Local Events"
     }
   ]
