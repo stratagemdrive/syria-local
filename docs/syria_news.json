@@ -1,8 +1,22 @@
 {
   "country": "Syria",
-  "last_updated": "2026-09-03T00:46:36.535133+00:00",
-  "story_count": 33,
+  "last_updated": "2026-09-03T14:49:58.807936+00:00",
+  "story_count": 35,
   "stories": [
+    {
+      "title": "Syrian Government Seeks Extradition of Former Jaysh al-Islam Spokesman Held in France",
+      "source": "Syrian Observer",
+      "url": "https://syrianobserver.com/foreign-actors/syrian-government-seeks-extradition-of-former-jaysh-al-islam-spokesman-held-in-france.html",
+      "published_date": "2026-09-02T21:01:28+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "IAEA Concludes Investigation into Syria’s Undisclosed Nuclear Program After Seventeen Years of Uncertainty",
+      "source": "Syrian Observer",
+      "url": "https://syrianobserver.com/syrian-actors/iaea-concludes-investigation-into-syrias-undisclosed-nuclear-program-after-seventeen-years-of-uncertainty.html",
+      "published_date": "2026-09-02T21:00:13+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "More than 900 killed in Gaza this year despite ceasefire, Hamas-run health ministry says",
       "source": "BBC News",
@@ -39,18 +53,11 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Board of Peace's Gaza envoy criticises Israeli strikes and Hamas actions",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cew92l07kwzo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-08-27T14:17:24+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Syria’s president makes first Visa payment after sanctions removal",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/27/syrias-president-makes-first-visa-payment-after-sanctions-removal?traffic_source=rss",
-      "published_date": "2026-08-27T01:08:19+00:00",
-      "category": "Diplomacy"
+      "title": "What Does Israel Want from the “New Syria”?",
+      "source": "Syrian Observer",
+      "url": "https://syrianobserver.com/foreign-actors/what-does-israel-want-from-the-new-syria.html",
+      "published_date": "2026-09-02T21:01:09+00:00",
+      "category": "Military"
     },
     {
       "title": "Munitions-Laden Car Explosion in Binnish Kills Five",
@@ -135,6 +142,20 @@
       "url": "https://syrianobserver.com/society/president-sharaa-and-saudi-syrian-business-council-explore-expanded-investment-channels.html",
       "published_date": "2026-08-27T21:00:10+00:00",
       "category": "Economy"
+    },
+    {
+      "title": "‘Can I take the door?’ woman pleads at Syrian prison exhibit",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/3/can-i-take-the-door-woman-pleads-at-syrian-prison-exhibit?traffic_source=rss",
+      "published_date": "2026-09-03T13:02:59+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Israeli Official Reports Collapse of Security-Deal Talks with Damascus",
+      "source": "Syrian Observer",
+      "url": "https://syrianobserver.com/foreign-actors/israeli-official-reports-collapse-of-security-deal-talks-with-damascus.html",
+      "published_date": "2026-09-02T21:00:48+00:00",
+      "category": "Local Events"
     },
     {
       "title": "In Syrian-Led Initiative, UN Establishes International Day for Women Searching for Missing Persons",
@@ -225,13 +246,6 @@
       "source": "Syrian Observer",
       "url": "https://syrianobserver.com/syrian-actors/suweida-excluded-from-syria-israel-channels-as-signs-of-rapprochement-with-damascus-emerge.html",
       "published_date": "2026-08-27T21:01:39+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "New archaeological finds in Afrin amid reports of looting and vandalism",
-      "source": "Syria Direct",
-      "url": "https://syriadirect.org/new-archaeological-finds-in-afrin-amid-reports-of-looting-and-vandalism/",
-      "published_date": "2026-08-27T13:55:27+00:00",
       "category": "Local Events"
     }
   ]
