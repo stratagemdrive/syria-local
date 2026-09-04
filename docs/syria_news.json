@@ -1,7 +1,7 @@
 {
   "country": "Syria",
-  "last_updated": "2026-09-04T00:29:06.152233+00:00",
-  "story_count": 33,
+  "last_updated": "2026-09-04T14:40:41.155866+00:00",
+  "story_count": 34,
   "stories": [
     {
       "title": "Syrian Government Seeks Extradition of Former Jaysh al-Islam Spokesman Held in France",
@@ -32,6 +32,13 @@
       "category": "Diplomacy"
     },
     {
+      "title": "Is the Relationship Between Religion and State Being Redefined in Syria?",
+      "source": "Syrian Observer",
+      "url": "https://syrianobserver.com/syrian-actors/is-the-relationship-between-religion-and-state-being-redefined-in-syria.html",
+      "published_date": "2026-08-31T21:00:54+00:00",
+      "category": "Diplomacy"
+    },
+    {
       "title": "‘Opening a new chapter’: Syria reopens embassy in Libya after talks",
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/news/2026/8/30/opening-a-new-chapter-syria-to-reopen-embassy-in-libya-after-talks?traffic_source=rss",
@@ -44,6 +51,13 @@
       "url": "https://www.aljazeera.com/news/2026/8/29/turkiye-summons-ukraine-ambassador-over-black-sea-attacks-2?traffic_source=rss",
       "published_date": "2026-08-29T17:41:57+00:00",
       "category": "Diplomacy"
+    },
+    {
+      "title": "Washington Post: Syria Seeks to Reclaim Its Role as a Regional Energy and Trade Hub Away from the Strait of Hormuz",
+      "source": "Syrian Observer",
+      "url": "https://syrianobserver.com/society/washington-post-syria-seeks-to-reclaim-its-role-as-a-regional-energy-and-trade-hub-away-from-the-strait-of-hormuz.html",
+      "published_date": "2026-09-03T21:02:19+00:00",
+      "category": "Military"
     },
     {
       "title": "What Does Israel Want from the “New Syria”?",
@@ -109,25 +123,18 @@
       "category": "Military"
     },
     {
-      "title": "Kurdish-led forces in Syria dissolved: Head of SDF says group has merged with military",
-      "source": "Syrian Observer",
-      "url": "https://syrianobserver.com/youtube/kurdish-led-forces-in-syria-dissolved-head-of-sdf-says-group-has-merged-with-military.html",
-      "published_date": "2026-08-28T07:45:32+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Fired Stars and Stripes journalists sue Trump administration for censorship",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/28/fired-stars-and-stripes-journalists-sue-trump-administration-for-censorship?traffic_source=rss",
-      "published_date": "2026-08-28T02:16:50+00:00",
-      "category": "Military"
-    },
-    {
       "title": "El Nino: A phenomenon supercharged by climate change",
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/features/2026/9/3/el-nino-a-phenomenon-supercharged-by-climate-change?traffic_source=rss",
       "published_date": "2026-09-03T21:09:39+00:00",
       "category": "Energy"
+    },
+    {
+      "title": "Syrian President Ahmad al-Sharaa Meets German Economic Delegation to Discuss Reconstruction Efforts",
+      "source": "Syrian Observer",
+      "url": "https://syrianobserver.com/foreign-actors/syrian-president-ahmad-al-sharaa-meets-german-economic-delegation-to-discuss-reconstruction-efforts.html",
+      "published_date": "2026-09-03T21:00:49+00:00",
+      "category": "Economy"
     },
     {
       "title": "Syria’s Wheat Production Approaches Three Million Tons — Has the Country Achieved Self-Sufficiency?",
