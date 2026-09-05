@@ -1,7 +1,7 @@
 {
   "country": "Syria",
-  "last_updated": "2026-09-04T14:40:41.155866+00:00",
-  "story_count": 34,
+  "last_updated": "2026-09-05T00:26:34.907512+00:00",
+  "story_count": 31,
   "stories": [
     {
       "title": "Syrian Government Seeks Extradition of Former Jaysh al-Islam Spokesman Held in France",
@@ -116,13 +116,6 @@
       "category": "Military"
     },
     {
-      "title": "Israeli strike kills three Palestinians in West Bank’s Jenin",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/28/israeli-strike-kills-three-palestinians-in-west-banks-jenin?traffic_source=rss",
-      "published_date": "2026-08-28T17:47:17+00:00",
-      "category": "Military"
-    },
-    {
       "title": "El Nino: A phenomenon supercharged by climate change",
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/features/2026/9/3/el-nino-a-phenomenon-supercharged-by-climate-change?traffic_source=rss",
@@ -225,20 +218,6 @@
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/8/29/spectacular-fireworks-over-damascus-as-syria-shines?traffic_source=rss",
       "published_date": "2026-08-29T23:34:11+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Thousands take part in March on Washington to promote voting rights",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/gallery/2026/8/28/thousands-take-part-in-march-on-washington-to-promote-voting-rights?traffic_source=rss",
-      "published_date": "2026-08-28T22:59:19+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "RSS chief’s US visit faces protests over Hindu nationalism",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/28/28-08-sv-hr-groups-against-the-rss-fm?traffic_source=rss",
-      "published_date": "2026-08-28T21:25:15+00:00",
       "category": "Local Events"
     }
   ]
