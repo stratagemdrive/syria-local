@@ -1,8 +1,15 @@
 {
   "country": "Syria",
-  "last_updated": "2026-09-05T00:26:34.907512+00:00",
+  "last_updated": "2026-09-05T13:37:53.867560+00:00",
   "story_count": 31,
   "stories": [
+    {
+      "title": "US ambassador to Israel meets Palestinian-Americans in occupied West Bank",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/5/us-ambassador-to-israel-meets-palestinian-americans-in-occupied-west-bank?traffic_source=rss",
+      "published_date": "2026-09-05T09:52:44+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Syrian Government Seeks Extradition of Former Jaysh al-Islam Spokesman Held in France",
       "source": "Syrian Observer",
@@ -106,13 +113,6 @@
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/news/2026/8/31/three-minors-killed-in-colombia-armed-group-crackdown?traffic_source=rss",
       "published_date": "2026-08-31T22:30:23+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Gunfire, blasts heard in several areas of Niger capital Niamey",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/29/gunfire-blasts-heard-in-several-areas-of-niger-capital-niamey?traffic_source=rss",
-      "published_date": "2026-08-29T01:30:08+00:00",
       "category": "Military"
     },
     {
