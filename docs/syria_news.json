@@ -1,8 +1,15 @@
 {
   "country": "Syria",
-  "last_updated": "2026-09-05T13:37:53.867560+00:00",
-  "story_count": 31,
+  "last_updated": "2026-09-06T00:18:13.646312+00:00",
+  "story_count": 30,
   "stories": [
+    {
+      "title": "Al Jazeera reporter challenges Huckabee over Israeli settler pogroms",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/5/al-jazeera-reporter-challenges-huckabee-over-israeli-settler-pogroms?traffic_source=rss",
+      "published_date": "2026-09-05T20:00:05+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "US ambassador to Israel meets Palestinian-Americans in occupied West Bank",
       "source": "Al Jazeera",
@@ -50,13 +57,6 @@
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/news/2026/8/30/opening-a-new-chapter-syria-to-reopen-embassy-in-libya-after-talks?traffic_source=rss",
       "published_date": "2026-08-30T20:38:56+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Turkiye summons Ukraine ambassador over Black Sea attacks",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/29/turkiye-summons-ukraine-ambassador-over-black-sea-attacks-2?traffic_source=rss",
-      "published_date": "2026-08-29T17:41:57+00:00",
       "category": "Diplomacy"
     },
     {
@@ -211,13 +211,6 @@
       "source": "Syrian Observer",
       "url": "https://syrianobserver.com/society/sit-in-in-central-damascus-rejects-dispossession-and-the-legacy-of-seizure.html",
       "published_date": "2026-08-30T21:00:32+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Spectacular fireworks over Damascus as ‘Syria Shines Again’",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/29/spectacular-fireworks-over-damascus-as-syria-shines?traffic_source=rss",
-      "published_date": "2026-08-29T23:34:11+00:00",
       "category": "Local Events"
     }
   ]
