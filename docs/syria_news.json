@@ -1,8 +1,15 @@
 {
   "country": "Syria",
-  "last_updated": "2026-09-06T13:52:46.859295+00:00",
-  "story_count": 30,
+  "last_updated": "2026-09-07T00:24:39.057322+00:00",
+  "story_count": 27,
   "stories": [
+    {
+      "title": "The Kremlin and the Experts: Why Moscow’s Views on the Mecca Joint Defense Agreement Diverge",
+      "source": "Syrian Observer",
+      "url": "https://syrianobserver.com/foreign-actors/the-kremlin-and-the-experts-why-moscows-views-on-the-mecca-joint-defense-agreement-diverge.html",
+      "published_date": "2026-09-06T21:00:33+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Al Jazeera reporter challenges Huckabee over Israeli settler pogroms",
       "source": "Al Jazeera",
@@ -50,13 +57,6 @@
       "source": "Syrian Observer",
       "url": "https://syrianobserver.com/syrian-actors/is-the-relationship-between-religion-and-state-being-redefined-in-syria.html",
       "published_date": "2026-08-31T21:00:54+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "‘Opening a new chapter’: Syria reopens embassy in Libya after talks",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/30/opening-a-new-chapter-syria-to-reopen-embassy-in-libya-after-talks?traffic_source=rss",
-      "published_date": "2026-08-30T20:38:56+00:00",
       "category": "Diplomacy"
     },
     {
@@ -137,6 +137,13 @@
       "category": "Economy"
     },
     {
+      "title": "U.S. Pivot on Suweida: Is Washington Moving from Containment to Pressure?",
+      "source": "Syrian Observer",
+      "url": "https://syrianobserver.com/foreign-actors/u-s-pivot-on-suweida-is-washington-moving-from-containment-to-pressure.html",
+      "published_date": "2026-09-06T21:02:56+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "‘Can I take the door?’ woman pleads at Syrian prison exhibit",
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/9/3/can-i-take-the-door-woman-pleads-at-syrian-prison-exhibit?traffic_source=rss",
@@ -183,34 +190,6 @@
       "source": "Syrian Observer",
       "url": "https://syrianobserver.com/society/uae-group-signs-landmark-7-billion-agreement-for-new-damascus-urban-mega-project.html",
       "published_date": "2026-08-31T21:01:38+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "More Than 177,000 Syrians Remain Forcibly Disappeared Since 2011, Rights Group Says",
-      "source": "Syrian Observer",
-      "url": "https://syrianobserver.com/syrian-actors/more-than-177000-syrians-remain-forcibly-disappeared-since-2011-rights-group-says.html",
-      "published_date": "2026-08-30T21:02:42+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Suweida Students Barred from Exams; UN Urges Protection of Their Right to Education",
-      "source": "Syrian Observer",
-      "url": "https://syrianobserver.com/syrian-actors/suweida-students-barred-from-exams-un-urges-protection-of-their-right-to-education.html",
-      "published_date": "2026-08-30T21:02:30+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Homs Mega-Project Draws Buyers as Questions Persist Over Developer and Execution",
-      "source": "Syrian Observer",
-      "url": "https://syrianobserver.com/society/homs-mega-project-draws-buyers-as-questions-persist-over-developer-and-execution.html",
-      "published_date": "2026-08-30T21:01:43+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Sit-In in Central Damascus Rejects Dispossession and the Legacy of Seizure",
-      "source": "Syrian Observer",
-      "url": "https://syrianobserver.com/society/sit-in-in-central-damascus-rejects-dispossession-and-the-legacy-of-seizure.html",
-      "published_date": "2026-08-30T21:00:32+00:00",
       "category": "Local Events"
     }
   ]
