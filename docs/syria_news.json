@@ -1,7 +1,7 @@
 {
   "country": "Syria",
-  "last_updated": "2026-09-08T00:45:56.235736+00:00",
-  "story_count": 30,
+  "last_updated": "2026-09-08T14:50:34.882888+00:00",
+  "story_count": 26,
   "stories": [
     {
       "title": "The Kremlin and the Experts: Why Moscow’s Views on the Mecca Joint Defense Agreement Diverge",
@@ -95,20 +95,6 @@
       "category": "Military"
     },
     {
-      "title": "Israel says senior Hamas member seized as strikes kill three during Gaza raid",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c1wxex4vg35o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-09-01T12:58:44+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "At least five killed as ammunition-laden vehicle explodes in Syria’s Idlib",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/1/two-killed-in-explosion-of-ammunition-laden-vehicle-in-syrias-idlib?traffic_source=rss",
-      "published_date": "2026-09-01T11:43:28+00:00",
-      "category": "Military"
-    },
-    {
       "title": "El Nino: A phenomenon supercharged by climate change",
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/features/2026/9/3/el-nino-a-phenomenon-supercharged-by-climate-change?traffic_source=rss",
@@ -197,20 +183,6 @@
       "source": "Syrian Observer",
       "url": "https://syrianobserver.com/syrian-actors/in-syrian-led-initiative-un-establishes-international-day-for-women-searching-for-missing-persons.html",
       "published_date": "2026-09-01T21:02:48+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Damascus goes car-free for 24 hours",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/1/damascus-goes-car-free-for-24-hours?traffic_source=rss",
-      "published_date": "2026-09-01T11:53:53+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "The Libyan odyssey: For Syrians stranded in Libya, Assad’s fall has not ended their journey home",
-      "source": "Syria Direct",
-      "url": "https://syriadirect.org/the-libyan-odyssey-for-syrians-stranded-in-libya-assads-fall-has-not-ended-their-journey-home/",
-      "published_date": "2026-09-01T08:04:39+00:00",
       "category": "Local Events"
     }
   ]
