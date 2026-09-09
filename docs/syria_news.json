@@ -1,7 +1,7 @@
 {
   "country": "Syria",
-  "last_updated": "2026-09-08T14:50:34.882888+00:00",
-  "story_count": 26,
+  "last_updated": "2026-09-09T00:45:53.685214+00:00",
+  "story_count": 21,
   "stories": [
     {
       "title": "The Kremlin and the Experts: Why Moscow’s Views on the Mecca Joint Defense Agreement Diverge",
@@ -74,27 +74,6 @@
       "category": "Military"
     },
     {
-      "title": "Munitions-Laden Car Explosion in Binnish Kills Five",
-      "source": "Syrian Observer",
-      "url": "https://syrianobserver.com/security/munitions-laden-car-explosion-in-binnish-kills-five.html",
-      "published_date": "2026-09-01T21:00:11+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "“New Damascus”: The $7 Billion Dream Collides With Syria’s Economic Reality",
-      "source": "Syrian Observer",
-      "url": "https://syrianobserver.com/society/new-damascus-the-7-billion-dream-collides-with-syrias-economic-reality.html",
-      "published_date": "2026-09-01T21:00:10+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Munitions vehicle explodes killing five in Idlib",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/1/munitions-vehicle-explodes-killing-five-in-idlib?traffic_source=rss",
-      "published_date": "2026-09-01T19:46:53+00:00",
-      "category": "Military"
-    },
-    {
       "title": "El Nino: A phenomenon supercharged by climate change",
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/features/2026/9/3/el-nino-a-phenomenon-supercharged-by-climate-change?traffic_source=rss",
@@ -113,13 +92,6 @@
       "source": "Syrian Observer",
       "url": "https://syrianobserver.com/foreign-actors/syrian-president-ahmad-al-sharaa-meets-german-economic-delegation-to-discuss-reconstruction-efforts.html",
       "published_date": "2026-09-03T21:00:49+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Syria’s Wheat Production Approaches Three Million Tons — Has the Country Achieved Self-Sufficiency?",
-      "source": "Syrian Observer",
-      "url": "https://syrianobserver.com/society/syrias-wheat-production-approaches-three-million-tons-has-the-country-achieved-self-sufficiency.html",
-      "published_date": "2026-09-01T21:00:12+00:00",
       "category": "Economy"
     },
     {
@@ -176,13 +148,6 @@
       "source": "Syrian Observer",
       "url": "https://syrianobserver.com/foreign-actors/israeli-official-reports-collapse-of-security-deal-talks-with-damascus.html",
       "published_date": "2026-09-02T21:00:48+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "In Syrian-Led Initiative, UN Establishes International Day for Women Searching for Missing Persons",
-      "source": "Syrian Observer",
-      "url": "https://syrianobserver.com/syrian-actors/in-syrian-led-initiative-un-establishes-international-day-for-women-searching-for-missing-persons.html",
-      "published_date": "2026-09-01T21:02:48+00:00",
       "category": "Local Events"
     }
   ]
