@@ -1,7 +1,7 @@
 {
   "country": "Syria",
-  "last_updated": "2026-09-09T00:45:53.685214+00:00",
-  "story_count": 21,
+  "last_updated": "2026-09-09T14:57:37.036368+00:00",
+  "story_count": 26,
   "stories": [
     {
       "title": "The Kremlin and the Experts: Why Moscow’s Views on the Mecca Joint Defense Agreement Diverge",
@@ -39,11 +39,25 @@
       "category": "Diplomacy"
     },
     {
-      "title": "More than 900 killed in Gaza this year despite ceasefire, Hamas-run health ministry says",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c7708dy33pdo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-09-02T11:51:46+00:00",
-      "category": "Diplomacy"
+      "title": "At least 14 killed in weapons depot blast in Syria’s Idlib, state TV says",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/9/9/at-least-14-killed-in-weapons-depot-blast-in-syrias-idlib-state-tv-says?traffic_source=rss",
+      "published_date": "2026-09-09T13:02:38+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "‘It detonated right outside our house’: the explosion that started an incredible podcast series",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/tv-and-radio/2026/sep/09/i-am-not-a-monster-podcast-josh-baker-interview-bbc-where-is-austin-tice",
+      "published_date": "2026-09-09T11:28:04+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Ilham Ahmed: The SDF Has Entered a New Phase; We Await Direct Channels with Turkey",
+      "source": "Syrian Observer",
+      "url": "https://syrianobserver.com/syrian-actors/ilham-ahmed-the-sdf-has-entered-a-new-phase-we-await-direct-channels-with-turkey.html",
+      "published_date": "2026-09-08T21:02:56+00:00",
+      "category": "Military"
     },
     {
       "title": "Syria’s Assad-era reactor configured for nuclear weapons: IAEA",
@@ -74,6 +88,13 @@
       "category": "Military"
     },
     {
+      "title": "Syrian Oil Refinery Workers Suspend Protests After Mass Layoffs and Mounting Health Risks",
+      "source": "Syrian Observer",
+      "url": "https://syrianobserver.com/society/syrian-oil-refinery-workers-suspend-protests-after-mass-layoffs-and-mounting-health-risks.html",
+      "published_date": "2026-09-08T21:01:14+00:00",
+      "category": "Energy"
+    },
+    {
       "title": "El Nino: A phenomenon supercharged by climate change",
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/features/2026/9/3/el-nino-a-phenomenon-supercharged-by-climate-change?traffic_source=rss",
@@ -93,6 +114,20 @@
       "url": "https://syrianobserver.com/foreign-actors/syrian-president-ahmad-al-sharaa-meets-german-economic-delegation-to-discuss-reconstruction-efforts.html",
       "published_date": "2026-09-03T21:00:49+00:00",
       "category": "Economy"
+    },
+    {
+      "title": "UN Commission of Inquiry Highlights Fragility of Syria’s Political Transition",
+      "source": "Syrian Observer",
+      "url": "https://syrianobserver.com/foreign-actors/un-commission-of-inquiry-highlights-fragility-of-syrias-political-transition.html",
+      "published_date": "2026-09-08T21:01:21+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Russia’s Return to Syria Under Turkey’s Watch",
+      "source": "Syrian Observer",
+      "url": "https://syrianobserver.com/syrian-actors/russias-return-to-syria-under-turkeys-watch.html",
+      "published_date": "2026-09-08T21:00:58+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Al-Hijri: Lahad’s Fate or the SDF’s Lesson?",
