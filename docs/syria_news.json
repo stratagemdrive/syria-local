@@ -1,8 +1,22 @@
 {
   "country": "Syria",
-  "last_updated": "2026-09-09T14:57:37.036368+00:00",
+  "last_updated": "2026-09-10T00:40:55.195067+00:00",
   "story_count": 26,
   "stories": [
+    {
+      "title": "Yemen envoy warns of wider war as Houthis threaten Bab al-Mandeb Strait",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/9/9/yemen-envoy-warns-of-wider-war-as-houthis-threaten-bab-al-mandeb-strait?traffic_source=rss",
+      "published_date": "2026-09-09T20:05:48+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Syrian Foreign Minister’s Meetings with Jordanian, U.S., and Turkish Officials Mark One Year of the Suweida Roadmap",
+      "source": "Syrian Observer",
+      "url": "https://syrianobserver.com/syrian-actors/syrian-foreign-ministers-meetings-with-jordanian-u-s-and-turkish-officials-mark-one-year-of-the-suweida-roadmap.html",
+      "published_date": "2026-09-08T21:02:29+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "The Kremlin and the Experts: Why Moscow’s Views on the Mecca Joint Defense Agreement Diverge",
       "source": "Syrian Observer",
@@ -25,18 +39,11 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Syrian Government Seeks Extradition of Former Jaysh al-Islam Spokesman Held in France",
-      "source": "Syrian Observer",
-      "url": "https://syrianobserver.com/foreign-actors/syrian-government-seeks-extradition-of-former-jaysh-al-islam-spokesman-held-in-france.html",
-      "published_date": "2026-09-02T21:01:28+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "IAEA Concludes Investigation into Syria’s Undisclosed Nuclear Program After Seventeen Years of Uncertainty",
-      "source": "Syrian Observer",
-      "url": "https://syrianobserver.com/syrian-actors/iaea-concludes-investigation-into-syrias-undisclosed-nuclear-program-after-seventeen-years-of-uncertainty.html",
-      "published_date": "2026-09-02T21:00:13+00:00",
-      "category": "Diplomacy"
+      "title": "Yemeni diplomat says Houthis want to drag Saudi Arabia into war",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/9/09-09-clip-yemen-says-houthis-dragging-saudi-into-war-yn?traffic_source=rss",
+      "published_date": "2026-09-09T19:18:19+00:00",
+      "category": "Military"
     },
     {
       "title": "At least 14 killed in weapons depot blast in Syria’s Idlib, state TV says",
@@ -81,13 +88,6 @@
       "category": "Military"
     },
     {
-      "title": "What Does Israel Want from the “New Syria”?",
-      "source": "Syrian Observer",
-      "url": "https://syrianobserver.com/foreign-actors/what-does-israel-want-from-the-new-syria.html",
-      "published_date": "2026-09-02T21:01:09+00:00",
-      "category": "Military"
-    },
-    {
       "title": "Syrian Oil Refinery Workers Suspend Protests After Mass Layoffs and Mounting Health Risks",
       "source": "Syrian Observer",
       "url": "https://syrianobserver.com/society/syrian-oil-refinery-workers-suspend-protests-after-mass-layoffs-and-mounting-health-risks.html",
@@ -100,6 +100,13 @@
       "url": "https://www.aljazeera.com/features/2026/9/3/el-nino-a-phenomenon-supercharged-by-climate-change?traffic_source=rss",
       "published_date": "2026-09-03T21:09:39+00:00",
       "category": "Energy"
+    },
+    {
+      "title": "Syria’s Mid-Year 2026 Budget Report Shows Sharp Revenue Gains but a $1 Billion Deficit",
+      "source": "Syrian Observer",
+      "url": "https://syrianobserver.com/society/syrias-mid-year-2026-budget-report-shows-sharp-revenue-gains-but-a-1-billion-deficit.html",
+      "published_date": "2026-09-09T21:00:25+00:00",
+      "category": "Economy"
     },
     {
       "title": "Privatization of Mezzeh Military Airport: Victim Memory and Landowner Rights Confront High-End Investment Plans",
@@ -176,13 +183,6 @@
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/9/3/can-i-take-the-door-woman-pleads-at-syrian-prison-exhibit?traffic_source=rss",
       "published_date": "2026-09-03T13:02:59+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Israeli Official Reports Collapse of Security-Deal Talks with Damascus",
-      "source": "Syrian Observer",
-      "url": "https://syrianobserver.com/foreign-actors/israeli-official-reports-collapse-of-security-deal-talks-with-damascus.html",
-      "published_date": "2026-09-02T21:00:48+00:00",
       "category": "Local Events"
     }
   ]
