@@ -1,8 +1,15 @@
 {
   "country": "Syria",
-  "last_updated": "2026-09-10T00:40:55.195067+00:00",
+  "last_updated": "2026-09-10T14:43:02.348954+00:00",
   "story_count": 26,
   "stories": [
+    {
+      "title": "US Envoy Meets Syrian Foreign Minister in Ankara as Regional Tensions Mount",
+      "source": "Syrian Observer",
+      "url": "https://syrianobserver.com/foreign-actors/us-envoy-meets-syrian-foreign-minister-in-ankara-as-regional-tensions-mount.html",
+      "published_date": "2026-09-09T21:00:51+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Yemen envoy warns of wider war as Houthis threaten Bab al-Mandeb Strait",
       "source": "Al Jazeera",
@@ -176,13 +183,6 @@
       "source": "Syrian Observer",
       "url": "https://syrianobserver.com/foreign-actors/u-s-pivot-on-suweida-is-washington-moving-from-containment-to-pressure.html",
       "published_date": "2026-09-06T21:02:56+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "‘Can I take the door?’ woman pleads at Syrian prison exhibit",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/3/can-i-take-the-door-woman-pleads-at-syrian-prison-exhibit?traffic_source=rss",
-      "published_date": "2026-09-03T13:02:59+00:00",
       "category": "Local Events"
     }
   ]
