@@ -1,8 +1,15 @@
 {
   "country": "Syria",
-  "last_updated": "2026-09-11T00:37:46.425326+00:00",
-  "story_count": 23,
+  "last_updated": "2026-09-11T14:46:28.375216+00:00",
+  "story_count": 29,
   "stories": [
+    {
+      "title": "9/11 through Syrian eyes",
+      "source": "Syria Direct",
+      "url": "https://syriadirect.org/9-11-through-syrian-eyes/",
+      "published_date": "2026-09-11T11:00:15+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "US Envoy Meets Syrian Foreign Minister in Ankara as Regional Tensions Mount",
       "source": "Syrian Observer",
@@ -88,11 +95,25 @@
       "category": "Military"
     },
     {
+      "title": "Iraq-Syria Trade Rebounds as Border Crossings Reopen",
+      "source": "Syrian Observer",
+      "url": "https://syrianobserver.com/foreign-actors/iraq-syria-trade-rebounds-as-border-crossings-reopen.html",
+      "published_date": "2026-09-10T21:00:58+00:00",
+      "category": "Energy"
+    },
+    {
       "title": "Syrian Oil Refinery Workers Suspend Protests After Mass Layoffs and Mounting Health Risks",
       "source": "Syrian Observer",
       "url": "https://syrianobserver.com/society/syrian-oil-refinery-workers-suspend-protests-after-mass-layoffs-and-mounting-health-risks.html",
       "published_date": "2026-09-08T21:01:14+00:00",
       "category": "Energy"
+    },
+    {
+      "title": "What Is Syria’s Reconstruction Waiting For?",
+      "source": "Syrian Observer",
+      "url": "https://syrianobserver.com/syrian-actors/what-is-syrias-reconstruction-waiting-for.html",
+      "published_date": "2026-09-10T21:01:08+00:00",
+      "category": "Economy"
     },
     {
       "title": "Syria’s Mid-Year 2026 Budget Report Shows Sharp Revenue Gains but a $1 Billion Deficit",
@@ -109,6 +130,20 @@
       "category": "Economy"
     },
     {
+      "title": "In Its Third Session, Hamdan’s Resignation and the Abolition of the Terrorism Court on the People’s Assembly’s Agenda",
+      "source": "Syrian Observer",
+      "url": "https://syrianobserver.com/syrian-actors/in-its-third-session-hamdans-resignation-and-the-abolition-of-the-terrorism-court-on-the-peoples-assemblys-agenda.html",
+      "published_date": "2026-09-10T21:02:01+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Damascus Condemns Netanyahu’s Entry into Syrian Territory: A Provocative Step",
+      "source": "Syrian Observer",
+      "url": "https://syrianobserver.com/foreign-actors/damascus-condemns-netanyahus-entry-into-syrian-territory-a-provocative-step.html",
+      "published_date": "2026-09-10T21:01:57+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "UN Commission of Inquiry Highlights Fragility of Syria’s Political Transition",
       "source": "Syrian Observer",
       "url": "https://syrianobserver.com/foreign-actors/un-commission-of-inquiry-highlights-fragility-of-syrias-political-transition.html",
@@ -119,6 +154,13 @@
       "title": "Russia’s Return to Syria Under Turkey’s Watch",
       "source": "Syrian Observer",
       "url": "https://syrianobserver.com/syrian-actors/russias-return-to-syria-under-turkeys-watch.html",
+      "published_date": "2026-09-08T21:00:58+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Russia’s Return to Syria Under Turkey’s Watch",
+      "source": "Syrian Observer",
+      "url": "https://syrianobserver.com/foreign-actors/russias-return-to-syria-under-turkeys-watch.html",
       "published_date": "2026-09-08T21:00:58+00:00",
       "category": "Local Events"
     },
