@@ -1,6 +1,6 @@
 {
   "country": "Syria",
-  "last_updated": "2026-09-14T00:30:34.293491+00:00",
+  "last_updated": "2026-09-14T16:43:29.399290+00:00",
   "story_count": 33,
   "stories": [
     {
@@ -109,11 +109,11 @@
       "category": "Military"
     },
     {
-      "title": "Syrian reactor could have been used for nuclear weapons if completed, UN says",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/sep/07/syrian-reactor-could-nuclear-weapons-if-completed-un",
-      "published_date": "2026-09-07T16:37:31+00:00",
-      "category": "Military"
+      "title": "Oil flows, fuel runs dry: Syria’s paradox as a new energy corridor",
+      "source": "Syria Direct",
+      "url": "https://syriadirect.org/oil-flows-fuel-runs-dry-syrias-paradox-as-a-new-energy-corridor/",
+      "published_date": "2026-09-14T09:35:30+00:00",
+      "category": "Energy"
     },
     {
       "title": "Fuel Shock in Syria: Protests, Price Hikes and the Struggle to Secure Energy Supplies",
@@ -163,6 +163,13 @@
       "url": "https://syrianobserver.com/society/privatization-of-mezzeh-military-airport-victim-memory-and-landowner-rights-confront-high-end-investment-plans.html",
       "published_date": "2026-09-07T21:00:22+00:00",
       "category": "Economy"
+    },
+    {
+      "title": "Israel working to eliminate Palestinian presence from West Bank, NGO warns",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/9/14/israel-working-to-eliminate-palestinian-presence-from-west-bank-ngo-warns?traffic_source=rss",
+      "published_date": "2026-09-14T12:58:12+00:00",
+      "category": "Local Events"
     },
     {
       "title": "In Its Third Session, Hamdan’s Resignation and the Abolition of the Terrorism Court on the People’s Assembly’s Agenda",
@@ -225,13 +232,6 @@
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/news/2026/9/7/syria-detains-assad-era-general-accused-of-bloody-crackdown-on-protests?traffic_source=rss",
       "published_date": "2026-09-07T19:03:29+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Damascus University’s Political Science Faculty confronts its Baathist past",
-      "source": "Syria Direct",
-      "url": "https://syriadirect.org/damascus-universitys-political-science-faculty-confronts-its-baathist-past/",
-      "published_date": "2026-09-07T09:51:31+00:00",
       "category": "Local Events"
     }
   ]
