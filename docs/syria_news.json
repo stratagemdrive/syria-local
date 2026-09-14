@@ -1,8 +1,29 @@
 {
   "country": "Syria",
-  "last_updated": "2026-09-13T14:45:20.564551+00:00",
-  "story_count": 30,
+  "last_updated": "2026-09-14T00:30:34.293491+00:00",
+  "story_count": 33,
   "stories": [
+    {
+      "title": "After Eight Months of Torture in Transitional Government Prisons, Journalist Ahmed Polat Transferred to Türkiye",
+      "source": "Syrian Observer",
+      "url": "https://syrianobserver.com/foreign-actors/after-eight-months-of-torture-in-transitional-government-prisons-journalist-ahmed-polat-transferred-to-turkiye.html",
+      "published_date": "2026-09-13T21:00:44+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Shibani and Fidan: Bilateral Relations Are Advancing at an Accelarating Pace",
+      "source": "Syrian Observer",
+      "url": "https://syrianobserver.com/foreign-actors/shibani-and-fidan-bilateral-relations-are-advancing-at-an-accelarating-pace.html",
+      "published_date": "2026-09-13T21:00:19+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "US Envoy Jared Kushner says Doha attack left Israel ‘globally isolated’",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/13/09-13-kushner-doha-attack-comments-clip?traffic_source=rss",
+      "published_date": "2026-09-13T20:33:28+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Former top US diplomat reveals mistakes made after 9/11 attacks",
       "source": "Al Jazeera",
@@ -36,13 +57,6 @@
       "source": "Syrian Observer",
       "url": "https://syrianobserver.com/syrian-actors/syrian-foreign-ministers-meetings-with-jordanian-u-s-and-turkish-officials-mark-one-year-of-the-suweida-roadmap.html",
       "published_date": "2026-09-08T21:02:29+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "The Kremlin and the Experts: Why Moscow’s Views on the Mecca Joint Defense Agreement Diverge",
-      "source": "Syrian Observer",
-      "url": "https://syrianobserver.com/foreign-actors/the-kremlin-and-the-experts-why-moscows-views-on-the-mecca-joint-defense-agreement-diverge.html",
-      "published_date": "2026-09-06T21:00:33+00:00",
       "category": "Diplomacy"
     },
     {
@@ -102,6 +116,13 @@
       "category": "Military"
     },
     {
+      "title": "Fuel Shock in Syria: Protests, Price Hikes and the Struggle to Secure Energy Supplies",
+      "source": "Syrian Observer",
+      "url": "https://syrianobserver.com/society/fuel-shock-in-syria-protests-price-hikes-and-the-struggle-to-secure-energy-supplies.html",
+      "published_date": "2026-09-13T21:02:42+00:00",
+      "category": "Energy"
+    },
+    {
       "title": "Iraq-Syria Trade Rebounds as Border Crossings Reopen",
       "source": "Syrian Observer",
       "url": "https://syrianobserver.com/foreign-actors/iraq-syria-trade-rebounds-as-border-crossings-reopen.html",
@@ -114,6 +135,13 @@
       "url": "https://syrianobserver.com/society/syrian-oil-refinery-workers-suspend-protests-after-mass-layoffs-and-mounting-health-risks.html",
       "published_date": "2026-09-08T21:01:14+00:00",
       "category": "Energy"
+    },
+    {
+      "title": "When the Breadwinner Returns to Syria: What Happens to Families Living on Remittances?",
+      "source": "Syrian Observer",
+      "url": "https://syrianobserver.com/society/when-the-breadwinner-returns-to-syria-what-happens-to-families-living-on-remittances.html",
+      "published_date": "2026-09-13T21:00:21+00:00",
+      "category": "Economy"
     },
     {
       "title": "What Is Syria’s Reconstruction Waiting For?",
@@ -204,13 +232,6 @@
       "source": "Syria Direct",
       "url": "https://syriadirect.org/damascus-universitys-political-science-faculty-confronts-its-baathist-past/",
       "published_date": "2026-09-07T09:51:31+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "U.S. Pivot on Suweida: Is Washington Moving from Containment to Pressure?",
-      "source": "Syrian Observer",
-      "url": "https://syrianobserver.com/foreign-actors/u-s-pivot-on-suweida-is-washington-moving-from-containment-to-pressure.html",
-      "published_date": "2026-09-06T21:02:56+00:00",
       "category": "Local Events"
     }
   ]
