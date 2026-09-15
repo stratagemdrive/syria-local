@@ -1,7 +1,7 @@
 {
   "country": "Syria",
-  "last_updated": "2026-09-14T16:43:29.399290+00:00",
-  "story_count": 33,
+  "last_updated": "2026-09-15T01:01:08.131036+00:00",
+  "story_count": 28,
   "stories": [
     {
       "title": "After Eight Months of Torture in Transitional Government Prisons, Journalist Ahmed Polat Transferred to Türkiye",
@@ -60,6 +60,13 @@
       "category": "Diplomacy"
     },
     {
+      "title": "Russia resupplies military bases in Syria for first time under new deal",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/9/15/russia-resupplies-military-bases-in-syria-for-first-time-under-new-deal?traffic_source=rss",
+      "published_date": "2026-09-15T00:43:47+00:00",
+      "category": "Military"
+    },
+    {
       "title": "UN extends partial Sudan arms embargo for a month",
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/news/2026/9/11/un-extends-partial-sudan-arms-embargo-for-a-month?traffic_source=rss",
@@ -99,13 +106,6 @@
       "source": "Syrian Observer",
       "url": "https://syrianobserver.com/syrian-actors/ilham-ahmed-the-sdf-has-entered-a-new-phase-we-await-direct-channels-with-turkey.html",
       "published_date": "2026-09-08T21:02:56+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Syria’s Assad-era reactor configured for nuclear weapons: IAEA",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/7/syrias-assad-era-reactor-configured-for-nuclear-weapons-iaea?traffic_source=rss",
-      "published_date": "2026-09-07T19:31:05+00:00",
       "category": "Military"
     },
     {
@@ -158,13 +158,6 @@
       "category": "Economy"
     },
     {
-      "title": "Privatization of Mezzeh Military Airport: Victim Memory and Landowner Rights Confront High-End Investment Plans",
-      "source": "Syrian Observer",
-      "url": "https://syrianobserver.com/society/privatization-of-mezzeh-military-airport-victim-memory-and-landowner-rights-confront-high-end-investment-plans.html",
-      "published_date": "2026-09-07T21:00:22+00:00",
-      "category": "Economy"
-    },
-    {
       "title": "Israel working to eliminate Palestinian presence from West Bank, NGO warns",
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/news/2026/9/14/israel-working-to-eliminate-palestinian-presence-from-west-bank-ngo-warns?traffic_source=rss",
@@ -204,34 +197,6 @@
       "source": "Syrian Observer",
       "url": "https://syrianobserver.com/foreign-actors/russias-return-to-syria-under-turkeys-watch.html",
       "published_date": "2026-09-08T21:00:58+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Al-Hijri: Lahad’s Fate or the SDF’s Lesson?",
-      "source": "Syrian Observer",
-      "url": "https://syrianobserver.com/syrian-actors/al-hijri-lahads-fate-or-the-sdfs-lesson.html",
-      "published_date": "2026-09-07T21:02:29+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Hundreds of Kurdish Students Boycott Classes to Protest Cuts to Kurdish-Language Education",
-      "source": "Syrian Observer",
-      "url": "https://syrianobserver.com/syrian-actors/hundreds-of-kurdish-students-boycott-classes-to-protest-cuts-to-kurdish-language-education.html",
-      "published_date": "2026-09-07T21:00:19+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Debate Erupts in Damascus After Freedom Institute (Former Laïque School) Moves to Separate Male and Female Students",
-      "source": "Syrian Observer",
-      "url": "https://syrianobserver.com/syrian-actors/debate-erupts-in-damascus-after-freedom-institute-former-laique-school-moves-to-separate-male-and-female-students.html",
-      "published_date": "2026-09-07T21:00:05+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Syria detains Assad-era general accused of bloody crackdown on protests",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/7/syria-detains-assad-era-general-accused-of-bloody-crackdown-on-protests?traffic_source=rss",
-      "published_date": "2026-09-07T19:03:29+00:00",
       "category": "Local Events"
     }
   ]
