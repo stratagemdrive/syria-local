@@ -1,8 +1,15 @@
 {
   "country": "Syria",
-  "last_updated": "2026-09-16T00:51:39.226269+00:00",
-  "story_count": 23,
+  "last_updated": "2026-09-16T15:15:34.667560+00:00",
+  "story_count": 30,
   "stories": [
+    {
+      "title": "Ilham Ahmed Calls for Full Kurdish Curriculum, Urges Constitutional Guarantees",
+      "source": "Syrian Observer",
+      "url": "https://syrianobserver.com/syrian-actors/ilham-ahmed-calls-for-full-kurdish-curriculum-urges-constitutional-guarantees.html",
+      "published_date": "2026-09-15T21:00:49+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "After Eight Months of Torture in Transitional Government Prisons, Journalist Ahmed Polat Transferred to Türkiye",
       "source": "Syrian Observer",
@@ -53,6 +60,20 @@
       "category": "Diplomacy"
     },
     {
+      "title": "China willing to ‘safeguard Iran’s legitimate rights’, official says",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/9/16/china-willing-to-safeguard-irans-legitimate-rights-official-says?traffic_source=rss",
+      "published_date": "2026-09-16T13:09:51+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "The road to Mecca: Soldiers, spies and the new Syria-Pakistan relationship",
+      "source": "Syria Direct",
+      "url": "https://syriadirect.org/the-road-to-mecca-soldiers-spies-and-the-new-syria-pakistan-relationship/",
+      "published_date": "2026-09-16T09:57:08+00:00",
+      "category": "Military"
+    },
+    {
       "title": "Israel lacking respect for dead buried in Gaza rubble: UN",
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/news/2026/9/15/israel-lacking-respect-for-dead-buried-in-gaza-rubble-un?traffic_source=rss",
@@ -88,18 +109,11 @@
       "category": "Military"
     },
     {
-      "title": "At least 14 killed in weapons depot blast in Syria’s Idlib, state TV says",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/9/at-least-14-killed-in-weapons-depot-blast-in-syrias-idlib-state-tv-says?traffic_source=rss",
-      "published_date": "2026-09-09T13:02:38+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "‘It detonated right outside our house’: the explosion that started an incredible podcast series",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/tv-and-radio/2026/sep/09/i-am-not-a-monster-podcast-josh-baker-interview-bbc-where-is-austin-tice",
-      "published_date": "2026-09-09T11:28:04+00:00",
-      "category": "Military"
+      "title": "Behind the Pump: Deconstructing Syria’s Recent Fuel Price Adjustments",
+      "source": "Syrian Observer",
+      "url": "https://syrianobserver.com/uncategorized/behind-the-pump-deconstructing-syrias-recent-fuel-price-adjustments.html",
+      "published_date": "2026-09-14T21:00:15+00:00",
+      "category": "Energy"
     },
     {
       "title": "Oil flows, fuel runs dry: Syria’s paradox as a new energy corridor",
@@ -123,6 +137,20 @@
       "category": "Energy"
     },
     {
+      "title": "Sharaa in Dubai: Syria Seeks a New Regional Role Amid Economic and Political Headwinds",
+      "source": "Syrian Observer",
+      "url": "https://syrianobserver.com/syrian-actors/sharaa-in-dubai-syria-seeks-a-new-regional-role-amid-economic-and-political-headwinds.html",
+      "published_date": "2026-09-15T21:00:45+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "US Business Delegation Visits Damascus as Syria and Washington Expand Economic Ties",
+      "source": "Syrian Observer",
+      "url": "https://syrianobserver.com/society/us-business-delegation-visits-damascus-as-syria-and-washington-expand-economic-ties.html",
+      "published_date": "2026-09-14T21:00:38+00:00",
+      "category": "Economy"
+    },
+    {
       "title": "When the Breadwinner Returns to Syria: What Happens to Families Living on Remittances?",
       "source": "Syrian Observer",
       "url": "https://syrianobserver.com/society/when-the-breadwinner-returns-to-syria-what-happens-to-families-living-on-remittances.html",
@@ -142,6 +170,27 @@
       "url": "https://syrianobserver.com/society/syrias-mid-year-2026-budget-report-shows-sharp-revenue-gains-but-a-1-billion-deficit.html",
       "published_date": "2026-09-09T21:00:25+00:00",
       "category": "Economy"
+    },
+    {
+      "title": "Netherlands Allocates €25 Million for Syrian Reconstruction to Support Refugee Returns",
+      "source": "Syrian Observer",
+      "url": "https://syrianobserver.com/refugees/netherlands-allocates-e25-million-for-syrian-reconstruction-to-support-refugee-returns.html",
+      "published_date": "2026-09-15T21:00:56+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Investigation Committee Formed Following Deadly Kobani Prison Fire and Security Tensions",
+      "source": "Syrian Observer",
+      "url": "https://syrianobserver.com/syrian-actors/investigation-committee-formed-following-deadly-kobani-prison-fire-and-security-tensions.html",
+      "published_date": "2026-09-14T21:00:54+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Former Syrian Detainees Fight to Prove They Are Alive After Being Registered as Dead",
+      "source": "Syrian Observer",
+      "url": "https://syrianobserver.com/syrian-actors/former-syrian-detainees-fight-to-prove-they-are-alive-after-being-registered-as-dead.html",
+      "published_date": "2026-09-14T21:00:38+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Israel working to eliminate Palestinian presence from West Bank, NGO warns",
