@@ -1,13 +1,20 @@
 {
   "country": "Syria",
-  "last_updated": "2026-09-17T00:55:59.340618+00:00",
-  "story_count": 29,
+  "last_updated": "2026-09-17T15:23:50.195599+00:00",
+  "story_count": 35,
   "stories": [
     {
       "title": "Israel and Morocco agree to open embassies, upgrading diplomatic ties",
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/news/2026/9/16/israel-and-morocco-agree-to-open-embassies-upgrading-diplomatic-ties?traffic_source=rss",
       "published_date": "2026-09-16T23:26:27+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "President Sharaa’s Third Visit to the United States: From Diplomatic Breakthrough to Economic Stakes",
+      "source": "Syrian Observer",
+      "url": "https://syrianobserver.com/foreign-actors/president-sharaas-third-visit-to-the-united-states-from-diplomatic-breakthrough-to-economic-stakes.html",
+      "published_date": "2026-09-16T21:00:40+00:00",
       "category": "Diplomacy"
     },
     {
@@ -58,6 +65,13 @@
       "url": "https://syriadirect.org/9-11-through-syrian-eyes/",
       "published_date": "2026-09-11T11:00:15+00:00",
       "category": "Diplomacy"
+    },
+    {
+      "title": "Rotterdam Court Tries Syrian Suspect Accused of Leading ISIS Security Apparatus and Committing War Crimes",
+      "source": "Syrian Observer",
+      "url": "https://syrianobserver.com/foreign-actors/rotterdam-court-tries-syrian-suspect-accused-of-leading-isis-security-apparatus-and-committing-war-crimes.html",
+      "published_date": "2026-09-16T21:00:23+00:00",
+      "category": "Military"
     },
     {
       "title": "China willing to ‘safeguard Iran’s legitimate rights’, official says",
@@ -163,6 +177,34 @@
       "url": "https://syrianobserver.com/syrian-actors/what-is-syrias-reconstruction-waiting-for.html",
       "published_date": "2026-09-10T21:01:08+00:00",
       "category": "Economy"
+    },
+    {
+      "title": "Syrian court sentences three linked to coastal violence",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/9/17/syrian-court-sentences-three-linked-to-coastal-violence?traffic_source=rss",
+      "published_date": "2026-09-17T12:31:14+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Fuel Anger Erupts in the Government’s Idlib Heartland",
+      "source": "Syria Direct",
+      "url": "https://syriadirect.org/fuel-anger-erupts-in-the-governments-idlib-heartland/",
+      "published_date": "2026-09-17T10:37:12+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Syria Formally Abolishes Counter-Terrorism Court, Ending a Decade of Exceptional Judicial Practices",
+      "source": "Syrian Observer",
+      "url": "https://syrianobserver.com/syrian-actors/syria-formally-abolishes-counter-terrorism-court-ending-a-decade-of-exceptional-judicial-practices.html",
+      "published_date": "2026-09-16T21:03:27+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Education Ministry Issues Nationwide Ban on Physical and Verbal Abuse in Schools",
+      "source": "Syrian Observer",
+      "url": "https://syrianobserver.com/society/education-ministry-issues-nationwide-ban-on-physical-and-verbal-abuse-in-schools.html",
+      "published_date": "2026-09-16T21:01:41+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Netherlands Allocates €25 Million for Syrian Reconstruction to Support Refugee Returns",
