@@ -1,8 +1,22 @@
 {
   "country": "Syria",
-  "last_updated": "2026-09-18T00:51:30.270133+00:00",
-  "story_count": 32,
+  "last_updated": "2026-09-18T14:44:08.793973+00:00",
+  "story_count": 37,
   "stories": [
+    {
+      "title": "Israel and Turkiye clash at UN Security Council over military presence in Syria",
+      "source": "Syrian Observer",
+      "url": "https://syrianobserver.com/youtube/israel-and-turkiye-clash-at-un-security-council-over-military-presence-in-syria.html",
+      "published_date": "2026-09-18T09:32:05+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "The Journey of Detainees Under the Transitional Government: Abuse, Torture, and Transfers Across Multiple Prisons",
+      "source": "Syrian Observer",
+      "url": "https://syrianobserver.com/syrian-actors/the-journey-of-detainees-under-the-transitional-government-abuse-torture-and-transfers-across-multiple-prisons.html",
+      "published_date": "2026-09-17T21:00:19+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Israel and Morocco agree to open embassies, upgrading diplomatic ties",
       "source": "Al Jazeera",
@@ -60,11 +74,11 @@
       "category": "Diplomacy"
     },
     {
-      "title": "9/11 through Syrian eyes",
-      "source": "Syria Direct",
-      "url": "https://syriadirect.org/9-11-through-syrian-eyes/",
-      "published_date": "2026-09-11T11:00:15+00:00",
-      "category": "Diplomacy"
+      "title": "Syrian Military Court Issues Verdicts in Coastal Unrest Case",
+      "source": "Syrian Observer",
+      "url": "https://syrianobserver.com/syrian-actors/syrian-military-court-issues-verdicts-in-coastal-unrest-case.html",
+      "published_date": "2026-09-17T21:00:48+00:00",
+      "category": "Military"
     },
     {
       "title": "Rotterdam Court Tries Syrian Suspect Accused of Leading ISIS Security Apparatus and Committing War Crimes",
@@ -116,6 +130,13 @@
       "category": "Military"
     },
     {
+      "title": "Three Grades of Mazut and the Restart of Local Refineries: Measures to Address Rising Fuel Prices",
+      "source": "Syrian Observer",
+      "url": "https://syrianobserver.com/society/three-grades-of-mazut-and-the-restart-of-local-refineries-measures-to-address-rising-fuel-prices.html",
+      "published_date": "2026-09-17T21:00:54+00:00",
+      "category": "Energy"
+    },
+    {
       "title": "‘People don’t have money’: Syrian fuel hikes deepen economic pain",
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/news/2026/9/16/people-dont-have-money-syrian-fuel-hikes-deepen-economic-pain?traffic_source=rss",
@@ -165,10 +186,24 @@
       "category": "Economy"
     },
     {
+      "title": "Lebanese Judiciary Moves to Prosecute Network Linked to Assad Remnants and Hezbollah",
+      "source": "Syrian Observer",
+      "url": "https://syrianobserver.com/syrian-actors/lebanese-judiciary-moves-to-prosecute-network-linked-to-assad-remnants-and-hezbollah.html",
+      "published_date": "2026-09-18T09:34:55+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "US court sentences ex-Syrian official who ran notorious ‘punishment wing’ to 60 years",
       "source": "The Guardian",
       "url": "https://www.theguardian.com/us-news/2026/sep/17/court-sentence-ex-syrian-official",
       "published_date": "2026-09-18T00:37:22+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "French Senate Delegation Holds Series of Talks in Damascus",
+      "source": "Syrian Observer",
+      "url": "https://syrianobserver.com/syrian-actors/french-senate-delegation-holds-series-of-talks-in-damascus.html",
+      "published_date": "2026-09-17T21:00:58+00:00",
       "category": "Local Events"
     },
     {
