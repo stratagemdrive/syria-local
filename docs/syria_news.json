@@ -1,7 +1,7 @@
 {
   "country": "Syria",
-  "last_updated": "2026-09-17T15:23:50.195599+00:00",
-  "story_count": 35,
+  "last_updated": "2026-09-18T00:51:30.270133+00:00",
+  "story_count": 32,
   "stories": [
     {
       "title": "Israel and Morocco agree to open embassies, upgrading diplomatic ties",
@@ -144,13 +144,6 @@
       "category": "Energy"
     },
     {
-      "title": "Iraq-Syria Trade Rebounds as Border Crossings Reopen",
-      "source": "Syrian Observer",
-      "url": "https://syrianobserver.com/foreign-actors/iraq-syria-trade-rebounds-as-border-crossings-reopen.html",
-      "published_date": "2026-09-10T21:00:58+00:00",
-      "category": "Energy"
-    },
-    {
       "title": "Sharaa in Dubai: Syria Seeks a New Regional Role Amid Economic and Political Headwinds",
       "source": "Syrian Observer",
       "url": "https://syrianobserver.com/syrian-actors/sharaa-in-dubai-syria-seeks-a-new-regional-role-amid-economic-and-political-headwinds.html",
@@ -172,11 +165,11 @@
       "category": "Economy"
     },
     {
-      "title": "What Is Syria’s Reconstruction Waiting For?",
-      "source": "Syrian Observer",
-      "url": "https://syrianobserver.com/syrian-actors/what-is-syrias-reconstruction-waiting-for.html",
-      "published_date": "2026-09-10T21:01:08+00:00",
-      "category": "Economy"
+      "title": "US court sentences ex-Syrian official who ran notorious ‘punishment wing’ to 60 years",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/us-news/2026/sep/17/court-sentence-ex-syrian-official",
+      "published_date": "2026-09-18T00:37:22+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Syrian court sentences three linked to coastal violence",
@@ -232,20 +225,6 @@
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/news/2026/9/14/israel-working-to-eliminate-palestinian-presence-from-west-bank-ngo-warns?traffic_source=rss",
       "published_date": "2026-09-14T12:58:12+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "In Its Third Session, Hamdan’s Resignation and the Abolition of the Terrorism Court on the People’s Assembly’s Agenda",
-      "source": "Syrian Observer",
-      "url": "https://syrianobserver.com/syrian-actors/in-its-third-session-hamdans-resignation-and-the-abolition-of-the-terrorism-court-on-the-peoples-assemblys-agenda.html",
-      "published_date": "2026-09-10T21:02:01+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Damascus Condemns Netanyahu’s Entry into Syrian Territory: A Provocative Step",
-      "source": "Syrian Observer",
-      "url": "https://syrianobserver.com/foreign-actors/damascus-condemns-netanyahus-entry-into-syrian-territory-a-provocative-step.html",
-      "published_date": "2026-09-10T21:01:57+00:00",
       "category": "Local Events"
     }
   ]
