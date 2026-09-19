@@ -1,6 +1,6 @@
 {
   "country": "Syria",
-  "last_updated": "2026-09-18T14:44:08.793973+00:00",
+  "last_updated": "2026-09-19T00:43:47.187996+00:00",
   "story_count": 37,
   "stories": [
     {
@@ -67,11 +67,11 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Former top US diplomat reveals mistakes made after 9/11 attacks",
+      "title": "Syria arrests five former al-Assad-era officers over strikes on civilians",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/12/former-top-us-diplomat-reveals-mistakes-made-after-9-11?traffic_source=rss",
-      "published_date": "2026-09-12T00:04:23+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news/2026/9/18/syria-arrests-five-former-al-assad-era-officers-over-strikes-on-civilians?traffic_source=rss",
+      "published_date": "2026-09-18T20:20:23+00:00",
+      "category": "Military"
     },
     {
       "title": "Syrian Military Court Issues Verdicts in Coastal Unrest Case",
@@ -113,20 +113,6 @@
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/news/2026/9/15/russia-resupplies-military-bases-in-syria-for-first-time-under-new-deal?traffic_source=rss",
       "published_date": "2026-09-15T00:43:47+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "UN extends partial Sudan arms embargo for a month",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/11/un-extends-partial-sudan-arms-embargo-for-a-month?traffic_source=rss",
-      "published_date": "2026-09-11T23:08:05+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Declassified documents show UK aware of Israeli war crimes for 24 years",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/11/declassified-documents-show-uk-aware-of-israeli-war-crimes-for-24-years?traffic_source=rss",
-      "published_date": "2026-09-11T19:59:41+00:00",
       "category": "Military"
     },
     {
@@ -184,6 +170,20 @@
       "url": "https://syrianobserver.com/society/when-the-breadwinner-returns-to-syria-what-happens-to-families-living-on-remittances.html",
       "published_date": "2026-09-13T21:00:21+00:00",
       "category": "Economy"
+    },
+    {
+      "title": "UK court clears woman of voicing support for Hamas in university speech",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/9/18/uk-court-clears-woman-of-voicing-support-for-hamas-in-university-speech?traffic_source=rss",
+      "published_date": "2026-09-18T20:55:57+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "‘Daughter of Damascus’ Assala performs in Syria after 15-year exile",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/18/daughter-of-damascus-assala-performs-in-syria-after-15-year-exile?traffic_source=rss",
+      "published_date": "2026-09-18T20:38:00+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Lebanese Judiciary Moves to Prosecute Network Linked to Assad Remnants and Hezbollah",
