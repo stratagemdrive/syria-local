@@ -1,7 +1,7 @@
 {
   "country": "Syria",
-  "last_updated": "2026-09-19T00:43:47.187996+00:00",
-  "story_count": 37,
+  "last_updated": "2026-09-19T14:05:37.171643+00:00",
+  "story_count": 38,
   "stories": [
     {
       "title": "Israel and Turkiye clash at UN Security Council over military presence in Syria",
@@ -149,6 +149,13 @@
       "url": "https://syrianobserver.com/society/fuel-shock-in-syria-protests-price-hikes-and-the-struggle-to-secure-energy-supplies.html",
       "published_date": "2026-09-13T21:02:42+00:00",
       "category": "Energy"
+    },
+    {
+      "title": "An unaffordable car market highlights Iran’s cost-of-living crisis",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/economy/2026/9/19/an-unaffordable-car-market-highlights-irans-cost-of-living-crisis?traffic_source=rss",
+      "published_date": "2026-09-19T13:21:52+00:00",
+      "category": "Economy"
     },
     {
       "title": "Sharaa in Dubai: Syria Seeks a New Regional Role Amid Economic and Political Headwinds",
