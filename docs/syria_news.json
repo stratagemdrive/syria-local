@@ -1,7 +1,7 @@
 {
   "country": "Syria",
-  "last_updated": "2026-09-19T14:05:37.171643+00:00",
-  "story_count": 38,
+  "last_updated": "2026-09-20T00:28:02.036944+00:00",
+  "story_count": 39,
   "stories": [
     {
       "title": "Israel and Turkiye clash at UN Security Council over military presence in Syria",
@@ -65,6 +65,13 @@
       "url": "https://www.aljazeera.com/video/newsfeed/2026/9/13/09-13-kushner-doha-attack-comments-clip?traffic_source=rss",
       "published_date": "2026-09-13T20:33:28+00:00",
       "category": "Diplomacy"
+    },
+    {
+      "title": "Syria says blast at military site in Deir Az Zor killed 11",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/9/19/syria-says-blast-at-military-site-in-deir-az-zor-killed-11?traffic_source=rss",
+      "published_date": "2026-09-19T14:55:18+00:00",
+      "category": "Military"
     },
     {
       "title": "Syria arrests five former al-Assad-era officers over strikes on civilians",
