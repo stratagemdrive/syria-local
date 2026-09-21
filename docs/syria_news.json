@@ -1,7 +1,7 @@
 {
   "country": "Syria",
-  "last_updated": "2026-09-21T00:35:03.174171+00:00",
-  "story_count": 34,
+  "last_updated": "2026-09-21T16:43:47.728125+00:00",
+  "story_count": 37,
   "stories": [
     {
       "title": "Israel and Turkiye clash at UN Security Council over military presence in Syria",
@@ -44,6 +44,13 @@
       "url": "https://syrianobserver.com/syrian-actors/ilham-ahmed-calls-for-full-kurdish-curriculum-urges-constitutional-guarantees.html",
       "published_date": "2026-09-15T21:00:49+00:00",
       "category": "Diplomacy"
+    },
+    {
+      "title": "Poor storage or sabotage? Series of explosions in Syria raises fears",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/9/21/poor-storage-or-sabotage-series-of-explosions-in-syria-raises-fears?traffic_source=rss",
+      "published_date": "2026-09-21T15:16:03+00:00",
+      "category": "Military"
     },
     {
       "title": "Syria says blast at military site in Deir Az Zor killed 11",
@@ -102,6 +109,20 @@
       "category": "Military"
     },
     {
+      "title": "Inside Kazakhstan’s push to become a regional AI centre",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/9/21/inside-kazakhstans-push-to-become-a-regional-ai-centre?traffic_source=rss",
+      "published_date": "2026-09-21T13:26:01+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "Syrian Energy Minister Outlines Sector Challenges and Development Plans in Parliament",
+      "source": "Syrian Observer",
+      "url": "https://syrianobserver.com/syrian-actors/syrian-energy-minister-outlines-sector-challenges-and-development-plans-in-parliament.html",
+      "published_date": "2026-09-20T21:01:22+00:00",
+      "category": "Energy"
+    },
+    {
       "title": "Three Grades of Mazut and the Restart of Local Refineries: Measures to Address Rising Fuel Prices",
       "source": "Syrian Observer",
       "url": "https://syrianobserver.com/society/three-grades-of-mazut-and-the-restart-of-local-refineries-measures-to-address-rising-fuel-prices.html",
@@ -123,11 +144,11 @@
       "category": "Energy"
     },
     {
-      "title": "Oil flows, fuel runs dry: Syria’s paradox as a new energy corridor",
-      "source": "Syria Direct",
-      "url": "https://syriadirect.org/oil-flows-fuel-runs-dry-syrias-paradox-as-a-new-energy-corridor/",
-      "published_date": "2026-09-14T09:35:30+00:00",
-      "category": "Energy"
+      "title": "Syria’s Market Economy: Dismantling Subsidies and Protecting Vulnerable Groups",
+      "source": "Syrian Observer",
+      "url": "https://syrianobserver.com/society/syrias-market-economy-dismantling-subsidies-and-protecting-vulnerable-groups.html",
+      "published_date": "2026-09-20T21:02:40+00:00",
+      "category": "Economy"
     },
     {
       "title": "An unaffordable car market highlights Iran’s cost-of-living crisis",
@@ -149,6 +170,13 @@
       "url": "https://syrianobserver.com/society/us-business-delegation-visits-damascus-as-syria-and-washington-expand-economic-ties.html",
       "published_date": "2026-09-14T21:00:38+00:00",
       "category": "Economy"
+    },
+    {
+      "title": "The Manufactured Outrage: How a Coordinated Facebook Network Silenced Two Syrian Women",
+      "source": "Syrian Observer",
+      "url": "https://syrianobserver.com/syrian-actors/the-manufactured-outrage-how-a-coordinated-facebook-network-silenced-two-syrian-women.html",
+      "published_date": "2026-09-20T21:00:31+00:00",
+      "category": "Local Events"
     },
     {
       "title": "UK court clears woman of voicing support for Hamas in university speech",
@@ -232,13 +260,6 @@
       "source": "Syrian Observer",
       "url": "https://syrianobserver.com/syrian-actors/former-syrian-detainees-fight-to-prove-they-are-alive-after-being-registered-as-dead.html",
       "published_date": "2026-09-14T21:00:38+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Israel working to eliminate Palestinian presence from West Bank, NGO warns",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/14/israel-working-to-eliminate-palestinian-presence-from-west-bank-ngo-warns?traffic_source=rss",
-      "published_date": "2026-09-14T12:58:12+00:00",
       "category": "Local Events"
     }
   ]
