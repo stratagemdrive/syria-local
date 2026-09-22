@@ -1,8 +1,15 @@
 {
   "country": "Syria",
-  "last_updated": "2026-09-22T01:18:26.551833+00:00",
-  "story_count": 32,
+  "last_updated": "2026-09-22T15:19:36.095418+00:00",
+  "story_count": 36,
   "stories": [
+    {
+      "title": "Syria’s Grand Mufti Moves to Defuse Salafi Backlash After Comments on Al-Sharaa’s Past and Hayat Tahrir al-Sham",
+      "source": "Syrian Observer",
+      "url": "https://syrianobserver.com/syrian-actors/syrias-grand-mufti-moves-to-defuse-salafi-backlash-after-comments-on-al-sharaas-past-and-hayat-tahrir-al-sham.html",
+      "published_date": "2026-09-21T21:01:33+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Israel and Turkiye clash at UN Security Council over military presence in Syria",
       "source": "Syrian Observer",
@@ -130,6 +137,20 @@
       "category": "Energy"
     },
     {
+      "title": "From $20 Billion to $200 Billion: How Much Do Syria’s Economic Figures Reflect Real Growth?",
+      "source": "Syrian Observer",
+      "url": "https://syrianobserver.com/society/from-20-billion-to-200-billion-how-much-do-syrias-economic-figures-reflect-real-growth.html",
+      "published_date": "2026-09-21T21:01:12+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Arab Economic Drive to Support Investment and Reconstruction in Syria",
+      "source": "Syrian Observer",
+      "url": "https://syrianobserver.com/society/arab-economic-drive-to-support-investment-and-reconstruction-in-syria.html",
+      "published_date": "2026-09-21T21:00:39+00:00",
+      "category": "Economy"
+    },
+    {
       "title": "Syria’s Market Economy: Dismantling Subsidies and Protecting Vulnerable Groups",
       "source": "Syrian Observer",
       "url": "https://syrianobserver.com/society/syrias-market-economy-dismantling-subsidies-and-protecting-vulnerable-groups.html",
@@ -149,6 +170,13 @@
       "url": "https://syrianobserver.com/syrian-actors/sharaa-in-dubai-syria-seeks-a-new-regional-role-amid-economic-and-political-headwinds.html",
       "published_date": "2026-09-15T21:00:45+00:00",
       "category": "Economy"
+    },
+    {
+      "title": "Security Escalation in Daraa and Ammunition Explosions Renew Fears Over Syria’s Weapons Legacy",
+      "source": "Syrian Observer",
+      "url": "https://syrianobserver.com/syrian-actors/security-escalation-in-daraa-and-ammunition-explosions-renew-fears-over-syrias-weapons-legacy.html",
+      "published_date": "2026-09-21T21:00:35+00:00",
+      "category": "Local Events"
     },
     {
       "title": "The Manufactured Outrage: How a Coordinated Facebook Network Silenced Two Syrian Women",
