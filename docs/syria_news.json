@@ -1,7 +1,7 @@
 {
   "country": "Syria",
-  "last_updated": "2026-09-21T16:43:47.728125+00:00",
-  "story_count": 37,
+  "last_updated": "2026-09-22T01:18:26.551833+00:00",
+  "story_count": 32,
   "stories": [
     {
       "title": "Israel and Turkiye clash at UN Security Council over military presence in Syria",
@@ -102,13 +102,6 @@
       "category": "Military"
     },
     {
-      "title": "Russia resupplies military bases in Syria for first time under new deal",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/15/russia-resupplies-military-bases-in-syria-for-first-time-under-new-deal?traffic_source=rss",
-      "published_date": "2026-09-15T00:43:47+00:00",
-      "category": "Military"
-    },
-    {
       "title": "Inside Kazakhstan’s push to become a regional AI centre",
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/news/2026/9/21/inside-kazakhstans-push-to-become-a-regional-ai-centre?traffic_source=rss",
@@ -137,13 +130,6 @@
       "category": "Energy"
     },
     {
-      "title": "Behind the Pump: Deconstructing Syria’s Recent Fuel Price Adjustments",
-      "source": "Syrian Observer",
-      "url": "https://syrianobserver.com/uncategorized/behind-the-pump-deconstructing-syrias-recent-fuel-price-adjustments.html",
-      "published_date": "2026-09-14T21:00:15+00:00",
-      "category": "Energy"
-    },
-    {
       "title": "Syria’s Market Economy: Dismantling Subsidies and Protecting Vulnerable Groups",
       "source": "Syrian Observer",
       "url": "https://syrianobserver.com/society/syrias-market-economy-dismantling-subsidies-and-protecting-vulnerable-groups.html",
@@ -162,13 +148,6 @@
       "source": "Syrian Observer",
       "url": "https://syrianobserver.com/syrian-actors/sharaa-in-dubai-syria-seeks-a-new-regional-role-amid-economic-and-political-headwinds.html",
       "published_date": "2026-09-15T21:00:45+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "US Business Delegation Visits Damascus as Syria and Washington Expand Economic Ties",
-      "source": "Syrian Observer",
-      "url": "https://syrianobserver.com/society/us-business-delegation-visits-damascus-as-syria-and-washington-expand-economic-ties.html",
-      "published_date": "2026-09-14T21:00:38+00:00",
       "category": "Economy"
     },
     {
@@ -246,20 +225,6 @@
       "source": "Syrian Observer",
       "url": "https://syrianobserver.com/refugees/netherlands-allocates-e25-million-for-syrian-reconstruction-to-support-refugee-returns.html",
       "published_date": "2026-09-15T21:00:56+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Investigation Committee Formed Following Deadly Kobani Prison Fire and Security Tensions",
-      "source": "Syrian Observer",
-      "url": "https://syrianobserver.com/syrian-actors/investigation-committee-formed-following-deadly-kobani-prison-fire-and-security-tensions.html",
-      "published_date": "2026-09-14T21:00:54+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Former Syrian Detainees Fight to Prove They Are Alive After Being Registered as Dead",
-      "source": "Syrian Observer",
-      "url": "https://syrianobserver.com/syrian-actors/former-syrian-detainees-fight-to-prove-they-are-alive-after-being-registered-as-dead.html",
-      "published_date": "2026-09-14T21:00:38+00:00",
       "category": "Local Events"
     }
   ]
