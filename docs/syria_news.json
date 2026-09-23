@@ -1,8 +1,22 @@
 {
   "country": "Syria",
-  "last_updated": "2026-09-23T00:59:15.223229+00:00",
-  "story_count": 38,
+  "last_updated": "2026-09-23T15:15:03.587538+00:00",
+  "story_count": 40,
   "stories": [
+    {
+      "title": "Al-Sharaa: Occupied Golan Heights to ‘remain Syrian territory’",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/23/al-sharaa-occupied-golan-heights-to-remain-syrian?traffic_source=rss",
+      "published_date": "2026-09-23T14:33:40+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Syria’s al-Sharaa answers questions on Israel’s violations in Syria",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/23/syrias-al-sharaa-answers-questions-on-israels-violations-in-syria?traffic_source=rss",
+      "published_date": "2026-09-23T13:20:05+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Iran flights to Baghdad, Muscat cancelled ahead of US aviation sanctions",
       "source": "Al Jazeera",
@@ -81,6 +95,13 @@
       "category": "Diplomacy"
     },
     {
+      "title": "Bad gas: Trouble at Syria’s al-Tabiyah plant leaves a bad smell",
+      "source": "Syria Direct",
+      "url": "https://syriadirect.org/bad-gas-trouble-at-syrias-al-tabiyah-plant-leaves-a-bad-smell/",
+      "published_date": "2026-09-23T10:31:46+00:00",
+      "category": "Military"
+    },
+    {
       "title": "Poor storage or sabotage? Series of explosions in Syria raises fears",
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/news/2026/9/21/poor-storage-or-sabotage-series-of-explosions-in-syria-raises-fears?traffic_source=rss",
@@ -113,20 +134,6 @@
       "source": "Syrian Observer",
       "url": "https://syrianobserver.com/foreign-actors/rotterdam-court-tries-syrian-suspect-accused-of-leading-isis-security-apparatus-and-committing-war-crimes.html",
       "published_date": "2026-09-16T21:00:23+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "China willing to ‘safeguard Iran’s legitimate rights’, official says",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/16/china-willing-to-safeguard-irans-legitimate-rights-official-says?traffic_source=rss",
-      "published_date": "2026-09-16T13:09:51+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "The road to Mecca: Soldiers, spies and the new Syria-Pakistan relationship",
-      "source": "Syria Direct",
-      "url": "https://syriadirect.org/the-road-to-mecca-soldiers-spies-and-the-new-syria-pakistan-relationship/",
-      "published_date": "2026-09-16T09:57:08+00:00",
       "category": "Military"
     },
     {
@@ -184,6 +191,13 @@
       "url": "https://www.aljazeera.com/economy/2026/9/19/an-unaffordable-car-market-highlights-irans-cost-of-living-crisis?traffic_source=rss",
       "published_date": "2026-09-19T13:21:52+00:00",
       "category": "Economy"
+    },
+    {
+      "title": "ICC convicts former Central African Republic militia leader",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/9/23/icc-convicts-central-african-militia-leader-of-crimes-against-humanity?traffic_source=rss",
+      "published_date": "2026-09-23T12:59:24+00:00",
+      "category": "Local Events"
     },
     {
       "title": "UN Goodwill Ambassador: Millions of refugee children missing school",
