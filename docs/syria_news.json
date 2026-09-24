@@ -1,8 +1,15 @@
 {
   "country": "Syria",
-  "last_updated": "2026-09-24T00:56:17.091073+00:00",
-  "story_count": 35,
+  "last_updated": "2026-09-24T15:39:21.489295+00:00",
+  "story_count": 38,
   "stories": [
+    {
+      "title": "Why is Iran threatening regional airports, and what could be the impact?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/9/24/why-is-iran-threatening-regional-airports-and-what-could-be-the-impact?traffic_source=rss",
+      "published_date": "2026-09-24T11:10:42+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "US aviation sanctions disrupt Iran flights, push travellers overland",
       "source": "Al Jazeera",
@@ -88,6 +95,20 @@
       "category": "Diplomacy"
     },
     {
+      "title": "On the Euphrates: “House of Paintings” Traces the Origins of Mural Art",
+      "source": "Syrian Observer",
+      "url": "https://syrianobserver.com/syrian-actors/on-the-euphrates-house-of-paintings-traces-the-origins-of-mural-art.html",
+      "published_date": "2026-09-23T21:01:58+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Deadly Myths: How False Beliefs Are Driving Syria’s Striped Hyena Towards Extinction",
+      "source": "Syrian Observer",
+      "url": "https://syrianobserver.com/society/deadly-myths-how-false-beliefs-are-driving-syrias-striped-hyena-towards-extinction.html",
+      "published_date": "2026-09-23T21:00:06+00:00",
+      "category": "Military"
+    },
+    {
       "title": "Bad gas: Trouble at Syria’s al-Tabiyah plant leaves a bad smell",
       "source": "Syria Direct",
       "url": "https://syriadirect.org/bad-gas-trouble-at-syrias-al-tabiyah-plant-leaves-a-bad-smell/",
@@ -123,6 +144,13 @@
       "category": "Military"
     },
     {
+      "title": "Tunisia fuel strike highlights growing economic and political anger",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/economy/2026/9/24/tunisia-fuel-strike-highlights-growing-economic-and-political-anger?traffic_source=rss",
+      "published_date": "2026-09-24T12:54:47+00:00",
+      "category": "Energy"
+    },
+    {
       "title": "Inside Kazakhstan’s push to become a regional AI centre",
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/news/2026/9/21/inside-kazakhstans-push-to-become-a-regional-ai-centre?traffic_source=rss",
@@ -142,6 +170,13 @@
       "url": "https://syrianobserver.com/society/three-grades-of-mazut-and-the-restart-of-local-refineries-measures-to-address-rising-fuel-prices.html",
       "published_date": "2026-09-17T21:00:54+00:00",
       "category": "Energy"
+    },
+    {
+      "title": "Sharaa, U.S. Companies Discuss Investment in Syria and Economic Partnerships",
+      "source": "Syrian Observer",
+      "url": "https://syrianobserver.com/foreign-actors/sharaa-u-s-companies-discuss-investment-in-syria-and-economic-partnerships.html",
+      "published_date": "2026-09-23T21:02:12+00:00",
+      "category": "Economy"
     },
     {
       "title": "From $20 Billion to $200 Billion: How Much Do Syria’s Economic Figures Reflect Real Growth?",
@@ -232,20 +267,6 @@
       "source": "Syrian Observer",
       "url": "https://syrianobserver.com/syrian-actors/french-senate-delegation-holds-series-of-talks-in-damascus.html",
       "published_date": "2026-09-17T21:00:58+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Syrian court sentences three linked to coastal violence",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/17/syrian-court-sentences-three-linked-to-coastal-violence?traffic_source=rss",
-      "published_date": "2026-09-17T12:31:14+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Fuel Anger Erupts in the Government’s Idlib Heartland",
-      "source": "Syria Direct",
-      "url": "https://syriadirect.org/fuel-anger-erupts-in-the-governments-idlib-heartland/",
-      "published_date": "2026-09-17T10:37:12+00:00",
       "category": "Local Events"
     }
   ]
