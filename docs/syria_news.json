@@ -1,7 +1,7 @@
 {
   "country": "Syria",
-  "last_updated": "2026-09-25T00:57:19.748831+00:00",
-  "story_count": 35,
+  "last_updated": "2026-09-25T15:41:55.811670+00:00",
+  "story_count": 33,
   "stories": [
     {
       "title": "Joe Wilson to Al-Modon: Sharaa Is Reconnecting Syria With the World",
@@ -92,13 +92,6 @@
       "source": "Syrian Observer",
       "url": "https://syrianobserver.com/syrian-actors/raed-al-saleh-syria-will-present-a-syria-without-camps-vision-and-a-framework-for-safe-return-at-the-united-nations.html",
       "published_date": "2026-09-21T21:00:48+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Israel and Turkiye clash at UN Security Council over military presence in Syria",
-      "source": "Syrian Observer",
-      "url": "https://syrianobserver.com/youtube/israel-and-turkiye-clash-at-un-security-council-over-military-presence-in-syria.html",
-      "published_date": "2026-09-18T09:32:05+00:00",
       "category": "Diplomacy"
     },
     {
@@ -239,13 +232,6 @@
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/9/18/daughter-of-damascus-assala-performs-in-syria-after-15-year-exile?traffic_source=rss",
       "published_date": "2026-09-18T20:38:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Lebanese Judiciary Moves to Prosecute Network Linked to Assad Remnants and Hezbollah",
-      "source": "Syrian Observer",
-      "url": "https://syrianobserver.com/syrian-actors/lebanese-judiciary-moves-to-prosecute-network-linked-to-assad-remnants-and-hezbollah.html",
-      "published_date": "2026-09-18T09:34:55+00:00",
       "category": "Local Events"
     }
   ]
