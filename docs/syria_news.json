@@ -1,8 +1,22 @@
 {
   "country": "Syria",
-  "last_updated": "2026-09-24T15:39:21.489295+00:00",
-  "story_count": 38,
+  "last_updated": "2026-09-25T00:57:19.748831+00:00",
+  "story_count": 35,
   "stories": [
+    {
+      "title": "Joe Wilson to Al-Modon: Sharaa Is Reconnecting Syria With the World",
+      "source": "Syrian Observer",
+      "url": "https://syrianobserver.com/foreign-actors/joe-wilson-to-al-modon-sharaa-is-reconnecting-syria-with-the-world.html",
+      "published_date": "2026-09-24T21:00:30+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Syria’s Ahmed al-Sharaa tells UNGA that Syria is ‘rising’ after Assad’s fall",
+      "source": "Syrian Observer",
+      "url": "https://syrianobserver.com/youtube/syrias-ahmed-al-sharaa-tells-unga-that-syria-is-rising-after-assads-fall.html",
+      "published_date": "2026-09-24T19:13:16+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Why is Iran threatening regional airports, and what could be the impact?",
       "source": "Al Jazeera",
@@ -88,13 +102,6 @@
       "category": "Diplomacy"
     },
     {
-      "title": "The Journey of Detainees Under the Transitional Government: Abuse, Torture, and Transfers Across Multiple Prisons",
-      "source": "Syrian Observer",
-      "url": "https://syrianobserver.com/syrian-actors/the-journey-of-detainees-under-the-transitional-government-abuse-torture-and-transfers-across-multiple-prisons.html",
-      "published_date": "2026-09-17T21:00:19+00:00",
-      "category": "Diplomacy"
-    },
-    {
       "title": "On the Euphrates: “House of Paintings” Traces the Origins of Mural Art",
       "source": "Syrian Observer",
       "url": "https://syrianobserver.com/syrian-actors/on-the-euphrates-house-of-paintings-traces-the-origins-of-mural-art.html",
@@ -137,13 +144,6 @@
       "category": "Military"
     },
     {
-      "title": "Syrian Military Court Issues Verdicts in Coastal Unrest Case",
-      "source": "Syrian Observer",
-      "url": "https://syrianobserver.com/syrian-actors/syrian-military-court-issues-verdicts-in-coastal-unrest-case.html",
-      "published_date": "2026-09-17T21:00:48+00:00",
-      "category": "Military"
-    },
-    {
       "title": "Tunisia fuel strike highlights growing economic and political anger",
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/economy/2026/9/24/tunisia-fuel-strike-highlights-growing-economic-and-political-anger?traffic_source=rss",
@@ -162,13 +162,6 @@
       "source": "Syrian Observer",
       "url": "https://syrianobserver.com/syrian-actors/syrian-energy-minister-outlines-sector-challenges-and-development-plans-in-parliament.html",
       "published_date": "2026-09-20T21:01:22+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Three Grades of Mazut and the Restart of Local Refineries: Measures to Address Rising Fuel Prices",
-      "source": "Syrian Observer",
-      "url": "https://syrianobserver.com/society/three-grades-of-mazut-and-the-restart-of-local-refineries-measures-to-address-rising-fuel-prices.html",
-      "published_date": "2026-09-17T21:00:54+00:00",
       "category": "Energy"
     },
     {
@@ -253,20 +246,6 @@
       "source": "Syrian Observer",
       "url": "https://syrianobserver.com/syrian-actors/lebanese-judiciary-moves-to-prosecute-network-linked-to-assad-remnants-and-hezbollah.html",
       "published_date": "2026-09-18T09:34:55+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "US court sentences ex-Syrian official who ran notorious ‘punishment wing’ to 60 years",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/us-news/2026/sep/17/court-sentence-ex-syrian-official",
-      "published_date": "2026-09-18T00:37:22+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "French Senate Delegation Holds Series of Talks in Damascus",
-      "source": "Syrian Observer",
-      "url": "https://syrianobserver.com/syrian-actors/french-senate-delegation-holds-series-of-talks-in-damascus.html",
-      "published_date": "2026-09-17T21:00:58+00:00",
       "category": "Local Events"
     }
   ]
