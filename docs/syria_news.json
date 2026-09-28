@@ -1,7 +1,7 @@
 {
   "country": "Syria",
-  "last_updated": "2026-09-27T15:28:48.603538+00:00",
-  "story_count": 32,
+  "last_updated": "2026-09-28T01:14:55.677187+00:00",
+  "story_count": 29,
   "stories": [
     {
       "title": "Iraq seeks US exemption from ban on Iranian flights",
@@ -158,13 +158,6 @@
       "category": "Energy"
     },
     {
-      "title": "Syrian Energy Minister Outlines Sector Challenges and Development Plans in Parliament",
-      "source": "Syrian Observer",
-      "url": "https://syrianobserver.com/syrian-actors/syrian-energy-minister-outlines-sector-challenges-and-development-plans-in-parliament.html",
-      "published_date": "2026-09-20T21:01:22+00:00",
-      "category": "Energy"
-    },
-    {
       "title": "Sharaa, U.S. Companies Discuss Investment in Syria and Economic Partnerships",
       "source": "Syrian Observer",
       "url": "https://syrianobserver.com/foreign-actors/sharaa-u-s-companies-discuss-investment-in-syria-and-economic-partnerships.html",
@@ -183,13 +176,6 @@
       "source": "Syrian Observer",
       "url": "https://syrianobserver.com/society/arab-economic-drive-to-support-investment-and-reconstruction-in-syria.html",
       "published_date": "2026-09-21T21:00:39+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Syria’s Market Economy: Dismantling Subsidies and Protecting Vulnerable Groups",
-      "source": "Syrian Observer",
-      "url": "https://syrianobserver.com/society/syrias-market-economy-dismantling-subsidies-and-protecting-vulnerable-groups.html",
-      "published_date": "2026-09-20T21:02:40+00:00",
       "category": "Economy"
     },
     {
@@ -218,13 +204,6 @@
       "source": "Syrian Observer",
       "url": "https://syrianobserver.com/syrian-actors/security-escalation-in-daraa-and-ammunition-explosions-renew-fears-over-syrias-weapons-legacy.html",
       "published_date": "2026-09-21T21:00:35+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "The Manufactured Outrage: How a Coordinated Facebook Network Silenced Two Syrian Women",
-      "source": "Syrian Observer",
-      "url": "https://syrianobserver.com/syrian-actors/the-manufactured-outrage-how-a-coordinated-facebook-network-silenced-two-syrian-women.html",
-      "published_date": "2026-09-20T21:00:31+00:00",
       "category": "Local Events"
     }
   ]
