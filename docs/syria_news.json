@@ -1,8 +1,43 @@
 {
   "country": "Syria",
-  "last_updated": "2026-09-28T18:20:14.057272+00:00",
-  "story_count": 30,
+  "last_updated": "2026-09-29T02:20:57.086954+00:00",
+  "story_count": 36,
   "stories": [
+    {
+      "title": "Algerian Foreign Minister condemns continued Israeli attacks on Syria, Lebanon",
+      "source": "SANA",
+      "url": "https://sana.sy/en/politics/2346681/",
+      "published_date": "2026-09-28T20:09:59+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Syria, U.S. discuss boosting bilateral ties, “Syria Without Camps” initiative",
+      "source": "SANA",
+      "url": "https://sana.sy/en/syria/2346669/",
+      "published_date": "2026-09-28T18:59:14+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Syria, UAE discuss preparations on participation in the 2026 U.N. Water Conference",
+      "source": "SANA",
+      "url": "https://sana.sy/en/syria/2346656/",
+      "published_date": "2026-09-28T17:29:28+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Syria, Sudan discuss bilateral ties, diplomatic mission in Damascus",
+      "source": "SANA",
+      "url": "https://sana.sy/en/politics/2346657/",
+      "published_date": "2026-09-28T17:29:13+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Turkish, Indonesian presidents discuss regional, international issues",
+      "source": "SANA",
+      "url": "https://sana.sy/en/international/2346653/",
+      "published_date": "2026-09-28T16:48:29+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "UK pledges tougher stance on Israeli actions in Gaza, West Bank",
       "source": "Al Jazeera",
@@ -102,18 +137,11 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Syria’s Grand Mufti Moves to Defuse Salafi Backlash After Comments on Al-Sharaa’s Past and Hayat Tahrir al-Sham",
-      "source": "Syrian Observer",
-      "url": "https://syrianobserver.com/syrian-actors/syrias-grand-mufti-moves-to-defuse-salafi-backlash-after-comments-on-al-sharaas-past-and-hayat-tahrir-al-sham.html",
-      "published_date": "2026-09-21T21:01:33+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Raed Al-Saleh: Syria Will Present a “Syria Without Camps” Vision and a Framework for Safe Return at the United Nations",
-      "source": "Syrian Observer",
-      "url": "https://syrianobserver.com/syrian-actors/raed-al-saleh-syria-will-present-a-syria-without-camps-vision-and-a-framework-for-safe-return-at-the-united-nations.html",
-      "published_date": "2026-09-21T21:00:48+00:00",
-      "category": "Diplomacy"
+      "title": "Israeli occupation shells outskirts of Tranja in Quneitra countryside",
+      "source": "SANA",
+      "url": "https://sana.sy/en/syria/2346665/",
+      "published_date": "2026-09-28T18:41:59+00:00",
+      "category": "Military"
     },
     {
       "title": "Israel’s Smotrich calls for ‘war’ in West Bank: Rhetoric or real threat?",
@@ -151,6 +179,13 @@
       "category": "Energy"
     },
     {
+      "title": "China, U.S. agree tariff cuts on $30 billion in imports each",
+      "source": "SANA",
+      "url": "https://sana.sy/en/economic/2346641/",
+      "published_date": "2026-09-28T14:26:33+00:00",
+      "category": "Economy"
+    },
+    {
       "title": "Sharaa, U.S. Companies Discuss Investment in Syria and Economic Partnerships",
       "source": "Syrian Observer",
       "url": "https://syrianobserver.com/foreign-actors/sharaa-u-s-companies-discuss-investment-in-syria-and-economic-partnerships.html",
@@ -158,18 +193,32 @@
       "category": "Economy"
     },
     {
-      "title": "From $20 Billion to $200 Billion: How Much Do Syria’s Economic Figures Reflect Real Growth?",
-      "source": "Syrian Observer",
-      "url": "https://syrianobserver.com/society/from-20-billion-to-200-billion-how-much-do-syrias-economic-figures-reflect-real-growth.html",
-      "published_date": "2026-09-21T21:01:12+00:00",
-      "category": "Economy"
+      "title": "Syria, UNODC discuss expanding cooperation on crime prevention",
+      "source": "SANA",
+      "url": "https://sana.sy/en/syria/2346688/",
+      "published_date": "2026-09-28T21:21:14+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Arab Economic Drive to Support Investment and Reconstruction in Syria",
+      "title": "Aleppo Citadel Launches “Touristech” Project to Digitize Heritage Visits",
       "source": "Syrian Observer",
-      "url": "https://syrianobserver.com/society/arab-economic-drive-to-support-investment-and-reconstruction-in-syria.html",
-      "published_date": "2026-09-21T21:00:39+00:00",
-      "category": "Economy"
+      "url": "https://syrianobserver.com/society/aleppo-citadel-launches-touristech-project-to-digitize-heritage-visits.html",
+      "published_date": "2026-09-28T21:01:30+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Fourth Criminal Court opens war crimes trial of Samer Haidar, Ali Shamseddin",
+      "source": "SANA",
+      "url": "https://sana.sy/en/syria/2346662/",
+      "published_date": "2026-09-28T17:55:05+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "65 displaced families leave Manbij camp in voluntary return convoy",
+      "source": "SANA",
+      "url": "https://sana.sy/en/syria/2346644/",
+      "published_date": "2026-09-28T15:37:58+00:00",
+      "category": "Local Events"
     },
     {
       "title": "British Woman Linked to “Berlin Attack” Perpetrator Arrested in Syria – The Full Story",
@@ -204,13 +253,6 @@
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/9/22/un-goodwill-ambassador-millions-of-refugee-children-missing-school?traffic_source=rss",
       "published_date": "2026-09-22T18:49:36+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Security Escalation in Daraa and Ammunition Explosions Renew Fears Over Syria’s Weapons Legacy",
-      "source": "Syrian Observer",
-      "url": "https://syrianobserver.com/syrian-actors/security-escalation-in-daraa-and-ammunition-explosions-renew-fears-over-syrias-weapons-legacy.html",
-      "published_date": "2026-09-21T21:00:35+00:00",
       "category": "Local Events"
     }
   ]
