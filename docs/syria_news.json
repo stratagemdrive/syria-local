@@ -1,8 +1,22 @@
 {
   "country": "Syria",
-  "last_updated": "2026-09-29T16:42:42.778916+00:00",
-  "story_count": 45,
+  "last_updated": "2026-09-30T01:40:39.557342+00:00",
+  "story_count": 44,
   "stories": [
+    {
+      "title": "Who Will Search for the Missing Women of Syria?",
+      "source": "Syrian Observer",
+      "url": "https://syrianobserver.com/society/who-will-search-for-the-missing-women-of-syria.html",
+      "published_date": "2026-09-29T21:00:30+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Japan Lifts Sanctions on 16 Syrian Entities, Keeps Assad on the List",
+      "source": "Syrian Observer",
+      "url": "https://syrianobserver.com/uncategorized/japan-lifts-sanctions-on-16-syrian-entities-keeps-assad-on-the-list.html",
+      "published_date": "2026-09-29T21:00:17+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Syria, EU discuss new agreement, recovery and Israeli withdrawal",
       "source": "SANA",
@@ -116,32 +130,11 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Iran flights to Baghdad, Muscat cancelled ahead of US aviation sanctions",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/22/iran-flights-to-baghdad-muscat-cancelled-ahead-of-us-aviation-sanctions?traffic_source=rss",
-      "published_date": "2026-09-22T23:46:06+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "New York Meetings: Sharaa Discusses the Future of Bilateral Relations with Members of Congress",
+      "title": "After 16 Months in Detention, Israeli Forces Release Wadi Bakr",
       "source": "Syrian Observer",
-      "url": "https://syrianobserver.com/foreign-actors/new-york-meetings-sharaa-discusses-the-future-of-bilateral-relations-with-members-of-congress.html",
-      "published_date": "2026-09-22T21:02:46+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "President Ahmad Al-Sharaa Meets Syrian Expatriates in New York, Outlines Policy Priorities on Education, Investment, and Foreign Relations",
-      "source": "Syrian Observer",
-      "url": "https://syrianobserver.com/syrian-actors/president-ahmad-al-sharaa-meets-syrian-expatriates-in-new-york-outlines-policy-priorities-on-education-investment-and-foreign-relations.html",
-      "published_date": "2026-09-22T21:01:28+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Qatar urges diplomacy, rejects Strait of Hormuz ‘bargaining’",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/22/qatar-urges-diplomacy-rejects-strait-of-hormuz?traffic_source=rss",
-      "published_date": "2026-09-22T18:27:01+00:00",
-      "category": "Diplomacy"
+      "url": "https://syrianobserver.com/foreign-actors/after-16-months-in-detention-israeli-forces-release-wadi-bakr.html",
+      "published_date": "2026-09-29T21:01:46+00:00",
+      "category": "Military"
     },
     {
       "title": "Putin increases authorized size of Russian Armed Forces to 2.44 million",
@@ -228,6 +221,13 @@
       "category": "Economy"
     },
     {
+      "title": "Kaja Kallas in Damascus: Two Years That Redrew Syrian-European Relations",
+      "source": "Syrian Observer",
+      "url": "https://syrianobserver.com/foreign-actors/kaja-kallas-in-damascus-two-years-that-redrew-syrian-european-relations.html",
+      "published_date": "2026-09-29T21:02:47+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "Daraa eggplant acreage nearly triples target; output seen at 24,000 tonnes",
       "source": "SANA",
       "url": "https://sana.sy/en/photos/2346864/",
@@ -309,13 +309,6 @@
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/news/2026/9/23/icc-convicts-central-african-militia-leader-of-crimes-against-humanity?traffic_source=rss",
       "published_date": "2026-09-23T12:59:24+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "UN Goodwill Ambassador: Millions of refugee children missing school",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/22/un-goodwill-ambassador-millions-of-refugee-children-missing-school?traffic_source=rss",
-      "published_date": "2026-09-22T18:49:36+00:00",
       "category": "Local Events"
     }
   ]
