@@ -1,7 +1,7 @@
 {
   "country": "Syria",
-  "last_updated": "2026-09-30T16:36:03.986919+00:00",
-  "story_count": 42,
+  "last_updated": "2026-10-01T01:38:42.141009+00:00",
+  "story_count": 41,
   "stories": [
     {
       "title": "Syria is rising, al-Sharaa tells UN—but challenges remain at home",
@@ -109,18 +109,11 @@
       "category": "Diplomacy"
     },
     {
-      "title": "US aviation sanctions disrupt Iran flights, push travellers overland",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/23/us-aviation-sanctions-disrupt-iran-flights-push-travellers-overland?traffic_source=rss",
-      "published_date": "2026-09-23T21:05:36+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Israel’s ambassador to the US says son injured in West Bank car-ramming",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/23/israels-ambassador-to-the-us-says-son-injured-in-west-bank-car-ramming?traffic_source=rss",
-      "published_date": "2026-09-23T18:49:45+00:00",
-      "category": "Diplomacy"
+      "title": "Syria Announces Foiling of Rocket Plot in Sensitive Area Near the Golan",
+      "source": "Syrian Observer",
+      "url": "https://syrianobserver.com/foreign-actors/syria-announces-foiling-of-rocket-plot-in-sensitive-area-near-the-golan.html",
+      "published_date": "2026-09-30T21:01:54+00:00",
+      "category": "Military"
     },
     {
       "title": "After 16 Months in Detention, Israeli Forces Release Wadi Bakr",
@@ -148,20 +141,6 @@
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/news/2026/9/27/israels-smotrich-urges-war-in-west-bank-poll-rhetoric-or-real-threat?traffic_source=rss",
       "published_date": "2026-09-27T14:03:45+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "On the Euphrates: “House of Paintings” Traces the Origins of Mural Art",
-      "source": "Syrian Observer",
-      "url": "https://syrianobserver.com/syrian-actors/on-the-euphrates-house-of-paintings-traces-the-origins-of-mural-art.html",
-      "published_date": "2026-09-23T21:01:58+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Deadly Myths: How False Beliefs Are Driving Syria’s Striped Hyena Towards Extinction",
-      "source": "Syrian Observer",
-      "url": "https://syrianobserver.com/society/deadly-myths-how-false-beliefs-are-driving-syrias-striped-hyena-towards-extinction.html",
-      "published_date": "2026-09-23T21:00:06+00:00",
       "category": "Military"
     },
     {
@@ -200,11 +179,25 @@
       "category": "Economy"
     },
     {
-      "title": "Sharaa, U.S. Companies Discuss Investment in Syria and Economic Partnerships",
+      "title": "Gunmen kill 7 on bus in Syria as pipeline blast knocks out 3 power plants",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/9/30/gas-pipeline-explodes-in-syria-knocks-three-power-plants-offline?traffic_source=rss",
+      "published_date": "2026-09-30T21:01:13+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Latakia University Is Syria’s Only University With a Numerical Ranking in Times 2027 Rankings",
       "source": "Syrian Observer",
-      "url": "https://syrianobserver.com/foreign-actors/sharaa-u-s-companies-discuss-investment-in-syria-and-economic-partnerships.html",
-      "published_date": "2026-09-23T21:02:12+00:00",
-      "category": "Economy"
+      "url": "https://syrianobserver.com/society/latakia-university-is-syrias-only-university-with-a-numerical-ranking-in-times-2027-rankings.html",
+      "published_date": "2026-09-30T21:00:50+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Until New Elections, Interim Executive Offices for Qardaha and 13 Towns in Latakia",
+      "source": "Syrian Observer",
+      "url": "https://syrianobserver.com/syrian-actors/until-new-elections-interim-executive-offices-for-qardaha-and-13-towns-in-latakia.html",
+      "published_date": "2026-09-30T21:00:40+00:00",
+      "category": "Local Events"
     },
     {
       "title": "The October 7 warnings threatening Netanyahu’s Israeli election campaign",
