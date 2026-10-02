@@ -1,7 +1,7 @@
 {
   "country": "Syria",
-  "last_updated": "2026-10-02T01:51:01.793691+00:00",
-  "story_count": 37,
+  "last_updated": "2026-10-02T16:26:49.322876+00:00",
+  "story_count": 40,
   "stories": [
     {
       "title": "Syria is rising, al-Sharaa tells UN—but challenges remain at home",
@@ -88,6 +88,13 @@
       "category": "Diplomacy"
     },
     {
+      "title": "Syria: An exclusive look at the integration of Uyghur fighters in armed forces • FRANCE 24 English",
+      "source": "Syrian Observer",
+      "url": "https://syrianobserver.com/youtube/syria-an-exclusive-look-at-the-integration-of-uyghur-fighters-in-armed-forces-france-24-english.html",
+      "published_date": "2026-10-02T09:42:28+00:00",
+      "category": "Military"
+    },
+    {
       "title": "Syria Announces Foiling of Rocket Plot in Sensitive Area Near the Golan",
       "source": "Syrian Observer",
       "url": "https://syrianobserver.com/foreign-actors/syria-announces-foiling-of-rocket-plot-in-sensitive-area-near-the-golan.html",
@@ -123,6 +130,13 @@
       "category": "Military"
     },
     {
+      "title": "FATF Experts in Damascus: What Does Syria Need to Exit the Grey List?",
+      "source": "Syrian Observer",
+      "url": "https://syrianobserver.com/society/fatf-experts-in-damascus-what-does-syria-need-to-exit-the-grey-list.html",
+      "published_date": "2026-10-01T21:01:56+00:00",
+      "category": "Energy"
+    },
+    {
       "title": "Vessel struck by unknown projectile in Strait of Hormuz, UKMTO says",
       "source": "SANA",
       "url": "https://sana.sy/en/international/2346894/",
@@ -149,6 +163,13 @@
       "url": "https://sana.sy/en/economic/2346641/",
       "published_date": "2026-09-28T14:26:33+00:00",
       "category": "Economy"
+    },
+    {
+      "title": "Fuel Price Hikes Reshuffle Spending Priorities in Suweida",
+      "source": "Syrian Observer",
+      "url": "https://syrianobserver.com/society/fuel-price-hikes-reshuffle-spending-priorities-in-suweida.html",
+      "published_date": "2026-10-01T21:00:21+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Gunmen kill 7 on bus in Syria as pipeline blast knocks out 3 power plants",
