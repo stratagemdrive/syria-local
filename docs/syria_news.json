@@ -1,6 +1,6 @@
 {
   "country": "Syria",
-  "last_updated": "2026-10-02T16:26:49.322876+00:00",
+  "last_updated": "2026-10-03T01:29:56.078461+00:00",
   "story_count": 40,
   "stories": [
     {
@@ -81,13 +81,6 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Iraqi airports halt Iranian flights after new US aviation sanctions",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/25/iraqi-airports-halt-iranian-flights-after-new-us-aviation-sanctions?traffic_source=rss",
-      "published_date": "2026-09-25T18:30:20+00:00",
-      "category": "Diplomacy"
-    },
-    {
       "title": "Syria: An exclusive look at the integration of Uyghur fighters in armed forces • FRANCE 24 English",
       "source": "Syrian Observer",
       "url": "https://syrianobserver.com/youtube/syria-an-exclusive-look-at-the-integration-of-uyghur-fighters-in-armed-forces-france-24-english.html",
@@ -128,6 +121,13 @@
       "url": "https://www.aljazeera.com/news/2026/9/27/israels-smotrich-urges-war-in-west-bank-poll-rhetoric-or-real-threat?traffic_source=rss",
       "published_date": "2026-09-27T14:03:45+00:00",
       "category": "Military"
+    },
+    {
+      "title": "California leads lawsuit against Trump fuel efficiency standards rollback",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/economy/2026/10/2/california-leads-lawsuit-against-trump-fuel-efficiency-standards-rollback?traffic_source=rss",
+      "published_date": "2026-10-02T20:28:07+00:00",
+      "category": "Energy"
     },
     {
       "title": "FATF Experts in Damascus: What Does Syria Need to Exit the Grey List?",
