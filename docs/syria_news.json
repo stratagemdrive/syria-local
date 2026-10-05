@@ -1,7 +1,7 @@
 {
   "country": "Syria",
-  "last_updated": "2026-10-05T01:20:22.149667+00:00",
-  "story_count": 35,
+  "last_updated": "2026-10-05T19:33:03.433754+00:00",
+  "story_count": 27,
   "stories": [
     {
       "title": "Syria is rising, al-Sharaa tells UN—but challenges remain at home",
@@ -39,39 +39,11 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Syria, U.S. discuss boosting bilateral ties, “Syria Without Camps” initiative",
-      "source": "SANA",
-      "url": "https://sana.sy/en/syria/2346669/",
-      "published_date": "2026-09-28T18:59:14+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Syria, UAE discuss preparations on participation in the 2026 U.N. Water Conference",
-      "source": "SANA",
-      "url": "https://sana.sy/en/syria/2346656/",
-      "published_date": "2026-09-28T17:29:28+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Syria, Sudan discuss bilateral ties, diplomatic mission in Damascus",
-      "source": "SANA",
-      "url": "https://sana.sy/en/politics/2346657/",
-      "published_date": "2026-09-28T17:29:13+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Turkish, Indonesian presidents discuss regional, international issues",
-      "source": "SANA",
-      "url": "https://sana.sy/en/international/2346653/",
-      "published_date": "2026-09-28T16:48:29+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "UK pledges tougher stance on Israeli actions in Gaza, West Bank",
+      "title": "Latest US military strike on alleged drug boat kills four in Caribbean",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/28/uk-pledges-tougher-stance-on-israeli-actions-in-gaza-west-bank?traffic_source=rss",
-      "published_date": "2026-09-28T15:35:21+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news/2026/10/5/latest-us-military-strike-on-alleged-drug-boat-kills-four-in-caribbean?traffic_source=rss",
+      "published_date": "2026-10-05T14:58:02+00:00",
+      "category": "Military"
     },
     {
       "title": "Syria: An exclusive look at the integration of Uyghur fighters in armed forces • FRANCE 24 English",
@@ -99,13 +71,6 @@
       "source": "SANA",
       "url": "https://sana.sy/en/international/2346876/",
       "published_date": "2026-09-29T12:33:04+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Israeli occupation shells outskirts of Tranja in Quneitra countryside",
-      "source": "SANA",
-      "url": "https://sana.sy/en/syria/2346665/",
-      "published_date": "2026-09-28T18:41:59+00:00",
       "category": "Military"
     },
     {
@@ -141,13 +106,6 @@
       "source": "SANA",
       "url": "https://sana.sy/en/economic/2346879/",
       "published_date": "2026-09-29T12:46:16+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "China, U.S. agree tariff cuts on $30 billion in imports each",
-      "source": "SANA",
-      "url": "https://sana.sy/en/economic/2346641/",
-      "published_date": "2026-09-28T14:26:33+00:00",
       "category": "Economy"
     },
     {
@@ -232,20 +190,6 @@
       "source": "Syrian Observer",
       "url": "https://syrianobserver.com/society/aleppo-citadel-launches-touristech-project-to-digitize-heritage-visits.html",
       "published_date": "2026-09-28T21:01:30+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Fourth Criminal Court opens war crimes trial of Samer Haidar, Ali Shamseddin",
-      "source": "SANA",
-      "url": "https://sana.sy/en/syria/2346662/",
-      "published_date": "2026-09-28T17:55:05+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "65 displaced families leave Manbij camp in voluntary return convoy",
-      "source": "SANA",
-      "url": "https://sana.sy/en/syria/2346644/",
-      "published_date": "2026-09-28T15:37:58+00:00",
       "category": "Local Events"
     }
   ]
