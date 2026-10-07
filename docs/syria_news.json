@@ -1,27 +1,20 @@
 {
   "country": "Syria",
-  "last_updated": "2026-10-06T17:00:45.710659+00:00",
-  "story_count": 17,
+  "last_updated": "2026-10-07T01:51:56.178052+00:00",
+  "story_count": 14,
   "stories": [
+    {
+      "title": "Syrian embassy returns seized passport after 43 years",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/7/syrian-embassy-returns-seized-passport-after-43-years?traffic_source=rss",
+      "published_date": "2026-10-07T01:20:11+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Syria is rising, al-Sharaa tells UN—but challenges remain at home",
       "source": "Syria Direct",
       "url": "https://syriadirect.org/syria-is-rising-al-sharaa-tells-un-but-challenges-remain-at-home/",
       "published_date": "2026-09-30T11:34:19+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Who Will Search for the Missing Women of Syria?",
-      "source": "Syrian Observer",
-      "url": "https://syrianobserver.com/society/who-will-search-for-the-missing-women-of-syria.html",
-      "published_date": "2026-09-29T21:00:30+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Japan Lifts Sanctions on 16 Syrian Entities, Keeps Assad on the List",
-      "source": "Syrian Observer",
-      "url": "https://syrianobserver.com/uncategorized/japan-lifts-sanctions-on-16-syrian-entities-keeps-assad-on-the-list.html",
-      "published_date": "2026-09-29T21:00:17+00:00",
       "category": "Diplomacy"
     },
     {
@@ -43,13 +36,6 @@
       "source": "Syrian Observer",
       "url": "https://syrianobserver.com/foreign-actors/syria-announces-foiling-of-rocket-plot-in-sensitive-area-near-the-golan.html",
       "published_date": "2026-09-30T21:01:54+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "After 16 Months in Detention, Israeli Forces Release Wadi Bakr",
-      "source": "Syrian Observer",
-      "url": "https://syrianobserver.com/foreign-actors/after-16-months-in-detention-israeli-forces-release-wadi-bakr.html",
-      "published_date": "2026-09-29T21:01:46+00:00",
       "category": "Military"
     },
     {
@@ -113,13 +99,6 @@
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/news/2026/9/30/the-october-7-warnings-threatening-netanyahus-israel-election-campaign?traffic_source=rss",
       "published_date": "2026-09-30T11:03:01+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Kaja Kallas in Damascus: Two Years That Redrew Syrian-European Relations",
-      "source": "Syrian Observer",
-      "url": "https://syrianobserver.com/foreign-actors/kaja-kallas-in-damascus-two-years-that-redrew-syrian-european-relations.html",
-      "published_date": "2026-09-29T21:02:47+00:00",
       "category": "Local Events"
     }
   ]
