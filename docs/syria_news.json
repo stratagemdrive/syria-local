@@ -1,7 +1,7 @@
 {
   "country": "Syria",
-  "last_updated": "2026-10-08T02:19:02.319184+00:00",
-  "story_count": 16,
+  "last_updated": "2026-10-08T17:40:41.374835+00:00",
+  "story_count": 18,
   "stories": [
     {
       "title": "At a Sensitive Regional Moment – Why Did President Sharaa Visit Saudi Arabia?",
@@ -29,6 +29,13 @@
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/news/liveblog/2026/10/8/yemen-war-live-yemeni-forces-claim-key-heights-as-houthi-attacks-go-on?traffic_source=rss",
       "published_date": "2026-10-08T00:00:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Israelis mourn 7 October attack victims three years after deadly Hamas raid",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cwkgj0g30m5jo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-10-07T20:27:03+00:00",
       "category": "Military"
     },
     {
@@ -79,6 +86,13 @@
       "url": "https://www.aljazeera.com/video/newsfeed/2026/10/6/syrian-airlines-unveils-laser-sharp-look-for-the-future?traffic_source=rss",
       "published_date": "2026-10-06T00:25:01+00:00",
       "category": "Economy"
+    },
+    {
+      "title": "US and Lebanon protecting wanted Syrian general, BBC finds",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c81dldewl5gwo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-10-08T05:00:44+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Free Operations and Staff Training – Medical Missions Expand in Damascus and Deir-ez-Zor",
