@@ -1,14 +1,35 @@
 {
   "country": "Syria",
-  "last_updated": "2026-10-07T17:37:35.206223+00:00",
-  "story_count": 14,
+  "last_updated": "2026-10-08T02:19:02.319184+00:00",
+  "story_count": 16,
   "stories": [
+    {
+      "title": "At a Sensitive Regional Moment – Why Did President Sharaa Visit Saudi Arabia?",
+      "source": "Syrian Observer",
+      "url": "https://syrianobserver.com/syrian-actors/at-a-sensitive-regional-moment-why-did-president-sharaa-visit-saudi-arabia.html",
+      "published_date": "2026-10-07T21:02:11+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Corruption Investigations Target Head of Protection and Diplomatic Security Branch in Homs",
+      "source": "Syrian Observer",
+      "url": "https://syrianobserver.com/syrian-actors/corruption-investigations-target-head-of-protection-and-diplomatic-security-branch-in-homs.html",
+      "published_date": "2026-10-07T21:01:00+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Syrian embassy returns seized passport after 43 years",
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/10/7/syrian-embassy-returns-seized-passport-after-43-years?traffic_source=rss",
       "published_date": "2026-10-07T01:20:11+00:00",
       "category": "Diplomacy"
+    },
+    {
+      "title": "Yemen war live: Yemeni forces claim key heights as Houthi attacks go on",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/10/8/yemen-war-live-yemeni-forces-claim-key-heights-as-houthi-attacks-go-on?traffic_source=rss",
+      "published_date": "2026-10-08T00:00:00+00:00",
+      "category": "Military"
     },
     {
       "title": "Residents of kibbutz destroyed in 7 October Hamas-led attacks grapple with how to rebuild",
@@ -39,13 +60,6 @@
       "category": "Military"
     },
     {
-      "title": "Syria Announces Foiling of Rocket Plot in Sensitive Area Near the Golan",
-      "source": "Syrian Observer",
-      "url": "https://syrianobserver.com/foreign-actors/syria-announces-foiling-of-rocket-plot-in-sensitive-area-near-the-golan.html",
-      "published_date": "2026-09-30T21:01:54+00:00",
-      "category": "Military"
-    },
-    {
       "title": "California leads lawsuit against Trump fuel efficiency standards rollback",
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/economy/2026/10/2/california-leads-lawsuit-against-trump-fuel-efficiency-standards-rollback?traffic_source=rss",
@@ -67,6 +81,27 @@
       "category": "Economy"
     },
     {
+      "title": "Free Operations and Staff Training – Medical Missions Expand in Damascus and Deir-ez-Zor",
+      "source": "Syrian Observer",
+      "url": "https://syrianobserver.com/society/free-operations-and-staff-training-medical-missions-expand-in-damascus-and-deir-ez-zor.html",
+      "published_date": "2026-10-07T21:00:25+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Syria’s Heritage vs Investment – Violations Halt Projects in Damascus and Homs",
+      "source": "Syrian Observer",
+      "url": "https://syrianobserver.com/society/syrias-heritage-vs-investment-violations-halt-projects-in-damascus-and-homs.html",
+      "published_date": "2026-10-07T21:00:14+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "US Republicans, independents express low trust in election integrity: Poll",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/7/us-republicans-independents-express-low-trust-in-election-integrity-poll?traffic_source=rss",
+      "published_date": "2026-10-07T20:27:47+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "Freed Syrians recount torture in Israeli detention centre",
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/10/5/freed-syrians-recount-torture-in-israeli-detention-centre?traffic_source=rss",
@@ -78,27 +113,6 @@
       "source": "Syrian Observer",
       "url": "https://syrianobserver.com/society/fuel-price-hikes-reshuffle-spending-priorities-in-suweida.html",
       "published_date": "2026-10-01T21:00:21+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Gunmen kill 7 on bus in Syria as pipeline blast knocks out 3 power plants",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/30/gas-pipeline-explodes-in-syria-knocks-three-power-plants-offline?traffic_source=rss",
-      "published_date": "2026-09-30T21:01:13+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Latakia University Is Syria’s Only University With a Numerical Ranking in Times 2027 Rankings",
-      "source": "Syrian Observer",
-      "url": "https://syrianobserver.com/society/latakia-university-is-syrias-only-university-with-a-numerical-ranking-in-times-2027-rankings.html",
-      "published_date": "2026-09-30T21:00:50+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Until New Elections, Interim Executive Offices for Qardaha and 13 Towns in Latakia",
-      "source": "Syrian Observer",
-      "url": "https://syrianobserver.com/syrian-actors/until-new-elections-interim-executive-offices-for-qardaha-and-13-towns-in-latakia.html",
-      "published_date": "2026-09-30T21:00:40+00:00",
       "category": "Local Events"
     }
   ]
