@@ -1,7 +1,7 @@
 {
   "country": "Syria",
-  "last_updated": "2026-10-08T17:40:41.374835+00:00",
-  "story_count": 18,
+  "last_updated": "2026-10-09T02:36:39.520007+00:00",
+  "story_count": 16,
   "stories": [
     {
       "title": "At a Sensitive Regional Moment – Why Did President Sharaa Visit Saudi Arabia?",
@@ -74,13 +74,6 @@
       "category": "Energy"
     },
     {
-      "title": "FATF Experts in Damascus: What Does Syria Need to Exit the Grey List?",
-      "source": "Syrian Observer",
-      "url": "https://syrianobserver.com/society/fatf-experts-in-damascus-what-does-syria-need-to-exit-the-grey-list.html",
-      "published_date": "2026-10-01T21:01:56+00:00",
-      "category": "Energy"
-    },
-    {
       "title": "Syrian Airlines unveils laser-sharp look for the future",
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/10/6/syrian-airlines-unveils-laser-sharp-look-for-the-future?traffic_source=rss",
@@ -120,13 +113,6 @@
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/10/5/freed-syrians-recount-torture-in-israeli-detention-centre?traffic_source=rss",
       "published_date": "2026-10-05T19:57:29+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Fuel Price Hikes Reshuffle Spending Priorities in Suweida",
-      "source": "Syrian Observer",
-      "url": "https://syrianobserver.com/society/fuel-price-hikes-reshuffle-spending-priorities-in-suweida.html",
-      "published_date": "2026-10-01T21:00:21+00:00",
       "category": "Local Events"
     }
   ]
