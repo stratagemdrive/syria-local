@@ -1,7 +1,7 @@
 {
   "country": "Syria",
-  "last_updated": "2026-10-09T02:36:39.520007+00:00",
-  "story_count": 16,
+  "last_updated": "2026-10-09T17:15:50.716390+00:00",
+  "story_count": 19,
   "stories": [
     {
       "title": "At a Sensitive Regional Moment – Why Did President Sharaa Visit Saudi Arabia?",
@@ -23,6 +23,27 @@
       "url": "https://www.aljazeera.com/video/newsfeed/2026/10/7/syrian-embassy-returns-seized-passport-after-43-years?traffic_source=rss",
       "published_date": "2026-10-07T01:20:11+00:00",
       "category": "Diplomacy"
+    },
+    {
+      "title": "Syria Studying Military Support for Saudi Arabia in Yemen War",
+      "source": "Syrian Observer",
+      "url": "https://syrianobserver.com/foreign-actors/syria-studying-military-support-for-saudi-arabia-in-yemen-war.html",
+      "published_date": "2026-10-08T21:02:11+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Investigation Reveals US Protection for Assad Regime Officer in Lebanon",
+      "source": "Syrian Observer",
+      "url": "https://syrianobserver.com/foreign-actors/investigation-reveals-us-protection-for-assad-regime-officer-in-lebanon.html",
+      "published_date": "2026-10-08T21:01:46+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "13 Years After Its Closure Due to Ousted Regime’s Shelling – Great Umayyad Mosque of Aleppo Reopens",
+      "source": "Syrian Observer",
+      "url": "https://syrianobserver.com/society/13-years-after-its-closure-due-to-ousted-regimes-shelling-great-umayyad-mosque-of-aleppo-reopens.html",
+      "published_date": "2026-10-08T21:00:06+00:00",
+      "category": "Military"
     },
     {
       "title": "Yemen war live: Yemeni forces claim key heights as Houthi attacks go on",
@@ -60,18 +81,18 @@
       "category": "Military"
     },
     {
-      "title": "Syria: An exclusive look at the integration of Uyghur fighters in armed forces • FRANCE 24 English",
-      "source": "Syrian Observer",
-      "url": "https://syrianobserver.com/youtube/syria-an-exclusive-look-at-the-integration-of-uyghur-fighters-in-armed-forces-france-24-english.html",
-      "published_date": "2026-10-02T09:42:28+00:00",
-      "category": "Military"
-    },
-    {
       "title": "California leads lawsuit against Trump fuel efficiency standards rollback",
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/economy/2026/10/2/california-leads-lawsuit-against-trump-fuel-efficiency-standards-rollback?traffic_source=rss",
       "published_date": "2026-10-02T20:28:07+00:00",
       "category": "Energy"
+    },
+    {
+      "title": "Hammam al-Jazaeri – What Do We Know About Assad’s Economy Minister Whose Sanctions Britain Lifted?",
+      "source": "Syrian Observer",
+      "url": "https://syrianobserver.com/foreign-actors/hammam-al-jazaeri-what-do-we-know-about-assads-economy-minister-whose-sanctions-britain-lifted.html",
+      "published_date": "2026-10-08T21:00:00+00:00",
+      "category": "Economy"
     },
     {
       "title": "Syrian Airlines unveils laser-sharp look for the future",
