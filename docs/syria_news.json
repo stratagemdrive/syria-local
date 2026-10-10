@@ -1,8 +1,15 @@
 {
   "country": "Syria",
-  "last_updated": "2026-10-09T17:15:50.716390+00:00",
-  "story_count": 19,
+  "last_updated": "2026-10-10T01:57:10.898476+00:00",
+  "story_count": 20,
   "stories": [
+    {
+      "title": "Gaza ceasefire ‘exists in name only’, more than 100 NGOs say",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/9/gaza-ceasefire-exists-in-name-only-more-than-100-ngos-say?traffic_source=rss",
+      "published_date": "2026-10-09T18:15:06+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "At a Sensitive Regional Moment – Why Did President Sharaa Visit Saudi Arabia?",
       "source": "Syrian Observer",
@@ -23,6 +30,13 @@
       "url": "https://www.aljazeera.com/video/newsfeed/2026/10/7/syrian-embassy-returns-seized-passport-after-43-years?traffic_source=rss",
       "published_date": "2026-10-07T01:20:11+00:00",
       "category": "Diplomacy"
+    },
+    {
+      "title": "Israeli drone attack wounds six in Lebanon near Syria border",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/10/israeli-drone-attack-wounds-six-in-lebanon-near-syria-border?traffic_source=rss",
+      "published_date": "2026-10-10T00:22:52+00:00",
+      "category": "Military"
     },
     {
       "title": "Syria Studying Military Support for Saudi Arabia in Yemen War",
@@ -79,13 +93,6 @@
       "url": "https://www.aljazeera.com/news/2026/10/5/latest-us-military-strike-on-alleged-drug-boat-kills-four-in-caribbean?traffic_source=rss",
       "published_date": "2026-10-05T14:58:02+00:00",
       "category": "Military"
-    },
-    {
-      "title": "California leads lawsuit against Trump fuel efficiency standards rollback",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/economy/2026/10/2/california-leads-lawsuit-against-trump-fuel-efficiency-standards-rollback?traffic_source=rss",
-      "published_date": "2026-10-02T20:28:07+00:00",
-      "category": "Energy"
     },
     {
       "title": "Hammam al-Jazaeri – What Do We Know About Assad’s Economy Minister Whose Sanctions Britain Lifted?",
