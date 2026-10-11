@@ -1,7 +1,7 @@
 {
   "country": "Syria",
-  "last_updated": "2026-10-11T01:22:03.260610+00:00",
-  "story_count": 20,
+  "last_updated": "2026-10-11T16:28:34.119902+00:00",
+  "story_count": 21,
   "stories": [
     {
       "title": "Gaza ceasefire ‘exists in name only’, more than 100 NGOs say",
@@ -107,6 +107,13 @@
       "url": "https://www.aljazeera.com/video/newsfeed/2026/10/6/syrian-airlines-unveils-laser-sharp-look-for-the-future?traffic_source=rss",
       "published_date": "2026-10-06T00:25:01+00:00",
       "category": "Economy"
+    },
+    {
+      "title": "Surgeon faces deportation as Home Office revokes refugee status for Syrians",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/politics/2026/oct/11/surgeon-faces-deportation-syria-uk-home-office-revokes-refugee-status-syrians",
+      "published_date": "2026-10-11T09:00:22+00:00",
+      "category": "Local Events"
     },
     {
       "title": "US and Lebanon protecting wanted Syrian general, BBC finds",
