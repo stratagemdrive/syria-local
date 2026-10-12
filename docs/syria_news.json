@@ -1,8 +1,15 @@
 {
   "country": "Syria",
-  "last_updated": "2026-10-12T01:52:41.362973+00:00",
-  "story_count": 21,
+  "last_updated": "2026-10-12T20:04:18.447507+00:00",
+  "story_count": 23,
   "stories": [
+    {
+      "title": "UK blames Iran for airbase plot, sanctions two Iranian nationals",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/12/uk-blames-iran-for-airbase-plot-sanctions-two-iranian-nationals?traffic_source=rss",
+      "published_date": "2026-10-12T18:51:18+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Gaza ceasefire ‘exists in name only’, more than 100 NGOs say",
       "source": "Al Jazeera",
@@ -30,6 +37,13 @@
       "url": "https://www.aljazeera.com/video/newsfeed/2026/10/7/syrian-embassy-returns-seized-passport-after-43-years?traffic_source=rss",
       "published_date": "2026-10-07T01:20:11+00:00",
       "category": "Diplomacy"
+    },
+    {
+      "title": "Dozens of gold prospectors killed in strikes on Egypt-Sudan border, rights group says",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cqy43vrk8wv8o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-10-11T21:12:44+00:00",
+      "category": "Military"
     },
     {
       "title": "Israeli drone attack wounds six in Lebanon near Syria border",
@@ -88,13 +102,6 @@
       "category": "Military"
     },
     {
-      "title": "Latest US military strike on alleged drug boat kills four in Caribbean",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/5/latest-us-military-strike-on-alleged-drug-boat-kills-four-in-caribbean?traffic_source=rss",
-      "published_date": "2026-10-05T14:58:02+00:00",
-      "category": "Military"
-    },
-    {
       "title": "Hammam al-Jazaeri – What Do We Know About Assad’s Economy Minister Whose Sanctions Britain Lifted?",
       "source": "Syrian Observer",
       "url": "https://syrianobserver.com/foreign-actors/hammam-al-jazaeri-what-do-we-know-about-assads-economy-minister-whose-sanctions-britain-lifted.html",
@@ -107,6 +114,20 @@
       "url": "https://www.aljazeera.com/video/newsfeed/2026/10/6/syrian-airlines-unveils-laser-sharp-look-for-the-future?traffic_source=rss",
       "published_date": "2026-10-06T00:25:01+00:00",
       "category": "Economy"
+    },
+    {
+      "title": "The Damascus oud maker fighting to keep a generations-old craft alive",
+      "source": "Syria Direct",
+      "url": "https://syriadirect.org/the-damascus-oud-maker-fighting-to-keep-a-generations-old-craft-alive/",
+      "published_date": "2026-10-12T04:29:12+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Reconciliation Councils Expand Across Syria: How Are They Handling Disputes Left by the War?",
+      "source": "Syrian Observer",
+      "url": "https://syrianobserver.com/syrian-actors/reconciliation-councils-expand-across-syria-how-are-they-handling-disputes-left-by-the-war.html",
+      "published_date": "2026-10-11T21:00:59+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Surgeon faces deportation as Home Office revokes refugee status for Syrians",
@@ -141,13 +162,6 @@
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/news/2026/10/7/us-republicans-independents-express-low-trust-in-election-integrity-poll?traffic_source=rss",
       "published_date": "2026-10-07T20:27:47+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Freed Syrians recount torture in Israeli detention centre",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/5/freed-syrians-recount-torture-in-israeli-detention-centre?traffic_source=rss",
-      "published_date": "2026-10-05T19:57:29+00:00",
       "category": "Local Events"
     }
   ]
