@@ -1,6 +1,6 @@
 {
   "country": "Syria",
-  "last_updated": "2026-10-12T20:04:18.447507+00:00",
+  "last_updated": "2026-10-13T03:14:35.017594+00:00",
   "story_count": 23,
   "stories": [
     {
@@ -37,6 +37,13 @@
       "url": "https://www.aljazeera.com/video/newsfeed/2026/10/7/syrian-embassy-returns-seized-passport-after-43-years?traffic_source=rss",
       "published_date": "2026-10-07T01:20:11+00:00",
       "category": "Diplomacy"
+    },
+    {
+      "title": "Iran war live: Trump says Houthis ‘misbehaving’ as Riyadh flights halted",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/10/13/iran-war-live-trump-says-houthis-misbehaving-as-riyadh-flights-halted?traffic_source=rss",
+      "published_date": "2026-10-13T00:00:00+00:00",
+      "category": "Military"
     },
     {
       "title": "Dozens of gold prospectors killed in strikes on Egypt-Sudan border, rights group says",
@@ -106,13 +113,6 @@
       "source": "Syrian Observer",
       "url": "https://syrianobserver.com/foreign-actors/hammam-al-jazaeri-what-do-we-know-about-assads-economy-minister-whose-sanctions-britain-lifted.html",
       "published_date": "2026-10-08T21:00:00+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Syrian Airlines unveils laser-sharp look for the future",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/6/syrian-airlines-unveils-laser-sharp-look-for-the-future?traffic_source=rss",
-      "published_date": "2026-10-06T00:25:01+00:00",
       "category": "Economy"
     },
     {
