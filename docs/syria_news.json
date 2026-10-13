@@ -1,8 +1,15 @@
 {
   "country": "Syria",
-  "last_updated": "2026-10-13T03:14:35.017594+00:00",
-  "story_count": 23,
+  "last_updated": "2026-10-13T17:52:56.032011+00:00",
+  "story_count": 24,
   "stories": [
+    {
+      "title": "US ambassador to Greece resigns amid misconduct allegations",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/13/trumps-ambassador-to-greece-asked-to-resign-amid-misconduct-allegations?traffic_source=rss",
+      "published_date": "2026-10-13T15:37:32+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "UK blames Iran for airbase plot, sanctions two Iranian nationals",
       "source": "Al Jazeera",
