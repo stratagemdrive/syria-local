@@ -1,13 +1,27 @@
 {
   "country": "Syria",
-  "last_updated": "2026-10-13T17:52:56.032011+00:00",
-  "story_count": 24,
+  "last_updated": "2026-10-14T01:27:14.355509+00:00",
+  "story_count": 28,
   "stories": [
+    {
+      "title": "Syria and Jordan Foreign Ministers Discuss Bilateral Ties and Regional Developments",
+      "source": "Syrian Observer",
+      "url": "https://syrianobserver.com/foreign-actors/syria-and-jordan-foreign-ministers-discuss-bilateral-ties-and-regional-developments.html",
+      "published_date": "2026-10-13T21:01:34+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "US ambassador to Greece resigns amid misconduct allegations",
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/news/2026/10/13/trumps-ambassador-to-greece-asked-to-resign-amid-misconduct-allegations?traffic_source=rss",
       "published_date": "2026-10-13T15:37:32+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Damascus Hosts Syrian‑German Conference to Advance Educational, Scientific, and Cultural Cooperation",
+      "source": "Syrian Observer",
+      "url": "https://syrianobserver.com/foreign-actors/damascus-hosts-syrian-german-conference-to-advance-educational-scientific-and-cultural-cooperation.html",
+      "published_date": "2026-10-12T21:00:34+00:00",
       "category": "Diplomacy"
     },
     {
@@ -36,13 +50,6 @@
       "source": "Syrian Observer",
       "url": "https://syrianobserver.com/syrian-actors/corruption-investigations-target-head-of-protection-and-diplomatic-security-branch-in-homs.html",
       "published_date": "2026-10-07T21:01:00+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Syrian embassy returns seized passport after 43 years",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/7/syrian-embassy-returns-seized-passport-after-43-years?traffic_source=rss",
-      "published_date": "2026-10-07T01:20:11+00:00",
       "category": "Diplomacy"
     },
     {
@@ -116,11 +123,32 @@
       "category": "Military"
     },
     {
+      "title": "Property Hoarding in Syria: Why Has Land Become More Attractive Than Factories?",
+      "source": "Syrian Observer",
+      "url": "https://syrianobserver.com/society/property-hoarding-in-syria-why-has-land-become-more-attractive-than-factories.html",
+      "published_date": "2026-10-13T21:02:45+00:00",
+      "category": "Economy"
+    },
+    {
       "title": "Hammam al-Jazaeri – What Do We Know About Assad’s Economy Minister Whose Sanctions Britain Lifted?",
       "source": "Syrian Observer",
       "url": "https://syrianobserver.com/foreign-actors/hammam-al-jazaeri-what-do-we-know-about-assads-economy-minister-whose-sanctions-britain-lifted.html",
       "published_date": "2026-10-08T21:00:00+00:00",
       "category": "Economy"
+    },
+    {
+      "title": "Germany Revokes Refugee Status for Select Syrians, Citing Post‑Conflict Return Possibilities",
+      "source": "Syrian Observer",
+      "url": "https://syrianobserver.com/refugees/germany-revokes-refugee-status-for-select-syrians-citing-post-conflict-return-possibilities.html",
+      "published_date": "2026-10-13T21:00:51+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Levant Christians Face Peril of Extinction Amid Century-Long Demographic Decline",
+      "source": "Syrian Observer",
+      "url": "https://syrianobserver.com/society/levant-christians-face-peril-of-extinction-amid-century-long-demographic-decline.html",
+      "published_date": "2026-10-13T20:15:42+00:00",
+      "category": "Local Events"
     },
     {
       "title": "The Damascus oud maker fighting to keep a generations-old craft alive",
