@@ -1,7 +1,7 @@
 {
   "country": "Syria",
-  "last_updated": "2026-10-14T15:39:40.701902+00:00",
-  "story_count": 26,
+  "last_updated": "2026-10-15T01:00:18.761593+00:00",
+  "story_count": 25,
   "stories": [
     {
       "title": "Syria and Jordan Foreign Ministers Discuss Bilateral Ties and Regional Developments",
@@ -39,18 +39,25 @@
       "category": "Diplomacy"
     },
     {
-      "title": "At a Sensitive Regional Moment – Why Did President Sharaa Visit Saudi Arabia?",
+      "title": "Syrian Defence Minister and OPCW Chief Discuss Final Steps to Close Chemical Weapons File",
       "source": "Syrian Observer",
-      "url": "https://syrianobserver.com/syrian-actors/at-a-sensitive-regional-moment-why-did-president-sharaa-visit-saudi-arabia.html",
-      "published_date": "2026-10-07T21:02:11+00:00",
-      "category": "Diplomacy"
+      "url": "https://syrianobserver.com/syrian-actors/syrian-defence-minister-and-opcw-chief-discuss-final-steps-to-close-chemical-weapons-file.html",
+      "published_date": "2026-10-14T21:01:55+00:00",
+      "category": "Military"
     },
     {
-      "title": "Corruption Investigations Target Head of Protection and Diplomatic Security Branch in Homs",
+      "title": "Why Syria Should Avoid the Conflict in Yemen",
       "source": "Syrian Observer",
-      "url": "https://syrianobserver.com/syrian-actors/corruption-investigations-target-head-of-protection-and-diplomatic-security-branch-in-homs.html",
-      "published_date": "2026-10-07T21:01:00+00:00",
-      "category": "Diplomacy"
+      "url": "https://syrianobserver.com/foreign-actors/why-syria-should-avoid-the-conflict-in-yemen.html",
+      "published_date": "2026-10-14T21:00:50+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Syria Denies Aleppo Attacks After Deadly Patrol Ambush",
+      "source": "Syrian Observer",
+      "url": "https://syrianobserver.com/syrian-actors/syria-denies-aleppo-attacks-after-deadly-patrol-ambush.html",
+      "published_date": "2026-10-14T21:00:49+00:00",
+      "category": "Military"
     },
     {
       "title": "Iran war live: Trump says Houthis ‘misbehaving’ as Riyadh flights halted",
@@ -95,18 +102,18 @@
       "category": "Military"
     },
     {
-      "title": "Yemen war live: Yemeni forces claim key heights as Houthi attacks go on",
+      "title": "Denmark pushes back as Trump touts Greenland oil and mineral deals",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/10/8/yemen-war-live-yemeni-forces-claim-key-heights-as-houthi-attacks-go-on?traffic_source=rss",
-      "published_date": "2026-10-08T00:00:00+00:00",
-      "category": "Military"
+      "url": "https://www.aljazeera.com/news/2026/10/14/denmark-pushes-back-as-trump-touts-greenland-oil-and-mineral-deals?traffic_source=rss",
+      "published_date": "2026-10-14T23:03:10+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Israelis mourn 7 October attack victims three years after deadly Hamas raid",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cwkgj0g30m5jo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-10-07T20:27:03+00:00",
-      "category": "Military"
+      "title": "Syria Steps Up European Economic Engagement with EBRD Membership Bid and German Business Talks",
+      "source": "Syrian Observer",
+      "url": "https://syrianobserver.com/foreign-actors/syria-steps-up-european-economic-engagement-with-ebrd-membership-bid-and-german-business-talks.html",
+      "published_date": "2026-10-14T21:00:58+00:00",
+      "category": "Economy"
     },
     {
       "title": "Property Hoarding in Syria: Why Has Land Become More Attractive Than Factories?",
@@ -121,6 +128,13 @@
       "url": "https://syrianobserver.com/foreign-actors/hammam-al-jazaeri-what-do-we-know-about-assads-economy-minister-whose-sanctions-britain-lifted.html",
       "published_date": "2026-10-08T21:00:00+00:00",
       "category": "Economy"
+    },
+    {
+      "title": "Tensions Rise in Hassakeh After Protests Demand Restoration of State Authority",
+      "source": "Syrian Observer",
+      "url": "https://syrianobserver.com/syrian-actors/tensions-rise-in-hassakeh-after-protests-demand-restoration-of-state-authority.html",
+      "published_date": "2026-10-14T21:01:37+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Germany Revokes Refugee Status for Select Syrians, Citing Post‑Conflict Return Possibilities",
@@ -162,27 +176,6 @@
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/c81dldewl5gwo?at_medium=RSS&at_campaign=rss",
       "published_date": "2026-10-08T05:00:44+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Free Operations and Staff Training – Medical Missions Expand in Damascus and Deir-ez-Zor",
-      "source": "Syrian Observer",
-      "url": "https://syrianobserver.com/society/free-operations-and-staff-training-medical-missions-expand-in-damascus-and-deir-ez-zor.html",
-      "published_date": "2026-10-07T21:00:25+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Syria’s Heritage vs Investment – Violations Halt Projects in Damascus and Homs",
-      "source": "Syrian Observer",
-      "url": "https://syrianobserver.com/society/syrias-heritage-vs-investment-violations-halt-projects-in-damascus-and-homs.html",
-      "published_date": "2026-10-07T21:00:14+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "US Republicans, independents express low trust in election integrity: Poll",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/7/us-republicans-independents-express-low-trust-in-election-integrity-poll?traffic_source=rss",
-      "published_date": "2026-10-07T20:27:47+00:00",
       "category": "Local Events"
     }
   ]
