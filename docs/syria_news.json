@@ -1,6 +1,6 @@
 {
   "country": "Syria",
-  "last_updated": "2026-10-15T01:00:18.761593+00:00",
+  "last_updated": "2026-10-15T15:26:00.671265+00:00",
   "story_count": 25,
   "stories": [
     {
@@ -130,6 +130,13 @@
       "category": "Economy"
     },
     {
+      "title": "Global charity withholds report into its role in Syria's 'disappeared' children",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cm62y89dpd4lo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-10-14T23:20:57+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "Tensions Rise in Hassakeh After Protests Demand Restoration of State Authority",
       "source": "Syrian Observer",
       "url": "https://syrianobserver.com/syrian-actors/tensions-rise-in-hassakeh-after-protests-demand-restoration-of-state-authority.html",
@@ -169,13 +176,6 @@
       "source": "The Guardian",
       "url": "https://www.theguardian.com/politics/2026/oct/11/surgeon-faces-deportation-syria-uk-home-office-revokes-refugee-status-syrians",
       "published_date": "2026-10-11T09:00:22+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "US and Lebanon protecting wanted Syrian general, BBC finds",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c81dldewl5gwo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-10-08T05:00:44+00:00",
       "category": "Local Events"
     }
   ]
