@@ -1,8 +1,15 @@
 {
   "country": "Syria",
-  "last_updated": "2026-10-15T15:26:00.671265+00:00",
-  "story_count": 25,
+  "last_updated": "2026-10-16T00:50:58.381455+00:00",
+  "story_count": 27,
   "stories": [
+    {
+      "title": "Syrian Foreign Minister Arrives in Riyadh for Official Visit to Strengthen Bilateral Relations",
+      "source": "Syrian Observer",
+      "url": "https://syrianobserver.com/foreign-actors/syrian-foreign-minister-arrives-in-riyadh-for-official-visit-to-strengthen-bilateral-relations.html",
+      "published_date": "2026-10-15T21:00:57+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Syria and Jordan Foreign Ministers Discuss Bilateral Ties and Regional Developments",
       "source": "Syrian Observer",
@@ -81,25 +88,18 @@
       "category": "Military"
     },
     {
-      "title": "Syria Studying Military Support for Saudi Arabia in Yemen War",
-      "source": "Syrian Observer",
-      "url": "https://syrianobserver.com/foreign-actors/syria-studying-military-support-for-saudi-arabia-in-yemen-war.html",
-      "published_date": "2026-10-08T21:02:11+00:00",
-      "category": "Military"
+      "title": "Two Syrian pipelines damaged amid spate of attacks on energy infrastructure",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/economy/2026/10/15/two-syrian-pipelines-damaged-amid-spate-of-attacks-on-energy-infrastructure?traffic_source=rss",
+      "published_date": "2026-10-15T23:35:26+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Investigation Reveals US Protection for Assad Regime Officer in Lebanon",
+      "title": "Syrian Petroleum Company Contracts Under Scrutiny: What We Know About the $104 Million Audit",
       "source": "Syrian Observer",
-      "url": "https://syrianobserver.com/foreign-actors/investigation-reveals-us-protection-for-assad-regime-officer-in-lebanon.html",
-      "published_date": "2026-10-08T21:01:46+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "13 Years After Its Closure Due to Ousted Regime’s Shelling – Great Umayyad Mosque of Aleppo Reopens",
-      "source": "Syrian Observer",
-      "url": "https://syrianobserver.com/society/13-years-after-its-closure-due-to-ousted-regimes-shelling-great-umayyad-mosque-of-aleppo-reopens.html",
-      "published_date": "2026-10-08T21:00:06+00:00",
-      "category": "Military"
+      "url": "https://syrianobserver.com/society/syrian-petroleum-company-contracts-under-scrutiny-what-we-know-about-the-104-million-audit.html",
+      "published_date": "2026-10-15T21:01:53+00:00",
+      "category": "Energy"
     },
     {
       "title": "Denmark pushes back as Trump touts Greenland oil and mineral deals",
@@ -107,6 +107,13 @@
       "url": "https://www.aljazeera.com/news/2026/10/14/denmark-pushes-back-as-trump-touts-greenland-oil-and-mineral-deals?traffic_source=rss",
       "published_date": "2026-10-14T23:03:10+00:00",
       "category": "Energy"
+    },
+    {
+      "title": "Israel halts commercial goods from entering Gaza; Hamas denies tax claims",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/15/israel-halts-commercial-goods-from-entering-gaza-hamas-denies-tax-claims?traffic_source=rss",
+      "published_date": "2026-10-15T21:57:58+00:00",
+      "category": "Economy"
     },
     {
       "title": "Syria Steps Up European Economic Engagement with EBRD Membership Bid and German Business Talks",
@@ -123,11 +130,18 @@
       "category": "Economy"
     },
     {
-      "title": "Hammam al-Jazaeri – What Do We Know About Assad’s Economy Minister Whose Sanctions Britain Lifted?",
+      "title": "After Netanyahu Claims he Held a Phone Call with Sharaa, Syria Says it “Thwarted Plans” to Destabilize the Country",
       "source": "Syrian Observer",
-      "url": "https://syrianobserver.com/foreign-actors/hammam-al-jazaeri-what-do-we-know-about-assads-economy-minister-whose-sanctions-britain-lifted.html",
-      "published_date": "2026-10-08T21:00:00+00:00",
-      "category": "Economy"
+      "url": "https://syrianobserver.com/foreign-actors/after-netanyahu-claims-he-held-a-phone-call-with-sharaa-syria-says-it-thwarted-plans-to-destabilize-the-country.html",
+      "published_date": "2026-10-15T21:02:37+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Syrian court sentences two to death over 2025 coastal massacres",
+      "source": "Syrian Observer",
+      "url": "https://syrianobserver.com/youtube/syrian-court-sentences-two-to-death-over-2025-coastal-massacres.html",
+      "published_date": "2026-10-15T20:39:56+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Global charity withholds report into its role in Syria's 'disappeared' children",
