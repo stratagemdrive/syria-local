@@ -1,7 +1,7 @@
 {
   "country": "Syria",
-  "last_updated": "2026-10-18T00:28:04.506825+00:00",
-  "story_count": 27,
+  "last_updated": "2026-10-18T14:13:23.864136+00:00",
+  "story_count": 26,
   "stories": [
     {
       "title": "US ambassador urges Israel to prosecute attackers of American journalist",
@@ -183,13 +183,6 @@
       "source": "Syrian Observer",
       "url": "https://syrianobserver.com/syrian-actors/reconciliation-councils-expand-across-syria-how-are-they-handling-disputes-left-by-the-war.html",
       "published_date": "2026-10-11T21:00:59+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Surgeon faces deportation as Home Office revokes refugee status for Syrians",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/politics/2026/oct/11/surgeon-faces-deportation-syria-uk-home-office-revokes-refugee-status-syrians",
-      "published_date": "2026-10-11T09:00:22+00:00",
       "category": "Local Events"
     }
   ]
