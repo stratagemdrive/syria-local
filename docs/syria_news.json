@@ -1,8 +1,15 @@
 {
   "country": "Syria",
-  "last_updated": "2026-10-17T14:00:19.527909+00:00",
-  "story_count": 26,
+  "last_updated": "2026-10-18T00:28:04.506825+00:00",
+  "story_count": 27,
   "stories": [
+    {
+      "title": "US ambassador urges Israel to prosecute attackers of American journalist",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/17/us-ambassador-calls-on-israel-to-prosecute-settlers-over-journalist-attack?traffic_source=rss",
+      "published_date": "2026-10-17T23:40:59+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Syrian Foreign Minister Arrives in Riyadh for Official Visit to Strengthen Bilateral Relations",
       "source": "Syrian Observer",
