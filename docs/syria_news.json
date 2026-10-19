@@ -1,6 +1,6 @@
 {
   "country": "Syria",
-  "last_updated": "2026-10-19T00:33:35.663598+00:00",
+  "last_updated": "2026-10-19T17:17:40.357597+00:00",
   "story_count": 29,
   "stories": [
     {
@@ -151,6 +151,13 @@
       "category": "Economy"
     },
     {
+      "title": "Syria’s Kurds fight to keep their language alive in the classroom",
+      "source": "Syria Direct",
+      "url": "https://syriadirect.org/syrias-kurds-fight-to-keep-their-language-alive-in-the-classroom/",
+      "published_date": "2026-10-19T08:56:49+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "Renewed Calls for Dialogue in Suweida: Is a Political Settlement Within Reach?",
       "source": "Syrian Observer",
       "url": "https://syrianobserver.com/syrian-actors/renewed-calls-for-dialogue-in-suweida-is-a-political-settlement-within-reach.html",
@@ -197,13 +204,6 @@
       "source": "Syrian Observer",
       "url": "https://syrianobserver.com/society/levant-christians-face-peril-of-extinction-amid-century-long-demographic-decline.html",
       "published_date": "2026-10-13T20:15:42+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "The Damascus oud maker fighting to keep a generations-old craft alive",
-      "source": "Syria Direct",
-      "url": "https://syriadirect.org/the-damascus-oud-maker-fighting-to-keep-a-generations-old-craft-alive/",
-      "published_date": "2026-10-12T04:29:12+00:00",
       "category": "Local Events"
     }
   ]
