@@ -1,8 +1,15 @@
 {
   "country": "Syria",
-  "last_updated": "2026-10-18T14:13:23.864136+00:00",
-  "story_count": 26,
+  "last_updated": "2026-10-19T00:33:35.663598+00:00",
+  "story_count": 29,
   "stories": [
+    {
+      "title": "Syria’s Shibani Demands Israeli Withdrawal and Return to 1974 Disengagement Lines",
+      "source": "Syrian Observer",
+      "url": "https://syrianobserver.com/foreign-actors/syrias-shibani-demands-israeli-withdrawal-and-return-to-1974-disengagement-lines.html",
+      "published_date": "2026-10-18T21:01:16+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "US ambassador urges Israel to prosecute attackers of American journalist",
       "source": "Al Jazeera",
@@ -46,6 +53,13 @@
       "category": "Diplomacy"
     },
     {
+      "title": "Beyond a Mere Road: How Israel Consolidates Control through “Sofa 53”",
+      "source": "Syrian Observer",
+      "url": "https://syrianobserver.com/foreign-actors/beyond-a-mere-road-how-israel-consolidates-control-through-sofa-53.html",
+      "published_date": "2026-10-18T21:00:01+00:00",
+      "category": "Military"
+    },
+    {
       "title": "How Iran messaging highlights cost of war ahead of US midterm elections",
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/news/2026/10/16/how-iran-messaging-highlights-cost-of-war-ahead-of-us-midterm-elections?traffic_source=rss",
@@ -81,11 +95,11 @@
       "category": "Military"
     },
     {
-      "title": "Dozens of gold prospectors killed in strikes on Egypt-Sudan border, rights group says",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cqy43vrk8wv8o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-10-11T21:12:44+00:00",
-      "category": "Military"
+      "title": "Two Presidential Decrees Reshuffle Leadership of Syria’s Petroleum Corporation and Sovereign Wealth Fund",
+      "source": "Syrian Observer",
+      "url": "https://syrianobserver.com/society/two-presidential-decrees-reshuffle-leadership-of-syrias-petroleum-corporation-and-sovereign-wealth-fund.html",
+      "published_date": "2026-10-18T21:02:14+00:00",
+      "category": "Energy"
     },
     {
       "title": "Two Syrian pipelines damaged amid spate of attacks on energy infrastructure",
@@ -109,6 +123,13 @@
       "category": "Energy"
     },
     {
+      "title": "Syria Explores Sovereign Bond Issuance and Launch of Infrastructure Recovery Fund",
+      "source": "Syrian Observer",
+      "url": "https://syrianobserver.com/society/syria-explores-sovereign-bond-issuance-and-launch-of-infrastructure-recovery-fund.html",
+      "published_date": "2026-10-18T21:00:46+00:00",
+      "category": "Economy"
+    },
+    {
       "title": "Israel halts commercial goods from entering Gaza; Hamas denies tax claims",
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/news/2026/10/15/israel-halts-commercial-goods-from-entering-gaza-hamas-denies-tax-claims?traffic_source=rss",
@@ -128,6 +149,13 @@
       "url": "https://syrianobserver.com/society/property-hoarding-in-syria-why-has-land-become-more-attractive-than-factories.html",
       "published_date": "2026-10-13T21:02:45+00:00",
       "category": "Economy"
+    },
+    {
+      "title": "Renewed Calls for Dialogue in Suweida: Is a Political Settlement Within Reach?",
+      "source": "Syrian Observer",
+      "url": "https://syrianobserver.com/syrian-actors/renewed-calls-for-dialogue-in-suweida-is-a-political-settlement-within-reach.html",
+      "published_date": "2026-10-18T21:00:54+00:00",
+      "category": "Local Events"
     },
     {
       "title": "After Netanyahu Claims he Held a Phone Call with Sharaa, Syria Says it “Thwarted Plans” to Destabilize the Country",
@@ -176,13 +204,6 @@
       "source": "Syria Direct",
       "url": "https://syriadirect.org/the-damascus-oud-maker-fighting-to-keep-a-generations-old-craft-alive/",
       "published_date": "2026-10-12T04:29:12+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Reconciliation Councils Expand Across Syria: How Are They Handling Disputes Left by the War?",
-      "source": "Syrian Observer",
-      "url": "https://syrianobserver.com/syrian-actors/reconciliation-councils-expand-across-syria-how-are-they-handling-disputes-left-by-the-war.html",
-      "published_date": "2026-10-11T21:00:59+00:00",
       "category": "Local Events"
     }
   ]
