@@ -1,8 +1,15 @@
 {
   "country": "Syria",
-  "last_updated": "2026-10-20T01:19:47.830177+00:00",
-  "story_count": 27,
+  "last_updated": "2026-10-20T15:31:01.568014+00:00",
+  "story_count": 31,
   "stories": [
+    {
+      "title": "US leaving oil-for-security approach, not Middle East: Envoy Tom Barrack",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/20/us-leaving-oil-for-security-approach-not-middle-east-envoy-tom-barrack?traffic_source=rss",
+      "published_date": "2026-10-20T10:36:57+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Syria’s Shibani Demands Israeli Withdrawal and Return to 1974 Disengagement Lines",
       "source": "Syrian Observer",
@@ -43,6 +50,20 @@
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/news/2026/10/19/160-reported-killed-in-escalating-drone-attacks-across-sudan?traffic_source=rss",
       "published_date": "2026-10-19T21:38:46+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Former “Hurras al‑Din” Commander Arrested in Idlib",
+      "source": "Syrian Observer",
+      "url": "https://syrianobserver.com/syrian-actors/former-hurras-al-din-commander-arrested-in-idlib.html",
+      "published_date": "2026-10-19T21:01:45+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Syria’s Coastal Massacres: Justice Reaches the Killers, but Will It Reach Their Commanders?",
+      "source": "Syrian Observer",
+      "url": "https://syrianobserver.com/syrian-actors/syrias-coastal-massacres-justice-reaches-the-killers-but-will-it-reach-their-commanders.html",
+      "published_date": "2026-10-19T21:00:46+00:00",
       "category": "Military"
     },
     {
@@ -107,6 +128,13 @@
       "url": "https://www.aljazeera.com/news/2026/10/14/denmark-pushes-back-as-trump-touts-greenland-oil-and-mineral-deals?traffic_source=rss",
       "published_date": "2026-10-14T23:03:10+00:00",
       "category": "Energy"
+    },
+    {
+      "title": "Syria Splits Industry from Economy Ministry in Latest Government Shake‑Up",
+      "source": "Syrian Observer",
+      "url": "https://syrianobserver.com/society/syria-splits-industry-from-economy-ministry-in-latest-government-shake-up.html",
+      "published_date": "2026-10-19T21:02:22+00:00",
+      "category": "Economy"
     },
     {
       "title": "Syria Explores Sovereign Bond Issuance and Launch of Infrastructure Recovery Fund",
