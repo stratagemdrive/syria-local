@@ -1,7 +1,7 @@
 {
   "country": "Syria",
-  "last_updated": "2026-10-19T17:17:40.357597+00:00",
-  "story_count": 29,
+  "last_updated": "2026-10-20T01:19:47.830177+00:00",
+  "story_count": 27,
   "stories": [
     {
       "title": "Syria’s Shibani Demands Israeli Withdrawal and Return to 1974 Disengagement Lines",
@@ -39,18 +39,11 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Damascus Hosts Syrian‑German Conference to Advance Educational, Scientific, and Cultural Cooperation",
-      "source": "Syrian Observer",
-      "url": "https://syrianobserver.com/foreign-actors/damascus-hosts-syrian-german-conference-to-advance-educational-scientific-and-cultural-cooperation.html",
-      "published_date": "2026-10-12T21:00:34+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "UK blames Iran for airbase plot, sanctions two Iranian nationals",
+      "title": "160 people reported killed in escalating drone attacks across Sudan",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/12/uk-blames-iran-for-airbase-plot-sanctions-two-iranian-nationals?traffic_source=rss",
-      "published_date": "2026-10-12T18:51:18+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news/2026/10/19/160-reported-killed-in-escalating-drone-attacks-across-sudan?traffic_source=rss",
+      "published_date": "2026-10-19T21:38:46+00:00",
+      "category": "Military"
     },
     {
       "title": "Beyond a Mere Road: How Israel Consolidates Control through “Sofa 53”",
@@ -85,13 +78,6 @@
       "source": "Syrian Observer",
       "url": "https://syrianobserver.com/syrian-actors/syria-denies-aleppo-attacks-after-deadly-patrol-ambush.html",
       "published_date": "2026-10-14T21:00:49+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iran war live: Trump says Houthis ‘misbehaving’ as Riyadh flights halted",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/10/13/iran-war-live-trump-says-houthis-misbehaving-as-riyadh-flights-halted?traffic_source=rss",
-      "published_date": "2026-10-13T00:00:00+00:00",
       "category": "Military"
     },
     {
