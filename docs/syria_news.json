@@ -1,7 +1,7 @@
 {
   "country": "Syria",
-  "last_updated": "2026-10-20T15:31:01.568014+00:00",
-  "story_count": 31,
+  "last_updated": "2026-10-21T01:04:02.260334+00:00",
+  "story_count": 26,
   "stories": [
     {
       "title": "US leaving oil-for-security approach, not Middle East: Envoy Tom Barrack",
@@ -29,20 +29,6 @@
       "source": "Syrian Observer",
       "url": "https://syrianobserver.com/foreign-actors/syrian-foreign-minister-arrives-in-riyadh-for-official-visit-to-strengthen-bilateral-relations.html",
       "published_date": "2026-10-15T21:00:57+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Syria and Jordan Foreign Ministers Discuss Bilateral Ties and Regional Developments",
-      "source": "Syrian Observer",
-      "url": "https://syrianobserver.com/foreign-actors/syria-and-jordan-foreign-ministers-discuss-bilateral-ties-and-regional-developments.html",
-      "published_date": "2026-10-13T21:01:34+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "US ambassador to Greece resigns amid misconduct allegations",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/13/trumps-ambassador-to-greece-asked-to-resign-amid-misconduct-allegations?traffic_source=rss",
-      "published_date": "2026-10-13T15:37:32+00:00",
       "category": "Diplomacy"
     },
     {
@@ -158,13 +144,6 @@
       "category": "Economy"
     },
     {
-      "title": "Property Hoarding in Syria: Why Has Land Become More Attractive Than Factories?",
-      "source": "Syrian Observer",
-      "url": "https://syrianobserver.com/society/property-hoarding-in-syria-why-has-land-become-more-attractive-than-factories.html",
-      "published_date": "2026-10-13T21:02:45+00:00",
-      "category": "Economy"
-    },
-    {
       "title": "Syria’s Kurds fight to keep their language alive in the classroom",
       "source": "Syria Direct",
       "url": "https://syriadirect.org/syrias-kurds-fight-to-keep-their-language-alive-in-the-classroom/",
@@ -204,20 +183,6 @@
       "source": "Syrian Observer",
       "url": "https://syrianobserver.com/syrian-actors/tensions-rise-in-hassakeh-after-protests-demand-restoration-of-state-authority.html",
       "published_date": "2026-10-14T21:01:37+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Germany Revokes Refugee Status for Select Syrians, Citing Post‑Conflict Return Possibilities",
-      "source": "Syrian Observer",
-      "url": "https://syrianobserver.com/refugees/germany-revokes-refugee-status-for-select-syrians-citing-post-conflict-return-possibilities.html",
-      "published_date": "2026-10-13T21:00:51+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Levant Christians Face Peril of Extinction Amid Century-Long Demographic Decline",
-      "source": "Syrian Observer",
-      "url": "https://syrianobserver.com/society/levant-christians-face-peril-of-extinction-amid-century-long-demographic-decline.html",
-      "published_date": "2026-10-13T20:15:42+00:00",
       "category": "Local Events"
     }
   ]
