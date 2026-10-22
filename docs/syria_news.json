@@ -1,8 +1,15 @@
 {
   "country": "Syria",
-  "last_updated": "2026-10-21T15:47:07.568785+00:00",
-  "story_count": 27,
+  "last_updated": "2026-10-22T01:01:31.330911+00:00",
+  "story_count": 23,
   "stories": [
+    {
+      "title": "President Sharaa Meets Special Envoy Barrack at the People’s Palace, Joined by Foreign Minister",
+      "source": "Syrian Observer",
+      "url": "https://syrianobserver.com/foreign-actors/president-sharaa-meets-special-envoy-barrack-at-the-peoples-palace-joined-by-foreign-minister.html",
+      "published_date": "2026-10-21T21:01:35+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "US leaving oil-for-security approach, not Middle East: Envoy Tom Barrack",
       "source": "Al Jazeera",
@@ -67,27 +74,6 @@
       "category": "Military"
     },
     {
-      "title": "Syrian Defence Minister and OPCW Chief Discuss Final Steps to Close Chemical Weapons File",
-      "source": "Syrian Observer",
-      "url": "https://syrianobserver.com/syrian-actors/syrian-defence-minister-and-opcw-chief-discuss-final-steps-to-close-chemical-weapons-file.html",
-      "published_date": "2026-10-14T21:01:55+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Why Syria Should Avoid the Conflict in Yemen",
-      "source": "Syrian Observer",
-      "url": "https://syrianobserver.com/foreign-actors/why-syria-should-avoid-the-conflict-in-yemen.html",
-      "published_date": "2026-10-14T21:00:50+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Syria Denies Aleppo Attacks After Deadly Patrol Ambush",
-      "source": "Syrian Observer",
-      "url": "https://syrianobserver.com/syrian-actors/syria-denies-aleppo-attacks-after-deadly-patrol-ambush.html",
-      "published_date": "2026-10-14T21:00:49+00:00",
-      "category": "Military"
-    },
-    {
       "title": "Two Presidential Decrees Reshuffle Leadership of Syria’s Petroleum Corporation and Sovereign Wealth Fund",
       "source": "Syrian Observer",
       "url": "https://syrianobserver.com/society/two-presidential-decrees-reshuffle-leadership-of-syrias-petroleum-corporation-and-sovereign-wealth-fund.html",
@@ -106,13 +92,6 @@
       "source": "Syrian Observer",
       "url": "https://syrianobserver.com/society/syrian-petroleum-company-contracts-under-scrutiny-what-we-know-about-the-104-million-audit.html",
       "published_date": "2026-10-15T21:01:53+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Denmark pushes back as Trump touts Greenland oil and mineral deals",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/14/denmark-pushes-back-as-trump-touts-greenland-oil-and-mineral-deals?traffic_source=rss",
-      "published_date": "2026-10-14T23:03:10+00:00",
       "category": "Energy"
     },
     {
@@ -144,11 +123,18 @@
       "category": "Economy"
     },
     {
-      "title": "Syria Steps Up European Economic Engagement with EBRD Membership Bid and German Business Talks",
+      "title": "Hama Judiciary Detains Six Former Regime Officials, Including Brigadier General Abdul Hakim Wannous",
       "source": "Syrian Observer",
-      "url": "https://syrianobserver.com/foreign-actors/syria-steps-up-european-economic-engagement-with-ebrd-membership-bid-and-german-business-talks.html",
-      "published_date": "2026-10-14T21:00:58+00:00",
-      "category": "Economy"
+      "url": "https://syrianobserver.com/uncategorized/hama-judiciary-detains-six-former-regime-officials-including-brigadier-general-abdul-hakim-wannous.html",
+      "published_date": "2026-10-21T21:00:53+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Drone Attack Targets Internal Security Post in Suweida amid Regional Escalations",
+      "source": "Syrian Observer",
+      "url": "https://syrianobserver.com/foreign-actors/drone-attack-targets-internal-security-post-in-suweida-amid-regional-escalations.html",
+      "published_date": "2026-10-21T21:00:06+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Syria’s Kurds fight to keep their language alive in the classroom",
@@ -176,20 +162,6 @@
       "source": "Syrian Observer",
       "url": "https://syrianobserver.com/youtube/syrian-court-sentences-two-to-death-over-2025-coastal-massacres.html",
       "published_date": "2026-10-15T20:39:56+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Global charity withholds report into its role in Syria's 'disappeared' children",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cm62y89dpd4lo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-10-14T23:20:57+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Tensions Rise in Hassakeh After Protests Demand Restoration of State Authority",
-      "source": "Syrian Observer",
-      "url": "https://syrianobserver.com/syrian-actors/tensions-rise-in-hassakeh-after-protests-demand-restoration-of-state-authority.html",
-      "published_date": "2026-10-14T21:01:37+00:00",
       "category": "Local Events"
     }
   ]
