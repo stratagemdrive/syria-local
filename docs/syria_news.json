@@ -1,8 +1,15 @@
 {
   "country": "Syria",
-  "last_updated": "2026-10-22T15:45:24.933797+00:00",
+  "last_updated": "2026-10-23T01:02:52.570359+00:00",
   "story_count": 24,
   "stories": [
+    {
+      "title": "US-sanctioned ICC wins Sakharov Prize, EU’s top human rights award",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/22/us-sanctioned-icc-wins-sakharov-prize-eus-top-human-rights-award?traffic_source=rss",
+      "published_date": "2026-10-22T22:25:14+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "US ambassador to Turkiye: Rethinking US role in the Middle East",
       "source": "Al Jazeera",
@@ -39,11 +46,18 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Syrian Foreign Minister Arrives in Riyadh for Official Visit to Strengthen Bilateral Relations",
+      "title": "Security Forces Launch Counter‑Terror Operation Against ISIS Cell in Rankous; Fatalities Reported",
       "source": "Syrian Observer",
-      "url": "https://syrianobserver.com/foreign-actors/syrian-foreign-minister-arrives-in-riyadh-for-official-visit-to-strengthen-bilateral-relations.html",
-      "published_date": "2026-10-15T21:00:57+00:00",
-      "category": "Diplomacy"
+      "url": "https://syrianobserver.com/security/security-forces-launch-counter-terror-operation-against-isis-cell-in-rankous-fatalities-reported.html",
+      "published_date": "2026-10-22T21:01:22+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Fact‑Check: Are Israeli Military Cargoes and a New Base Emerging in Syria’s Suweida?",
+      "source": "Syrian Observer",
+      "url": "https://syrianobserver.com/foreign-actors/fact-check-are-israeli-military-cargoes-and-a-new-base-emerging-in-syrias-suweida.html",
+      "published_date": "2026-10-22T21:00:13+00:00",
+      "category": "Military"
     },
     {
       "title": "160 people reported killed in escalating drone attacks across Sudan",
@@ -88,18 +102,11 @@
       "category": "Energy"
     },
     {
-      "title": "Two Syrian pipelines damaged amid spate of attacks on energy infrastructure",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/economy/2026/10/15/two-syrian-pipelines-damaged-amid-spate-of-attacks-on-energy-infrastructure?traffic_source=rss",
-      "published_date": "2026-10-15T23:35:26+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Syrian Petroleum Company Contracts Under Scrutiny: What We Know About the $104 Million Audit",
+      "title": "Where Has the Liquidity Gone? Who Is Withholding Billions from the Syrian Economy?",
       "source": "Syrian Observer",
-      "url": "https://syrianobserver.com/society/syrian-petroleum-company-contracts-under-scrutiny-what-we-know-about-the-104-million-audit.html",
-      "published_date": "2026-10-15T21:01:53+00:00",
-      "category": "Energy"
+      "url": "https://syrianobserver.com/society/where-has-the-liquidity-gone-who-is-withholding-billions-from-the-syrian-economy.html",
+      "published_date": "2026-10-22T21:00:45+00:00",
+      "category": "Economy"
     },
     {
       "title": "NYC built a monument to Khalil Gibran and Little Syria. Why was there global uproar?",
@@ -123,11 +130,18 @@
       "category": "Economy"
     },
     {
-      "title": "Israel halts commercial goods from entering Gaza; Hamas denies tax claims",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/15/israel-halts-commercial-goods-from-entering-gaza-hamas-denies-tax-claims?traffic_source=rss",
-      "published_date": "2026-10-15T21:57:58+00:00",
-      "category": "Economy"
+      "title": "Shibani Meets King Abdallah, Reaffirms Commitment to Suweida Roadmap, Condemns Israeli Strikes in Southern Syria",
+      "source": "Syrian Observer",
+      "url": "https://syrianobserver.com/foreign-actors/shibani-meets-king-abdallah-reaffirms-commitment-to-suweida-roadmap-condemns-israeli-strikes-in-southern-syria.html",
+      "published_date": "2026-10-22T21:01:17+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Raqqa Journalist Says He Was Interrogated by Internal Security Officer",
+      "source": "Syrian Observer",
+      "url": "https://syrianobserver.com/syrian-actors/raqqa-journalist-says-he-was-interrogated-by-internal-security-officer.html",
+      "published_date": "2026-10-22T21:00:29+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Hama Judiciary Detains Six Former Regime Officials, Including Brigadier General Abdul Hakim Wannous",
@@ -155,20 +169,6 @@
       "source": "Syrian Observer",
       "url": "https://syrianobserver.com/syrian-actors/renewed-calls-for-dialogue-in-suweida-is-a-political-settlement-within-reach.html",
       "published_date": "2026-10-18T21:00:54+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "After Netanyahu Claims he Held a Phone Call with Sharaa, Syria Says it “Thwarted Plans” to Destabilize the Country",
-      "source": "Syrian Observer",
-      "url": "https://syrianobserver.com/foreign-actors/after-netanyahu-claims-he-held-a-phone-call-with-sharaa-syria-says-it-thwarted-plans-to-destabilize-the-country.html",
-      "published_date": "2026-10-15T21:02:37+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Syrian court sentences two to death over 2025 coastal massacres",
-      "source": "Syrian Observer",
-      "url": "https://syrianobserver.com/youtube/syrian-court-sentences-two-to-death-over-2025-coastal-massacres.html",
-      "published_date": "2026-10-15T20:39:56+00:00",
       "category": "Local Events"
     }
   ]
