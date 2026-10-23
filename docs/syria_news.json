@@ -1,7 +1,7 @@
 {
   "country": "Syria",
-  "last_updated": "2026-10-23T01:02:52.570359+00:00",
-  "story_count": 24,
+  "last_updated": "2026-10-23T15:34:52.790361+00:00",
+  "story_count": 26,
   "stories": [
     {
       "title": "US-sanctioned ICC wins Sakharov Prize, EU’s top human rights award",
@@ -44,6 +44,13 @@
       "url": "https://www.aljazeera.com/news/2026/10/17/us-ambassador-calls-on-israel-to-prosecute-settlers-over-journalist-attack?traffic_source=rss",
       "published_date": "2026-10-17T23:40:59+00:00",
       "category": "Diplomacy"
+    },
+    {
+      "title": "Syrian FM says country has handed over chemical weapons sites information to international watchdog",
+      "source": "Syrian Observer",
+      "url": "https://syrianobserver.com/youtube/syrian-fm-says-country-has-handed-over-chemical-weapons-sites-information-to-international-watchdog.html",
+      "published_date": "2026-10-23T09:15:55+00:00",
+      "category": "Military"
     },
     {
       "title": "Security Forces Launch Counter‑Terror Operation Against ISIS Cell in Rankous; Fatalities Reported",
@@ -100,6 +107,13 @@
       "url": "https://syrianobserver.com/society/two-presidential-decrees-reshuffle-leadership-of-syrias-petroleum-corporation-and-sovereign-wealth-fund.html",
       "published_date": "2026-10-18T21:02:14+00:00",
       "category": "Energy"
+    },
+    {
+      "title": "Syria reconnects to global finance, but ordinary Syrians are still struggling",
+      "source": "Syria Direct",
+      "url": "https://syriadirect.org/syria-reconnects-to-global-finance-but-ordinary-syrians-are-still-struggling/",
+      "published_date": "2026-10-23T12:58:38+00:00",
+      "category": "Economy"
     },
     {
       "title": "Where Has the Liquidity Gone? Who Is Withholding Billions from the Syrian Economy?",
