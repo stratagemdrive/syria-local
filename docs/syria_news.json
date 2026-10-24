@@ -1,6 +1,6 @@
 {
   "country": "Syria",
-  "last_updated": "2026-10-23T15:34:52.790361+00:00",
+  "last_updated": "2026-10-24T01:12:00.686020+00:00",
   "story_count": 26,
   "stories": [
     {
@@ -95,13 +95,6 @@
       "category": "Military"
     },
     {
-      "title": "How Iran messaging highlights cost of war ahead of US midterm elections",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/16/how-iran-messaging-highlights-cost-of-war-ahead-of-us-midterm-elections?traffic_source=rss",
-      "published_date": "2026-10-16T18:21:43+00:00",
-      "category": "Military"
-    },
-    {
       "title": "Two Presidential Decrees Reshuffle Leadership of Syria’s Petroleum Corporation and Sovereign Wealth Fund",
       "source": "Syrian Observer",
       "url": "https://syrianobserver.com/society/two-presidential-decrees-reshuffle-leadership-of-syrias-petroleum-corporation-and-sovereign-wealth-fund.html",
@@ -142,6 +135,13 @@
       "url": "https://syrianobserver.com/society/syria-explores-sovereign-bond-issuance-and-launch-of-infrastructure-recovery-fund.html",
       "published_date": "2026-10-18T21:00:46+00:00",
       "category": "Economy"
+    },
+    {
+      "title": "Syrians protest Israel’s incursions near occupied Golan Heights",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/24/10-24-reported-heidi-pett-syria?traffic_source=rss",
+      "published_date": "2026-10-24T00:50:05+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Shibani Meets King Abdallah, Reaffirms Commitment to Suweida Roadmap, Condemns Israeli Strikes in Southern Syria",
