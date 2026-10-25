@@ -1,7 +1,7 @@
 {
   "country": "Syria",
-  "last_updated": "2026-10-25T00:36:51.223422+00:00",
-  "story_count": 26,
+  "last_updated": "2026-10-25T14:42:47.656649+00:00",
+  "story_count": 27,
   "stories": [
     {
       "title": "US-sanctioned ICC wins Sakharov Prize, EU’s top human rights award",
@@ -37,6 +37,13 @@
       "url": "https://syrianobserver.com/foreign-actors/syrias-shibani-demands-israeli-withdrawal-and-return-to-1974-disengagement-lines.html",
       "published_date": "2026-10-18T21:01:16+00:00",
       "category": "Diplomacy"
+    },
+    {
+      "title": "The search for gold is a dangerous and laborious gamble for Sudan’s miners",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/features/2026/10/25/the-search-for-gold-is-a-dangerous-and-laborious-gamble-for-sudans-miners?traffic_source=rss",
+      "published_date": "2026-10-25T14:03:17+00:00",
+      "category": "Military"
     },
     {
       "title": "How have Democrats’ policies shifted since the last major US election?",
