@@ -1,6 +1,6 @@
 {
   "country": "Syria",
-  "last_updated": "2026-10-26T00:47:22.581033+00:00",
+  "last_updated": "2026-10-26T17:04:32.637108+00:00",
   "story_count": 26,
   "stories": [
     {
@@ -137,6 +137,13 @@
       "category": "Economy"
     },
     {
+      "title": "The Book of Damascus: My complicated love affair",
+      "source": "Syria Direct",
+      "url": "https://syriadirect.org/the-book-of-damascus-my-complicated-love-affair/",
+      "published_date": "2026-10-26T10:53:32+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "Damascus Awaits Israel’s Elections: Could the Course of Negotiations Change?",
       "source": "Syrian Observer",
       "url": "https://syrianobserver.com/foreign-actors/damascus-awaits-israels-elections-could-the-course-of-negotiations-change.html",
@@ -176,13 +183,6 @@
       "source": "Syrian Observer",
       "url": "https://syrianobserver.com/foreign-actors/drone-attack-targets-internal-security-post-in-suweida-amid-regional-escalations.html",
       "published_date": "2026-10-21T21:00:06+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Syria’s Kurds fight to keep their language alive in the classroom",
-      "source": "Syria Direct",
-      "url": "https://syriadirect.org/syrias-kurds-fight-to-keep-their-language-alive-in-the-classroom/",
-      "published_date": "2026-10-19T08:56:49+00:00",
       "category": "Local Events"
     }
   ]
