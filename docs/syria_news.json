@@ -1,8 +1,22 @@
 {
   "country": "Syria",
-  "last_updated": "2026-10-25T14:42:47.656649+00:00",
-  "story_count": 27,
+  "last_updated": "2026-10-26T00:47:22.581033+00:00",
+  "story_count": 26,
   "stories": [
+    {
+      "title": "Barak’s Remarks Ignite Debate Over U.S. Policy in Southern Syria and the Boundaries of Israeli Support",
+      "source": "Syrian Observer",
+      "url": "https://syrianobserver.com/foreign-actors/baraks-remarks-ignite-debate-over-u-s-policy-in-southern-syria-and-the-boundaries-of-israeli-support.html",
+      "published_date": "2026-10-25T21:02:38+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Syrian Foreign Minister Meets King of Bahrain, Discusses Bilateral Cooperation and Revival of Joint Committee",
+      "source": "Syrian Observer",
+      "url": "https://syrianobserver.com/uncategorized/syrian-foreign-minister-meets-king-of-bahrain-discusses-bilateral-cooperation-and-revival-of-joint-committee.html",
+      "published_date": "2026-10-25T21:00:05+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "US-sanctioned ICC wins Sakharov Prize, EU’s top human rights award",
       "source": "Al Jazeera",
@@ -32,11 +46,11 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Syria’s Shibani Demands Israeli Withdrawal and Return to 1974 Disengagement Lines",
+      "title": "Coordinated Online Campaigns Target Syrian Dissidents and Female Activists",
       "source": "Syrian Observer",
-      "url": "https://syrianobserver.com/foreign-actors/syrias-shibani-demands-israeli-withdrawal-and-return-to-1974-disengagement-lines.html",
-      "published_date": "2026-10-18T21:01:16+00:00",
-      "category": "Diplomacy"
+      "url": "https://syrianobserver.com/uncategorized/coordinated-online-campaigns-target-syrian-dissidents-and-female-activists.html",
+      "published_date": "2026-10-25T21:01:17+00:00",
+      "category": "Military"
     },
     {
       "title": "The search for gold is a dangerous and laborious gamble for Sudan’s miners",
@@ -95,20 +109,6 @@
       "category": "Military"
     },
     {
-      "title": "Beyond a Mere Road: How Israel Consolidates Control through “Sofa 53”",
-      "source": "Syrian Observer",
-      "url": "https://syrianobserver.com/foreign-actors/beyond-a-mere-road-how-israel-consolidates-control-through-sofa-53.html",
-      "published_date": "2026-10-18T21:00:01+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Two Presidential Decrees Reshuffle Leadership of Syria’s Petroleum Corporation and Sovereign Wealth Fund",
-      "source": "Syrian Observer",
-      "url": "https://syrianobserver.com/society/two-presidential-decrees-reshuffle-leadership-of-syrias-petroleum-corporation-and-sovereign-wealth-fund.html",
-      "published_date": "2026-10-18T21:02:14+00:00",
-      "category": "Energy"
-    },
-    {
       "title": "Syria reconnects to global finance, but ordinary Syrians are still struggling",
       "source": "Syria Direct",
       "url": "https://syriadirect.org/syria-reconnects-to-global-finance-but-ordinary-syrians-are-still-struggling/",
@@ -137,11 +137,11 @@
       "category": "Economy"
     },
     {
-      "title": "Syria Explores Sovereign Bond Issuance and Launch of Infrastructure Recovery Fund",
+      "title": "Damascus Awaits Israel’s Elections: Could the Course of Negotiations Change?",
       "source": "Syrian Observer",
-      "url": "https://syrianobserver.com/society/syria-explores-sovereign-bond-issuance-and-launch-of-infrastructure-recovery-fund.html",
-      "published_date": "2026-10-18T21:00:46+00:00",
-      "category": "Economy"
+      "url": "https://syrianobserver.com/foreign-actors/damascus-awaits-israels-elections-could-the-course-of-negotiations-change.html",
+      "published_date": "2026-10-25T21:02:07+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Syrians protest Israel’s incursions near occupied Golan Heights",
@@ -183,13 +183,6 @@
       "source": "Syria Direct",
       "url": "https://syriadirect.org/syrias-kurds-fight-to-keep-their-language-alive-in-the-classroom/",
       "published_date": "2026-10-19T08:56:49+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Renewed Calls for Dialogue in Suweida: Is a Political Settlement Within Reach?",
-      "source": "Syrian Observer",
-      "url": "https://syrianobserver.com/syrian-actors/renewed-calls-for-dialogue-in-suweida-is-a-political-settlement-within-reach.html",
-      "published_date": "2026-10-18T21:00:54+00:00",
       "category": "Local Events"
     }
   ]
