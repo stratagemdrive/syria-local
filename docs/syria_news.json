@@ -1,7 +1,7 @@
 {
   "country": "Syria",
-  "last_updated": "2026-10-26T17:04:32.637108+00:00",
-  "story_count": 26,
+  "last_updated": "2026-10-27T01:39:16.095263+00:00",
+  "story_count": 28,
   "stories": [
     {
       "title": "Barak’s Remarks Ignite Debate Over U.S. Policy in Southern Syria and the Boundaries of Israeli Support",
@@ -46,6 +46,41 @@
       "category": "Diplomacy"
     },
     {
+      "title": "Jordan attacks Syria in response to Karak church attack",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/26/jordan-attacks-syria-in-response-to-karak-church-attack?traffic_source=rss",
+      "published_date": "2026-10-26T23:48:51+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Jordan attacks militants in Syria in retaliation for last week’s church attack",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/oct/26/jordan-attacks-militants-syria-retaliation-for-last-week-church-attack",
+      "published_date": "2026-10-26T22:08:38+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "ISIS Recedes Under Pressure from Intensified Syrian Preemptive Operations",
+      "source": "Syrian Observer",
+      "url": "https://syrianobserver.com/security/isis-recedes-under-pressure-from-intensified-syrian-preemptive-operations.html",
+      "published_date": "2026-10-26T21:01:18+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "In a National First: Syria Prepares to Launch Interactive Landmine Map",
+      "source": "Syrian Observer",
+      "url": "https://syrianobserver.com/syrian-actors/in-a-national-first-syria-prepares-to-launch-interactive-landmine-map.html",
+      "published_date": "2026-10-26T21:00:55+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Huge explosion at a weapons depot in Syria",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/26/huge-explosion-at-a-weapons-depot-in-syria?traffic_source=rss",
+      "published_date": "2026-10-26T20:41:33+00:00",
+      "category": "Military"
+    },
+    {
       "title": "Coordinated Online Campaigns Target Syrian Dissidents and Female Activists",
       "source": "Syrian Observer",
       "url": "https://syrianobserver.com/uncategorized/coordinated-online-campaigns-target-syrian-dissidents-and-female-activists.html",
@@ -88,27 +123,6 @@
       "category": "Military"
     },
     {
-      "title": "160 people reported killed in escalating drone attacks across Sudan",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/19/160-reported-killed-in-escalating-drone-attacks-across-sudan?traffic_source=rss",
-      "published_date": "2026-10-19T21:38:46+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Former “Hurras al‑Din” Commander Arrested in Idlib",
-      "source": "Syrian Observer",
-      "url": "https://syrianobserver.com/syrian-actors/former-hurras-al-din-commander-arrested-in-idlib.html",
-      "published_date": "2026-10-19T21:01:45+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Syria’s Coastal Massacres: Justice Reaches the Killers, but Will It Reach Their Commanders?",
-      "source": "Syrian Observer",
-      "url": "https://syrianobserver.com/syrian-actors/syrias-coastal-massacres-justice-reaches-the-killers-but-will-it-reach-their-commanders.html",
-      "published_date": "2026-10-19T21:00:46+00:00",
-      "category": "Military"
-    },
-    {
       "title": "Syria reconnects to global finance, but ordinary Syrians are still struggling",
       "source": "Syria Direct",
       "url": "https://syriadirect.org/syria-reconnects-to-global-finance-but-ordinary-syrians-are-still-struggling/",
@@ -130,11 +144,11 @@
       "category": "Economy"
     },
     {
-      "title": "Syria Splits Industry from Economy Ministry in Latest Government Shake‑Up",
+      "title": "Syrian School Curricula: Between Educational Reform and Ideological Control",
       "source": "Syrian Observer",
-      "url": "https://syrianobserver.com/society/syria-splits-industry-from-economy-ministry-in-latest-government-shake-up.html",
-      "published_date": "2026-10-19T21:02:22+00:00",
-      "category": "Economy"
+      "url": "https://syrianobserver.com/society/syrian-school-curricula-between-educational-reform-and-ideological-control.html",
+      "published_date": "2026-10-26T21:02:54+00:00",
+      "category": "Local Events"
     },
     {
       "title": "The Book of Damascus: My complicated love affair",
