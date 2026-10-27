@@ -1,7 +1,7 @@
 {
   "country": "Syria",
-  "last_updated": "2026-10-27T01:39:16.095263+00:00",
-  "story_count": 28,
+  "last_updated": "2026-10-27T16:07:52.029409+00:00",
+  "story_count": 29,
   "stories": [
     {
       "title": "Barak’s Remarks Ignite Debate Over U.S. Policy in Southern Syria and the Boundaries of Israeli Support",
@@ -39,11 +39,11 @@
       "category": "Diplomacy"
     },
     {
-      "title": "US leaving oil-for-security approach, not Middle East: Envoy Tom Barrack",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/20/us-leaving-oil-for-security-approach-not-middle-east-envoy-tom-barrack?traffic_source=rss",
-      "published_date": "2026-10-20T10:36:57+00:00",
-      "category": "Diplomacy"
+      "title": "Jordan carries out deadly strike in Syria in retaliation for church attack",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cq8ezg6dy6xlo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-10-27T02:40:17+00:00",
+      "category": "Military"
     },
     {
       "title": "Jordan attacks Syria in response to Karak church attack",
@@ -142,6 +142,13 @@
       "url": "https://www.theguardian.com/us-news/ng-interactive/2026/oct/21/new-york-little-syria-monument-lebanon",
       "published_date": "2026-10-21T13:00:19+00:00",
       "category": "Economy"
+    },
+    {
+      "title": "Turnout so far highest on record as Israelis vote in pivotal election",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c3j47l4kdez4o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-10-27T11:11:33+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Syrian School Curricula: Between Educational Reform and Ideological Control",
