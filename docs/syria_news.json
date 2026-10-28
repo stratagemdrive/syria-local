@@ -1,8 +1,15 @@
 {
   "country": "Syria",
-  "last_updated": "2026-10-28T01:50:57.280362+00:00",
-  "story_count": 35,
+  "last_updated": "2026-10-28T16:56:04.518519+00:00",
+  "story_count": 38,
   "stories": [
+    {
+      "title": "Iraqi PM Ali al-Zaidi meets Ahmed al-Sharaa in historic Syria visit",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/28/iraqi-pm-ali-al-zaidi-meets-ahmed-al-sharaa-in-historic-syria-visit?traffic_source=rss",
+      "published_date": "2026-10-28T13:47:39+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Qatar’s Emir and Putin call for diplomacy amid US-Iran conflict",
       "source": "Al Jazeera",
@@ -44,6 +51,20 @@
       "url": "https://syrianobserver.com/foreign-actors/president-sharaa-meets-special-envoy-barrack-at-the-peoples-palace-joined-by-foreign-minister.html",
       "published_date": "2026-10-21T21:01:35+00:00",
       "category": "Diplomacy"
+    },
+    {
+      "title": "Israeli soldier visiting UK faces war crimes complaint",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/28/israeli-soldier-visiting-uk-faces-war-crimes-complaint?traffic_source=rss",
+      "published_date": "2026-10-28T16:06:17+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Victims of Jordan’s air strikes in Syria",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/28/victims-of-jordans-air-strikes-in-syria?traffic_source=rss",
+      "published_date": "2026-10-28T12:35:19+00:00",
+      "category": "Military"
     },
     {
       "title": "Gaza’s women filmmakers turn pain into cinema as new academy launches",
@@ -144,6 +165,13 @@
       "category": "Military"
     },
     {
+      "title": "Syrian Energy Deals Spark Debate Over Sovereign Ownership of New Power Plants",
+      "source": "Syrian Observer",
+      "url": "https://syrianobserver.com/uncategorized/syrian-energy-deals-spark-debate-over-sovereign-ownership-of-new-power-plants.html",
+      "published_date": "2026-10-27T21:01:17+00:00",
+      "category": "Energy"
+    },
+    {
       "title": "Syria reconnects to global finance, but ordinary Syrians are still struggling",
       "source": "Syria Direct",
       "url": "https://syriadirect.org/syria-reconnects-to-global-finance-but-ordinary-syrians-are-still-struggling/",
@@ -155,13 +183,6 @@
       "source": "Syrian Observer",
       "url": "https://syrianobserver.com/society/where-has-the-liquidity-gone-who-is-withholding-billions-from-the-syrian-economy.html",
       "published_date": "2026-10-22T21:00:45+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "NYC built a monument to Khalil Gibran and Little Syria. Why was there global uproar?",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/us-news/ng-interactive/2026/oct/21/new-york-little-syria-monument-lebanon",
-      "published_date": "2026-10-21T13:00:19+00:00",
       "category": "Economy"
     },
     {
