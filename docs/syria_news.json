@@ -1,8 +1,15 @@
 {
   "country": "Syria",
-  "last_updated": "2026-10-28T16:56:04.518519+00:00",
-  "story_count": 38,
+  "last_updated": "2026-10-29T01:58:45.489062+00:00",
+  "story_count": 37,
   "stories": [
+    {
+      "title": "Syria and Accession to the “Mecca Alliance”: Strategic Gains and Potential Roles",
+      "source": "Syrian Observer",
+      "url": "https://syrianobserver.com/foreign-actors/syria-and-accession-to-the-mecca-alliance-strategic-gains-and-potential-roles.html",
+      "published_date": "2026-10-28T21:00:19+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Iraqi PM Ali al-Zaidi meets Ahmed al-Sharaa in historic Syria visit",
       "source": "Al Jazeera",
@@ -43,13 +50,6 @@
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/video/talk-to-al-jazeera/2026/10/22/us-ambassador-to-turkiye-rethinking-us-role-in-the-middle-east?traffic_source=rss",
       "published_date": "2026-10-22T10:51:11+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "President Sharaa Meets Special Envoy Barrack at the People’s Palace, Joined by Foreign Minister",
-      "source": "Syrian Observer",
-      "url": "https://syrianobserver.com/foreign-actors/president-sharaa-meets-special-envoy-barrack-at-the-peoples-palace-joined-by-foreign-minister.html",
-      "published_date": "2026-10-21T21:01:35+00:00",
       "category": "Diplomacy"
     },
     {
@@ -186,6 +186,13 @@
       "category": "Economy"
     },
     {
+      "title": "Daraa Airstrikes Put Syrian-Jordanian Relations to a Difficult Test",
+      "source": "Syrian Observer",
+      "url": "https://syrianobserver.com/foreign-actors/daraa-airstrikes-put-syrian-jordanian-relations-to-a-difficult-test.html",
+      "published_date": "2026-10-28T21:01:26+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "Syria Condemns Jordanian Airstrikes on Daraa and Proposes Joint Security Committee to Prevent Further Violations",
       "source": "Syrian Observer",
       "url": "https://syrianobserver.com/foreign-actors/syria-condemns-jordanian-airstrikes-on-daraa-and-proposes-joint-security-committee-to-prevent-further-violations.html",
@@ -253,20 +260,6 @@
       "source": "Syrian Observer",
       "url": "https://syrianobserver.com/syrian-actors/raqqa-journalist-says-he-was-interrogated-by-internal-security-officer.html",
       "published_date": "2026-10-22T21:00:29+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Hama Judiciary Detains Six Former Regime Officials, Including Brigadier General Abdul Hakim Wannous",
-      "source": "Syrian Observer",
-      "url": "https://syrianobserver.com/uncategorized/hama-judiciary-detains-six-former-regime-officials-including-brigadier-general-abdul-hakim-wannous.html",
-      "published_date": "2026-10-21T21:00:53+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Drone Attack Targets Internal Security Post in Suweida amid Regional Escalations",
-      "source": "Syrian Observer",
-      "url": "https://syrianobserver.com/foreign-actors/drone-attack-targets-internal-security-post-in-suweida-amid-regional-escalations.html",
-      "published_date": "2026-10-21T21:00:06+00:00",
       "category": "Local Events"
     }
   ]
