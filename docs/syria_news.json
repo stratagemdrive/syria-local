@@ -1,6 +1,6 @@
 {
   "country": "Syria",
-  "last_updated": "2026-10-29T17:14:12.574950+00:00",
+  "last_updated": "2026-10-30T02:11:54.311580+00:00",
   "story_count": 38,
   "stories": [
     {
@@ -8,6 +8,13 @@
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/10/29/king-charles-on-caribbean-tour-as-calls-grow-for-slavery-reparations?traffic_source=rss",
       "published_date": "2026-10-29T12:10:22+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Syria at the UN Security Council: Empowering Women and Including Them in Decision‑Making Is Essential for Building Peace and the State",
+      "source": "Syrian Observer",
+      "url": "https://syrianobserver.com/syrian-actors/syria-at-the-un-security-council-empowering-women-and-including-them-in-decision-making-is-essential-for-building-peace-and-the-state.html",
+      "published_date": "2026-10-28T21:01:44+00:00",
       "category": "Diplomacy"
     },
     {
@@ -43,13 +50,6 @@
       "source": "Syrian Observer",
       "url": "https://syrianobserver.com/uncategorized/syrian-foreign-minister-meets-king-of-bahrain-discusses-bilateral-cooperation-and-revival-of-joint-committee.html",
       "published_date": "2026-10-25T21:00:05+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "US-sanctioned ICC wins Sakharov Prize, EU’s top human rights award",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/22/us-sanctioned-icc-wins-sakharov-prize-eus-top-human-rights-award?traffic_source=rss",
-      "published_date": "2026-10-22T22:25:14+00:00",
       "category": "Diplomacy"
     },
     {
@@ -158,25 +158,18 @@
       "category": "Military"
     },
     {
-      "title": "Security Forces Launch Counter‑Terror Operation Against ISIS Cell in Rankous; Fatalities Reported",
-      "source": "Syrian Observer",
-      "url": "https://syrianobserver.com/security/security-forces-launch-counter-terror-operation-against-isis-cell-in-rankous-fatalities-reported.html",
-      "published_date": "2026-10-22T21:01:22+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Fact‑Check: Are Israeli Military Cargoes and a New Base Emerging in Syria’s Suweida?",
-      "source": "Syrian Observer",
-      "url": "https://syrianobserver.com/foreign-actors/fact-check-are-israeli-military-cargoes-and-a-new-base-emerging-in-syrias-suweida.html",
-      "published_date": "2026-10-22T21:00:13+00:00",
-      "category": "Military"
-    },
-    {
       "title": "Syrian Energy Deals Spark Debate Over Sovereign Ownership of New Power Plants",
       "source": "Syrian Observer",
       "url": "https://syrianobserver.com/uncategorized/syrian-energy-deals-spark-debate-over-sovereign-ownership-of-new-power-plants.html",
       "published_date": "2026-10-27T21:01:17+00:00",
       "category": "Energy"
+    },
+    {
+      "title": "Talks Between President Sharaa and Zaidi at the People’s Palace in Damascus",
+      "source": "Syrian Observer",
+      "url": "https://syrianobserver.com/foreign-actors/talks-between-president-sharaa-and-zaidi-at-the-peoples-palace-in-damascus.html",
+      "published_date": "2026-10-28T21:01:51+00:00",
+      "category": "Economy"
     },
     {
       "title": "Syria reconnects to global finance, but ordinary Syrians are still struggling",
@@ -186,11 +179,32 @@
       "category": "Economy"
     },
     {
-      "title": "Where Has the Liquidity Gone? Who Is Withholding Billions from the Syrian Economy?",
+      "title": "Rights Report: Transitional Justice in Syria Faces Accountability Gaps and Excludes Victims of Islamist Groups",
       "source": "Syrian Observer",
-      "url": "https://syrianobserver.com/society/where-has-the-liquidity-gone-who-is-withholding-billions-from-the-syrian-economy.html",
-      "published_date": "2026-10-22T21:00:45+00:00",
-      "category": "Economy"
+      "url": "https://syrianobserver.com/syrian-actors/rights-report-transitional-justice-in-syria-faces-accountability-gaps-and-excludes-victims-of-islamist-groups.html",
+      "published_date": "2026-10-29T21:02:36+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Deadly Flash Floods Paralyze Eastern Syria: 15 Rescued, Hundreds Evacuated Across Six Provinces",
+      "source": "Syrian Observer",
+      "url": "https://syrianobserver.com/society/deadly-flash-floods-paralyze-eastern-syria-15-rescued-hundreds-evacuated-across-six-provinces.html",
+      "published_date": "2026-10-29T21:00:36+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "President Sharaa Opens Up to Iraqi Media",
+      "source": "Syrian Observer",
+      "url": "https://syrianobserver.com/syrian-actors/president-sharaa-opens-up-to-iraqi-media.html",
+      "published_date": "2026-10-29T21:00:36+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Damascus and Baghdad Discuss Reviving the Kirkuk–Baniyas Pipeline and Expanding Security Cooperation",
+      "source": "Syrian Observer",
+      "url": "https://syrianobserver.com/foreign-actors/damascus-and-baghdad-discuss-reviving-the-kirkuk-baniyas-pipeline-and-expanding-security-cooperation.html",
+      "published_date": "2026-10-29T21:00:36+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Daraa Airstrikes Put Syrian-Jordanian Relations to a Difficult Test",
@@ -253,20 +267,6 @@
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/10/24/10-24-reported-heidi-pett-syria?traffic_source=rss",
       "published_date": "2026-10-24T00:50:05+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Shibani Meets King Abdallah, Reaffirms Commitment to Suweida Roadmap, Condemns Israeli Strikes in Southern Syria",
-      "source": "Syrian Observer",
-      "url": "https://syrianobserver.com/foreign-actors/shibani-meets-king-abdallah-reaffirms-commitment-to-suweida-roadmap-condemns-israeli-strikes-in-southern-syria.html",
-      "published_date": "2026-10-22T21:01:17+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Raqqa Journalist Says He Was Interrogated by Internal Security Officer",
-      "source": "Syrian Observer",
-      "url": "https://syrianobserver.com/syrian-actors/raqqa-journalist-says-he-was-interrogated-by-internal-security-officer.html",
-      "published_date": "2026-10-22T21:00:29+00:00",
       "category": "Local Events"
     }
   ]
