@@ -1,8 +1,15 @@
 {
   "country": "Syria",
-  "last_updated": "2026-10-30T02:11:54.311580+00:00",
+  "last_updated": "2026-10-30T16:54:54.398871+00:00",
   "story_count": 38,
   "stories": [
+    {
+      "title": "Syrians struggle with soaring prices as crisis challenges post-Assad recovery",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cmn4egvez1yzo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-10-30T06:02:23+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "King Charles on Caribbean tour as calls grow for slavery reparations",
       "source": "Al Jazeera",
@@ -51,6 +58,13 @@
       "url": "https://syrianobserver.com/uncategorized/syrian-foreign-minister-meets-king-of-bahrain-discusses-bilateral-cooperation-and-revival-of-joint-committee.html",
       "published_date": "2026-10-25T21:00:05+00:00",
       "category": "Diplomacy"
+    },
+    {
+      "title": "Democratic senator blames Egypt press crackdown on US military aid decision",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c63r529wn2vzo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-10-30T15:17:11+00:00",
+      "category": "Military"
     },
     {
       "title": "Damascus, Amman contradict each other on attack that killed civilians",
@@ -151,13 +165,6 @@
       "category": "Military"
     },
     {
-      "title": "Syrian FM says country has handed over chemical weapons sites information to international watchdog",
-      "source": "Syrian Observer",
-      "url": "https://syrianobserver.com/youtube/syrian-fm-says-country-has-handed-over-chemical-weapons-sites-information-to-international-watchdog.html",
-      "published_date": "2026-10-23T09:15:55+00:00",
-      "category": "Military"
-    },
-    {
       "title": "Syrian Energy Deals Spark Debate Over Sovereign Ownership of New Power Plants",
       "source": "Syrian Observer",
       "url": "https://syrianobserver.com/uncategorized/syrian-energy-deals-spark-debate-over-sovereign-ownership-of-new-power-plants.html",
@@ -169,13 +176,6 @@
       "source": "Syrian Observer",
       "url": "https://syrianobserver.com/foreign-actors/talks-between-president-sharaa-and-zaidi-at-the-peoples-palace-in-damascus.html",
       "published_date": "2026-10-28T21:01:51+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Syria reconnects to global finance, but ordinary Syrians are still struggling",
-      "source": "Syria Direct",
-      "url": "https://syriadirect.org/syria-reconnects-to-global-finance-but-ordinary-syrians-are-still-struggling/",
-      "published_date": "2026-10-23T12:58:38+00:00",
       "category": "Economy"
     },
     {
