@@ -1,6 +1,6 @@
 {
   "country": "Syria",
-  "last_updated": "2026-10-30T16:54:54.398871+00:00",
+  "last_updated": "2026-10-31T01:54:06.424355+00:00",
   "story_count": 38,
   "stories": [
     {
@@ -179,6 +179,13 @@
       "category": "Economy"
     },
     {
+      "title": "How cuts under Colombia’s de la Espriella threaten a key human rights court",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/longform/2026/10/30/how-cuts-under-colombias-de-la-espriella-threaten-a-key-human-rights-court?traffic_source=rss",
+      "published_date": "2026-10-30T17:43:21+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "Rights Report: Transitional Justice in Syria Faces Accountability Gaps and Excludes Victims of Islamist Groups",
       "source": "Syrian Observer",
       "url": "https://syrianobserver.com/syrian-actors/rights-report-transitional-justice-in-syria-faces-accountability-gaps-and-excludes-victims-of-islamist-groups.html",
@@ -260,13 +267,6 @@
       "source": "Syrian Observer",
       "url": "https://syrianobserver.com/foreign-actors/damascus-awaits-israels-elections-could-the-course-of-negotiations-change.html",
       "published_date": "2026-10-25T21:02:07+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Syrians protest Israel’s incursions near occupied Golan Heights",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/24/10-24-reported-heidi-pett-syria?traffic_source=rss",
-      "published_date": "2026-10-24T00:50:05+00:00",
       "category": "Local Events"
     }
   ]
