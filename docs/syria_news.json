@@ -1,8 +1,15 @@
 {
   "country": "Syria",
-  "last_updated": "2026-10-31T01:54:06.424355+00:00",
-  "story_count": 38,
+  "last_updated": "2026-10-31T15:55:33.394814+00:00",
+  "story_count": 39,
   "stories": [
+    {
+      "title": "Syria considering entry into Mecca defence pact, says foreign minister",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/31/syria-considering-entry-into-mecca-defence-pact-says-foreign-minister?traffic_source=rss",
+      "published_date": "2026-10-31T14:20:23+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Syrians struggle with soaring prices as crisis challenges post-Assad recovery",
       "source": "BBC News",
