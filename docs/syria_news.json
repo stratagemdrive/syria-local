@@ -1,6 +1,6 @@
 {
   "country": "Syria",
-  "last_updated": "2026-11-01T16:58:08.125978+00:00",
+  "last_updated": "2026-11-02T01:55:50.584444+00:00",
   "story_count": 39,
   "stories": [
     {
@@ -60,18 +60,11 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Barak’s Remarks Ignite Debate Over U.S. Policy in Southern Syria and the Boundaries of Israeli Support",
+      "title": "Security Source to Ultra Syria: Tunisians and Uzbeks Detained in Idlib Countryside Over Suspected Extremist Links",
       "source": "Syrian Observer",
-      "url": "https://syrianobserver.com/foreign-actors/baraks-remarks-ignite-debate-over-u-s-policy-in-southern-syria-and-the-boundaries-of-israeli-support.html",
-      "published_date": "2026-10-25T21:02:38+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Syrian Foreign Minister Meets King of Bahrain, Discusses Bilateral Cooperation and Revival of Joint Committee",
-      "source": "Syrian Observer",
-      "url": "https://syrianobserver.com/uncategorized/syrian-foreign-minister-meets-king-of-bahrain-discusses-bilateral-cooperation-and-revival-of-joint-committee.html",
-      "published_date": "2026-10-25T21:00:05+00:00",
-      "category": "Diplomacy"
+      "url": "https://syrianobserver.com/security/security-source-to-ultra-syria-tunisians-and-uzbeks-detained-in-idlib-countryside-over-suspected-extremist-links.html",
+      "published_date": "2026-11-01T21:00:24+00:00",
+      "category": "Military"
     },
     {
       "title": "Israeli strikes in Gaza kill eight including child, hospitals say",
@@ -165,13 +158,6 @@
       "category": "Military"
     },
     {
-      "title": "Coordinated Online Campaigns Target Syrian Dissidents and Female Activists",
-      "source": "Syrian Observer",
-      "url": "https://syrianobserver.com/uncategorized/coordinated-online-campaigns-target-syrian-dissidents-and-female-activists.html",
-      "published_date": "2026-10-25T21:01:17+00:00",
-      "category": "Military"
-    },
-    {
       "title": "Syrian Energy Deals Spark Debate Over Sovereign Ownership of New Power Plants",
       "source": "Syrian Observer",
       "url": "https://syrianobserver.com/uncategorized/syrian-energy-deals-spark-debate-over-sovereign-ownership-of-new-power-plants.html",
@@ -179,11 +165,32 @@
       "category": "Energy"
     },
     {
+      "title": "Barrack’s Warning on Syrian Investment: Economic Reality or Political Messaging?",
+      "source": "Syrian Observer",
+      "url": "https://syrianobserver.com/society/barracks-warning-on-syrian-investment-economic-reality-or-political-messaging.html",
+      "published_date": "2026-11-01T21:00:37+00:00",
+      "category": "Economy"
+    },
+    {
       "title": "Talks Between President Sharaa and Zaidi at the People’s Palace in Damascus",
       "source": "Syrian Observer",
       "url": "https://syrianobserver.com/foreign-actors/talks-between-president-sharaa-and-zaidi-at-the-peoples-palace-in-damascus.html",
       "published_date": "2026-10-28T21:01:51+00:00",
       "category": "Economy"
+    },
+    {
+      "title": "Damascus Explores Joining the “Mecca Pact” and Moves to Resolve Disputes with Jordan",
+      "source": "Syrian Observer",
+      "url": "https://syrianobserver.com/syrian-actors/damascus-explores-joining-the-mecca-pact-and-moves-to-resolve-disputes-with-jordan.html",
+      "published_date": "2026-11-01T21:02:49+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "“Voluntary Return” Within Syria Means Moving from One Tent to Another",
+      "source": "Syrian Observer",
+      "url": "https://syrianobserver.com/refugees/voluntary-return-within-syria-means-moving-from-one-tent-to-another.html",
+      "published_date": "2026-11-01T21:00:55+00:00",
+      "category": "Local Events"
     },
     {
       "title": "How cuts under Colombia’s de la Espriella threaten a key human rights court",
@@ -267,13 +274,6 @@
       "source": "Syria Direct",
       "url": "https://syriadirect.org/the-book-of-damascus-my-complicated-love-affair/",
       "published_date": "2026-10-26T10:53:32+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Damascus Awaits Israel’s Elections: Could the Course of Negotiations Change?",
-      "source": "Syrian Observer",
-      "url": "https://syrianobserver.com/foreign-actors/damascus-awaits-israels-elections-could-the-course-of-negotiations-change.html",
-      "published_date": "2026-10-25T21:02:07+00:00",
       "category": "Local Events"
     }
   ]
