@@ -1,6 +1,6 @@
 {
   "country": "Syria",
-  "last_updated": "2026-11-02T01:55:50.584444+00:00",
+  "last_updated": "2026-11-02T20:35:43.806289+00:00",
   "story_count": 39,
   "stories": [
     {
@@ -179,6 +179,13 @@
       "category": "Economy"
     },
     {
+      "title": "One in a Million review – deeply moving film about displacement, freedom and the upheaval of starting again",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/film/2026/nov/02/one-in-a-million-review-itab-azzam-jack-macinnes",
+      "published_date": "2026-11-02T13:00:41+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "Damascus Explores Joining the “Mecca Pact” and Moves to Resolve Disputes with Jordan",
       "source": "Syrian Observer",
       "url": "https://syrianobserver.com/syrian-actors/damascus-explores-joining-the-mecca-pact-and-moves-to-resolve-disputes-with-jordan.html",
@@ -267,13 +274,6 @@
       "source": "Syrian Observer",
       "url": "https://syrianobserver.com/society/syrian-school-curricula-between-educational-reform-and-ideological-control.html",
       "published_date": "2026-10-26T21:02:54+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "The Book of Damascus: My complicated love affair",
-      "source": "Syria Direct",
-      "url": "https://syriadirect.org/the-book-of-damascus-my-complicated-love-affair/",
-      "published_date": "2026-10-26T10:53:32+00:00",
       "category": "Local Events"
     }
   ]
