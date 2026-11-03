@@ -1,7 +1,7 @@
 {
   "country": "Syria",
-  "last_updated": "2026-11-02T20:35:43.806289+00:00",
-  "story_count": 39,
+  "last_updated": "2026-11-03T03:45:17.109541+00:00",
+  "story_count": 34,
   "stories": [
     {
       "title": "Syria can speak freely, but is its government listening?",
@@ -60,6 +60,13 @@
       "category": "Diplomacy"
     },
     {
+      "title": "Lindsay Clancy back in court seeking to have murder charges dismissed",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/11/2/lindsay-clancy-in-court-to-drop-child-murder-charges-after-mistrial?traffic_source=rss",
+      "published_date": "2026-11-02T19:11:37+00:00",
+      "category": "Military"
+    },
+    {
       "title": "Security Source to Ultra Syria: Tunisians and Uzbeks Detained in Idlib Countryside Over Suspected Extremist Links",
       "source": "Syrian Observer",
       "url": "https://syrianobserver.com/security/security-source-to-ultra-syria-tunisians-and-uzbeks-detained-in-idlib-countryside-over-suspected-extremist-links.html",
@@ -116,48 +123,6 @@
       "category": "Military"
     },
     {
-      "title": "Jordan carries out deadly strike in Syria in retaliation for church attack",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cq8ezg6dy6xlo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-10-27T02:40:17+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Jordan attacks Syria in response to Karak church attack",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/26/jordan-attacks-syria-in-response-to-karak-church-attack?traffic_source=rss",
-      "published_date": "2026-10-26T23:48:51+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Jordan attacks militants in Syria in retaliation for last week’s church attack",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/oct/26/jordan-attacks-militants-syria-retaliation-for-last-week-church-attack",
-      "published_date": "2026-10-26T22:08:38+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "ISIS Recedes Under Pressure from Intensified Syrian Preemptive Operations",
-      "source": "Syrian Observer",
-      "url": "https://syrianobserver.com/security/isis-recedes-under-pressure-from-intensified-syrian-preemptive-operations.html",
-      "published_date": "2026-10-26T21:01:18+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "In a National First: Syria Prepares to Launch Interactive Landmine Map",
-      "source": "Syrian Observer",
-      "url": "https://syrianobserver.com/syrian-actors/in-a-national-first-syria-prepares-to-launch-interactive-landmine-map.html",
-      "published_date": "2026-10-26T21:00:55+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Huge explosion at a weapons depot in Syria",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/26/huge-explosion-at-a-weapons-depot-in-syria?traffic_source=rss",
-      "published_date": "2026-10-26T20:41:33+00:00",
-      "category": "Military"
-    },
-    {
       "title": "Syrian Energy Deals Spark Debate Over Sovereign Ownership of New Power Plants",
       "source": "Syrian Observer",
       "url": "https://syrianobserver.com/uncategorized/syrian-energy-deals-spark-debate-over-sovereign-ownership-of-new-power-plants.html",
@@ -177,6 +142,13 @@
       "url": "https://syrianobserver.com/foreign-actors/talks-between-president-sharaa-and-zaidi-at-the-peoples-palace-in-damascus.html",
       "published_date": "2026-10-28T21:01:51+00:00",
       "category": "Economy"
+    },
+    {
+      "title": "European Maps Show Rising Soil Moisture Across Syria, Heightening Flash Flood Concerns",
+      "source": "Syrian Observer",
+      "url": "https://syrianobserver.com/society/european-maps-show-rising-soil-moisture-across-syria-heightening-flash-flood-concerns.html",
+      "published_date": "2026-11-02T21:00:42+00:00",
+      "category": "Local Events"
     },
     {
       "title": "One in a Million review – deeply moving film about displacement, freedom and the upheaval of starting again",
@@ -267,13 +239,6 @@
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/c3j47l4kdez4o?at_medium=RSS&at_campaign=rss",
       "published_date": "2026-10-27T11:11:33+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Syrian School Curricula: Between Educational Reform and Ideological Control",
-      "source": "Syrian Observer",
-      "url": "https://syrianobserver.com/society/syrian-school-curricula-between-educational-reform-and-ideological-control.html",
-      "published_date": "2026-10-26T21:02:54+00:00",
       "category": "Local Events"
     }
   ]
