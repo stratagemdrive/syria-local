@@ -1,7 +1,7 @@
 {
   "country": "Syria",
-  "last_updated": "2026-11-03T03:45:17.109541+00:00",
-  "story_count": 34,
+  "last_updated": "2026-11-03T18:10:59.067375+00:00",
+  "story_count": 35,
   "stories": [
     {
       "title": "Syria can speak freely, but is its government listening?",
@@ -123,11 +123,25 @@
       "category": "Military"
     },
     {
+      "title": "Syria says it foiled Hezbollah plot to target Homs oil refinery",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/11/3/syria-arrests-cell-it-links-to-isis-over-plot-against-oil-refinery?traffic_source=rss",
+      "published_date": "2026-11-03T15:47:34+00:00",
+      "category": "Energy"
+    },
+    {
       "title": "Syrian Energy Deals Spark Debate Over Sovereign Ownership of New Power Plants",
       "source": "Syrian Observer",
       "url": "https://syrianobserver.com/uncategorized/syrian-energy-deals-spark-debate-over-sovereign-ownership-of-new-power-plants.html",
       "published_date": "2026-10-27T21:01:17+00:00",
       "category": "Energy"
+    },
+    {
+      "title": "Central Bank Governor Discusses Reconnecting Syria to the European Banking System in Paris",
+      "source": "Syrian Observer",
+      "url": "https://syrianobserver.com/society/central-bank-governor-discusses-reconnecting-syria-to-the-european-banking-system-in-paris.html",
+      "published_date": "2026-11-02T21:01:47+00:00",
+      "category": "Economy"
     },
     {
       "title": "Barrack’s Warning on Syrian Investment: Economic Reality or Political Messaging?",
@@ -232,13 +246,6 @@
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/10/27/aje-onl-nf_lebanese-syrians-expectaions-israeli-elections-271026?traffic_source=rss",
       "published_date": "2026-10-27T20:34:44+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Turnout so far highest on record as Israelis vote in pivotal election",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c3j47l4kdez4o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-10-27T11:11:33+00:00",
       "category": "Local Events"
     }
   ]
