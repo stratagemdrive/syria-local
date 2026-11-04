@@ -1,7 +1,7 @@
 {
   "country": "Syria",
-  "last_updated": "2026-11-04T02:46:22.272571+00:00",
-  "story_count": 34,
+  "last_updated": "2026-11-04T18:21:32.426423+00:00",
+  "story_count": 32,
   "stories": [
     {
       "title": "Syria can speak freely, but is its government listening?",
@@ -43,13 +43,6 @@
       "source": "Syrian Observer",
       "url": "https://syrianobserver.com/foreign-actors/syria-and-accession-to-the-mecca-alliance-strategic-gains-and-potential-roles.html",
       "published_date": "2026-10-28T21:00:19+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Iraqi PM Ali al-Zaidi meets Ahmed al-Sharaa in historic Syria visit",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/28/iraqi-pm-ali-al-zaidi-meets-ahmed-al-sharaa-in-historic-syria-visit?traffic_source=rss",
-      "published_date": "2026-10-28T13:47:39+00:00",
       "category": "Diplomacy"
     },
     {
@@ -109,20 +102,6 @@
       "category": "Military"
     },
     {
-      "title": "Israeli soldier visiting UK faces war crimes complaint",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/28/israeli-soldier-visiting-uk-faces-war-crimes-complaint?traffic_source=rss",
-      "published_date": "2026-10-28T16:06:17+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Victims of Jordan’s air strikes in Syria",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/28/victims-of-jordans-air-strikes-in-syria?traffic_source=rss",
-      "published_date": "2026-10-28T12:35:19+00:00",
-      "category": "Military"
-    },
-    {
       "title": "Syria says it foiled Hezbollah plot to target Homs oil refinery",
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/news/2026/11/3/syria-arrests-cell-it-links-to-isis-over-plot-against-oil-refinery?traffic_source=rss",
@@ -163,6 +142,13 @@
       "url": "https://syrianobserver.com/foreign-actors/talks-between-president-sharaa-and-zaidi-at-the-peoples-palace-in-damascus.html",
       "published_date": "2026-10-28T21:01:51+00:00",
       "category": "Economy"
+    },
+    {
+      "title": "In Syria’s divided Talkalakh, an uneasy peace takes hold",
+      "source": "Syria Direct",
+      "url": "https://syriadirect.org/in-syrias-divided-talkalakh-an-uneasy-peace-takes-hold/",
+      "published_date": "2026-11-04T11:49:57+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Oil Pipelines and Border Fire: Zaidi’s Visit Tests the Iraqi–Syrian Partnership",
