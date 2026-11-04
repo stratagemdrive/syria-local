@@ -1,7 +1,7 @@
 {
   "country": "Syria",
-  "last_updated": "2026-11-03T18:10:59.067375+00:00",
-  "story_count": 35,
+  "last_updated": "2026-11-04T02:46:22.272571+00:00",
+  "story_count": 34,
   "stories": [
     {
       "title": "Syria can speak freely, but is its government listening?",
@@ -53,11 +53,25 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Qatar’s Emir and Putin call for diplomacy amid US-Iran conflict",
+      "title": "Bomb threats disrupt flights across Europe, no explosive devices found",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/27/qatars-emir-and-putin-call-for-diplomacy-amid-us-iran-conflict?traffic_source=rss",
-      "published_date": "2026-10-27T19:36:01+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news/2026/11/4/bomb-threats-disrupt-flights-across-europe-no-explosive-devices-found?traffic_source=rss",
+      "published_date": "2026-11-04T00:35:44+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Syria Foils Plot Targeting Homs Refinery, Accuses Hezbollah",
+      "source": "Syrian Observer",
+      "url": "https://syrianobserver.com/security/syria-foils-plot-targeting-homs-refinery-accuses-hezbollah.html",
+      "published_date": "2026-11-03T21:01:30+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Beijing Holds the Key to Syria’s Pakistani Arms Push",
+      "source": "Syrian Observer",
+      "url": "https://syrianobserver.com/uncategorized/beijing-holds-the-key-to-syrias-pakistani-arms-push.html",
+      "published_date": "2026-11-03T21:00:05+00:00",
+      "category": "Military"
     },
     {
       "title": "Lindsay Clancy back in court seeking to have murder charges dismissed",
@@ -109,20 +123,6 @@
       "category": "Military"
     },
     {
-      "title": "Gaza’s women filmmakers turn pain into cinema as new academy launches",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/27/gazas-women-filmmakers-turn-pain-into-cinema-as-new-academy-launches?traffic_source=rss",
-      "published_date": "2026-10-27T23:35:51+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Jordan Defends Cross-Border Strikes in Syria, Calls for Closer Security Cooperation",
-      "source": "Syrian Observer",
-      "url": "https://syrianobserver.com/foreign-actors/jordan-defends-cross-border-strikes-in-syria-calls-for-closer-security-cooperation.html",
-      "published_date": "2026-10-27T21:00:23+00:00",
-      "category": "Military"
-    },
-    {
       "title": "Syria says it foiled Hezbollah plot to target Homs oil refinery",
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/news/2026/11/3/syria-arrests-cell-it-links-to-isis-over-plot-against-oil-refinery?traffic_source=rss",
@@ -130,11 +130,18 @@
       "category": "Energy"
     },
     {
-      "title": "Syrian Energy Deals Spark Debate Over Sovereign Ownership of New Power Plants",
+      "title": "Syria Launches US‑Backed Project to Digitise Company Registration",
       "source": "Syrian Observer",
-      "url": "https://syrianobserver.com/uncategorized/syrian-energy-deals-spark-debate-over-sovereign-ownership-of-new-power-plants.html",
-      "published_date": "2026-10-27T21:01:17+00:00",
-      "category": "Energy"
+      "url": "https://syrianobserver.com/society/syria-launches-us-backed-project-to-digitise-company-registration.html",
+      "published_date": "2026-11-03T21:01:11+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Syria Seeks Strategic Partnerships with China and a Private‑Sector‑Led Economy",
+      "source": "Syrian Observer",
+      "url": "https://syrianobserver.com/society/syria-seeks-strategic-partnerships-with-china-and-a-private-sector-led-economy.html",
+      "published_date": "2026-11-03T21:00:53+00:00",
+      "category": "Economy"
     },
     {
       "title": "Central Bank Governor Discusses Reconnecting Syria to the European Banking System in Paris",
@@ -156,6 +163,13 @@
       "url": "https://syrianobserver.com/foreign-actors/talks-between-president-sharaa-and-zaidi-at-the-peoples-palace-in-damascus.html",
       "published_date": "2026-10-28T21:01:51+00:00",
       "category": "Economy"
+    },
+    {
+      "title": "Oil Pipelines and Border Fire: Zaidi’s Visit Tests the Iraqi–Syrian Partnership",
+      "source": "Syrian Observer",
+      "url": "https://syrianobserver.com/foreign-actors/oil-pipelines-and-border-fire-zaidis-visit-tests-the-iraqi-syrian-partnership.html",
+      "published_date": "2026-11-03T21:02:42+00:00",
+      "category": "Local Events"
     },
     {
       "title": "European Maps Show Rising Soil Moisture Across Syria, Heightening Flash Flood Concerns",
@@ -225,27 +239,6 @@
       "source": "Syrian Observer",
       "url": "https://syrianobserver.com/foreign-actors/daraa-airstrikes-put-syrian-jordanian-relations-to-a-difficult-test.html",
       "published_date": "2026-10-28T21:01:26+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Syria Condemns Jordanian Airstrikes on Daraa and Proposes Joint Security Committee to Prevent Further Violations",
-      "source": "Syrian Observer",
-      "url": "https://syrianobserver.com/foreign-actors/syria-condemns-jordanian-airstrikes-on-daraa-and-proposes-joint-security-committee-to-prevent-further-violations.html",
-      "published_date": "2026-10-27T21:02:57+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "What Are Our Children Learning in School After the Liberation?",
-      "source": "Syrian Observer",
-      "url": "https://syrianobserver.com/society/what-are-our-children-learning-in-school-after-the-liberation.html",
-      "published_date": "2026-10-27T21:00:26+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Lebanese and Syrians expect no change in Israeli policy after election",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/27/aje-onl-nf_lebanese-syrians-expectaions-israeli-elections-271026?traffic_source=rss",
-      "published_date": "2026-10-27T20:34:44+00:00",
       "category": "Local Events"
     }
   ]
