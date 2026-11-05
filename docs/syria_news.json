@@ -1,6 +1,6 @@
 {
   "country": "Syria",
-  "last_updated": "2026-11-05T02:55:31.747755+00:00",
+  "last_updated": "2026-11-05T18:25:51.311654+00:00",
   "story_count": 32,
   "stories": [
     {
@@ -32,11 +32,11 @@
       "category": "Diplomacy"
     },
     {
-      "title": "King Charles on Caribbean tour as calls grow for slavery reparations",
+      "title": "‘Healthcare not bombs’: How Gaza shaped Adam Hamawy’s path to US Congress",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/29/king-charles-on-caribbean-tour-as-calls-grow-for-slavery-reparations?traffic_source=rss",
-      "published_date": "2026-10-29T12:10:22+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.aljazeera.com/news/2026/11/5/healthcare-not-bombs-how-gaza-shaped-adam-hamawys-path-to-us-congress?traffic_source=rss",
+      "published_date": "2026-11-05T14:30:37+00:00",
+      "category": "Military"
     },
     {
       "title": "Bomb threats disrupt flights across Europe, no explosive devices found",
@@ -88,13 +88,6 @@
       "category": "Military"
     },
     {
-      "title": "Damascus, Amman contradict each other on attack that killed civilians",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/features/2026/10/29/damascus-amman-contradict-each-other-on-attack-that-killed-civilians?traffic_source=rss",
-      "published_date": "2026-10-29T13:44:42+00:00",
-      "category": "Military"
-    },
-    {
       "title": "Syria says it foiled Hezbollah plot to target Homs oil refinery",
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/news/2026/11/3/syria-arrests-cell-it-links-to-isis-over-plot-against-oil-refinery?traffic_source=rss",
@@ -142,6 +135,13 @@
       "url": "https://syrianobserver.com/society/barracks-warning-on-syrian-investment-economic-reality-or-political-messaging.html",
       "published_date": "2026-11-01T21:00:37+00:00",
       "category": "Economy"
+    },
+    {
+      "title": "‘Children were wearing fake life jackets’: one Syrian family’s terrifying, 10-year journey",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/film/2026/nov/05/syrian-family-10-year-journey-one-in-a-million-itab-azzam-and-jack-macinnes",
+      "published_date": "2026-11-05T11:39:48+00:00",
+      "category": "Local Events"
     },
     {
       "title": "What Will Become of Turkey’s Military Bases and Observation Posts in Syria?",
