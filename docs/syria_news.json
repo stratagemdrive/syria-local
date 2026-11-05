@@ -1,8 +1,15 @@
 {
   "country": "Syria",
-  "last_updated": "2026-11-04T18:21:32.426423+00:00",
+  "last_updated": "2026-11-05T02:55:31.747755+00:00",
   "story_count": 32,
   "stories": [
+    {
+      "title": "For the Second Time in a Month, Sharaa Meets Bin Salman in Riyadh to Advance Bilateral Cooperation",
+      "source": "Syrian Observer",
+      "url": "https://syrianobserver.com/foreign-actors/for-the-second-time-in-a-month-sharaa-meets-bin-salman-in-riyadh-to-advance-bilateral-cooperation.html",
+      "published_date": "2026-11-04T21:02:42+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Syria can speak freely, but is its government listening?",
       "source": "Syria Direct",
@@ -29,20 +36,6 @@
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/10/29/king-charles-on-caribbean-tour-as-calls-grow-for-slavery-reparations?traffic_source=rss",
       "published_date": "2026-10-29T12:10:22+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Syria at the UN Security Council: Empowering Women and Including Them in Decision‑Making Is Essential for Building Peace and the State",
-      "source": "Syrian Observer",
-      "url": "https://syrianobserver.com/syrian-actors/syria-at-the-un-security-council-empowering-women-and-including-them-in-decision-making-is-essential-for-building-peace-and-the-state.html",
-      "published_date": "2026-10-28T21:01:44+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Syria and Accession to the “Mecca Alliance”: Strategic Gains and Potential Roles",
-      "source": "Syrian Observer",
-      "url": "https://syrianobserver.com/foreign-actors/syria-and-accession-to-the-mecca-alliance-strategic-gains-and-potential-roles.html",
-      "published_date": "2026-10-28T21:00:19+00:00",
       "category": "Diplomacy"
     },
     {
@@ -109,6 +102,20 @@
       "category": "Energy"
     },
     {
+      "title": "Can Syria Turn Diplomatic Breakthroughs into Economic Recovery?",
+      "source": "Syrian Observer",
+      "url": "https://syrianobserver.com/syrian-actors/can-syria-turn-diplomatic-breakthroughs-into-economic-recovery.html",
+      "published_date": "2026-11-04T21:01:43+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Tom Barrack Meets Alawite Figures on Syria’s Coast to Discuss Rights, Security, and Economic Conditions",
+      "source": "Syrian Observer",
+      "url": "https://syrianobserver.com/syrian-actors/tom-barrack-meets-alawite-figures-on-syrias-coast-to-discuss-rights-security-and-economic-conditions.html",
+      "published_date": "2026-11-04T21:00:31+00:00",
+      "category": "Economy"
+    },
+    {
       "title": "Syria Launches US‑Backed Project to Digitise Company Registration",
       "source": "Syrian Observer",
       "url": "https://syrianobserver.com/society/syria-launches-us-backed-project-to-digitise-company-registration.html",
@@ -137,11 +144,11 @@
       "category": "Economy"
     },
     {
-      "title": "Talks Between President Sharaa and Zaidi at the People’s Palace in Damascus",
+      "title": "What Will Become of Turkey’s Military Bases and Observation Posts in Syria?",
       "source": "Syrian Observer",
-      "url": "https://syrianobserver.com/foreign-actors/talks-between-president-sharaa-and-zaidi-at-the-peoples-palace-in-damascus.html",
-      "published_date": "2026-10-28T21:01:51+00:00",
-      "category": "Economy"
+      "url": "https://syrianobserver.com/foreign-actors/what-will-become-of-turkeys-military-bases-and-observation-posts-in-syria.html",
+      "published_date": "2026-11-04T21:00:38+00:00",
+      "category": "Local Events"
     },
     {
       "title": "In Syria’s divided Talkalakh, an uneasy peace takes hold",
@@ -218,13 +225,6 @@
       "source": "Syrian Observer",
       "url": "https://syrianobserver.com/foreign-actors/damascus-and-baghdad-discuss-reviving-the-kirkuk-baniyas-pipeline-and-expanding-security-cooperation.html",
       "published_date": "2026-10-29T21:00:36+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Daraa Airstrikes Put Syrian-Jordanian Relations to a Difficult Test",
-      "source": "Syrian Observer",
-      "url": "https://syrianobserver.com/foreign-actors/daraa-airstrikes-put-syrian-jordanian-relations-to-a-difficult-test.html",
-      "published_date": "2026-10-28T21:01:26+00:00",
       "category": "Local Events"
     }
   ]
