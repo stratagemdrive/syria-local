@@ -1,6 +1,6 @@
 {
   "country": "Syria",
-  "last_updated": "2026-11-06T02:55:19.484968+00:00",
+  "last_updated": "2026-11-06T17:46:38.705770+00:00",
   "story_count": 29,
   "stories": [
     {
@@ -22,13 +22,6 @@
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/news/2026/10/31/syria-considering-entry-into-mecca-defence-pact-says-foreign-minister?traffic_source=rss",
       "published_date": "2026-10-31T14:20:23+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Syrians struggle with soaring prices as crisis challenges post-Assad recovery",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cmn4egvez1yzo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-10-30T06:02:23+00:00",
       "category": "Diplomacy"
     },
     {
@@ -67,6 +60,13 @@
       "category": "Military"
     },
     {
+      "title": "Beijing Holds the Key to Syria’s Pakistani Arms Push",
+      "source": "Syrian Observer",
+      "url": "https://syrianobserver.com/foreign-actors/beijing-holds-the-key-to-syrias-pakistani-arms-push.html",
+      "published_date": "2026-11-03T21:00:05+00:00",
+      "category": "Military"
+    },
+    {
       "title": "Lindsay Clancy back in court seeking to have murder charges dismissed",
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/news/2026/11/2/lindsay-clancy-in-court-to-drop-child-murder-charges-after-mistrial?traffic_source=rss",
@@ -88,18 +88,18 @@
       "category": "Military"
     },
     {
-      "title": "Democratic senator blames Egypt press crackdown on US military aid decision",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c63r529wn2vzo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-10-30T15:17:11+00:00",
-      "category": "Military"
-    },
-    {
       "title": "Syria says it foiled Hezbollah plot to target Homs oil refinery",
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/news/2026/11/3/syria-arrests-cell-it-links-to-isis-over-plot-against-oil-refinery?traffic_source=rss",
       "published_date": "2026-11-03T15:47:34+00:00",
       "category": "Energy"
+    },
+    {
+      "title": "Unemployment, Poverty and Rising Prices: Syrians’ Top Concerns in a New Survey",
+      "source": "Syrian Observer",
+      "url": "https://syrianobserver.com/society/unemployment-poverty-and-rising-prices-syrians-top-concerns-in-a-new-survey.html",
+      "published_date": "2026-11-05T21:01:14+00:00",
+      "category": "Economy"
     },
     {
       "title": "Can Syria Turn Diplomatic Breakthroughs into Economic Recovery?",
@@ -142,6 +142,13 @@
       "url": "https://syrianobserver.com/society/barracks-warning-on-syrian-investment-economic-reality-or-political-messaging.html",
       "published_date": "2026-11-01T21:00:37+00:00",
       "category": "Economy"
+    },
+    {
+      "title": "After the Democrats’ Win… Will Washington’s Policy Toward Damascus Change?",
+      "source": "Syrian Observer",
+      "url": "https://syrianobserver.com/foreign-actors/after-the-democrats-win-will-washingtons-policy-toward-damascus-change.html",
+      "published_date": "2026-11-05T21:00:04+00:00",
+      "category": "Local Events"
     },
     {
       "title": "‘Children were wearing fake life jackets’: one Syrian family’s terrifying, 10-year journey",
@@ -197,13 +204,6 @@
       "source": "Syrian Observer",
       "url": "https://syrianobserver.com/refugees/voluntary-return-within-syria-means-moving-from-one-tent-to-another.html",
       "published_date": "2026-11-01T21:00:55+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "How cuts under Colombia’s de la Espriella threaten a key human rights court",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/longform/2026/10/30/how-cuts-under-colombias-de-la-espriella-threaten-a-key-human-rights-court?traffic_source=rss",
-      "published_date": "2026-10-30T17:43:21+00:00",
       "category": "Local Events"
     }
   ]
