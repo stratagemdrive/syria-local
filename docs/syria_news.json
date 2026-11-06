@@ -1,7 +1,7 @@
 {
   "country": "Syria",
-  "last_updated": "2026-11-05T18:25:51.311654+00:00",
-  "story_count": 32,
+  "last_updated": "2026-11-06T02:55:19.484968+00:00",
+  "story_count": 29,
   "stories": [
     {
       "title": "For the Second Time in a Month, Sharaa Meets Bin Salman in Riyadh to Advance Bilateral Cooperation",
@@ -30,6 +30,13 @@
       "url": "https://www.bbc.co.uk/news/articles/cmn4egvez1yzo?at_medium=RSS&at_campaign=rss",
       "published_date": "2026-10-30T06:02:23+00:00",
       "category": "Diplomacy"
+    },
+    {
+      "title": "Hoax bomb threats force emergency landings, evacuations across Europe",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/5/hoax-bomb-threats-force-emergency-landings-evacuations-across-europe?traffic_source=rss",
+      "published_date": "2026-11-05T21:26:21+00:00",
+      "category": "Military"
     },
     {
       "title": "‘Healthcare not bombs’: How Gaza shaped Adam Hamawy’s path to US Congress",
@@ -197,34 +204,6 @@
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/news/longform/2026/10/30/how-cuts-under-colombias-de-la-espriella-threaten-a-key-human-rights-court?traffic_source=rss",
       "published_date": "2026-10-30T17:43:21+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Rights Report: Transitional Justice in Syria Faces Accountability Gaps and Excludes Victims of Islamist Groups",
-      "source": "Syrian Observer",
-      "url": "https://syrianobserver.com/syrian-actors/rights-report-transitional-justice-in-syria-faces-accountability-gaps-and-excludes-victims-of-islamist-groups.html",
-      "published_date": "2026-10-29T21:02:36+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Deadly Flash Floods Paralyze Eastern Syria: 15 Rescued, Hundreds Evacuated Across Six Provinces",
-      "source": "Syrian Observer",
-      "url": "https://syrianobserver.com/society/deadly-flash-floods-paralyze-eastern-syria-15-rescued-hundreds-evacuated-across-six-provinces.html",
-      "published_date": "2026-10-29T21:00:36+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "President Sharaa Opens Up to Iraqi Media",
-      "source": "Syrian Observer",
-      "url": "https://syrianobserver.com/syrian-actors/president-sharaa-opens-up-to-iraqi-media.html",
-      "published_date": "2026-10-29T21:00:36+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Damascus and Baghdad Discuss Reviving the Kirkuk–Baniyas Pipeline and Expanding Security Cooperation",
-      "source": "Syrian Observer",
-      "url": "https://syrianobserver.com/foreign-actors/damascus-and-baghdad-discuss-reviving-the-kirkuk-baniyas-pipeline-and-expanding-security-cooperation.html",
-      "published_date": "2026-10-29T21:00:36+00:00",
       "category": "Local Events"
     }
   ]
