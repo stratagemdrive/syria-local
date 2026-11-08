@@ -1,8 +1,15 @@
 {
   "country": "Syria",
-  "last_updated": "2026-11-08T01:55:00.703329+00:00",
-  "story_count": 28,
+  "last_updated": "2026-11-08T16:53:16.348006+00:00",
+  "story_count": 35,
   "stories": [
+    {
+      "title": "Syria condemns Houthi militia attacks on facilities in Saudi capital Riyadh",
+      "source": "SANA",
+      "url": "https://sana.sy/en/politics/2357132/",
+      "published_date": "2026-11-08T13:02:00+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "For the Second Time in a Month, Sharaa Meets Bin Salman in Riyadh to Advance Bilateral Cooperation",
       "source": "Syrian Observer",
@@ -11,11 +18,11 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Syria can speak freely, but is its government listening?",
-      "source": "Syria Direct",
-      "url": "https://syriadirect.org/syria-can-speak-freely-but-is-its-government-listening/",
-      "published_date": "2026-11-01T12:08:30+00:00",
-      "category": "Diplomacy"
+      "title": "Tens of thousands of tents flooded after heavy rains in Gaza",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cx240e5py64jo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-11-07T16:25:55+00:00",
+      "category": "Military"
     },
     {
       "title": "Hoax bomb threats force emergency landings, evacuations across Europe",
@@ -74,11 +81,11 @@
       "category": "Military"
     },
     {
-      "title": "Israeli strikes in Gaza kill eight including child, hospitals say",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cmqln14rrzxvo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-11-01T16:25:33+00:00",
-      "category": "Military"
+      "title": "Türkiye says energy security depends on safe shipping routes amid Middle East tensions",
+      "source": "SANA",
+      "url": "https://sana.sy/en/economic/2357124/",
+      "published_date": "2026-11-08T12:17:33+00:00",
+      "category": "Energy"
     },
     {
       "title": "Syria says it foiled Hezbollah plot to target Homs oil refinery",
@@ -86,6 +93,13 @@
       "url": "https://www.aljazeera.com/news/2026/11/3/syria-arrests-cell-it-links-to-isis-over-plot-against-oil-refinery?traffic_source=rss",
       "published_date": "2026-11-03T15:47:34+00:00",
       "category": "Energy"
+    },
+    {
+      "title": "Central Bank of Syria participates in investment conference in Germany",
+      "source": "SANA",
+      "url": "https://sana.sy/en/economic/2357135/",
+      "published_date": "2026-11-08T13:06:40+00:00",
+      "category": "Economy"
     },
     {
       "title": "Unemployment, Poverty and Rising Prices: Syrians’ Top Concerns in a New Survey",
@@ -135,6 +149,41 @@
       "url": "https://syrianobserver.com/society/barracks-warning-on-syrian-investment-economic-reality-or-political-messaging.html",
       "published_date": "2026-11-01T21:00:37+00:00",
       "category": "Economy"
+    },
+    {
+      "title": "Flash floods expose more of ancient Umayyad water system near Syria’s Palmyra",
+      "source": "SANA",
+      "url": "https://sana.sy/en/tour-syria/2357158/",
+      "published_date": "2026-11-08T13:50:08+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Syria’s new university decrees aim to expand access to higher education, minister says",
+      "source": "SANA",
+      "url": "https://sana.sy/en/education/2357143/",
+      "published_date": "2026-11-08T13:28:36+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Georgia O’Keeffe artwork worth $3 million discovered in apartment closet",
+      "source": "SANA",
+      "url": "https://sana.sy/en/miscellaneous/2357121/",
+      "published_date": "2026-11-08T12:07:47+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "President al-Sharaa establishes 11 university faculties across five Syrian provinces",
+      "source": "SANA",
+      "url": "https://sana.sy/en/presidency/2357117/",
+      "published_date": "2026-11-08T11:37:30+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "President al-Sharaa formally recognizes 24 faculties and institutes at Idlib University",
+      "source": "SANA",
+      "url": "https://sana.sy/en/presidency/2357114/",
+      "published_date": "2026-11-08T11:20:46+00:00",
+      "category": "Local Events"
     },
     {
       "title": "After the Democrats’ Win… Will Washington’s Policy Toward Damascus Change?",
