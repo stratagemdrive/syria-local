@@ -1,7 +1,7 @@
 {
   "country": "Syria",
-  "last_updated": "2026-11-09T02:08:00.055953+00:00",
-  "story_count": 34,
+  "last_updated": "2026-11-09T21:14:48.709268+00:00",
+  "story_count": 31,
   "stories": [
     {
       "title": "Syria condemns Houthi militia attacks on facilities in Saudi capital Riyadh",
@@ -81,13 +81,6 @@
       "category": "Military"
     },
     {
-      "title": "Lindsay Clancy back in court seeking to have murder charges dismissed",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/11/2/lindsay-clancy-in-court-to-drop-child-murder-charges-after-mistrial?traffic_source=rss",
-      "published_date": "2026-11-02T19:11:37+00:00",
-      "category": "Military"
-    },
-    {
       "title": "Türkiye says energy security depends on safe shipping routes amid Middle East tensions",
       "source": "SANA",
       "url": "https://sana.sy/en/economic/2357124/",
@@ -144,11 +137,11 @@
       "category": "Economy"
     },
     {
-      "title": "Central Bank Governor Discusses Reconnecting Syria to the European Banking System in Paris",
-      "source": "Syrian Observer",
-      "url": "https://syrianobserver.com/society/central-bank-governor-discusses-reconnecting-syria-to-the-european-banking-system-in-paris.html",
-      "published_date": "2026-11-02T21:01:47+00:00",
-      "category": "Economy"
+      "title": "The prison pact: A British doctor, an American survivor and the search for justice",
+      "source": "Syria Direct",
+      "url": "https://syriadirect.org/assad-prison-survivors-seek-justice/",
+      "published_date": "2026-11-09T05:46:14+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Damascus Fears the Fallout from Trump’s Electoral Defeat",
@@ -225,20 +218,6 @@
       "source": "Syrian Observer",
       "url": "https://syrianobserver.com/foreign-actors/oil-pipelines-and-border-fire-zaidis-visit-tests-the-iraqi-syrian-partnership.html",
       "published_date": "2026-11-03T21:02:42+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "European Maps Show Rising Soil Moisture Across Syria, Heightening Flash Flood Concerns",
-      "source": "Syrian Observer",
-      "url": "https://syrianobserver.com/society/european-maps-show-rising-soil-moisture-across-syria-heightening-flash-flood-concerns.html",
-      "published_date": "2026-11-02T21:00:42+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "One in a Million review – deeply moving film about displacement, freedom and the upheaval of starting again",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/film/2026/nov/02/one-in-a-million-review-itab-azzam-jack-macinnes",
-      "published_date": "2026-11-02T13:00:41+00:00",
       "category": "Local Events"
     }
   ]
