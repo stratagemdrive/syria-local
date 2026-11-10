@@ -1,7 +1,7 @@
 {
   "country": "Syria",
-  "last_updated": "2026-11-10T04:23:15.872495+00:00",
-  "story_count": 31,
+  "last_updated": "2026-11-10T18:23:52.291826+00:00",
+  "story_count": 32,
   "stories": [
     {
       "title": "Syria condemns Houthi militia attacks on facilities in Saudi capital Riyadh",
@@ -88,11 +88,11 @@
       "category": "Energy"
     },
     {
-      "title": "Syria says it foiled Hezbollah plot to target Homs oil refinery",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/11/3/syria-arrests-cell-it-links-to-isis-over-plot-against-oil-refinery?traffic_source=rss",
-      "published_date": "2026-11-03T15:47:34+00:00",
-      "category": "Energy"
+      "title": "Board of Peace says Israel's aid response after Gaza floods 'insufficent'",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cw4g1g4ll5m1o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-11-10T15:21:18+00:00",
+      "category": "Economy"
     },
     {
       "title": "Central Bank of Syria participates in investment conference in Germany",
@@ -135,6 +135,13 @@
       "url": "https://syrianobserver.com/society/syria-seeks-strategic-partnerships-with-china-and-a-private-sector-led-economy.html",
       "published_date": "2026-11-03T21:00:53+00:00",
       "category": "Economy"
+    },
+    {
+      "title": "Shots rang out. I hid behind a car. Then I wrestled the gun from the Bondi beach shooter",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/australia-news/2026/nov/10/shots-rang-out-i-hid-behind-a-car-then-i-wrestled-the-gun-from-the-bondi-beach-shooter-ntwnfb",
+      "published_date": "2026-11-10T05:00:29+00:00",
+      "category": "Local Events"
     },
     {
       "title": "The prison pact: A British doctor, an American survivor and the search for justice",
