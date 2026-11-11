@@ -1,7 +1,7 @@
 {
   "country": "Syria",
-  "last_updated": "2026-11-10T18:23:52.291826+00:00",
-  "story_count": 32,
+  "last_updated": "2026-11-11T02:19:23.806549+00:00",
+  "story_count": 25,
   "stories": [
     {
       "title": "Syria condemns Houthi militia attacks on facilities in Saudi capital Riyadh",
@@ -53,34 +53,6 @@
       "category": "Military"
     },
     {
-      "title": "Bomb threats disrupt flights across Europe, no explosive devices found",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/11/4/bomb-threats-disrupt-flights-across-europe-no-explosive-devices-found?traffic_source=rss",
-      "published_date": "2026-11-04T00:35:44+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Syria Foils Plot Targeting Homs Refinery, Accuses Hezbollah",
-      "source": "Syrian Observer",
-      "url": "https://syrianobserver.com/security/syria-foils-plot-targeting-homs-refinery-accuses-hezbollah.html",
-      "published_date": "2026-11-03T21:01:30+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Beijing Holds the Key to Syria’s Pakistani Arms Push",
-      "source": "Syrian Observer",
-      "url": "https://syrianobserver.com/uncategorized/beijing-holds-the-key-to-syrias-pakistani-arms-push.html",
-      "published_date": "2026-11-03T21:00:05+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Beijing Holds the Key to Syria’s Pakistani Arms Push",
-      "source": "Syrian Observer",
-      "url": "https://syrianobserver.com/foreign-actors/beijing-holds-the-key-to-syrias-pakistani-arms-push.html",
-      "published_date": "2026-11-03T21:00:05+00:00",
-      "category": "Military"
-    },
-    {
       "title": "Türkiye says energy security depends on safe shipping routes amid Middle East tensions",
       "source": "SANA",
       "url": "https://sana.sy/en/economic/2357124/",
@@ -120,20 +92,6 @@
       "source": "Syrian Observer",
       "url": "https://syrianobserver.com/syrian-actors/tom-barrack-meets-alawite-figures-on-syrias-coast-to-discuss-rights-security-and-economic-conditions.html",
       "published_date": "2026-11-04T21:00:31+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Syria Launches US‑Backed Project to Digitise Company Registration",
-      "source": "Syrian Observer",
-      "url": "https://syrianobserver.com/society/syria-launches-us-backed-project-to-digitise-company-registration.html",
-      "published_date": "2026-11-03T21:01:11+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Syria Seeks Strategic Partnerships with China and a Private‑Sector‑Led Economy",
-      "source": "Syrian Observer",
-      "url": "https://syrianobserver.com/society/syria-seeks-strategic-partnerships-with-china-and-a-private-sector-led-economy.html",
-      "published_date": "2026-11-03T21:00:53+00:00",
       "category": "Economy"
     },
     {
@@ -218,13 +176,6 @@
       "source": "Syria Direct",
       "url": "https://syriadirect.org/in-syrias-divided-talkalakh-an-uneasy-peace-takes-hold/",
       "published_date": "2026-11-04T11:49:57+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Oil Pipelines and Border Fire: Zaidi’s Visit Tests the Iraqi–Syrian Partnership",
-      "source": "Syrian Observer",
-      "url": "https://syrianobserver.com/foreign-actors/oil-pipelines-and-border-fire-zaidis-visit-tests-the-iraqi-syrian-partnership.html",
-      "published_date": "2026-11-03T21:02:42+00:00",
       "category": "Local Events"
     }
   ]
