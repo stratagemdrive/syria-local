@@ -1,20 +1,13 @@
 {
   "country": "Syria",
-  "last_updated": "2026-11-11T18:15:45.120944+00:00",
-  "story_count": 24,
+  "last_updated": "2026-11-12T03:27:20.099046+00:00",
+  "story_count": 20,
   "stories": [
     {
       "title": "Syria condemns Houthi militia attacks on facilities in Saudi capital Riyadh",
       "source": "SANA",
       "url": "https://sana.sy/en/politics/2357132/",
       "published_date": "2026-11-08T13:02:00+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "For the Second Time in a Month, Sharaa Meets Bin Salman in Riyadh to Advance Bilateral Cooperation",
-      "source": "Syrian Observer",
-      "url": "https://syrianobserver.com/foreign-actors/for-the-second-time-in-a-month-sharaa-meets-bin-salman-in-riyadh-to-advance-bilateral-cooperation.html",
-      "published_date": "2026-11-04T21:02:42+00:00",
       "category": "Diplomacy"
     },
     {
@@ -78,20 +71,6 @@
       "source": "Syrian Observer",
       "url": "https://syrianobserver.com/society/unemployment-poverty-and-rising-prices-syrians-top-concerns-in-a-new-survey.html",
       "published_date": "2026-11-05T21:01:14+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Can Syria Turn Diplomatic Breakthroughs into Economic Recovery?",
-      "source": "Syrian Observer",
-      "url": "https://syrianobserver.com/syrian-actors/can-syria-turn-diplomatic-breakthroughs-into-economic-recovery.html",
-      "published_date": "2026-11-04T21:01:43+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Tom Barrack Meets Alawite Figures on Syria’s Coast to Discuss Rights, Security, and Economic Conditions",
-      "source": "Syrian Observer",
-      "url": "https://syrianobserver.com/syrian-actors/tom-barrack-meets-alawite-figures-on-syrias-coast-to-discuss-rights-security-and-economic-conditions.html",
-      "published_date": "2026-11-04T21:00:31+00:00",
       "category": "Economy"
     },
     {
@@ -162,13 +141,6 @@
       "source": "The Guardian",
       "url": "https://www.theguardian.com/film/2026/nov/05/syrian-family-10-year-journey-one-in-a-million-itab-azzam-and-jack-macinnes",
       "published_date": "2026-11-05T11:39:48+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "What Will Become of Turkey’s Military Bases and Observation Posts in Syria?",
-      "source": "Syrian Observer",
-      "url": "https://syrianobserver.com/foreign-actors/what-will-become-of-turkeys-military-bases-and-observation-posts-in-syria.html",
-      "published_date": "2026-11-04T21:00:38+00:00",
       "category": "Local Events"
     }
   ]
