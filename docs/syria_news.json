@@ -1,7 +1,7 @@
 {
   "country": "Syria",
-  "last_updated": "2026-11-12T18:39:59.835161+00:00",
-  "story_count": 18,
+  "last_updated": "2026-11-13T02:59:26.452550+00:00",
+  "story_count": 16,
   "stories": [
     {
       "title": "Syria condemns Houthi militia attacks on facilities in Saudi capital Riyadh",
@@ -32,13 +32,6 @@
       "category": "Military"
     },
     {
-      "title": "Hoax bomb threats force emergency landings, evacuations across Europe",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/5/hoax-bomb-threats-force-emergency-landings-evacuations-across-europe?traffic_source=rss",
-      "published_date": "2026-11-05T21:26:21+00:00",
-      "category": "Military"
-    },
-    {
       "title": "Türkiye says energy security depends on safe shipping routes amid Middle East tensions",
       "source": "SANA",
       "url": "https://sana.sy/en/economic/2357124/",
@@ -60,11 +53,11 @@
       "category": "Economy"
     },
     {
-      "title": "Unemployment, Poverty and Rising Prices: Syrians’ Top Concerns in a New Survey",
-      "source": "Syrian Observer",
-      "url": "https://syrianobserver.com/society/unemployment-poverty-and-rising-prices-syrians-top-concerns-in-a-new-survey.html",
-      "published_date": "2026-11-05T21:01:14+00:00",
-      "category": "Economy"
+      "title": "Russian court jails rights lawyer for 12 years on treason charge",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/11/12/russian-court-jails-rights-lawyer-for-12-years-on-treason-charge?traffic_source=rss",
+      "published_date": "2026-11-12T23:18:50+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Shots rang out. I hid behind a car. Then I wrestled the gun from the Bondi beach shooter",
@@ -120,13 +113,6 @@
       "source": "SANA",
       "url": "https://sana.sy/en/presidency/2357114/",
       "published_date": "2026-11-08T11:20:46+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "After the Democrats’ Win… Will Washington’s Policy Toward Damascus Change?",
-      "source": "Syrian Observer",
-      "url": "https://syrianobserver.com/foreign-actors/after-the-democrats-win-will-washingtons-policy-toward-damascus-change.html",
-      "published_date": "2026-11-05T21:00:04+00:00",
       "category": "Local Events"
     }
   ]
